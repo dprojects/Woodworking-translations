@@ -1,3 +1,7 @@
+# 0.21
+
+This repository is dedicated only for Woodworking workbench version [0.21 stable](https://github.com/dprojects/Woodworking/releases/tag/0.21).
+
 # Rules for translation community
 
 * Please create pull request with *.ts and *.qm files. You have to add *.ts file as well for further translation development and updates.
