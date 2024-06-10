@@ -1,7 +1,8 @@
 # 0.22
 
 This repository is dedicated only for Woodworking workbench version 0.22 stable but currently is used for [development](https://github.com/dprojects/Woodworking). 
-**Note:** Plase don't add translations here because Woodworking workbench version 0.22 stable is not available yet, so the code will change and your translations will not be valid.
+
+**Note:** Please don't add translations here because Woodworking workbench version 0.22 stable is not available yet, so the code will change and your translations will not be valid.
 
 # Rules for translation community
 
