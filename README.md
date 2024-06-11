@@ -2,31 +2,10 @@
 
 This repository is dedicated only for Woodworking workbench version [0.21 stable](https://github.com/dprojects/Woodworking/releases/tag/0.21).
 
-# Rules for translation community
-
-* Please create pull request with *.ts and *.qm files. You have to add *.ts file as well for further translation development and updates.
-* To add translation select exact branch. For example if you want add translation for Woodworking workbench 0.21 version you have to open pull request at 0.21 branch.
-* You should add translations only for [stable releases](https://github.com/dprojects/Woodworking/releases) because the code will not change.
-
 # How to create translation
 
-You can create your own `Woodworking` workbench translation with the following steps:
-
-* Generate `.ts` file. At `Xubuntu 22.04 LTS` in `Woodworking` directory:
-	
-	```
-	pylupdate5 `find . -name "*.py"` -ts translations/pyfiles.ts
-	```
-	
-* Rename `pyfiles.ts` e.g.:
-
-	```
-	mv ./translations/pyfiles.ts ./translations/Woodworking_pl.ts
-	```
-	
-	**Note:** Replace `pl` with your language code.
-	
-* Make translations of the `.ts` file. You can also use editor for that.
+1. Download exact `.ts` file.
+2. Make translations of the `.ts` file. You can use any editor for that.
 
 	* For example this entry below:
 	```
@@ -39,11 +18,8 @@ You can create your own `Woodworking` workbench translation with the following s
 	<translation>Krok 2. Własne ustawienia CSS dla komórki:</translation>
 	```
 
-* Generate `.qm` files:
-	
-	```
-	sudo apt-get install qttools5-dev-tools
-	/usr/lib/x86_64-linux-gnu/qt5/bin/lrelease ./translations/Woodworking_pl.ts
-	```
+	**Note:** Do not change the string between `<source>` and `</source>`, only the translation.
 
-* Set your language at FreeCAD preferences.
+3. Create pull request with your new `.ts` file.
+
+	**Note:** Please do not add `.qm` file, because the `.ts` file need to be verified and after accepting pull request I will recreate the `.qm` file.
