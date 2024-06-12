@@ -2,7 +2,7 @@
 
 This repository is dedicated only for Woodworking workbench version 0.22 stable.
 
-**Note:** Currently this version is not available so it is used only for [development](https://github.com/dprojects/Woodworking) master branch testing purposes. Please do not add translations here because the code will change and your translations will not be valid.
+**Note:** Currently this version is not available so it is used only for [development](https://github.com/dprojects/Woodworking) master branch testing purposes. For testing purposes you can change `version` inside `package.xml` file from `0.21.2.33771` to `0.22.2.33771` and choose drop down menu `Woodworking -> Download and update all translations`. Please do not add translations here because the code will change and your translations will not be valid.
 
 # How to create translation
 
