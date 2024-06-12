@@ -2,6 +2,19 @@
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
+    <name>AUTOUPDATE</name>
+    <message>
+        <location filename="../loadMenu.py" line="227"/>
+        <source>Download and update all macro tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="228"/>
+        <source>Download latest versions for all macro tools.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>App::Property</name>
     <message>
         <location filename="../Tools/MagicPanels/MagicPanels.py" line="4846"/>
@@ -23,10 +36,36 @@
     </message>
 </context>
 <context>
-    <name>Workbench</name>
+    <name>DOCS</name>
     <message>
         <location filename="../loadMenu.py" line="20"/>
         <source>Woodworking at FreeCAD - woodworking workbench documentation</source>
+        <translation type="finished">Praca w drewnie we FreeCAD - dokumentacja</translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="21"/>
+        <source>Opens web browser with external link.</source>
+        <translation type="finished">Otwiera stronę w przeglądarce.</translation>
+    </message>
+</context>
+<context>
+    <name>DOCSgetDimensions</name>
+    <message>
+        <location filename="../loadMenu.py" line="112"/>
+        <source>Tool documentation - getDimensions, cut-list, BOM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="113"/>
+        <source>Opens web browser with external link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DOCSscanObjects</name>
+    <message>
+        <location filename="../loadMenu.py" line="181"/>
+        <source>Tool documentation - scanObjects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -34,59 +73,95 @@
         <source>Opens web browser with external link.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../loadMenu.py" line="43"/>
-        <source>Woodworking at FreeCAD - fully parametric examples</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../loadMenu.py" line="66"/>
-        <source>Woodworking at FreeCAD - fixture examples</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../loadMenu.py" line="89"/>
-        <source>Woodworking at FreeCAD - free woodworking textures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../loadMenu.py" line="112"/>
-        <source>Tool documentation - getDimensions, cut-list, BOM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../loadMenu.py" line="135"/>
-        <source>Tool documentation - sheet2export</source>
-        <translation type="unfinished"></translation>
-    </message>
+</context>
+<context>
+    <name>DOCSsetTextures</name>
     <message>
         <location filename="../loadMenu.py" line="158"/>
         <source>Tool documentation - setTextures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../loadMenu.py" line="181"/>
-        <source>Tool documentation - scanObjects</source>
+        <location filename="../loadMenu.py" line="159"/>
+        <source>Opens web browser with external link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DOCSsheet2export</name>
+    <message>
+        <location filename="../loadMenu.py" line="135"/>
+        <source>Tool documentation - sheet2export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../loadMenu.py" line="227"/>
-        <source>Download and update all macro tools</source>
+        <location filename="../loadMenu.py" line="136"/>
+        <source>Opens web browser with external link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EXAMPLES</name>
+    <message>
+        <location filename="../loadMenu.py" line="43"/>
+        <source>Woodworking at FreeCAD - fully parametric examples</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../loadMenu.py" line="228"/>
-        <source>Download latest versions for all macro tools.</source>
+        <location filename="../loadMenu.py" line="44"/>
+        <source>Opens web browser with external link.</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>FIXTURE</name>
+    <message>
+        <location filename="../loadMenu.py" line="66"/>
+        <source>Woodworking at FreeCAD - fixture examples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="67"/>
+        <source>Opens web browser with external link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TEXTURES</name>
+    <message>
+        <location filename="../loadMenu.py" line="89"/>
+        <source>Woodworking at FreeCAD - free woodworking textures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="90"/>
+        <source>Opens web browser with external link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TRANSLATION</name>
+    <message>
+        <location filename="../loadMenu.py" line="295"/>
+        <source>Download and update all translations</source>
+        <translation type="finished">Pobierz i zaktualizuj wszystkie tłumaczenia</translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="296"/>
+        <source>Download latest versions for all translations.</source>
+        <translation type="finished">Pobiera najnowsze wersje tłumaczeń.</translation>
+    </message>
+</context>
+<context>
+    <name>Workbench</name>
     <message>
         <location filename="../InitGui.py" line="102"/>
         <source>Woodworking</source>
-        <translation type="unfinished">Woodworking 0.22 TEST</translation>
+        <translation type="finished">Praca w drewnie</translation>
     </message>
     <message>
         <location filename="../InitGui.py" line="16"/>
-        <source>Workbech for woodworking.</source>
+        <source>Workbench for woodworking.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -186,6 +261,19 @@
     </message>
 </context>
 <context>
+    <name>align2Curve</name>
+    <message>
+        <location filename="../loadTools.py" line="2750"/>
+        <source>align panel to curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="2751"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>align2CurveInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/align2Curve.py" line="188"/>
@@ -194,26 +282,15 @@
     </message>
 </context>
 <context>
-    <name>align2CurveMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="2750"/>
-        <source>align panel to curve</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>align2CurveToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="2751"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>colorManager</name>
     <message>
         <location filename="../Tools/colorManager.py" line="78"/>
         <source>colorManager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="216"/>
+        <source>Allows to set face colors for all objects from spreadsheet. Also you can browse colors for manually selected face, object or many faces or objects and see the effect at 3D model in real-time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -268,18 +345,15 @@
     </message>
 </context>
 <context>
-    <name>colorManagerMenuText</name>
+    <name>cornerBlock</name>
     <message>
-        <location filename="../loadTools.py" line="215"/>
-        <source>colorManager</source>
+        <location filename="../loadTools.py" line="4154"/>
+        <source>table corner block</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>colorManagerToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="216"/>
-        <source>Allows to set face colors for all objects from spreadsheet. Also you can browse colors for manually selected face, object or many faces or objects and see the effect at 3D model in real-time.</source>
+        <location filename="../loadTools.py" line="4155"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -292,17 +366,14 @@
     </message>
 </context>
 <context>
-    <name>cornerBlockMenuText</name>
+    <name>cornerBrace</name>
     <message>
-        <location filename="../loadTools.py" line="4154"/>
-        <source>table corner block</source>
+        <location filename="../loadTools.py" line="4193"/>
+        <source>table corner brace</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cornerBlockToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="4155"/>
+        <location filename="../loadTools.py" line="4194"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -316,17 +387,14 @@
     </message>
 </context>
 <context>
-    <name>cornerBraceMenuText</name>
+    <name>cutDowels</name>
     <message>
-        <location filename="../loadTools.py" line="4193"/>
-        <source>table corner brace</source>
+        <location filename="../loadTools.py" line="1034"/>
+        <source>cut dowels from panel</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cornerBraceToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="4194"/>
+        <location filename="../loadTools.py" line="1035"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -340,17 +408,14 @@
     </message>
 </context>
 <context>
-    <name>cutDowelsMenuText</name>
+    <name>cutTenons</name>
     <message>
-        <location filename="../loadTools.py" line="1034"/>
-        <source>cut dowels from panel</source>
+        <location filename="../loadTools.py" line="1502"/>
+        <source>cut all tenons from panel</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cutDowelsToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1035"/>
+        <location filename="../loadTools.py" line="1503"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -364,31 +429,20 @@
     </message>
 </context>
 <context>
-    <name>cutTenonsMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1502"/>
-        <source>cut all tenons from panel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>cutTenonsToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1503"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>debugInfo</name>
-    <message>
-        <location filename="../Tools/debugInfo.py" line="286"/>
-        <source>This FreeCAD version is too buggy to get debug information.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../Tools/debugInfo.py" line="329"/>
         <source>debugInfo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="645"/>
+        <source>Copy platform details to clipboard for bug report purposes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/debugInfo.py" line="286"/>
+        <source>This FreeCAD version is too buggy to get debug information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -475,7 +529,7 @@
     </message>
     <message>
         <location filename="../Tools/debugInfo.py" line="566"/>
-        <source>Disable old workbech...</source>
+        <source>Disable old workbench...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -505,23 +559,17 @@
     </message>
 </context>
 <context>
-    <name>debugInfoMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="644"/>
-        <source>debugInfo</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>debugInfoToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="645"/>
-        <source>Copy platform details to clipboard for bug report purposes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>drillCounterbores</name>
+    <message>
+        <location filename="../loadTools.py" line="917"/>
+        <source>drill bit, drill counterbores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="918"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/drillCounterbores.py" line="51"/>
         <source>&lt;b&gt;Please select face to create drill bit. Or please select face and next drill bits to drill holes at selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This is drill bit to make counterbore with hole. The hole will be drilled below the bottom part of the drill bit, below the red face. The radius of the hole will be drill bit Radius1. The radius of counterbore will be drill bit Radius2. The hole depth will be drill bit Height. If you select face only, the drill bit will be created in the corner of the face (0 vertex), allowing you to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected should be face, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
@@ -531,45 +579,33 @@
 <context>
     <name>drillCounterbores2x</name>
     <message>
+        <location filename="../loadTools.py" line="956"/>
+        <source>drill bit, drill counterbores from both sides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="957"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../Tools/MagicPanels/drillCounterbores2x.py" line="51"/>
         <source>&lt;b&gt;Please select face to create drill bit. Or please select face and next drill bits to drill holes at selected face from both sides of the panel. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This is drill bit to make counterbore2x with hole. The hole will be drilled below the bottom part of the drill bit, below the red face. The radius of the hole will be drill bit Radius1. The radius of counterbore will be drill bit Radius2. The hole depth will be panel thickness. The counterbore depth will be drill bit Height. If you select face only, the drill bit will be created in the corner of the face (0 vertex), allowing you to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected should be face, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>drillCounterbores2xMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="956"/>
-        <source>drill bit, drill counterbores from both sides</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>drillCounterbores2xToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="957"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>drillCounterboresMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="917"/>
-        <source>drill bit, drill counterbores</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>drillCounterboresToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="918"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>drillCountersinks</name>
+    <message>
+        <location filename="../loadTools.py" line="878"/>
+        <source>drill bit, drill countersinks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="879"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/drillCountersinks.py" line="51"/>
         <source>&lt;b&gt;Please select face to create drill bit. Or please select face and next drill bits to drill holes at selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This is drill bit to make countersink with hole. The hole will be drilled below the bottom part of the drill bit, below the red face. The radius of the hole will be drill bit Radius1. The radius of countersink will be drill bit Radius2. The hole depth will be drill bit Height. If you select face only, the drill bit will be created in the corner of the face (0 vertex), allowing you to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected should be face, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
@@ -577,23 +613,17 @@
     </message>
 </context>
 <context>
-    <name>drillCountersinksMenuText</name>
+    <name>drillHoles</name>
     <message>
-        <location filename="../loadTools.py" line="878"/>
-        <source>drill bit, drill countersinks</source>
+        <location filename="../loadTools.py" line="839"/>
+        <source>drill bit, drill simple holes</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>drillCountersinksToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="879"/>
+        <location filename="../loadTools.py" line="840"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>drillHoles</name>
     <message>
         <location filename="../Tools/MagicPanels/drillHoles.py" line="50"/>
         <source>&lt;b&gt;Please select face to create drill bit. Or please select face and next drill bits to drill holes at selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This is drill bit to make simple hole. The hole will be drilled below the bottom part of the drill bit, below the red face of the cylinder. The radius and depth of the hole will be the same as drill bit radius and height. You can resize the drill bit if you want. If you select face only, the drill bit will be created in the corner of the face (0 vertex). So, you will be able to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face to get exact hole depth. If you select face and than any amount of drill bits, the holes will be drilled below each drill bit. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
@@ -601,23 +631,17 @@
     </message>
 </context>
 <context>
-    <name>drillHolesMenuText</name>
+    <name>edge2dowel</name>
     <message>
-        <location filename="../loadTools.py" line="839"/>
-        <source>drill bit, drill simple holes</source>
+        <location filename="../loadTools.py" line="1190"/>
+        <source>dowel from edge hole</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>drillHolesToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="840"/>
+        <location filename="../loadTools.py" line="1191"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>edge2dowel</name>
     <message>
         <location filename="../Tools/MagicPanels/edge2dowel.py" line="43"/>
         <source>&lt;b&gt;Please select valid edge of the hole to create dowel. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create dowels above the selected hole edges. To create dowel select edge of the hole. You can select many edges at once but all the holes need to be at the same object. The dowel Height will be 40. The dowel radius will be get from the selected edge hole radius. To select more objects hold left CTRL key during selection.</source>
@@ -625,23 +649,17 @@
     </message>
 </context>
 <context>
-    <name>edge2dowelMenuText</name>
+    <name>edge2drillbit</name>
     <message>
-        <location filename="../loadTools.py" line="1190"/>
-        <source>dowel from edge hole</source>
+        <location filename="../loadTools.py" line="995"/>
+        <source>drill bit from edge hole</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>edge2dowelToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1191"/>
+        <location filename="../loadTools.py" line="996"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>edge2drillbit</name>
     <message>
         <location filename="../Tools/MagicPanels/edge2drillbit.py" line="46"/>
         <source>&lt;b&gt;Please select valid edge to create drill bit. This feature can be used to create drill bits above holes at hinges, angles or other fixture type. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create drill bits for making simple hole. The drill bits will be created above the selected hole edges. To create drill bits select edge of the hole. You can select many edges at once but all the holes need to be at the same object. The drill bit Height will be 16. The drill bits radius will be get from the selected edge hole radius but will be little smaller, 1 mm, than the hole to make pilot hole. To select more objects hold left CTRL key during selection.</source>
@@ -649,17 +667,14 @@
     </message>
 </context>
 <context>
-    <name>edge2drillbitMenuText</name>
+    <name>fitModel</name>
     <message>
-        <location filename="../loadTools.py" line="995"/>
-        <source>drill bit from edge hole</source>
+        <location filename="../loadTools.py" line="1775"/>
+        <source>fitModel</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>edge2drillbitToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="996"/>
+        <location filename="../loadTools.py" line="1776"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -673,23 +688,17 @@
     </message>
 </context>
 <context>
-    <name>fitModelMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1775"/>
-        <source>fitModel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>fitModelToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1776"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>getDimensions</name>
+    <message>
+        <location filename="../loadTools.py" line="20"/>
+        <source>getDimensions, BOM, cutlist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="21"/>
+        <source>Creates spreadsheet with dimensions to cut.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/getDimensions.py" line="34"/>
         <source>English language</source>
@@ -932,18 +941,15 @@
     </message>
 </context>
 <context>
-    <name>getDimensionsMenuText</name>
+    <name>grainH</name>
     <message>
-        <location filename="../loadTools.py" line="20"/>
-        <source>getDimensions, BOM, cutlist</source>
+        <location filename="../loadTools.py" line="1541"/>
+        <source>grain direction marker, horizontal</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>getDimensionsToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="21"/>
-        <source>Creates spreadsheet with dimensions to cut.</source>
+        <location filename="../loadTools.py" line="1542"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -956,17 +962,14 @@
     </message>
 </context>
 <context>
-    <name>grainHMenuText</name>
+    <name>grainV</name>
     <message>
-        <location filename="../loadTools.py" line="1541"/>
-        <source>grain direction marker, horizontal</source>
+        <location filename="../loadTools.py" line="1580"/>
+        <source>grain direction marker, vertical</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>grainHToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1542"/>
+        <location filename="../loadTools.py" line="1581"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -980,17 +983,14 @@
     </message>
 </context>
 <context>
-    <name>grainVMenuText</name>
+    <name>grainX</name>
     <message>
-        <location filename="../loadTools.py" line="1580"/>
-        <source>grain direction marker, vertical</source>
+        <location filename="../loadTools.py" line="1619"/>
+        <source>grain direction marker, no grain</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>grainVToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1581"/>
+        <location filename="../loadTools.py" line="1620"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1004,23 +1004,17 @@
     </message>
 </context>
 <context>
-    <name>grainXMenuText</name>
+    <name>jointCustom</name>
     <message>
-        <location filename="../loadTools.py" line="1619"/>
-        <source>grain direction marker, no grain</source>
+        <location filename="../loadTools.py" line="1424"/>
+        <source>joint, Custom</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>grainXToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1620"/>
+        <location filename="../loadTools.py" line="1425"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>jointCustom</name>
     <message>
         <location filename="../Tools/MagicPanels/jointCustom.py" line="38"/>
         <source>&lt;b&gt;Please select face to create Custom joint at the selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; The simple Pad will be created in the corner of the selected face (0 vertex), allowing you to move the joint precisely to any place at the face. It has predefined size but you can resize and move the joint to fit to your elements and needs. Also you can edit the Sketch to create your custom joint shape. For example if you set all joints at the element, you can quickly cut all Mortises for the joints with magicCut.</source>
@@ -1028,17 +1022,14 @@
     </message>
 </context>
 <context>
-    <name>jointCustomMenuText</name>
+    <name>jointTenon</name>
     <message>
-        <location filename="../loadTools.py" line="1424"/>
-        <source>joint, Custom</source>
+        <location filename="../loadTools.py" line="1385"/>
+        <source>joint, Tenon</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>jointCustomToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1425"/>
+        <location filename="../loadTools.py" line="1386"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1052,31 +1043,20 @@
     </message>
 </context>
 <context>
-    <name>jointTenonMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1385"/>
-        <source>joint, Tenon</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>jointTenonToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1386"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicAngle</name>
-    <message>
-        <location filename="../Tools/x_magicAngle.py" line="57"/>
-        <source>select panel to rotate</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicAngle.py" line="76"/>
         <source>magicAngle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="606"/>
+        <source>Allows to rotate panels and even other more complicated objects, like construction profiles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/x_magicAngle.py" line="57"/>
+        <source>select panel to rotate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1126,23 +1106,17 @@
     </message>
 </context>
 <context>
-    <name>magicAngleMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="605"/>
-        <source>magicAngle</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicAngleToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="606"/>
-        <source>Allows to rotate panels and even other more complicated objects, like construction profiles.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicCNC</name>
+    <message>
+        <location filename="../loadTools.py" line="488"/>
+        <source>magicCNC, drill bit move machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="489"/>
+        <source>This tool allows to move drill bit at the selected face and drill holes.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicCNC.py" line="33"/>
         <source>select face to drill and drill bit</source>
@@ -1210,18 +1184,15 @@
     </message>
 </context>
 <context>
-    <name>magicCNCMenuText</name>
+    <name>magicCorner</name>
     <message>
-        <location filename="../loadTools.py" line="488"/>
-        <source>magicCNC, drill bit move machine</source>
+        <location filename="../loadTools.py" line="1658"/>
+        <source>create corner connection</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>magicCNCToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="489"/>
-        <source>This tool allows to move drill bit at the selected face and drill holes.</source>
+        <location filename="../loadTools.py" line="1659"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1234,26 +1205,33 @@
     </message>
 </context>
 <context>
-    <name>magicCornerMenuText</name>
+    <name>magicCut</name>
     <message>
-        <location filename="../loadTools.py" line="1658"/>
-        <source>create corner connection</source>
+        <location filename="../loadTools.py" line="1229"/>
+        <source>single panel cut by many knives with copies</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>magicCornerToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1659"/>
+        <location filename="../loadTools.py" line="1230"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>magicCut</name>
     <message>
         <location filename="../Tools/MagicPanels/magicCut.py" line="20"/>
         <source>&lt;b&gt;Please select the base object to cut and next the objects that will cut the base element. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool make multi boolean cut operation at selected objects. First object should be the base object to cut. All other selected objects will cut the base 1st selected object. To select more objects hold left CTRL key during selection. During this process only the copies will be used to cut, so the original objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. If you are looking for parametric Boolean Cut operation you may consider magicCutLinks instead.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>magicCutLinks</name>
+    <message>
+        <location filename="../loadTools.py" line="1268"/>
+        <source>single panel cut by many knives with links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1269"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1266,47 +1244,20 @@
     </message>
 </context>
 <context>
-    <name>magicCutLinksMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1268"/>
-        <source>single panel cut by many knives with links</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicCutLinksToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1269"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicCutMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1229"/>
-        <source>single panel cut by many knives with copies</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicCutToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1230"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicDowels</name>
-    <message>
-        <location filename="../Tools/MagicPanels/magicDowels.py" line="62"/>
-        <source>please select face</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicDowels.py" line="96"/>
         <source>magicDowels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="411"/>
+        <source>Allows to add mounting points to the furniture. For example you can easily add screws, dowels, shelf supporter pins or custom mounting points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/magicDowels.py" line="62"/>
+        <source>please select face</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1426,31 +1377,20 @@
     </message>
 </context>
 <context>
-    <name>magicDowelsMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="410"/>
-        <source>magicDowels</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicDowelsToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="411"/>
-        <source>Allows to add mounting points to the furniture. For example you can easily add screws, dowels, shelf supporter pins or custom mounting points.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicDriller</name>
-    <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="69"/>
-        <source>please select face</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicDriller.py" line="103"/>
         <source>magicDriller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="450"/>
+        <source>Allows to drill holes, countersinks or counterbores in a series with predefined or custom sequences.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="69"/>
+        <source>please select face</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1535,31 +1475,20 @@
     </message>
 </context>
 <context>
-    <name>magicDrillerMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="449"/>
-        <source>magicDriller</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicDrillerToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="450"/>
-        <source>Allows to drill holes, countersinks or counterbores in a series with predefined or custom sequences.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicFixture</name>
-    <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="50"/>
-        <source>please select fixture object and face</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicFixture.py" line="84"/>
         <source>magicFixture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="528"/>
+        <source>Allows to add any type of detailed fixture to the furniture. You can create Link to the realistic looking part or Clone it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="50"/>
+        <source>please select fixture object and face</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1629,23 +1558,17 @@
     </message>
 </context>
 <context>
-    <name>magicFixtureMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="527"/>
-        <source>magicFixture</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicFixtureToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="528"/>
-        <source>Allows to add any type of detailed fixture to the furniture. You can create Link to the realistic looking part or Clone it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicJoints</name>
+    <message>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="101"/>
+        <source>magicJoints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="567"/>
+        <source>Allows to move, copy joint Sketch pattern and create Mortise and Tenon.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicJoints.py" line="65"/>
         <source>1. select Sketch pattern</source>
@@ -1659,11 +1582,6 @@
     <message>
         <location filename="../Tools/MagicPanels/magicJoints.py" line="67"/>
         <source>3. select face for Mortise</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="101"/>
-        <source>magicJoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1743,26 +1661,33 @@
     </message>
 </context>
 <context>
-    <name>magicJointsMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="566"/>
-        <source>magicJoints</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicJointsToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="567"/>
-        <source>Allows to move, copy joint Sketch pattern and create Mortise and Tenon.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicKnife</name>
+    <message>
+        <location filename="../loadTools.py" line="1307"/>
+        <source>single knife cut many panels with copies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1308"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicKnife.py" line="49"/>
         <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is opposite for magicCut tool. This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the copies of knife are used, so the original knife objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. If you are looking for parametric Boolean Cut operation you may consider magicKnifeLinks instead.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>magicKnifeLinks</name>
+    <message>
+        <location filename="../loadTools.py" line="1346"/>
+        <source>single knife cut many panels with links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1347"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1775,39 +1700,17 @@
     </message>
 </context>
 <context>
-    <name>magicKnifeLinksMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1346"/>
-        <source>single knife cut many panels with links</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicKnifeLinksToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1347"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicKnifeMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1307"/>
-        <source>single knife cut many panels with copies</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicKnifeToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1308"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicManager</name>
+    <message>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="183"/>
+        <source>magicManager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="372"/>
+        <source>If you have problem with unexpected result of Magic Panels, you can use this tool to preview panel before creation. It may take more time to create panel, but you can select exact panel to apply, also the edge and vertex position. This tool allows to create panel at selected face or between two faces.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicManager.py" line="142"/>
         <source>Reading vertices: OFF</source>
@@ -1826,11 +1729,6 @@
     <message>
         <location filename="../Tools/MagicPanels/magicManager.py" line="148"/>
         <source>Please select vertices in correct order to create shape. First selected vertex is automatically added to the end to close the wire.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="183"/>
-        <source>magicManager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1895,26 +1793,15 @@
     </message>
 </context>
 <context>
-    <name>magicManagerMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="371"/>
-        <source>magicManager</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicManagerToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="372"/>
-        <source>If you have problem with unexpected result of Magic Panels, you can use this tool to preview panel before creation. It may take more time to create panel, but you can select exact panel to apply, also the edge and vertex position. This tool allows to create panel at selected face or between two faces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicMeasure</name>
     <message>
         <location filename="../Tools/MagicPanels/magicMeasure.py" line="453"/>
         <source>magicMeasure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1737"/>
+        <source>Quick measurement preview on hover or by selection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1939,23 +1826,17 @@
     </message>
 </context>
 <context>
-    <name>magicMeasureMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1736"/>
-        <source>magicMeasure</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicMeasureToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1737"/>
-        <source>Quick measurement preview on hover or by selection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicMove</name>
+    <message>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="107"/>
+        <source>magicMove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="333"/>
+        <source>If you have problem with unexpected result of panel movements via dedicated icons, you can use this tool to precisely move panel into desired direction. This tool allow to turn off and on axis cross and resize corner cross size.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicMove.py" line="25"/>
         <source>Move along X:</source>
@@ -2037,11 +1918,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="107"/>
-        <source>magicMove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../Tools/MagicPanels/magicMove.py" line="127"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
@@ -2083,23 +1959,17 @@
     </message>
 </context>
 <context>
-    <name>magicMoveMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="332"/>
-        <source>magicMove</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicMoveToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="333"/>
-        <source>If you have problem with unexpected result of panel movements via dedicated icons, you can use this tool to precisely move panel into desired direction. This tool allow to turn off and on axis cross and resize corner cross size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>magicResizer</name>
+    <message>
+        <location filename="../loadTools.py" line="2828"/>
+        <source>magicResizer, smart resizer tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="2829"/>
+        <source>This tool allows to resize object via selected edge or to the nearest face of other object.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/magicResizer.py" line="36"/>
         <source>select edge to resize</source>
@@ -2132,31 +2002,12 @@
     </message>
 </context>
 <context>
-    <name>magicResizerMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="2828"/>
-        <source>magicResizer, smart resizer tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>magicResizerToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="2829"/>
-        <source>This tool allows to resize object via selected edge or to the nearest face of other object.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>makeTransparentMenuText</name>
+    <name>makeTransparent</name>
     <message>
         <location filename="../loadTools.py" line="176"/>
         <source>transparent or normal mode</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>makeTransparentToolTip</name>
     <message>
         <location filename="../loadTools.py" line="177"/>
         <source>Make all parts transparent, so you can see all the joints, pilot holes, screws, countersinks. If you click next one all parts will back to normal. The transparent default is 83, so do not set any part to this number if you want e.g. to keep glass part of the furniture transparent after this preview.</source>
@@ -2180,9 +2031,44 @@
         <source>Macro tools - autoupdate</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../loadMenu.py" line="312"/>
+        <source>Error during getting FreeCAD supported locales.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="318"/>
+        <source>Error during getting workbench version from package.xml.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="328"/>
+        <source>Updated translations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="334"/>
+        <source>Not available translations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadMenu.py" line="340"/>
+        <source>Translations - autoupdate</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>mapPosition</name>
+    <message>
+        <location filename="../loadTools.py" line="2789"/>
+        <source>move to 1st selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="2790"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/mapPosition.py" line="116"/>
         <source>&lt;b&gt;First select object to copy position, next select objects to move. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to move objects to the same position as first selected object. The objects will be moved without rotation. Only the placement will change. If the first selected object is rotated the objects may not match exactly the starting point. This tool is very useful if you want to redesign furniture and you want to create new element. Using this tool you can quickly move the new element to the same position of old element and remove the old element. To select more objects hold left CTRL key during selection. With this tool you can also move Cylinders and Sketches more precisely. If first you select Edge or Face the Cylinders or Sketches will be moved to the CenterOfMass. If first you select Vertex the Cylinders or Sketches will be moved to the selected Vertex position.</source>
@@ -2190,31 +2076,25 @@
     </message>
 </context>
 <context>
-    <name>mapPositionMenuText</name>
+    <name>multiPocket</name>
     <message>
-        <location filename="../loadTools.py" line="2789"/>
-        <source>move to 1st selected</source>
+        <location filename="../loadTools.py" line="3842"/>
+        <source>multi Sketch to Pocket, thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>mapPositionToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="2790"/>
+        <location filename="../loadTools.py" line="3843"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>multiPocket2MenuText</name>
+    <name>multiPocket2</name>
     <message>
         <location filename="../loadTools.py" line="3881"/>
         <source>multi Sketch to Pocket, 1/2 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>multiPocket2ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3882"/>
         <source>Click to see info.</source>
@@ -2222,15 +2102,12 @@
     </message>
 </context>
 <context>
-    <name>multiPocket4MenuText</name>
+    <name>multiPocket4</name>
     <message>
         <location filename="../loadTools.py" line="3920"/>
         <source>multi Sketch to Pocket, 1/4 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>multiPocket4ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3921"/>
         <source>Click to see info.</source>
@@ -2238,17 +2115,27 @@
     </message>
 </context>
 <context>
-    <name>multiPocketMenuText</name>
+    <name>panel2angle</name>
     <message>
-        <location filename="../loadTools.py" line="3842"/>
-        <source>multi Sketch to Pocket, thickness</source>
+        <location filename="../loadTools.py" line="4076"/>
+        <source>construction angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="4077"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>multiPocketToolTip</name>
+    <name>panel2angle45cut</name>
     <message>
-        <location filename="../loadTools.py" line="3843"/>
+        <location filename="../loadTools.py" line="4115"/>
+        <source>construction angle 45 cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="4116"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2262,22 +2149,6 @@
     </message>
 </context>
 <context>
-    <name>panel2angle45cutMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="4115"/>
-        <source>construction angle 45 cut</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>panel2angle45cutToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="4116"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>panel2angleInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2angle.py" line="172"/>
@@ -2286,17 +2157,14 @@
     </message>
 </context>
 <context>
-    <name>panel2angleMenuText</name>
+    <name>panel2clone</name>
     <message>
-        <location filename="../loadTools.py" line="4076"/>
-        <source>construction angle</source>
+        <location filename="../loadTools.py" line="1112"/>
+        <source>replace with clones</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2angleToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="4077"/>
+        <location filename="../loadTools.py" line="1113"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2320,17 +2188,14 @@
     </message>
 </context>
 <context>
-    <name>panel2cloneMenuText</name>
+    <name>panel2frame</name>
     <message>
-        <location filename="../loadTools.py" line="1112"/>
-        <source>replace with clones</source>
+        <location filename="../loadTools.py" line="1463"/>
+        <source>cubes to frames</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2cloneToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1113"/>
+        <location filename="../loadTools.py" line="1464"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2344,17 +2209,14 @@
     </message>
 </context>
 <context>
-    <name>panel2frameMenuText</name>
+    <name>panel2link</name>
     <message>
-        <location filename="../loadTools.py" line="1463"/>
-        <source>cubes to frames</source>
+        <location filename="../loadTools.py" line="1073"/>
+        <source>replace with links</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2frameToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1464"/>
+        <location filename="../loadTools.py" line="1074"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2378,17 +2240,14 @@
     </message>
 </context>
 <context>
-    <name>panel2linkMenuText</name>
+    <name>panel2pad</name>
     <message>
-        <location filename="../loadTools.py" line="1073"/>
-        <source>replace with links</source>
+        <location filename="../loadTools.py" line="3959"/>
+        <source>cube to pad</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2linkToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1074"/>
+        <location filename="../loadTools.py" line="3960"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2402,17 +2261,14 @@
     </message>
 </context>
 <context>
-    <name>panel2padMenuText</name>
+    <name>panel2profile</name>
     <message>
-        <location filename="../loadTools.py" line="3959"/>
-        <source>cube to pad</source>
+        <location filename="../loadTools.py" line="4037"/>
+        <source>construction profile</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2padToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="3960"/>
+        <location filename="../loadTools.py" line="4038"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2426,17 +2282,14 @@
     </message>
 </context>
 <context>
-    <name>panel2profileMenuText</name>
+    <name>panelBackOut</name>
     <message>
-        <location filename="../loadTools.py" line="4037"/>
-        <source>construction profile</source>
+        <location filename="../loadTools.py" line="3296"/>
+        <source>panel, back, out</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2profileToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="4038"/>
+        <location filename="../loadTools.py" line="3297"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2450,22 +2303,6 @@
     </message>
 </context>
 <context>
-    <name>panelBackOutMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="3296"/>
-        <source>panel, back, out</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>panelBackOutToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="3297"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>panelBetweenInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="201"/>
@@ -2474,15 +2311,12 @@
     </message>
 </context>
 <context>
-    <name>panelBetweenXYMenuText</name>
+    <name>panelBetweenXY</name>
     <message>
         <location filename="../loadTools.py" line="4466"/>
         <source>panel, between, XY</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBetweenXYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4467"/>
         <source>Click to see info.</source>
@@ -2490,15 +2324,12 @@
     </message>
 </context>
 <context>
-    <name>panelBetweenXZMenuText</name>
+    <name>panelBetweenXZ</name>
     <message>
         <location filename="../loadTools.py" line="4544"/>
         <source>panel, between, XZ</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBetweenXZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4545"/>
         <source>Click to see info.</source>
@@ -2506,15 +2337,12 @@
     </message>
 </context>
 <context>
-    <name>panelBetweenYXMenuText</name>
+    <name>panelBetweenYX</name>
     <message>
         <location filename="../loadTools.py" line="4505"/>
         <source>panel, between, YX</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBetweenYXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4506"/>
         <source>Click to see info.</source>
@@ -2522,15 +2350,12 @@
     </message>
 </context>
 <context>
-    <name>panelBetweenYZMenuText</name>
+    <name>panelBetweenYZ</name>
     <message>
         <location filename="../loadTools.py" line="4622"/>
         <source>panel, between, YZ</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBetweenYZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4623"/>
         <source>Click to see info.</source>
@@ -2538,15 +2363,12 @@
     </message>
 </context>
 <context>
-    <name>panelBetweenZXMenuText</name>
+    <name>panelBetweenZX</name>
     <message>
         <location filename="../loadTools.py" line="4583"/>
         <source>panel, between, ZX</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBetweenZXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4584"/>
         <source>Click to see info.</source>
@@ -2554,15 +2376,12 @@
     </message>
 </context>
 <context>
-    <name>panelBetweenZYMenuText</name>
+    <name>panelBetweenZY</name>
     <message>
         <location filename="../loadTools.py" line="4661"/>
         <source>panel, between, ZY</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBetweenZYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4662"/>
         <source>Click to see info.</source>
@@ -2578,15 +2397,12 @@
     </message>
 </context>
 <context>
-    <name>panelCopyXYMenuText</name>
+    <name>panelCopyXY</name>
     <message>
         <location filename="../loadTools.py" line="2165"/>
         <source>copy panel, XY</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCopyXYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2166"/>
         <source>Click to see info.</source>
@@ -2594,15 +2410,12 @@
     </message>
 </context>
 <context>
-    <name>panelCopyXZMenuText</name>
+    <name>panelCopyXZ</name>
     <message>
         <location filename="../loadTools.py" line="2243"/>
         <source>copy panel, XZ</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCopyXZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2244"/>
         <source>Click to see info.</source>
@@ -2610,15 +2423,12 @@
     </message>
 </context>
 <context>
-    <name>panelCopyYXMenuText</name>
+    <name>panelCopyYX</name>
     <message>
         <location filename="../loadTools.py" line="2204"/>
         <source>copy panel, YX</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCopyYXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2205"/>
         <source>Click to see info.</source>
@@ -2626,15 +2436,12 @@
     </message>
 </context>
 <context>
-    <name>panelCopyYZMenuText</name>
+    <name>panelCopyYZ</name>
     <message>
         <location filename="../loadTools.py" line="2321"/>
         <source>copy panel, YZ</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCopyYZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2322"/>
         <source>Click to see info.</source>
@@ -2642,15 +2449,12 @@
     </message>
 </context>
 <context>
-    <name>panelCopyZXMenuText</name>
+    <name>panelCopyZX</name>
     <message>
         <location filename="../loadTools.py" line="2282"/>
         <source>copy panel, ZX</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCopyZXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2283"/>
         <source>Click to see info.</source>
@@ -2658,15 +2462,12 @@
     </message>
 </context>
 <context>
-    <name>panelCopyZYMenuText</name>
+    <name>panelCopyZY</name>
     <message>
         <location filename="../loadTools.py" line="2360"/>
         <source>copy panel, ZY</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCopyZYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2361"/>
         <source>Click to see info.</source>
@@ -2682,15 +2483,12 @@
     </message>
 </context>
 <context>
-    <name>panelCoverXYMenuText</name>
+    <name>panelCoverXY</name>
     <message>
         <location filename="../loadTools.py" line="3335"/>
         <source>panel, top, cover</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelCoverXYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3336"/>
         <source>Click to see info.</source>
@@ -2702,35 +2500,29 @@
     <message>
         <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="67"/>
         <source>&lt;b&gt;To create default panel, first create active document. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates default panel that can be easily resized. You can clearly see where should be the thickness to keep exact panel XYZ axis orientation. All furniture elements should be created according to the XYZ axis plane, if possible. Avoid building whole furniture with rotated elements. If you want to rotate panel with dowels, better create panel with dowels without rotation, pack panel with dowels into LinkGroup, and use magicAngle to rotate whole LinkGroup. You can rotate whole furniture like this with single click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">To jest przykładowy opis.</translation>
     </message>
 </context>
 <context>
-    <name>panelDefaultXYMenuText</name>
+    <name>panelDefaultXY</name>
     <message>
         <location filename="../loadTools.py" line="1931"/>
         <source>panel, XY, 600x300, 18 thickness</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">panel, XY, 600x300, 18 Grubość</translation>
     </message>
-</context>
-<context>
-    <name>panelDefaultXYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="1932"/>
         <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Kliknij żeby zobaczyć opis.</translation>
     </message>
 </context>
 <context>
-    <name>panelDefaultXZMenuText</name>
+    <name>panelDefaultXZ</name>
     <message>
         <location filename="../loadTools.py" line="2009"/>
         <source>panel, XZ, 600x300, 18 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelDefaultXZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2010"/>
         <source>Click to see info.</source>
@@ -2738,15 +2530,12 @@
     </message>
 </context>
 <context>
-    <name>panelDefaultYXMenuText</name>
+    <name>panelDefaultYX</name>
     <message>
         <location filename="../loadTools.py" line="1970"/>
         <source>panel, YX, 300x600, 18 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelDefaultYXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="1971"/>
         <source>Click to see info.</source>
@@ -2754,15 +2543,12 @@
     </message>
 </context>
 <context>
-    <name>panelDefaultYZMenuText</name>
+    <name>panelDefaultYZ</name>
     <message>
         <location filename="../loadTools.py" line="2087"/>
         <source>panel, YZ, 600x300, 18 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelDefaultYZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2088"/>
         <source>Click to see info.</source>
@@ -2770,15 +2556,12 @@
     </message>
 </context>
 <context>
-    <name>panelDefaultZXMenuText</name>
+    <name>panelDefaultZX</name>
     <message>
         <location filename="../loadTools.py" line="2048"/>
         <source>panel, ZX, 300x600, 18 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelDefaultZXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2049"/>
         <source>Click to see info.</source>
@@ -2786,15 +2569,12 @@
     </message>
 </context>
 <context>
-    <name>panelDefaultZYMenuText</name>
+    <name>panelDefaultZY</name>
     <message>
         <location filename="../loadTools.py" line="2126"/>
         <source>panel, ZY, 300x600, 18 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelDefaultZYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2127"/>
         <source>Click to see info.</source>
@@ -2810,15 +2590,12 @@
     </message>
 </context>
 <context>
-    <name>panelFaceXYMenuText</name>
+    <name>panelFaceXY</name>
     <message>
         <location filename="../loadTools.py" line="4232"/>
         <source>copy panel, face, XY</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelFaceXYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4233"/>
         <source>Click to see info.</source>
@@ -2826,15 +2603,12 @@
     </message>
 </context>
 <context>
-    <name>panelFaceXZMenuText</name>
+    <name>panelFaceXZ</name>
     <message>
         <location filename="../loadTools.py" line="4310"/>
         <source>copy panel, face, XZ</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelFaceXZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4311"/>
         <source>Click to see info.</source>
@@ -2842,15 +2616,12 @@
     </message>
 </context>
 <context>
-    <name>panelFaceYXMenuText</name>
+    <name>panelFaceYX</name>
     <message>
         <location filename="../loadTools.py" line="4271"/>
         <source>copy panel, face, YX</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelFaceYXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4272"/>
         <source>Click to see info.</source>
@@ -2858,15 +2629,12 @@
     </message>
 </context>
 <context>
-    <name>panelFaceYZMenuText</name>
+    <name>panelFaceYZ</name>
     <message>
         <location filename="../loadTools.py" line="4388"/>
         <source>copy panel, face, YZ</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelFaceYZToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4389"/>
         <source>Click to see info.</source>
@@ -2874,15 +2642,12 @@
     </message>
 </context>
 <context>
-    <name>panelFaceZXMenuText</name>
+    <name>panelFaceZX</name>
     <message>
         <location filename="../loadTools.py" line="4349"/>
         <source>copy panel, face, ZX</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelFaceZXToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4350"/>
         <source>Click to see info.</source>
@@ -2890,17 +2655,27 @@
     </message>
 </context>
 <context>
-    <name>panelFaceZYMenuText</name>
+    <name>panelFaceZY</name>
     <message>
         <location filename="../loadTools.py" line="4427"/>
         <source>copy panel, face, ZY</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelFaceZYToolTip</name>
     <message>
         <location filename="../loadTools.py" line="4428"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>panelMove2Anchor</name>
+    <message>
+        <location filename="../loadTools.py" line="2711"/>
+        <source>panel, move, to anchor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="2712"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2914,23 +2689,17 @@
     </message>
 </context>
 <context>
-    <name>panelMove2AnchorMenuText</name>
+    <name>panelMove2Center</name>
     <message>
-        <location filename="../loadTools.py" line="2711"/>
-        <source>panel, move, to anchor</source>
+        <location filename="../loadTools.py" line="2672"/>
+        <source>panel, move, to center</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMove2AnchorToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="2712"/>
+        <location filename="../loadTools.py" line="2673"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMove2Center</name>
     <message>
         <location filename="../Tools/MagicPanels/panelMove2Center.py" line="134"/>
         <source>&lt;b&gt;To move object to the center please select single edge of two holes and objects to move. Or select two vertices and objects to move. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to move object to the center of two holes or two vertices. The edge holes or vertices should lie on one of the coordinate axes XYZ. The object can be Cylinder, Cone (dril bit), Cube (panel), Pad or LinkGroup with as many objects you want. If you want to move Pad, select Body. If you want to move many Pads, select Body or pack all Part into LinkGroup and select LinkGroup to move. Make sure you do not have Sketch position set. This tool use .Shape.CenterOfMass but if it is not available for object like it is for LinkGroup the center will be calculated from vertices. You can move to the center many objects at once. Hold left CTRL key during selection. </source>
@@ -2938,17 +2707,14 @@
     </message>
 </context>
 <context>
-    <name>panelMove2CenterMenuText</name>
+    <name>panelMove2Face</name>
     <message>
-        <location filename="../loadTools.py" line="2672"/>
-        <source>panel, move, to center</source>
+        <location filename="../loadTools.py" line="2633"/>
+        <source>panel, move, to face</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMove2CenterToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="2673"/>
+        <location filename="../loadTools.py" line="2634"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2962,22 +2728,6 @@
     </message>
 </context>
 <context>
-    <name>panelMove2FaceMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="2633"/>
-        <source>panel, move, to face</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>panelMove2FaceToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="2634"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>panelMoveInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="445"/>
@@ -2986,15 +2736,12 @@
     </message>
 </context>
 <context>
-    <name>panelMoveXmMenuText</name>
+    <name>panelMoveXm</name>
     <message>
         <location filename="../loadTools.py" line="2438"/>
         <source>panel, move, forward</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMoveXmToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2439"/>
         <source>Click to see info.</source>
@@ -3002,15 +2749,12 @@
     </message>
 </context>
 <context>
-    <name>panelMoveXpMenuText</name>
+    <name>panelMoveXp</name>
     <message>
         <location filename="../loadTools.py" line="2399"/>
         <source>panel, move, back</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMoveXpToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2400"/>
         <source>Click to see info.</source>
@@ -3018,15 +2762,12 @@
     </message>
 </context>
 <context>
-    <name>panelMoveYmMenuText</name>
+    <name>panelMoveYm</name>
     <message>
         <location filename="../loadTools.py" line="2516"/>
         <source>panel, move, left</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMoveYmToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2517"/>
         <source>Click to see info.</source>
@@ -3034,15 +2775,12 @@
     </message>
 </context>
 <context>
-    <name>panelMoveYpMenuText</name>
+    <name>panelMoveYp</name>
     <message>
         <location filename="../loadTools.py" line="2477"/>
         <source>panel, move, right</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMoveYpToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2478"/>
         <source>Click to see info.</source>
@@ -3050,15 +2788,12 @@
     </message>
 </context>
 <context>
-    <name>panelMoveZmMenuText</name>
+    <name>panelMoveZm</name>
     <message>
         <location filename="../loadTools.py" line="2594"/>
         <source>panel, move, down</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMoveZmToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2595"/>
         <source>Click to see info.</source>
@@ -3066,15 +2801,12 @@
     </message>
 </context>
 <context>
-    <name>panelMoveZpMenuText</name>
+    <name>panelMoveZp</name>
     <message>
         <location filename="../loadTools.py" line="2555"/>
         <source>panel, move, up</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMoveZpToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2556"/>
         <source>Click to see info.</source>
@@ -3082,15 +2814,12 @@
     </message>
 </context>
 <context>
-    <name>panelResize1MenuText</name>
+    <name>panelResize1</name>
     <message>
         <location filename="../loadTools.py" line="2906"/>
         <source>panel, bigger, long+</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelResize1ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2907"/>
         <source>Click to see info.</source>
@@ -3098,15 +2827,12 @@
     </message>
 </context>
 <context>
-    <name>panelResize2MenuText</name>
+    <name>panelResize2</name>
     <message>
         <location filename="../loadTools.py" line="2945"/>
         <source>panel, smaller, long-</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelResize2ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2946"/>
         <source>Click to see info.</source>
@@ -3114,15 +2840,12 @@
     </message>
 </context>
 <context>
-    <name>panelResize3MenuText</name>
+    <name>panelResize3</name>
     <message>
         <location filename="../loadTools.py" line="2984"/>
         <source>panel, bigger, short+</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelResize3ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2985"/>
         <source>Click to see info.</source>
@@ -3130,15 +2853,12 @@
     </message>
 </context>
 <context>
-    <name>panelResize4MenuText</name>
+    <name>panelResize4</name>
     <message>
         <location filename="../loadTools.py" line="3023"/>
         <source>panel, smaller, short-</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelResize4ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3024"/>
         <source>Click to see info.</source>
@@ -3146,15 +2866,12 @@
     </message>
 </context>
 <context>
-    <name>panelResize5MenuText</name>
+    <name>panelResize5</name>
     <message>
         <location filename="../loadTools.py" line="3062"/>
         <source>panel, bigger, thickness+</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelResize5ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3063"/>
         <source>Click to see info.</source>
@@ -3162,15 +2879,12 @@
     </message>
 </context>
 <context>
-    <name>panelResize6MenuText</name>
+    <name>panelResize6</name>
     <message>
         <location filename="../loadTools.py" line="3101"/>
         <source>panel, smaller, thickness-</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelResize6ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3102"/>
         <source>Click to see info.</source>
@@ -3194,15 +2908,12 @@
     </message>
 </context>
 <context>
-    <name>panelSideLeftMenuText</name>
+    <name>panelSideLeft</name>
     <message>
         <location filename="../loadTools.py" line="3140"/>
         <source>panel, side, left</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelSideLeftToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3141"/>
         <source>Click to see info.</source>
@@ -3210,15 +2921,12 @@
     </message>
 </context>
 <context>
-    <name>panelSideLeftUPMenuText</name>
+    <name>panelSideLeftUP</name>
     <message>
         <location filename="../loadTools.py" line="3179"/>
         <source>panel, side, left, up</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelSideLeftUPToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3180"/>
         <source>Click to see info.</source>
@@ -3226,15 +2934,12 @@
     </message>
 </context>
 <context>
-    <name>panelSideRightMenuText</name>
+    <name>panelSideRight</name>
     <message>
         <location filename="../loadTools.py" line="3218"/>
         <source>panel, side, right</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelSideRightToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3219"/>
         <source>Click to see info.</source>
@@ -3242,17 +2947,27 @@
     </message>
 </context>
 <context>
-    <name>panelSideRightUPMenuText</name>
+    <name>panelSideRightUP</name>
     <message>
         <location filename="../loadTools.py" line="3257"/>
         <source>panel, side, right, up</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelSideRightUPToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3258"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>roundCurve</name>
+    <message>
+        <location filename="../loadTools.py" line="1892"/>
+        <source>render curve precisely</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1893"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3266,63 +2981,12 @@
     </message>
 </context>
 <context>
-    <name>roundCurveMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1892"/>
-        <source>render curve precisely</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>roundCurveToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1893"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>routerChamfer2MenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="3764"/>
-        <source>edge to chamfer, 1/2 thickness</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>routerChamfer2ToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="3765"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>routerChamfer4MenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="3803"/>
-        <source>edge to chamfer, 1/4 thickness</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>routerChamfer4ToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="3804"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>routerChamferMenuText</name>
+    <name>routerChamfer</name>
     <message>
         <location filename="../loadTools.py" line="3725"/>
         <source>edge to chamfer, thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerChamferToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3726"/>
         <source>Click to see info.</source>
@@ -3330,47 +2994,38 @@
     </message>
 </context>
 <context>
-    <name>routerCove2MenuText</name>
+    <name>routerChamfer2</name>
     <message>
-        <location filename="../loadTools.py" line="3413"/>
-        <source>edge to cove, 1/2 thickness</source>
+        <location filename="../loadTools.py" line="3764"/>
+        <source>edge to chamfer, 1/2 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerCove2ToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="3414"/>
+        <location filename="../loadTools.py" line="3765"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>routerCove4MenuText</name>
+    <name>routerChamfer4</name>
     <message>
-        <location filename="../loadTools.py" line="3452"/>
-        <source>edge to cove, 1/4 thickness</source>
+        <location filename="../loadTools.py" line="3803"/>
+        <source>edge to chamfer, 1/4 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerCove4ToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="3453"/>
+        <location filename="../loadTools.py" line="3804"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>routerCoveMenuText</name>
+    <name>routerCove</name>
     <message>
         <location filename="../loadTools.py" line="3374"/>
         <source>edge to cove, thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerCoveToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3375"/>
         <source>Click to see info.</source>
@@ -3378,47 +3033,38 @@
     </message>
 </context>
 <context>
-    <name>routerRoundOver2MenuText</name>
+    <name>routerCove2</name>
     <message>
-        <location filename="../loadTools.py" line="3530"/>
-        <source>edge to round over, 1/2 thickness</source>
+        <location filename="../loadTools.py" line="3413"/>
+        <source>edge to cove, 1/2 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerRoundOver2ToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="3531"/>
+        <location filename="../loadTools.py" line="3414"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>routerRoundOver4MenuText</name>
+    <name>routerCove4</name>
     <message>
-        <location filename="../loadTools.py" line="3569"/>
-        <source>edge to round over, 1/4 thickness</source>
+        <location filename="../loadTools.py" line="3452"/>
+        <source>edge to cove, 1/4 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerRoundOver4ToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="3570"/>
+        <location filename="../loadTools.py" line="3453"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>routerRoundOverMenuText</name>
+    <name>routerRoundOver</name>
     <message>
         <location filename="../loadTools.py" line="3491"/>
         <source>edge to round over, thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerRoundOverToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3492"/>
         <source>Click to see info.</source>
@@ -3426,15 +3072,38 @@
     </message>
 </context>
 <context>
-    <name>routerStraight2MenuText</name>
+    <name>routerRoundOver2</name>
+    <message>
+        <location filename="../loadTools.py" line="3530"/>
+        <source>edge to round over, 1/2 thickness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="3531"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>routerRoundOver4</name>
+    <message>
+        <location filename="../loadTools.py" line="3569"/>
+        <source>edge to round over, 1/4 thickness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="3570"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>routerStraight2</name>
     <message>
         <location filename="../loadTools.py" line="3608"/>
         <source>edge to straight, 1/2 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerStraight2ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3609"/>
         <source>Click to see info.</source>
@@ -3442,15 +3111,12 @@
     </message>
 </context>
 <context>
-    <name>routerStraight3MenuText</name>
+    <name>routerStraight3</name>
     <message>
         <location filename="../loadTools.py" line="3647"/>
         <source>edge to straight, 1/3 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerStraight3ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3648"/>
         <source>Click to see info.</source>
@@ -3458,15 +3124,12 @@
     </message>
 </context>
 <context>
-    <name>routerStraight4MenuText</name>
+    <name>routerStraight4</name>
     <message>
         <location filename="../loadTools.py" line="3686"/>
         <source>edge to straight, 1/4 thickness</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>routerStraight4ToolTip</name>
     <message>
         <location filename="../loadTools.py" line="3687"/>
         <source>Click to see info.</source>
@@ -3474,18 +3137,28 @@
     </message>
 </context>
 <context>
-    <name>scanObjectsMenuText</name>
+    <name>scanObjects</name>
     <message>
         <location filename="../loadTools.py" line="98"/>
         <source>scanObjects</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>scanObjectsToolTip</name>
     <message>
         <location filename="../loadTools.py" line="99"/>
         <source>Inspection tool for FreeCAD macro development &amp; project debug (live API).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>selectVertex</name>
+    <message>
+        <location filename="../loadTools.py" line="1853"/>
+        <source>selectVertex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1854"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3498,17 +3171,14 @@
     </message>
 </context>
 <context>
-    <name>selectVertexMenuText</name>
+    <name>selected2Group</name>
     <message>
-        <location filename="../loadTools.py" line="1853"/>
-        <source>selectVertex</source>
+        <location filename="../loadTools.py" line="683"/>
+        <source>selected to Group</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>selectVertexToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1854"/>
+        <location filename="../loadTools.py" line="684"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3522,17 +3192,27 @@
     </message>
 </context>
 <context>
-    <name>selected2GroupMenuText</name>
+    <name>selected2Link</name>
     <message>
-        <location filename="../loadTools.py" line="683"/>
-        <source>selected to Group</source>
+        <location filename="../loadTools.py" line="761"/>
+        <source>selected to Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="762"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>selected2GroupToolTip</name>
+    <name>selected2LinkGroup</name>
     <message>
-        <location filename="../loadTools.py" line="684"/>
+        <location filename="../loadTools.py" line="722"/>
+        <source>selected to LinkGroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="723"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3546,22 +3226,6 @@
     </message>
 </context>
 <context>
-    <name>selected2LinkGroupMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="722"/>
-        <source>selected to LinkGroup</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>selected2LinkGroupToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="723"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>selected2LinkInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/selected2Link.py" line="34"/>
@@ -3570,17 +3234,14 @@
     </message>
 </context>
 <context>
-    <name>selected2LinkMenuText</name>
+    <name>selected2Outside</name>
     <message>
-        <location filename="../loadTools.py" line="761"/>
-        <source>selected to Link</source>
+        <location filename="../loadTools.py" line="800"/>
+        <source>move outside the container</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>selected2LinkToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="762"/>
+        <location filename="../loadTools.py" line="801"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3594,26 +3255,15 @@
     </message>
 </context>
 <context>
-    <name>selected2OutsideMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="800"/>
-        <source>move outside the container</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>selected2OutsideToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="801"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>setTextures</name>
     <message>
         <location filename="../Tools/setTextures.py" line="82"/>
         <source>setTextures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="138"/>
+        <source>Store textures information and allows to load textures. Solves problem with texture sharing without huge project file size.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3718,23 +3368,17 @@
     </message>
 </context>
 <context>
-    <name>setTexturesMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="137"/>
-        <source>setTextures</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>setTexturesToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="138"/>
-        <source>Store textures information and allows to load textures. Solves problem with texture sharing without huge project file size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>sheet2export</name>
+    <message>
+        <location filename="../Tools/sheet2export.py" line="447"/>
+        <source>sheet2export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="60"/>
+        <source>Exports spreadsheet to chosen file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/sheet2export.py" line="176"/>
         <source>sheet2export - default settings</source>
@@ -3821,11 +3465,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/sheet2export.py" line="447"/>
-        <source>sheet2export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../Tools/sheet2export.py" line="1074"/>
         <source>The spreadsheet</source>
         <translation type="unfinished"></translation>
@@ -3867,23 +3506,17 @@
     </message>
 </context>
 <context>
-    <name>sheet2exportMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="59"/>
-        <source>sheet2export</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>sheet2exportToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="60"/>
-        <source>Exports spreadsheet to chosen file format.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>showAlias</name>
+    <message>
+        <location filename="../loadTools.py" line="1697"/>
+        <source>select objects with alias</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="1698"/>
+        <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/MagicPanels/showAlias.py" line="56"/>
         <source>&lt;b&gt;The preview mode has been deactivated. You can turn it on again at any time. &lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
@@ -3901,42 +3534,20 @@
     </message>
 </context>
 <context>
-    <name>showAliasMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="1697"/>
-        <source>select objects with alias</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>showAliasToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="1698"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>showConstraints</name>
-    <message>
-        <location filename="../Tools/MagicPanels/showConstraints.py" line="42"/>
-        <source>&lt;b&gt;Please select objects to see edges with the same size as defined constraints. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool search all constraints for selected objects. If the constraints is non-zero this tool search for all edges with the same size. It allows for quick preview if all the edges are defined by the Sketch. However, in some cases, if the constraints is offset and it is equal edge size this will give false result. To select more objects hold left CTRL key during selection. </source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>showConstraintsMenuText</name>
     <message>
         <location filename="../loadTools.py" line="2867"/>
         <source>select edges equal to constraints</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>showConstraintsToolTip</name>
     <message>
         <location filename="../loadTools.py" line="2868"/>
         <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/showConstraints.py" line="42"/>
+        <source>&lt;b&gt;Please select objects to see edges with the same size as defined constraints. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool search all constraints for selected objects. If the constraints is non-zero this tool search for all edges with the same size. It allows for quick preview if all the edges are defined by the Sketch. However, in some cases, if the constraints is offset and it is equal edge size this will give false result. To select more objects hold left CTRL key during selection. </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3955,6 +3566,16 @@
 </context>
 <context>
     <name>showSpaceModel</name>
+    <message>
+        <location filename="../loadTools.py" line="254"/>
+        <source>show, model, space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="255"/>
+        <source>This tool allows you to calculate the overall occupied space in 3D by the model.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/showSpaceModel.py" line="115"/>
         <source>Occupied space in 3D by the model:</source>
@@ -4007,23 +3628,17 @@
     </message>
 </context>
 <context>
-    <name>showSpaceModelMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="254"/>
-        <source>show, model, space</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>showSpaceModelToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="255"/>
-        <source>This tool allows you to calculate the overall occupied space in 3D by the model.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>showSpaceSelected</name>
+    <message>
+        <location filename="../loadTools.py" line="293"/>
+        <source>show, selected, space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../loadTools.py" line="294"/>
+        <source>This tool allows you to calculate the overall occupied space in 3D by the selected parts.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../Tools/showSpaceSelected.py" line="109"/>
         <source>Occupied space in 3D by all the selected parts:</source>
@@ -4076,18 +3691,15 @@
     </message>
 </context>
 <context>
-    <name>showSpaceSelectedMenuText</name>
+    <name>showVertex</name>
     <message>
-        <location filename="../loadTools.py" line="293"/>
-        <source>show, selected, space</source>
+        <location filename="../loadTools.py" line="1814"/>
+        <source>showVertex</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>showSpaceSelectedToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="294"/>
-        <source>This tool allows you to calculate the overall occupied space in 3D by the selected parts.</source>
+        <location filename="../loadTools.py" line="1815"/>
+        <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4100,17 +3712,14 @@
     </message>
 </context>
 <context>
-    <name>showVertexMenuText</name>
+    <name>sketch2clone</name>
     <message>
-        <location filename="../loadTools.py" line="1814"/>
-        <source>showVertex</source>
+        <location filename="../loadTools.py" line="3998"/>
+        <source>convert sketches to clones</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>showVertexToolTip</name>
     <message>
-        <location filename="../loadTools.py" line="1815"/>
+        <location filename="../loadTools.py" line="3999"/>
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4124,42 +3733,20 @@
     </message>
 </context>
 <context>
-    <name>sketch2cloneMenuText</name>
-    <message>
-        <location filename="../loadTools.py" line="3998"/>
-        <source>convert sketches to clones</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>sketch2cloneToolTip</name>
-    <message>
-        <location filename="../loadTools.py" line="3999"/>
-        <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>sketch2dowel</name>
-    <message>
-        <location filename="../Tools/MagicPanels/sketch2dowel.py" line="84"/>
-        <source>&lt;b&gt;Please first select face, next Sketches of the holes to create dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Note:&lt;/b&gt; This tool allows to create dowel from Sketch of the hole. The first selected face refers to the side the dowel will be raised, exact orientation for the dowel. Dowel position will be get from the Sketch. The dowel Radius and Height will be get from hole object. If the hole is throughAll the dowel height will be very big, so make sure you use dimensions for hole. To select more Sketches hold left CTRL key during selection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>sketch2dowelMenuText</name>
     <message>
         <location filename="../loadTools.py" line="1151"/>
         <source>dowel from sketch hole and face</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>sketch2dowelToolTip</name>
     <message>
         <location filename="../loadTools.py" line="1152"/>
         <source>Click to see info.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/sketch2dowel.py" line="84"/>
+        <source>&lt;b&gt;Please first select face, next Sketches of the holes to create dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Note:&lt;/b&gt; This tool allows to create dowel from Sketch of the hole. The first selected face refers to the side the dowel will be raised, exact orientation for the dowel. Dowel position will be get from the Sketch. The dowel Radius and Height will be get from hole object. If the hole is throughAll the dowel height will be very big, so make sure you use dimensions for hole. To select more Sketches hold left CTRL key during selection.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
