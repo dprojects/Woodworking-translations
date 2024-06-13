@@ -6,33 +6,12 @@
     <message>
         <location filename="../loadMenu.py" line="227"/>
         <source>Download and update all macro tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Pobierz i zaktualizuj wszystkie makra.</translation>
     </message>
     <message>
         <location filename="../loadMenu.py" line="228"/>
         <source>Download latest versions for all macro tools.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>App::Property</name>
-    <message>
-        <location filename="../Tools/MagicPanels/MagicPanels.py" line="4846"/>
-        <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Tools/MagicPanels/jointTenon.py" line="68"/>
-        <source>Allows to skip at BOM, cut-list report.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>App::PropertyStringList</name>
-    <message>
-        <location filename="../Tools/MagicPanels/grainH.py" line="30"/>
-        <source>face grain direction information, h - horizontal, v - vertical, x - no grain direction</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Pobiera najnowsze wersje dla wszystkich makr.</translation>
     </message>
 </context>
 <context>
@@ -40,12 +19,12 @@
     <message>
         <location filename="../loadMenu.py" line="20"/>
         <source>Woodworking at FreeCAD - woodworking workbench documentation</source>
-        <translation type="finished">Praca w drewnie we FreeCAD - dokumentacja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../loadMenu.py" line="21"/>
         <source>Opens web browser with external link.</source>
-        <translation type="finished">Otwiera stronę w przeglądarce.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -144,12 +123,12 @@
     <message>
         <location filename="../loadMenu.py" line="295"/>
         <source>Download and update all translations</source>
-        <translation type="finished">Pobierz i zaktualizuj wszystkie tłumaczenia</translation>
+        <translation type="finished">Pobiera i aktualizuje wszystkie tłumaczenia.</translation>
     </message>
     <message>
         <location filename="../loadMenu.py" line="296"/>
         <source>Download latest versions for all translations.</source>
-        <translation type="finished">Pobiera najnowsze wersje tłumaczeń.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -167,7 +146,7 @@
     <message>
         <location filename="../InitGui.py" line="42"/>
         <source>Woodworking - default</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Praca w drewnie - domyślne</translation>
     </message>
     <message>
         <location filename="../InitGui.py" line="45"/>
@@ -272,11 +251,8 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>align2CurveInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/align2Curve.py" line="188"/>
+        <location filename="../Tools/MagicPanels/align2Curve.py" line="187"/>
         <source>&lt;b&gt;First select curve, next select edge at each object you want to align.&lt;/b&gt; Also to align panel to the curve you can &lt;b&gt;First select curve, next select vertex at each object you want to align, this might be slower.&lt;/b&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to align panels to the curve. It has been created for magicMove Copy Path option, to align panels to the curve. To select more objects hold left CTRL key during selection. To use this tool the panel need to have only single axis rotation offset. For example if you rotate panel 35 degrees around Y axis the vertex will touch the curve. This tool not works if you need to rotate the panel additionally, for example 15 degrees around X axis. For more details see description at documentation page.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -356,9 +332,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cornerBlockInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/cornerBlock.py" line="48"/>
         <source>&lt;b&gt;Please select single edge at each panel you want to change into corner block. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner block from selected edge. The cut size will be the panel thickness. For example you can create Cube 100 mm x 100 mm x 100 mm in the corner of the table to support table leg, and you can change it into corner block, quickly with single click. You can replace more than one panel at once. Hold left CTRL key during edges selection.</source>
@@ -377,9 +350,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cornerBraceInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/cornerBrace.py" line="72"/>
         <source>&lt;b&gt;Please select single edge at each panel you want to change into corner brace. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner brace from selected edge (the single visible edge). The cut size will be the panel thickness for the first edge and for the second edge half of the thickness. So, you get nice looking corner brace with single click. For example you can create Cube 100 mm x 100 mm x 100 mm in the corner of the table to support table leg, and you can change it into corner brace, quickly with single click. You can replace more than one panel at once. Hold left CTRL key during edges selection.</source>
@@ -398,9 +368,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cutDowelsInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/cutDowels.py" line="46"/>
         <source>&lt;b&gt;Please select panels to cut dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is designed to allow drilling for designing approach based on Cut holes using Cylinders without creating PartDesign objects. This tool allows you to automatically cut all dowels from selected panel. You do not have to select and search exact dowels that belongs to the selected panel. If you select panel, this tool search for all dowels that belongs to the selected panel and apply Boolean Cut on the panel. You can select many panels at once to cut dowels. To select more panels hold left CTRL key during selection. During this process only the copies will be used to cut, so the original Cylinders will not be moved at the objects Tree and will be visible at cut-list report. This feature is sensitive for visibility of Cylinders. So, you can hide Cylinders you do not want to be cut out from the panel.</source>
@@ -419,9 +386,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>cutTenonsInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/cutTenons.py" line="52"/>
         <source>&lt;b&gt;Please select panels to cut all tenons. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create mortises using tenons. This tool cut all tenons automatically for selected panel. You do not have to select and search exact tenons that belongs to the selected panel. If you select panel, this tool search for all tenons that belongs to the selected panel and apply Boolean Cut on the panel. You can select multiply panels at once to cut tenons. To select more panels hold left CTRL key during selection. During this process only the copies will be used to cut, so the original tenon will not be moved at the objects Tree. This feature is sensitive for visibility of tenons. So, you can hide tenons you do not want to be cut out from the panel.</source>
@@ -678,9 +642,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>fitModelInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/fitModel.py" line="12"/>
         <source>Please create model to fit it to the screen. This tool allows to fit model to the screen view and also rotate the model view to the base XY position (0 key press).</source>
@@ -945,20 +906,22 @@
     <message>
         <location filename="../loadTools.py" line="1541"/>
         <source>grain direction marker, horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">znacznik kierunku słojów, poziomy</translation>
     </message>
     <message>
         <location filename="../loadTools.py" line="1542"/>
         <source>Click to see info.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Kliknij żeby zobaczyć opis.</translation>
     </message>
-</context>
-<context>
-    <name>grainHInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/grainH.py" line="139"/>
+        <location filename="../Tools/MagicPanels/grainH.py" line="27"/>
+        <source>face grain direction, h - horizontal, v - vertical, x - no grain</source>
+        <translation type="finished">ułożenie słojów na powierzchni, h - poziomo, v - pionowo, x - brak słojów</translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/grainH.py" line="135"/>
         <source>&lt;b&gt;Please select face to create horizontal grain direction description. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates horizontal grain direction description at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Przykładowy opis ułożenie słojów.... </translation>
     </message>
 </context>
 <context>
@@ -973,11 +936,13 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>grainVInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/grainV.py" line="139"/>
+        <location filename="../Tools/MagicPanels/grainV.py" line="27"/>
+        <source>face grain direction, h - horizontal, v - vertical, x - no grain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/grainV.py" line="135"/>
         <source>&lt;b&gt;Please select face to create vertical grain direction description. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates vertical grain direction description at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -994,11 +959,13 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>grainXInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/grainX.py" line="139"/>
+        <location filename="../Tools/MagicPanels/grainX.py" line="27"/>
+        <source>face grain direction, h - horizontal, v - vertical, x - no grain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/grainX.py" line="135"/>
         <source>&lt;b&gt;Please select face to create no grain direction description. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates no grain direction description at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1033,11 +1000,13 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>jointTenonInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/jointTenon.py" line="85"/>
+        <location filename="../Tools/MagicPanels/jointTenon.py" line="65"/>
+        <source>Allows to skip tenon at BOM, cut-list report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/jointTenon.py" line="82"/>
         <source>&lt;b&gt;Please select face to create Tenon joint at the selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create quick tenon joint at selected face. You can select multiple faces at single object or multiple faces at multiple objects. The tenon joint offset is 1/4 of the object thickness. The tenon joint is hidden inside the object equally to the visible part. So, you can cut the tenon also at the object and create removable joint similar to the dowels. Tenons have special attribute, so they are not listed at cut-list report.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1045,7 +1014,7 @@
 <context>
     <name>magicAngle</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="76"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="75"/>
         <source>magicAngle</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1060,47 +1029,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="102"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="101"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="145"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="144"/>
         <source>Rotation point:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="182"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="181"/>
         <source>X axis (yaw):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="210"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="209"/>
         <source>Y axis (pitch):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="238"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="237"/>
         <source>Z axis (roll):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="266"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="265"/>
         <source>Angle step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="42"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="41"/>
         <source>select containers or panels to rotate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="115"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="114"/>
         <source>Sphere radius:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicAngle.py" line="169"/>
+        <location filename="../Tools/MagicPanels/magicAngle.py" line="168"/>
         <source>add selected vertex</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1118,67 +1087,67 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="33"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="32"/>
         <source>select face to drill and drill bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="67"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="66"/>
         <source>magicCNC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="92"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="91"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="109"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="108"/>
         <source>Move along X:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="134"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="133"/>
         <source>Move along Y:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="159"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="158"/>
         <source>Move along Z:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="192"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="191"/>
         <source>Move step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="208"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="207"/>
         <source>Transform:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="258"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="257"/>
         <source>on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="265"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="264"/>
         <source>off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="230"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="229"/>
         <source>Corner cross:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="254"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="253"/>
         <source>Center cross:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicCNC.py" line="278"/>
+        <location filename="../Tools/MagicPanels/magicCNC.py" line="277"/>
         <source>drill below drill bit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1195,9 +1164,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>magicCornerInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/magicCorner.py" line="51"/>
         <source>&lt;b&gt;First select base object and later all panels you want to fit to the base object. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner connection via Part :: Embed object FreeCAD feature. To fit corners, first select base object that will be cut, next panels that should be fited to the base object. To select multiple panels hold left CTRL key during selection.</source>
@@ -1234,9 +1200,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>magicCutLinksInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/magicCutLinks.py" line="20"/>
         <source>&lt;b&gt;Please select the base object to cut and next the objects that will cut the base element. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool make multi boolean cut operation at selected objects. First object should be the base object to cut. All other selected objects will cut the base 1st selected object. To select more objects hold left CTRL key during selection. During this process only the links will be used to cut, so the original objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. This tool works with the same way as magicCut tool but creates LinkGroup container for cut panels, knives, and uses container links for cut operation. Thanks to this approach you can change Cube to Pad or even add new element to the LinkGroup container and the cut will be updated with new content. So, if you are looking for parametric cut, you should rather use this version.</source>
@@ -1379,7 +1342,7 @@
 <context>
     <name>magicDriller</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="103"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="102"/>
         <source>magicDriller</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1389,87 +1352,87 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="69"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="68"/>
         <source>please select face</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="119"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="118"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="133"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="132"/>
         <source>Select edge:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="157"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="156"/>
         <source>Adjust edge:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="181"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="180"/>
         <source>Adjust rotation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="205"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="204"/>
         <source>Select sides:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="280"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="279"/>
         <source>Holes per side:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="296"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="295"/>
         <source>Hole diameter:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="312"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="311"/>
         <source>Countersink diameter:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="331"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="330"/>
         <source>Hole depth:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="347"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="346"/>
         <source>Offset from corner:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="363"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="362"/>
         <source>Offset between holes:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="379"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="378"/>
         <source>Offset from edge:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="395"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="394"/>
         <source>Pocket rotation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="414"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="413"/>
         <source>Pocket sink:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="433"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="432"/>
         <source>set custom values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicDriller.py" line="441"/>
+        <location filename="../Tools/MagicPanels/magicDriller.py" line="440"/>
         <source>drill below drill bits</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1477,7 +1440,7 @@
 <context>
     <name>magicFixture</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="84"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="83"/>
         <source>magicFixture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1487,72 +1450,72 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="50"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="49"/>
         <source>please select fixture object and face</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="124"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="123"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="136"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="135"/>
         <source>Edge:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="164"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="163"/>
         <source>Rotation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="196"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="195"/>
         <source>Edge offset:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="226"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="225"/>
         <source>Corner offset:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="256"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="255"/>
         <source>Sink offset:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="286"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="285"/>
         <source>Step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="302"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="301"/>
         <source>set custom values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="314"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="313"/>
         <source>set manually</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="321"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="320"/>
         <source>finish manually</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="336"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="335"/>
         <source>Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="341"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="340"/>
         <source>Clone for drilling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicFixture.py" line="348"/>
+        <location filename="../Tools/MagicPanels/magicFixture.py" line="347"/>
         <source>apply fixture to this position</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1560,7 +1523,7 @@
 <context>
     <name>magicJoints</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="101"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="100"/>
         <source>magicJoints</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1570,92 +1533,92 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="65"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="64"/>
         <source>1. select Sketch pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="66"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="65"/>
         <source>2. select face to map Sketch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="67"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="66"/>
         <source>3. select face for Mortise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="161"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="160"/>
         <source>set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="178"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="177"/>
         <source>refresh all selections</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="191"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="190"/>
         <source>Anchor:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="219"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="218"/>
         <source>Rotation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="247"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="246"/>
         <source>X axis:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="277"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="276"/>
         <source>Y axis:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="307"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="306"/>
         <source>Z axis:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="337"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="336"/>
         <source>Step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="353"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="352"/>
         <source>set custom values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="365"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="364"/>
         <source>set manually</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="372"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="371"/>
         <source>finish manually</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="385"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="384"/>
         <source>Mortise depth and Tenon height:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="401"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="400"/>
         <source>create Mortise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="408"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="407"/>
         <source>create Tenon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicJoints.py" line="421"/>
+        <location filename="../Tools/MagicPanels/magicJoints.py" line="420"/>
         <source>create Tenon and Mortise</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1673,7 +1636,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicKnife.py" line="49"/>
+        <location filename="../Tools/MagicPanels/magicKnife.py" line="28"/>
+        <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/magicKnife.py" line="46"/>
         <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is opposite for magicCut tool. This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the copies of knife are used, so the original knife objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. If you are looking for parametric Boolean Cut operation you may consider magicKnifeLinks instead.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1690,11 +1658,13 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>magicKnifeLinksInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicKnifeLinks.py" line="57"/>
+        <location filename="../Tools/MagicPanels/magicKnifeLinks.py" line="30"/>
+        <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Tools/MagicPanels/magicKnifeLinks.py" line="54"/>
         <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the links of knife are used, so the original knife objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. This tool works with the same way as magicKnife tool but creates LinkGroup container for Knife and uses container links for cut operation. Thanks to this approach you can change Knife Cube to Pad or even add new Knife to the LinkGroup container and the cut will be updated with new Knife content. So, if you are looking for parametric cut, you should rather use this version.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1702,7 +1672,7 @@
 <context>
     <name>magicManager</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="183"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="182"/>
         <source>magicManager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1712,82 +1682,82 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="142"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="141"/>
         <source>Reading vertices: OFF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="144"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="143"/>
         <source>To create panel from vertices, click &quot;ON&quot; button to start reading vertices with exact order.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="146"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="145"/>
         <source>Reading vertices: ON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="148"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="147"/>
         <source>Please select vertices in correct order to create shape. First selected vertex is automatically added to the end to close the wire.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="215"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="214"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="228"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="227"/>
         <source>Plane:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="256"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="255"/>
         <source>Anchor:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="284"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="283"/>
         <source>Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="312"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="311"/>
         <source>Offset:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="350"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="349"/>
         <source>ON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="357"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="356"/>
         <source>OFF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="364"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="363"/>
         <source>remove last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="374"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="373"/>
         <source>New object thickness:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="386"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="385"/>
         <source>create panel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="699"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="698"/>
         <source>1. select single face for panel at face</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicManager.py" line="700"/>
+        <location filename="../Tools/MagicPanels/magicManager.py" line="699"/>
         <source>2. select 2 faces for panel between</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1795,7 +1765,7 @@
 <context>
     <name>magicMeasure</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicMeasure.py" line="453"/>
+        <location filename="../Tools/MagicPanels/magicMeasure.py" line="452"/>
         <source>magicMeasure</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1805,22 +1775,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMeasure.py" line="499"/>
+        <location filename="../Tools/MagicPanels/magicMeasure.py" line="498"/>
         <source>measuring ON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMeasure.py" line="506"/>
+        <location filename="../Tools/MagicPanels/magicMeasure.py" line="505"/>
         <source>measuring OFF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMeasure.py" line="519"/>
+        <location filename="../Tools/MagicPanels/magicMeasure.py" line="518"/>
         <source>hover ON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMeasure.py" line="526"/>
+        <location filename="../Tools/MagicPanels/magicMeasure.py" line="525"/>
         <source>hover OFF</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1828,7 +1798,7 @@
 <context>
     <name>magicMove</name>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="107"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="106"/>
         <source>magicMove</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1838,122 +1808,122 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="25"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="24"/>
         <source>Move along X:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="26"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="25"/>
         <source>Move along Y:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="27"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="26"/>
         <source>Move along Z:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="28"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="27"/>
         <source>Move step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="30"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="29"/>
         <source>Copy along X:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="31"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="30"/>
         <source>Copy along Y:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="32"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="31"/>
         <source>Copy along Z:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="33"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="32"/>
         <source>Copy offset:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="35"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="34"/>
         <source>Rotation X, Y, Z:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="36"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="35"/>
         <source>Next point step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="38"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="37"/>
         <source>Mirror along X:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="39"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="38"/>
         <source>Mirror along Y:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="40"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="39"/>
         <source>Mirror along Z:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="41"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="40"/>
         <source>Mirror offset:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="43"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="42"/>
         <source>select panel or container</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="44"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="43"/>
         <source>select copy path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="127"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="126"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="174"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="173"/>
         <source>copy to new container</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="313"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="312"/>
         <source>set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="326"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="325"/>
         <source>copy along path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="342"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="341"/>
         <source>Corner cross:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="366"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="365"/>
         <source>Center cross:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="370"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="369"/>
         <source>on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicMove.py" line="377"/>
+        <location filename="../Tools/MagicPanels/magicMove.py" line="376"/>
         <source>off</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1971,33 +1941,49 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicResizer.py" line="36"/>
+        <location filename="../Tools/MagicPanels/magicResizer.py" line="35"/>
         <source>select edge to resize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicResizer.py" line="37"/>
+        <location filename="../Tools/MagicPanels/magicResizer.py" line="36"/>
         <source>select face, edge or vertex</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicResizer.py" line="71"/>
+        <location filename="../Tools/MagicPanels/magicResizer.py" line="70"/>
         <source>magicResizer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicResizer.py" line="97"/>
+        <location filename="../Tools/MagicPanels/magicResizer.py" line="96"/>
         <source>refresh selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicResizer.py" line="110"/>
+        <location filename="../Tools/MagicPanels/magicResizer.py" line="109"/>
         <source>Resize step:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/magicResizer.py" line="148"/>
+        <location filename="../Tools/MagicPanels/magicResizer.py" line="147"/>
         <source>resize to nearest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>makeCuts</name>
+    <message>
+        <location filename="../Tools/MagicPanels/MagicPanels.py" line="4786"/>
+        <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
+        <translation type="finished">Pozwala na pominięcie zduplikowanych kopii na liście cięć.</translation>
+    </message>
+</context>
+<context>
+    <name>makeCutsLinks</name>
+    <message>
+        <location filename="../Tools/MagicPanels/MagicPanels.py" line="4846"/>
+        <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2087,6 +2073,11 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="803"/>
+        <source>&lt;b&gt;Please select object, next Sketches to create Pockets. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create custom decoration from Sketches. You can select many Sketches at once. The selected Sketches will make Pockets at the first selected object. The Sketches need to be correctly aligned at the object. Hold left CTRL key during Sketches selection. For 2 and 4 variant this tool gets first selected object size and create Pocket with 1/2 thickness or 1/4 thickness.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>multiPocket2</name>
@@ -2126,6 +2117,11 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../Tools/MagicPanels/panel2angle.py" line="172"/>
+        <source>&lt;b&gt;Please select valid faces at any amount of Cubes or Pads to cut the faces and create construction angle profiles. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace panel with construction angle. You can replace more than one panel at once. To select more faces hold left CTRL key during faces selection. The new created construction angle will get the same dimensions, placement and rotation as the selected panel. You can cut any faces at panel. However, if the panel has two equal sizes e.g. 20 mm x 20 mm x 600 mm, the ends will be cut as well, so you do not have to select them. If you do not have same sizes you have have to select ends too, if you want to cut them. If the selected faces are not valid, e.g. opposite faces, the final object may disappear and be broken. You can remove last operation and try again. If you have all construction created with simple panels that imitating angles, you can replace all of them with realistic looking construction angles with single click and they will be rotated according to the selected faces.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>panel2angle45cut</name>
@@ -2139,20 +2135,9 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2angle45cutInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2angle45cut.py" line="106"/>
         <source>&lt;b&gt;Please select valid face at construction angle to create 45 cut at edges. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to cut construction angle with 45 cut. You can select many construction angles at once but only single face can be selected for each construction angle. If the construction angle is C-shape you can select face inside profile and two sides will be cut. If the construction angle is L-shape you select single face inside profile and only single side will be cut. Because to create frame with L-shape profiles you have to cut only single side. To create frame with C-shape profiles you have to cut both sides. The face should be selected inside profile to set exact cut size without profile thickness. To select more faces hold left CTRL key during faces selection. You can remove last operation and try again. If you have all construction created with construction angles you can cut all of them at once.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>panel2angleInfo</name>
-    <message>
-        <location filename="../Tools/MagicPanels/panel2angle.py" line="172"/>
-        <source>&lt;b&gt;Please select valid faces at any amount of Cubes or Pads to cut the faces and create construction angle profiles. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace panel with construction angle. You can replace more than one panel at once. To select more faces hold left CTRL key during faces selection. The new created construction angle will get the same dimensions, placement and rotation as the selected panel. You can cut any faces at panel. However, if the panel has two equal sizes e.g. 20 mm x 20 mm x 600 mm, the ends will be cut as well, so you do not have to select them. If you do not have same sizes you have have to select ends too, if you want to cut them. If the selected faces are not valid, e.g. opposite faces, the final object may disappear and be broken. You can remove last operation and try again. If you have all construction created with simple panels that imitating angles, you can replace all of them with realistic looking construction angles with single click and they will be rotated according to the selected faces.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2168,9 +2153,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2cloneInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2clone.py" line="41"/>
         <source>&lt;b&gt;Please select valid object to be cloned, next selected objects will be replaced with clones. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace simple objects with any detailed object, e.g. Cylinders with realistic looking screws. First you have to select detailed object and than simple object that will be replaced with Clones. The first selected detailed object can be Part, LinkGroup or any other created manually or merged with your project. You can replace more than one simple object at once with Clone. To select more objects hold left CTRL key during selection. The simple objects should imitate the detailed object to replace all of them in-place with realistic looking one. This tool works with the same way as panel2link but instead of Link it creates Clone objects. It can be useful if you want to remove the base object and have clean objects Tree. Also if you want to change each copy separately. </source>
@@ -2199,9 +2181,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2frameInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2frame.py" line="34"/>
         <source>&lt;b&gt;Please select single face for each Cube object to make 45 cut at both sides. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace Cube panel with frame 45 cut at both sides. You can replace more than one Cube panel at once. To replace Cube objects with frames you have to select exact face at each Cube object. To select more objects hold left CTRL key during selection. The new created frame will get the same dimensions, placement and rotation as the selected Cube panel but will be cut at the selected face. If you have all construction created with simple Cube objects that imitating picture frame or window, you can replace all of them with realistic looking frame with single click.</source>
@@ -2220,9 +2199,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2linkInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2link.py" line="44"/>
         <source>&lt;b&gt;Please select valid object to be linked, next selected objects will be replaced with Links. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace simple objects with any detailed object, e.g. Cylinders with realistic looking screws. First you have to select detailed object and than simple object that will be replaced with Link. The first selected detailed object can be Part, LinkGroup or any other created manually or merged with your project. You can replace more than one simple object at once with Link. To select more objects hold left CTRL key during selection. The simple objects should imitate the detailed object to replace all of them in-place with realistic looking one. </source>
@@ -2251,9 +2227,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2padInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2pad.py" line="24"/>
         <source>&lt;b&gt;Please select valid Cube panels to replace it with Pads. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace Cube panel with Pad panel. The new created Pad panel will get the same dimensions, placement and rotation as the selected Cube panel. You can transform many Cube panels into Pad at once. To select more Cubes hold left CTRL key during selection. This tool is mostly dedicated to add decoration that is not supported for Cube objects by FreeCAD PartDesign workbench. You can also change shape by changing the Sketch.</source>
@@ -2272,9 +2245,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panel2profileInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panel2profile.py" line="77"/>
         <source>&lt;b&gt;Please select valid Cube or Pad object imitating profile. The selected Cube or Pad objects need to have two equal sizes e.g. 20 mm x 20 mm x 300 mm to replace it with construction profile. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace panel with construction profile. You can replace more than one panel at once. To select more panels hold left CTRL key during selection. The new created construction profile will get the same dimensions, placement and rotation as the selected panel. If you have all construction created with simple panel objects that imitating profiles, you can replace all of them with realistic looking construction profiles with single click.</source>
@@ -2293,19 +2263,16 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelBackOutInfo</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="332"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="329"/>
         <source>&lt;b&gt;Please select three faces according to the icon. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create back of the furniture with single click. To create back of the furniture you have to select 3 faces in the order described by the icon. To select more than one face, hold left CTRL key during face selection. The red edges at blue panels represents the selected faces. The transparent red panel represents the new created object. The icon refers to the back of the furniture.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>panelBetweenInfo</name>
+    <name>panelBetween</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="201"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="198"/>
         <source>&lt;b&gt;Please select two valid faces at two different valid objects, to create panel between them. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel between two selected faces. Selection faces order is important. To select more than one face, hold left CTRL key during second face selection. The blue panels represents the selected objects and the red one represents the new created object. The icon refers to base XY model view (0 key position). Click fitModel to set model into referred view.  If the two selected panels will be matching the icon, the new created panel should fill the gap between the selected faces. You can experiment with selection faces outside to resize the new panel. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2389,9 +2356,9 @@
     </message>
 </context>
 <context>
-    <name>panelCopyInfo</name>
+    <name>panelCopy</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="95"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="92"/>
         <source>&lt;b&gt;To create copy of panel in exact direction, select valid panel first. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool copy selected panel into exact XYZ axis orientation. By default you can copy any panel based on Cube object. If you want to copy Pad, you need to have Constraints named &quot;SizeX&quot; and &quot;SizeY&quot; at the Sketch. For custom objects types you need to have Length, Width, Height properties at object (Group: &quot;Base&quot;, Type: &quot;App::PropertyLength&quot;). The new panel will be created at (0, 0, 0) coordinate XYZ axis position. You can use mapPosition tool to move the new panel to the original panel position. To copy panel without changing orientation, you can use magicMove tool or CTRL-C and CTRL-V keys with arrows to move the copy.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2475,9 +2442,9 @@
     </message>
 </context>
 <context>
-    <name>panelCoverInfo</name>
+    <name>panelCover</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="386"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="383"/>
         <source>&lt;b&gt;Please select three faces according to the icon. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create top cover of the furniture with single click. To create top cover of the furniture you have to select 3 faces in the order described by the icon. To select more than one face, hold left CTRL key during face selection. The red edges at blue panels represents the selected faces. The transparent red panel represents the new created object. The icon refers to the base XY model view (0 key position). Click fitModel to set model into referred view.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2496,11 +2463,11 @@
     </message>
 </context>
 <context>
-    <name>panelDefaultInfo</name>
+    <name>panelDefault</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="67"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="64"/>
         <source>&lt;b&gt;To create default panel, first create active document. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates default panel that can be easily resized. You can clearly see where should be the thickness to keep exact panel XYZ axis orientation. All furniture elements should be created according to the XYZ axis plane, if possible. Avoid building whole furniture with rotated elements. If you want to rotate panel with dowels, better create panel with dowels without rotation, pack panel with dowels into LinkGroup, and use magicAngle to rotate whole LinkGroup. You can rotate whole furniture like this with single click.</source>
-        <translation type="finished">To jest przykładowy opis.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2508,12 +2475,12 @@
     <message>
         <location filename="../loadTools.py" line="1931"/>
         <source>panel, XY, 600x300, 18 thickness</source>
-        <translation type="finished">panel, XY, 600x300, 18 Grubość</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../loadTools.py" line="1932"/>
         <source>Click to see info.</source>
-        <translation type="finished">Kliknij żeby zobaczyć opis.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2582,9 +2549,9 @@
     </message>
 </context>
 <context>
-    <name>panelFaceInfo</name>
+    <name>panelFace</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="143"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="140"/>
         <source>&lt;b&gt;Please select face to create panel. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel at selected face. The blue panel represents the selected object and the red one represents the new created object. The icon refers to base XY model view (0 key position). Click fitModel to set model into referred view. The new created panel will get the same dimensions as panel of the selected face. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2668,6 +2635,14 @@
     </message>
 </context>
 <context>
+    <name>panelMove</name>
+    <message>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="442"/>
+        <source>&lt;b&gt;Please select valid objects to move. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; With the arrows you can quickly move many Cube panels or even any other objects at once. If the thickness of the selected object can be recognized, the move step will be the thickness. So, you can solve common furniture problem with thickness offset. If the thickness will not be recognized the step will be 100. This allow you to move whole furniture segments very quickly. The arrows recognize the view model rotation. If you want precisely move object, use magicMove tool, instead. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>panelMove2Anchor</name>
     <message>
         <location filename="../loadTools.py" line="2711"/>
@@ -2679,9 +2654,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMove2AnchorInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panelMove2Anchor.py" line="66"/>
         <source>&lt;b&gt;First select anchor at base object, next select anchor at each object to move.&lt;/b&gt;&lt;br&gt;&lt;br&gt; Available anchors to select: &lt;ul&gt;&lt;li&gt;&lt;b&gt;vertex&lt;/b&gt; - selected vertex,&lt;/li&gt;&lt;li&gt;&lt;b&gt;edge&lt;/b&gt; - edge CenterOfMass,&lt;/li&gt;&lt;li&gt;&lt;b&gt;face&lt;/b&gt; - face CenterOfMass,&lt;/li&gt;&lt;li&gt;&lt;b&gt;object&lt;/b&gt; - default object anchor.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to align panels more precisely, with anchor. The anchor is recognized at base object as well. Hold left CTRL key to select anchors.</source>
@@ -2718,20 +2690,9 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>panelMove2FaceInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/panelMove2Face.py" line="58"/>
         <source>&lt;b&gt;First select face, and next object that should be aligned to the face position. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to align panels or any other objects to face position. You can select objects at objects Tree window holding left CTRL key. This tool allows to avoid thickness step problem, if you want to move panel to the other edge but the way is not a multiple of the panel thickness. For rotated containers use panelMove2Anchor.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>panelMoveInfo</name>
-    <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="445"/>
-        <source>&lt;b&gt;Please select valid objects to move. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; With the arrows you can quickly move many Cube panels or even any other objects at once. If the thickness of the selected object can be recognized, the move step will be the thickness. So, you can solve common furniture problem with thickness offset. If the thickness will not be recognized the step will be 100. This allow you to move whole furniture segments very quickly. The arrows recognize the view model rotation. If you want precisely move object, use magicMove tool, instead. </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2814,6 +2775,14 @@
     </message>
 </context>
 <context>
+    <name>panelResize</name>
+    <message>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="648"/>
+        <source>&lt;b&gt;Please select valid panels to resize. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to resize quickly panels or even other objects. The resize step is the panel thickness. Panel is resized into direction described by the icon for XY panel. However, in some cases the panel may be resized into opposite direction, if the panel is not supported or the sides are equal. You can also resize Cylinders (drill bits), the long side will be Height, the short will be diameter, the thickness will be Radius. For Cone objects (drill bits - countersinks, counterbore) the long side will be Height, the thickness will be Radius1 (bottom radius) and the short will be Radius2 (top radius).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>panelResize1</name>
     <message>
         <location filename="../loadTools.py" line="2906"/>
@@ -2892,17 +2861,9 @@
     </message>
 </context>
 <context>
-    <name>panelResizeInfo</name>
+    <name>panelSide</name>
     <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="651"/>
-        <source>&lt;b&gt;Please select valid panels to resize. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to resize quickly panels or even other objects. The resize step is the panel thickness. Panel is resized into direction described by the icon for XY panel. However, in some cases the panel may be resized into opposite direction, if the panel is not supported or the sides are equal. You can also resize Cylinders (drill bits), the long side will be Height, the short will be diameter, the thickness will be Radius. For Cone objects (drill bits - countersinks, counterbore) the long side will be Height, the thickness will be Radius1 (bottom radius) and the short will be Radius2 (top radius).</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>panelSideInfo</name>
-    <message>
-        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="267"/>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="264"/>
         <source>&lt;b&gt;Please select valid face, to create panel. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel at selected face. The blue panel represents the selected object and the red one represents the new created object. The arrow describe if the panel will be created up or down. The icon refers to base XY model view (0 key position). Click fitModel to set model into referred view. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2971,12 +2932,17 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>roundCurveInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/roundCurve.py" line="34"/>
         <source>&lt;b&gt;Select curved objects to improve rendering. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to improve curve visibility. It makes the curve to look more rounded. Normally, circle Sketch is rendering from straight line segments. If you want to align panel to the curve manually this might be problem to hit exactly the point you want at curve. This tool may help for more precised alignment. If you select the curve and click this tool again the curve will back to default settings. To select more object hold left CTRL key during selection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>routerBitSelect</name>
+    <message>
+        <location filename="../Tools/MagicPanels/MagicPanelsController.py" line="773"/>
+        <source>&lt;b&gt;Please select edges or faces to use router. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create decoration router bits effect. You can select many edges or faces. The selected edges or faces do not have to be at the same object. You can select edges or faces at any object. But each edge or face need to be according to the XYZ coordinate axis to get correct plane of the edge or face. For face the routing path is the CenterOfMass of the face and also along the longest edge. Hold left CTRL key during edges or faces selection. The router bits get size from object thickness. If the router bit is for example Cove2, it means the size of the Cove will be 1/2 of the object thickness.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3161,9 +3127,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>selectVertexInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/selectVertex.py" line="73"/>
         <source>&lt;b&gt;Please select Face or Edge to select nearest Vertex. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool helps vertex selection. If you click this tool icon the tool activates observer and listen for your selection. If you select Face or Edge the nearest Vertex will be selected instead. If you select Vertex the Vertex will stay selected. The observer is closed after selection so this help works only once to not disturb face or edge selection later. If you want select more vertices with help of this tool, you have to hold left CTRL key during Edge or Face selection, you can also hold it during icon click. </source>
@@ -3182,9 +3145,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>selected2GroupInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/selected2Group.py" line="25"/>
         <source>&lt;b&gt;Please select objects to create Group. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD Group command. The group name is from first selected object. To select more objects hold left CTRL key during selection.</source>
@@ -3203,6 +3163,11 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../Tools/MagicPanels/selected2Link.py" line="34"/>
+        <source>&lt;b&gt;Please select objects to create Link. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD simple Link command and set color for new Link objects from first selected object. To select more objects hold left CTRL key during selection.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>selected2LinkGroup</name>
@@ -3216,20 +3181,9 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>selected2LinkGroupInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/selected2LinkGroup.py" line="24"/>
         <source>&lt;b&gt;Please select objects to create LinkGroup. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD LinkGroup command and set color for new LinkGroup objects from first selected object. To select more objects hold left CTRL key during selection.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>selected2LinkInfo</name>
-    <message>
-        <location filename="../Tools/MagicPanels/selected2Link.py" line="34"/>
-        <source>&lt;b&gt;Please select objects to create Link. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD simple Link command and set color for new Link objects from first selected object. To select more objects hold left CTRL key during selection.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3245,9 +3199,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>selected2OutsideInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/selected2Outside.py" line="39"/>
         <source>&lt;b&gt;Please select objects to move them outside all containers to the root folder. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to get out the selected objects from containers. Normally, if you get out object from the container manually, the object will change place and rotation. This tool allows you to move the objects and keep the same position and rotation. This feature might be very useful if automatic movement to container is not what you want. For example you want single element to no longer be mirrored or further processed with other objects inside the container. To select more objects hold left CTRL key during selection.</source>
@@ -3546,7 +3497,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Tools/MagicPanels/showConstraints.py" line="42"/>
+        <location filename="../Tools/MagicPanels/showConstraints.py" line="41"/>
         <source>&lt;b&gt;Please select objects to see edges with the same size as defined constraints. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool search all constraints for selected objects. If the constraints is non-zero this tool search for all edges with the same size. It allows for quick preview if all the edges are defined by the Sketch. However, in some cases, if the constraints is offset and it is equal edge size this will give false result. To select more objects hold left CTRL key during selection. </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3702,9 +3653,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>showVertexInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/showVertex.py" line="59"/>
         <source>&lt;b&gt;Please create model to resize vertices for easier selection. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to resize all vertices for easier selection. Also it change vertices color to red for better visibility. If the object have already resized vertex or changed color it will back to FreeCAD default settings. So, you can keep the model good looking with small vertices and if you have problem with vertex selection, you can quickly resize vertices for selection purposes only and back to normal later.</source>
@@ -3723,9 +3671,6 @@
         <source>Click to see info.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>sketch2cloneInfo</name>
     <message>
         <location filename="../Tools/MagicPanels/sketch2clone.py" line="58"/>
         <source>&lt;b&gt;Please select valid sketches to make parametric model. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace selected Sketches with Clones and thanks to it, convert static model to parametric. First selected Sketch will be changed into &quot;Parametric Pattern&quot; for all other selected Sketches. After this operation, if you change the &quot;Parametric Pattern&quot; all other Sketches will be automatically updated with new pattern. For example if you have Pad, it will change the shape. Make sure the center of coordinate axes XYZ for each selected Sketch is in the middle of the pattern, this will allow for correct positioning of the Sketches. To select more objects hold left CTRL key during selection. For more complicated objects use panel2link or panel2clone at the whole Part. </source>
