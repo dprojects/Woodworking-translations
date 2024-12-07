@@ -1,4 +1,4 @@
-# 0.22 (not available yet)
+# 0.22
 
 This repository is dedicated only for Woodworking workbench version [0.22 stable](https://github.com/dprojects/Woodworking/releases/tag/0.22).
 
