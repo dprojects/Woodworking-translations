@@ -1,9787 +1,9403 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
 <TS version="2.1">
 <context>
     <name>AUTOUPDATE</name>
     <message>
-        <location filename="../../loadMenu.py" line="227" />
+        <location filename="../../loadMenu.py" line="227"/>
         <source>Download and update all macro tools</source>
-        <translation>ჩამოტვირთეთ და განაახლეთ ყველა მაკრო ინსტრუმენტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="228" />
+        <location filename="../../loadMenu.py" line="228"/>
         <source>Download latest versions for all macro tools.</source>
-        <translation>ჩამოტვირთეთ უახლესი ვერსიები ყველა მაკრო ხელსაწყოსთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DOCS</name>
     <message>
-        <location filename="../../loadMenu.py" line="20" />
+        <location filename="../../loadMenu.py" line="20"/>
         <source>Woodworking - workbench documentation</source>
-        <translation>ხის დამუშავება - სამუშაო მაგიდის დოკუმენტაცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="360" />
+        <location filename="../../loadMenu.py" line="360"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="359" />
+        <location filename="../../loadMenu.py" line="359"/>
         <source>Woodworking - report issue or contact</source>
-        <translation>ხის დამუშავება - შეატყობინეთ პრობლემის ან კონტაქტის შესახებ</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DOCSgetDimensions</name>
     <message>
-        <location filename="../../loadMenu.py" line="112" />
+        <location filename="../../loadMenu.py" line="112"/>
         <source>Tool documentation - getDimensions, cut-list, BOM</source>
-        <translation>ხელსაწყოს დოკუმენტაცია - getDimensions, cut-list, BOM</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="113" />
+        <location filename="../../loadMenu.py" line="113"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DOCSscanObjects</name>
     <message>
-        <location filename="../../loadMenu.py" line="181" />
+        <location filename="../../loadMenu.py" line="181"/>
         <source>Tool documentation - scanObjects</source>
-        <translation>ხელსაწყოს დოკუმენტაცია - scanObjects</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="182" />
+        <location filename="../../loadMenu.py" line="182"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DOCSsetTextures</name>
     <message>
-        <location filename="../../loadMenu.py" line="158" />
+        <location filename="../../loadMenu.py" line="158"/>
         <source>Tool documentation - setTextures</source>
-        <translation>ხელსაწყოს დოკუმენტაცია - setTextures</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="159" />
+        <location filename="../../loadMenu.py" line="159"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DOCSsheet2export</name>
     <message>
-        <location filename="../../loadMenu.py" line="135" />
+        <location filename="../../loadMenu.py" line="135"/>
         <source>Tool documentation - sheet2export</source>
-        <translation>ხელსაწყოს დოკუმენტაცია - sheet2export</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="136" />
+        <location filename="../../loadMenu.py" line="136"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EXAMPLES</name>
     <message>
-        <location filename="../../loadMenu.py" line="43" />
+        <location filename="../../loadMenu.py" line="43"/>
         <source>Woodworking - fully parametric examples</source>
-        <translation>ხის დამუშავება - სრულად პარამეტრული მაგალითები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="44" />
+        <location filename="../../loadMenu.py" line="44"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FIXTURE</name>
     <message>
-        <location filename="../../loadMenu.py" line="66" />
+        <location filename="../../loadMenu.py" line="66"/>
         <source>Woodworking - fixture examples</source>
-        <translation>ხის დამუშავება - მოწყობილობების მაგალითები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="67" />
+        <location filename="../../loadMenu.py" line="67"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TEXTURES</name>
     <message>
-        <location filename="../../loadMenu.py" line="89" />
+        <location filename="../../loadMenu.py" line="89"/>
         <source>Woodworking - free textures</source>
-        <translation>ხის დამუშავება - თავისუფალი ტექსტურები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="90" />
+        <location filename="../../loadMenu.py" line="90"/>
         <source>Opens web browser with external link.</source>
-        <translation>ხსნის ვებ ბრაუზერს გარე ბმულით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TRANSLATION</name>
     <message>
-        <location filename="../../loadMenu.py" line="295" />
+        <location filename="../../loadMenu.py" line="295"/>
         <source>Woodworking - translations</source>
-        <translation>ხის დამუშავება - თარგმანები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="296" />
+        <location filename="../../loadMenu.py" line="296"/>
         <source>Download latest versions for all translations.</source>
-        <translation>ჩამოტვირთეთ უახლესი ვერსიები ყველა თარგმანისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Woodworking_OpenAngleStep</name>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="36" />
-        <source>Angle step to rotate front around. Negative value for left open rotate to other direction.</source>
-        <translation>კუთხის საფეხური წინა როტაციისთვის. უარყოფითი მნიშვნელობა მარცხენა ღია როტაციისთვის სხვა მიმართულებით.</translation>
+        <location filename="../../Tools/frontsOpenClose.py" line="37"/>
+        <source>Angle step to rotate furniture front around. Negative value for open to left direction.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Woodworking_OpenAxis</name>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="31" />
+        <location filename="../../Tools/frontsOpenClose.py" line="32"/>
         <source>Axis to rotate front around. Possible strings: X, Y, Z.</source>
-        <translation>ღერძი წინ ბრუნვის გარშემო. შესაძლო სტრიქონები: X, Y, Z.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Workbench</name>
     <message>
-        <location filename="../../InitGui.py" line="112" />
+        <location filename="../../InitGui.py" line="112"/>
         <source>Woodworking</source>
-        <translation>ხის დამუშავება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="17" />
+        <location filename="../../InitGui.py" line="17"/>
         <source>Workbench for woodworking.</source>
-        <translation>სამუშაო მაგიდა ხის დამუშავებისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="45" />
+        <location filename="../../InitGui.py" line="45"/>
         <source>Woodworking - start</source>
-        <translation>ხის დამუშავება - დაწყება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="48" />
+        <location filename="../../InitGui.py" line="48"/>
         <source>Woodworking - move and copy</source>
-        <translation>ხის დამუშავება - გადატანა და კოპირება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="51" />
+        <location filename="../../InitGui.py" line="51"/>
         <source>Woodworking - resize</source>
-        <translation>ხის დამუშავება - ზომის შეცვლა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="54" />
+        <location filename="../../InitGui.py" line="54"/>
         <source>Woodworking - face</source>
-        <translation>ხის დამუშავება - სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="57" />
+        <location filename="../../InitGui.py" line="57"/>
         <source>Woodworking - between</source>
-        <translation>ხის დამუშავება - შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="60" />
+        <location filename="../../InitGui.py" line="60"/>
         <source>Woodworking - irregular shapes</source>
-        <translation>ხის დამუშავება - არარეგულარული ფორმები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="63" />
-        <source>Woodworking - position</source>
-        <translation>ხის დამუშავება - პოზიცია</translation>
+        <location filename="../../InitGui.py" line="63"/>
+        <source>Woodworking - location</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="66" />
+        <location filename="../../InitGui.py" line="66"/>
         <source>Woodworking - preview</source>
-        <translation>ხის დამუშავება - გადახედვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="69" />
+        <location filename="../../InitGui.py" line="69"/>
         <source>Woodworking - dowels and screws</source>
-        <translation>ხის დამუშავება - დუბლები და ხრახნები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="72" />
+        <location filename="../../InitGui.py" line="72"/>
         <source>Woodworking - fixture</source>
-        <translation>ხის დამუშავება - სამაგრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="75" />
+        <location filename="../../InitGui.py" line="75"/>
         <source>Woodworking - dimensions</source>
-        <translation>ხის დამუშავება - ზომები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="78" />
+        <location filename="../../InitGui.py" line="78"/>
         <source>Woodworking - project manage</source>
-        <translation>ხის დამუშავება - პროექტის მართვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="81" />
+        <location filename="../../InitGui.py" line="81"/>
         <source>Woodworking - drilling holes</source>
-        <translation>ხის დამუშავება - ხვრელების ბურღვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="84" />
+        <location filename="../../InitGui.py" line="84"/>
         <source>Woodworking - convert</source>
-        <translation>ხის დამუშავება - გადაკეთება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="87" />
+        <location filename="../../InitGui.py" line="87"/>
         <source>Woodworking - decorations</source>
-        <translation>ხის დამუშავება - დეკორაციები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="90" />
+        <location filename="../../InitGui.py" line="90"/>
         <source>Woodworking - parameterization</source>
-        <translation>ხის დამუშავება - პარამეტრიზაცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="93" />
+        <location filename="../../InitGui.py" line="93"/>
         <source>Woodworking - construction</source>
-        <translation>ხის დამუშავება - მშენებლობა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="96" />
+        <location filename="../../InitGui.py" line="96"/>
         <source>Woodworking - joinery</source>
-        <translation>ხის დამუშავება - სადურგლო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="99" />
+        <location filename="../../InitGui.py" line="99"/>
         <source>Woodworking - router</source>
-        <translation>ხის დამუშავება - როუტერი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="102" />
+        <location filename="../../InitGui.py" line="102"/>
         <source>Woodworking - advanced</source>
-        <translation>ხის დამუშავება - მოწინავე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="105" />
+        <location filename="../../InitGui.py" line="105"/>
         <source>Woodworking - code and debug</source>
-        <translation>ხის დამუშავება - კოდი და გამართვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="126" />
+        <location filename="../../InitGui.py" line="126"/>
         <source>Setting Woodworking wokbench as default ...</source>
-        <translation>Woodworking Wokbench ნაგულისხმევად დაყენება...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="137" />
-        <source>Setting icons position ...</source>
-        <translation>ხატების პოზიციის დაყენება...</translation>
+        <location filename="../../InitGui.py" line="137"/>
+        <source>Setting icons location ...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../InitGui.py" line="159" />
+        <location filename="../../InitGui.py" line="159"/>
         <source>Additional settings... </source>
-        <translation>დამატებითი პარამეტრები...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>addExternal</name>
     <message>
-        <location filename="../../loadTools.py" line="1619" />
+        <location filename="../../loadTools.py" line="1619"/>
         <source>addExternal, to create external geometry</source>
-        <translation>addExternal, გარე გეომეტრიის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1620" />
-        <source>This tool allows you to create sketch with external geometry from selected faces or edges.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ ესკიზი გარე გეომეტრიით შერჩეული სახეებიდან ან კიდეებიდან.</translation>
+        <location filename="../../loadTools.py" line="1620"/>
+        <source>This tool allows you to create sketch with external geometry from selected surfaces or edges.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addExternal.py" line="25" />
+        <location filename="../../Tools/addExternal.py" line="26"/>
         <source>Part, addExternal </source>
-        <translation>ნაწილი, დაამატეთ გარე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addExternal.py" line="28" />
+        <location filename="../../Tools/addExternal.py" line="29"/>
         <source>Body, addExternal </source>
-        <translation>სხეული, დაამატეთ გარე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addExternal.py" line="32" />
+        <location filename="../../Tools/addExternal.py" line="33"/>
         <source>Pattern, addExternal </source>
-        <translation>ნიმუში, დაამატეთგარე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addExternal.py" line="72" />
+        <location filename="../../Tools/addExternal.py" line="73"/>
         <source>addExternal</source>
-        <translation>addExternal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addExternal.py" line="154" />
-        <source>Possible selections methods: &lt;ul&gt;&lt;li&gt;&lt;b&gt;Face as Plane + Edges and Faces&lt;/b&gt; - in this case new Sketch with external geometry will be created. The new sketch plane will be taken from first selected face. I recommend this method, because in this case the sketch will be created in the root directory and all drawn wires can be converted to Pads in-place, using for example tool wires2pad or magicManager panel from vertices option.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch + Edges and Faces&lt;/b&gt; - in this case the external geometry will be created inside the selected Sketch. If the Sketch is inside containers with offsets you can adjust position of the converted Pads using for example tool panelMove2Anchor and selecting two edges.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to quickly create external geometry visible in a sketch from selected edges and faces. Edges or faces can belong to any objects. If you select face all edges will be added as external geometry, if you select edge only single edge will be added. This tool uses the PartDesign::SubShapeBinder function but in a slightly more advanced form. To select more objects, hold down CTRL-left while selecting them.</source>
-        <translation>შერჩევის შესაძლო მეთოდები: &lt;ul&gt;&lt;li&gt;&lt;b&gt;სახე, როგორც სიბრტყე + კიდეები და სახეები&lt;/b&gt; - ამ შემთხვევაში შეიქმნება ახალი ესკიზი გარე გეომეტრიით. ახალი ესკიზის თვითმფრინავი იქნება აღებული პირველი შერჩეული სახიდან. მე გირჩევთ ამ მეთოდს, რადგან ამ შემთხვევაში ესკიზი შეიქმნება root დირექტორიაში და ყველა დახატული მავთული შეიძლება გადაკეთდეს Pads-ად ადგილზე, მაგალითად tool wires2pad ან magicManager panel from vertices ვარიანტი.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch + Edges and Faces&lt;/b&gt; - ამ შემთხვევაში გარე გეომეტრია შეიქმნება არჩეული სკეჩის შიგნით. თუ ესკიზი არის კონტეინერების შიგნით ოფსეტურით, შეგიძლიათ დაარეგულიროთ კონვერტირებული ბალიშების პოზიცია, მაგალითად, ხელსაწყოს panelMove2Anchor-ის გამოყენებით და აირჩიოთ ორი კიდე.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ სწრაფად შექმნათ გარე გეომეტრია, რომელიც ჩანს ჩანახატზე არჩეული კიდეებიდან და სახეებიდან. კიდეები ან სახეები შეიძლება მიეკუთვნებოდეს ნებისმიერ ობიექტს. თუ აირჩევთ სახეს, ყველა კიდე დაემატება როგორც გარე გეომეტრია, თუ კიდეს აირჩევთ, დაემატება მხოლოდ ერთი კიდე. ეს ინსტრუმენტი იყენებს PartDesign::SubShapeBinder ფუნქციას, მაგრამ ოდნავ უფრო მოწინავე ფორმით. მეტი ობიექტის ასარჩევად, მათ არჩევისას გეჭიროთ CTRL-მარცხნივ.</translation>
+        <location filename="../../Tools/addExternal.py" line="155"/>
+        <source>Possible selections methods: &lt;ul&gt;&lt;li&gt;&lt;b&gt;Face as Plane + Edges and Faces&lt;/b&gt; - in this case new Sketch with external geometry will be created. The new sketch plane will be taken from first selected face. I recommend this method, because in this case the sketch will be created in the root directory and all drawn closed edges can be converted to objects of Pad type in-place, using for example tool wires2pad or magicManager panel from vertices option.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch + Edges and Faces&lt;/b&gt; - in this case the external geometry will be created inside the selected Sketch. If the Sketch is inside containers with offsets you can adjust position of the converted Pads using for example tool panelMove2Anchor and selecting two edges.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to quickly create external geometry visible in a sketch from selected edges and faces. Edges or faces can belong to any objects. If you select face all edges will be added as external geometry, if you select edge only single edge will be added. This tool uses the PartDesign::SubShapeBinder function but in a slightly more advanced form. To select more objects, hold down CTRL-left while selecting them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>addVeneer</name>
     <message>
-        <location filename="../../loadTools.py" line="5090" />
-        <source>addVeneer, to simulate veneer apply</source>
-        <translation>addVeneer, გამოიყენეთ veneer-ის სიმულაცია</translation>
+        <location filename="../../loadTools.py" line="5090"/>
+        <source>addVeneer, to create simulation of veneer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5091" />
+        <location filename="../../loadTools.py" line="5091"/>
         <source>This tool allows you to simulate needed offset for veneer.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ სიმულაცია მოახდინოთ ვინირისთვის საჭირო ოფსეტურით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="23" />
-        <source>Venner </source>
-        <translation>მეგობრები</translation>
+        <location filename="../../Tools/addVeneer.py" line="24"/>
+        <source>Veneer </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="77" />
+        <location filename="../../Tools/addVeneer.py" line="78"/>
         <source>Allows to skip this object at BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ ეს ობიექტი BOM-ში, მოჭრილი სიის ანგარიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="83" />
+        <location filename="../../Tools/addVeneer.py" line="84"/>
         <source>Object reference for script parsing.</source>
-        <translation>ობიექტის მითითება სკრიპტის ანალიზისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="89" />
+        <location filename="../../Tools/addVeneer.py" line="90"/>
         <source>Object reference label.</source>
-        <translation>ობიექტის საცნობარო ეტიკეტი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="95" />
+        <location filename="../../Tools/addVeneer.py" line="96"/>
         <source>Object reference name.</source>
-        <translation>ობიექტის საცნობარო სახელი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="101" />
+        <location filename="../../Tools/addVeneer.py" line="102"/>
         <source>Face name reference for script parsing.</source>
-        <translation>სახის სახელის მითითება სკრიპტის ანალიზისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="107" />
+        <location filename="../../Tools/addVeneer.py" line="108"/>
         <source>Face reference for script parsing.</source>
-        <translation>სახის მითითება სკრიპტის გაანალიზებისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="113" />
+        <location filename="../../Tools/addVeneer.py" line="114"/>
         <source>Veneer thickness for reference object face. It is not current veneer thickness.</source>
-        <translation>Veneer სისქე საცნობარო ობიექტის სახე. არ არის ამჟამინდელი ვინერის სისქე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="119" />
+        <location filename="../../Tools/addVeneer.py" line="120"/>
         <source>Veneer width for reference object face. It is not current veneer width.</source>
-        <translation>Veneer სიგანე საცნობარო ობიექტის სახე. ეს არ არის ამჟამინდელი veneer სიგანე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="125" />
+        <location filename="../../Tools/addVeneer.py" line="126"/>
         <source>Veneer length for reference object face. It is not current veneer length.</source>
-        <translation>Veneer სიგრძე საცნობარო ობიექტის სახე. ეს არ არის ამჟამინდელი ვინერის სიგრძე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/addVeneer.py" line="139" />
-        <source>&lt;b&gt;Please select at least one face to add veneer. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Veneer created from PVC material can be up to 2 mm thick. In such a case, you can use this tool, which allows you to simulate the addition of veneer. A Part::Box object will be created on the selected face, simulating the added veneer. This approach allows the added veneer to be easily modified. You can modify the length, width, thickness, and other parameters of the applied veneer, which means you can more accurately calculate how much veneer is needed and what spacing should be maintained when calculating board sizes. The default size and other parameters of the applied veneer are taken from the settings in the magicSettings tool. By default, the thickness of the applied veneer is set to 0 mm to avoid interfering with the modeling process. However, the object cannot be 0 mm thick, so the default settings set the veneer thickness to 0.01 mm. The default veneer color is white because the default board color is brown. Personally, I often use white veneer heat-sealing tape on plywood shelves, which makes the shelf look much better in white furniture. I use black veneer on white chipboard furniture. This approach allows you also to add texture only to veneer and get more realistic look. Added venner is also supported by cut-list created via getDimensions tool, so you can create detailed description of added veneer. To select more faces hold left control button CTRL during faces selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიეთ მინიმუმ ერთი სახე ვინირის დასამატებლად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; PVC მასალისგან შექმნილი ვინირი შეიძლება იყოს 2 მმ-მდე სისქის. ასეთ შემთხვევაში, შეგიძლიათ გამოიყენოთ ეს ინსტრუმენტი, რომელიც საშუალებას გაძლევთ სიმულაცია მოაწყოთ ვინირის დამატების. არჩეულ სახეზე შეიქმნება ნაწილი::ყუთის ობიექტი, დამატებული ვინერის სიმულაცია. ეს მიდგომა საშუალებას იძლევა დამატებული ვინირის ადვილად მოდიფიცირება. თქვენ შეგიძლიათ შეცვალოთ გამოყენებული ვინირის სიგრძე, სიგანე, სისქე და სხვა პარამეტრები, რაც ნიშნავს, რომ შეგიძლიათ უფრო ზუსტად გამოთვალოთ რამდენი ვინირი არის საჭირო და რა მანძილი უნდა იყოს დაცული დაფის ზომების გაანგარიშებისას. გამოყენებული ვინირის ნაგულისხმევი ზომა და სხვა პარამეტრები აღებულია magicSettings ინსტრუმენტის პარამეტრებიდან. ნაგულისხმევად, გამოყენებული ვინირის სისქე დაყენებულია 0 მმ-მდე, რათა თავიდან იქნას აცილებული მოდელირების პროცესში ჩარევა. თუმცა, ობიექტის სისქე არ შეიძლება იყოს 0 მმ, ამიტომ ნაგულისხმევი პარამეტრები დააყენეთ ვინირების სისქე 0,01 მმ-მდე. ნაგულისხმევი ვინირების ფერი თეთრია, რადგან დაფის ნაგულისხმევი ფერი ყავისფერია. პირადად მე, პლაივუდის თაროებზე ხშირად ვიყენებ თეთრ ვინირის თბოდამკეტ ლენტს, რაც თეთრ ავეჯში თაროს ბევრად უკეთესს ხდის. მე ვიყენებ შავ ვინირს თეთრი დაფის ავეჯზე. ეს მიდგომა ასევე საშუალებას გაძლევთ დაამატოთ ტექსტურა მხოლოდ ვინირს და მიიღოთ უფრო რეალისტური სახე. დამატებული ვენერი ასევე მხარს უჭერს cut-list-ს, რომელიც შექმნილია getDimensions ინსტრუმენტის საშუალებით, ასე რომ თქვენ შეგიძლიათ შექმნათ დამატებული ვინერის დეტალური აღწერა. მეტი სახის ასარჩევად, სახეების შერჩევისას დააჭირეთ მარცხენა საკონტროლო ღილაკს CTRL.</translation>
+        <location filename="../../Tools/addVeneer.py" line="140"/>
+        <source>&lt;b&gt;Please select at least one face to add veneer. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Veneer created from PVC material can be up to 2 mm thick. In such a case, you can use this tool, which allows you to simulate the addition of veneer. A Part::Box object will be created on the selected face, simulating the added veneer. This approach allows the added veneer to be easily modified. You can modify the length, width, thickness, and other parameters of the applied veneer, which means you can more accurately calculate how much veneer is needed and what spacing should be maintained when calculating board sizes. The default size and other parameters of the applied veneer are taken from the settings in the magicSettings tool. By default, the thickness of the applied veneer is set to 0 mm to avoid interfering with the modeling process. However, the object cannot be 0 mm thick, so the default settings set the veneer thickness to 0.01 mm. The default veneer color is white because the default board color is brown. Personally, I often use white veneer heat-sealing tape on plywood shelves, which makes the shelf look much better in white furniture. I use black veneer on white chipboard furniture. This approach allows you also to add texture only to veneer and get more realistic look. Added venner is also supported by cut-list created via getDimensions tool, so you can create detailed description of added veneer. To select more faces hold CTRL left  button during faces selection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>align2Curve</name>
     <message>
-        <location filename="../../loadTools.py" line="5129" />
-        <source>align2Curve, align panel to curve</source>
-        <translation>align2Curve, პანელის გასწორება მრუდზე</translation>
+        <location filename="../../loadTools.py" line="5129"/>
+        <source>align2Curve, to align panel to selected curve</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5130" />
+        <location filename="../../loadTools.py" line="5130"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/align2Curve.py" line="187" />
+        <location filename="../../Tools/align2Curve.py" line="188"/>
         <source>Possible selection methods</source>
-        <translation>შერჩევის შესაძლო მეთოდები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/align2Curve.py" line="189" />
+        <location filename="../../Tools/align2Curve.py" line="190"/>
         <source>First select curve, next select edge at each object you want to align.</source>
-        <translation>ჯერ აირჩიეთ მრუდი, შემდეგ აირჩიეთ ზღვარი თითოეულ ობიექტზე, რომლის გასწორებაც გსურთ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/align2Curve.py" line="192" />
+        <location filename="../../Tools/align2Curve.py" line="193"/>
         <source>First select curve, next select vertex at each object you want to align, this might be slower but more precise.</source>
-        <translation>ჯერ აირჩიეთ მრუდი, შემდეგ აირჩიეთ წვერო თითოეულ ობიექტზე, რომლის გასწორებაც გსურთ, ეს შეიძლება იყოს უფრო ნელი, მაგრამ უფრო ზუსტი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/align2Curve.py" line="194" />
+        <location filename="../../Tools/align2Curve.py" line="195"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/align2Curve.py" line="195" />
-        <source>This tool allows to align panels to the curve. It has been created for magicMove Copy Path option, to align panels to the curve. To select more objects hold left CTRL key during selection. To use this tool the panel need to have only single axis rotation offset. For example if you rotate panel 35 degrees around Y axis and the vertex will touch the curve. This tool not works if you need to rotate the panel additionally, for example 15 degrees around X axis. For more details see description at documentation page.</source>
-        <translation>ეს ხელსაწყო საშუალებას იძლევა პანელები გასწორდეს მრუდზე. იგი შექმნილია magicMove Copy Path ოფციისთვის, პანელები მრუდის გასასწორებლად. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ ხელსაწყოს გამოსაყენებლად პანელს უნდა ჰქონდეს მხოლოდ ერთი ღერძის ბრუნვის გადაადგილება. მაგალითად, თუ ატრიალებთ პანელს 35 გრადუსით Y ღერძის გარშემო და წვერო შეეხო მრუდს. ეს ინსტრუმენტი არ მუშაობს, თუ საჭიროა პანელის დამატებით როტაცია, მაგალითად 15 გრადუსით X ღერძის გარშემო. დამატებითი ინფორმაციისთვის იხილეთ აღწერა დოკუმენტაციის გვერდზე.</translation>
+        <location filename="../../Tools/align2Curve.py" line="196"/>
+        <source>This tool allows to align panels to the curve. It has been created for magicMove Copy by Path option, to align panels to the curve. To select more objects hold left CTRL key during selection. To use this tool the panel need to have only single axis rotation offset. For example if you rotate panel 35 degrees around Y axis and the vertex will touch the curve. This tool not works if you need to rotate the panel additionally, for example 15 degrees around X axis. For more details see description at documentation page.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>cornerBlock</name>
     <message>
-        <location filename="../../loadTools.py" line="3842" />
-        <source>cornerBlock, to create table corner block</source>
-        <translation>cornerBlock, მაგიდის კუთხის ბლოკის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="3842"/>
+        <source>cornerBlock, to create furniture table corner block</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3843" />
+        <location filename="../../loadTools.py" line="3843"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/cornerBlock.py" line="50" />
+        <location filename="../../Tools/cornerBlock.py" line="51"/>
         <source>&lt;b&gt;Please select single edge at each panel you want to change into corner block. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner block from selected edge. The cut size will be the panel thickness. The cut will be at the other side of selected edge, for better access for example if you create Cube 100 mm x 100 mm x 100 mm in the corner of the table to support table leg, and you want to change it into corner block, quickly with single click. You can replace more than one panel at once. Hold left CTRL key during edges selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ერთი კიდე თითოეულ პანელზე, რომლის შეცვლაც გსურთ კუთხის ბლოკად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ კუთხის ბლოკი არჩეული კიდედან. ჭრის ზომა იქნება პანელის სისქე. ჭრილი იქნება შერჩეული კიდის მეორე მხარეს, უკეთესი წვდომისთვის, მაგალითად, თუ თქვენ შექმნით კუბს 100 მმ x 100 მმ x 100 მმ მაგიდის კუთხეში მაგიდის ფეხის დასაჭერად და გსურთ მისი შეცვლა კუთხის ბლოკად, სწრაფად ერთი დაწკაპუნებით. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი პანელი ერთდროულად. გეჭიროთ მარცხენა CTRL ღილაკი კიდეების შერჩევისას.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>cornerBrace</name>
     <message>
-        <location filename="../../loadTools.py" line="3881" />
-        <source>cornerBrace, to create table corner brace</source>
-        <translation>cornerBrace, მაგიდის კუთხის სამაგრის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="3881"/>
+        <source>cornerBrace, to create furniture table corner brace</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3882" />
+        <location filename="../../loadTools.py" line="3882"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/cornerBrace.py" line="74" />
-        <source>&lt;b&gt;Please select single edge at each panel you want to change into corner brace. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner brace from selected edge (the single visible edge). The cut size will be the panel thickness for the first edge and for the second edge half of the thickness. So, you get nice looking corner brace with single click. For example you can create Cube 100 mm x 100 mm x 100 mm in the corner of the table to support table leg, and you can change it into corner brace, quickly with single click. You can replace more than one panel at once. Hold left CTRL key during edges selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ერთი კიდე თითოეულ პანელზე, რომლის შეცვლაც გსურთ კუთხის ფრჩხილად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ კუთხის სამაგრი არჩეული კიდედან (ერთი ხილული კიდე). ჭრის ზომა იქნება პანელის სისქე პირველი კიდეზე და მეორე კიდის სისქის ნახევარი. ასე რომ, ერთი დაწკაპუნებით მიიღებთ ლამაზ კუთხის სამაგრს. მაგალითად, თქვენ შეგიძლიათ შექმნათ კუბი 100 მმ x 100 მმ x 100 მმ მაგიდის კუთხეში მაგიდის ფეხის დასაჭერად, და შეგიძლიათ შეცვალოთ იგი კუთხის სამაგრად, სწრაფად ერთი დაწკაპუნებით. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი პანელი ერთდროულად. გეჭიროთ მარცხენა CTRL ღილაკი კიდეების შერჩევისას.</translation>
+        <location filename="../../Tools/cornerBrace.py" line="75"/>
+        <source>&lt;b&gt;Please select single edge at each panel you want to change into woodworking brace in the corner. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create wood table corner supporter brace from selected edge (the single visible edge). The cut size will be the panel thickness for the first edge and for the second edge half of the thickness. So, you get nice looking wood table corner brace with single click. For example you can create Cube 100 mm x 100 mm x 100 mm in the corner of the table to support table leg, and you can change it into corner brace, quickly with single click. You can replace more than one panel at once. Hold left CTRL key during edges selection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>cutDowels</name>
     <message>
-        <location filename="../../loadTools.py" line="3257" />
-        <source>cutDowels, cut dowels from panel</source>
-        <translation>cutDowels, გაჭრა dowels საწყისი პანელი</translation>
+        <location filename="../../loadTools.py" line="3257"/>
+        <source>cutDowels, to cut dowels from panel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3258" />
+        <location filename="../../loadTools.py" line="3258"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/cutDowels.py" line="46" />
+        <location filename="../../Tools/cutDowels.py" line="47"/>
         <source>&lt;b&gt;Please select panels to cut dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is designed to allow drilling for designing approach based on Cut holes using Cylinders without creating PartDesign objects. This tool allows you to automatically cut all dowels from selected panel. You do not have to select and search exact dowels that belongs to the selected panel. If you select panel, this tool search for all dowels that belongs to the selected panel and apply Boolean Cut on the panel. You can select many panels at once to cut dowels. To select more panels hold left CTRL key during selection. During this process only the copies will be used to cut, so the original Cylinders will not be moved at the objects Tree and will be visible at cut-list report. This feature is sensitive for visibility of Cylinders. So, you can hide Cylinders you do not want to be cut out from the panel.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ პანელები დუელების მოსაჭრელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო შექმნილია იმისთვის, რომ დაუშვას ბურღვა Cut ხვრელების დიზაინის საფუძველზე ცილინდრების გამოყენებით PartDesign ობიექტების შექმნის გარეშე. ეს ხელსაწყო საშუალებას გაძლევთ ავტომატურად ამოჭრათ ყველა დუელი არჩეული პანელიდან. თქვენ არ უნდა აირჩიოთ და მოძებნოთ ზუსტი dowels, რომელიც ეკუთვნის არჩეულ პანელს. თუ თქვენ აირჩევთ პანელს, ეს ხელსაწყო მოძებნის ყველა დუბლს, რომელიც ეკუთვნის არჩეულ პანელს და გამოიყენებს ლოგიკურ ჭრილს პანელზე. თქვენ შეგიძლიათ აირჩიოთ მრავალი პანელი ერთდროულად დუელების მოსაჭრელად. მეტი პანელის ასარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ პროცესის განმავლობაში მხოლოდ ასლები იქნება გამოყენებული ამოჭრისთვის, ასე რომ, ორიგინალური ცილინდრები არ გადაადგილდება ობიექტების ხეზე და ხილული იქნება cut-list ანგარიშში. ეს ფუნქცია მგრძნობიარეა ცილინდრების ხილვადობისთვის. ასე რომ, თქვენ შეგიძლიათ დამალოთ ცილინდრები, რომლებიც არ გსურთ, რომ ამოჭრათ პანელიდან.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>cutTenonDowels</name>
     <message>
-        <location filename="../../loadTools.py" line="4271" />
-        <source>cutTenonDowels, cut all tenon dowels from panel with copies</source>
-        <translation>cutTenonDowels, ამოიღეთ ყველა დუნდული პანელიდან ასლებით</translation>
+        <location filename="../../loadTools.py" line="4271"/>
+        <source>cutTenonDowels, to cut all tenons as dowels from panel with copies</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4272" />
+        <location filename="../../loadTools.py" line="4272"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/cutTenonDowels.py" line="52" />
-        <source>&lt;b&gt;Please select at least one panel to cut all tenon dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create mortises using tenon dowels created via jointTenonDowel or jointTenonDowelP tool. You do not have to select and search exact tenon dowels that belongs to the selected panel, this tool cut all tenon dowels automatically for selected panel. If you select panel, this tool search for all tenon dowels that belongs to the selected panel and apply Part Boolean Cut operation on the panel. The selected panel should rather be Part::Box type to not mix Part::Box objects with PartDesign::Pad design line too much. You can select multiply panels at once to cut tenon dowels. To select more panels hold left control key CTRL during objects selection. During this process only the copies will be used to cut, so the original tenon dowels will not be moved at the objects Tree. This feature is sensitive for visibility of tenon dowels and also for Tenon attribute. If the tenon dowel is hidden or Tenon attribute is set to False, such tenon dowel will be skipped during cut.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ მინიმუმ ერთი პანელი ყველა სამაგრის მოსაჭრელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო საშუალებას გაძლევთ შექმნათ თხრილები ერთობლივი TenonDowel-ის ან jointTenonDowelP ხელსაწყოების მეშვეობით შექმნილი ძაფების გამოყენებით. თქვენ არ უნდა აირჩიოთ და მოძებნოთ ზუსტი დუნდულები, რომლებიც ეკუთვნის არჩეულ პანელს, ეს ხელსაწყო ავტომატურად ჭრის ყველა დუნდულს არჩეულ პანელზე. თუ აირჩევთ პანელს, ეს ხელსაწყო მოძებნის ყველა საყრდენს, რომელიც ეკუთვნის არჩეულ პანელს და გამოიყენებს Part Boolean Cut ოპერაციას პანელზე. არჩეული პანელი უფრო მეტად უნდა იყოს Part::Box ტიპის, რათა არ შეერიოს Part::Box ობიექტები PartDesign::Pad დიზაინის ხაზს. თქვენ შეგიძლიათ აირჩიოთ გასამრავლებელი პანელები ერთბაშად, დუნდულების მოსაჭრელად. მეტი პანელის ასარჩევად, ობიექტების შერჩევისას, გეჭიროთ მარცხენა საკონტროლო ღილაკი CTRL. ამ პროცესის დროს მხოლოდ ასლები იქნება გამოყენებული ჭრისთვის, ასე რომ ორიგინალური დუნდულები არ გადაადგილდება ობიექტების ხეზე. ეს მახასიათებელი მგრძნობიარეა დუნდულების ხილვადობისთვის და ასევე Tenon ატრიბუტისთვის. თუ თხრილის დუბლი დამალულია ან Tenon ატრიბუტი დაყენებულია False-ზე, ასეთი დუნდული გამოტოვებული იქნება ჭრის დროს.</translation>
+        <location filename="../../Tools/cutTenonDowels.py" line="53"/>
+        <source>&lt;b&gt;Please select at least one panel to cut all tenon dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create mortises using tenon dowels created via jointTenonDowel or jointTenonDowelP tool. You do not have to select and search exact tenon dowels that belongs to the selected panel, this tool cut all tenon dowels automatically for selected panel. If you select panel, this tool search for all tenon dowels that belongs to the selected panel and apply Part::Boolean::Cut operation on the panel. The selected panel should rather be Part::Box type to not mix Part::Box objects with PartDesign::Pad design line too much. You can select multiply panels at once to cut tenon dowels. To select more panels hold left CTRL key during objects selection. During this process only the copies will be used to cut, so the original tenon dowels will not be moved at the objects Tree. This feature is sensitive for visibility of tenon dowels and also for Tenon attribute. If the tenon dowel is hidden or Tenon attribute is set to False, such tenon dowel will be skipped during cut.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>cutTenonDowelsP</name>
     <message>
-        <location filename="../../loadTools.py" line="4466" />
-        <source>cutTenonDowelsP, cut all tenon dowels from panel with links (parametric version)</source>
-        <translation>cutTenonDowelsP, ამოიღეთ ყველა დუნდული პანელიდან ბმულებით (პარამეტრული ვერსია)</translation>
+        <location filename="../../loadTools.py" line="4466"/>
+        <source>cutTenonDowelsP, to cut all tenons as dowels from panel using link (parametric version)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4467" />
+        <location filename="../../loadTools.py" line="4467"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/cutTenonDowelsP.py" line="52" />
-        <source>&lt;b&gt;Please select at least one panel to cut all tenon dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is parametric version of cutTenonDowels tool. To cut tenon dowels links will be used here, so the cut mortise will follow the tenon pattern changes. You can add new tenon dowel to the container or change dimensions and the cut mortise will be automatically updated. This tool allows to create mortises using tenon dowels created via jointTenonDowel or jointTenonDowelP tool but it is recommended to use parametric tenon dowels created via jointTenonDowelP tool to achieve fully parametric model. In this case you do not have to select and search exact tenon dowels that belongs to the selected panel, this tool cut all tenon dowels automatically for selected panel. If you select panel, this tool search for all tenon dowels that belongs to the selected panel and apply Part Boolean Cut with links operation on the panel. The selected panel should rather be Part::Box type to not mix Part::Box objects with PartDesign::Pad design line too much. You can select multiply panels at once to cut tenon dowels. To select more panels hold left control key CTRL during objects selection. This feature is sensitive for visibility of tenon dowels and also for Tenon attribute. If the tenon dowel is hidden or Tenon attribute is set to False, such tenon dowel will be skipped during cut.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ მინიმუმ ერთი პანელი ყველა სამაგრის მოსაჭრელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი არის cutTenonDowels ინსტრუმენტის პარამეტრული ვერსია. დუნდულების დასაჭრელად აქ გამოყენებული იქნება ბმულები, ასე რომ, ჭრილი მოჰყვება ტანის ნიმუშის ცვლილებებს. შეგიძლიათ კონტეინერს დაუმატოთ ახალი დუნდული, ან შეცვალოთ ზომები და ამოჭრილი ნაჭერი ავტომატურად განახლდება. ეს ხელსაწყო საშუალებას გაძლევთ შექმნათ თხრილები ერთობლივი TenonDowel ან jointTenonDowelP ხელსაწყოების საშუალებით შექმნილი დუნდულების გამოყენებით, მაგრამ რეკომენდირებულია გამოიყენოთ პარამეტრული დუნდულები, რომლებიც შექმნილია jointTenonDowelP ხელსაწყოს მეშვეობით სრულად პარამეტრული მოდელის მისაღწევად. ამ შემთხვევაში თქვენ არ მოგიწევთ შეარჩიოთ და მოძებნოთ ზუსტი დუნდულები, რომლებიც მიეკუთვნება არჩეულ პანელს, ეს ხელსაწყო ავტომატურად ჭრის ყველა დუნდულს არჩეულ პანელზე. თუ აირჩევთ პანელს, ეს ხელსაწყო მოძებნის ყველა საყრდენს, რომელიც ეკუთვნის არჩეულ პანელს და გამოიყენებს Part Boolean Cut ბმულების ოპერაციას პანელზე. არჩეული პანელი უფრო მეტად უნდა იყოს Part::Box ტიპის, რათა არ შეერიოს Part::Box ობიექტები PartDesign::Pad დიზაინის ხაზს. თქვენ შეგიძლიათ აირჩიოთ გასამრავლებელი პანელები ერთბაშად, დუნდულების მოსაჭრელად. მეტი პანელის ასარჩევად, ობიექტების შერჩევისას, გეჭიროთ მარცხენა საკონტროლო ღილაკი CTRL. ეს მახასიათებელი მგრძნობიარეა დუნდულების ხილვადობისთვის და ასევე Tenon ატრიბუტისთვის. თუ თხრილის დუბლი დამალულია ან Tenon ატრიბუტი დაყენებულია False-ზე, ასეთი დუნდული გამოტოვებული იქნება ჭრის დროს.</translation>
+        <location filename="../../Tools/cutTenonDowelsP.py" line="53"/>
+        <source>&lt;b&gt;Please select at least one panel to cut all tenon dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is parametric version of cutTenonDowels tool. To cut tenon dowels links will be used here, so the cut mortise will follow the tenon pattern changes. You can add new tenon dowel to the container or change dimensions and the cut mortise will be automatically updated. This tool allows to create mortises using tenon dowels created via jointTenonDowel or jointTenonDowelP tool but it is recommended to use parametric tenon dowels created via jointTenonDowelP tool to achieve fully parametric model. In this case you do not have to select and search exact tenon dowels that belongs to the selected panel, this tool cut all tenon dowels automatically for selected panel. If you select panel, this tool search for all tenon dowels that belongs to the selected panel and apply Part::Boolean::Cut with links operation on the panel. The selected panel should rather be Part::Box type to not mix Part::Box objects with PartDesign::Pad design line too much. You can select multiply panels at once to cut tenon dowels. To select more panels hold left CTRL key during objects selection. This feature is sensitive for visibility of tenon dowels and also for Tenon attribute. If the tenon dowel is hidden or Tenon attribute is set to False, such tenon dowel will be skipped during cut.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>debugInfo</name>
     <message>
-        <location filename="../../loadTools.py" line="5363" />
+        <location filename="../../loadTools.py" line="5363"/>
         <source>debugInfo, to show system info and update Woodworking workbench</source>
-        <translation>debugInfo, სისტემის ინფორმაციის საჩვენებლად და Woodworking workbench-ის განახლებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5364" />
-        <source>This tool shows installation information and allows to update if there is new version available.</source>
-        <translation>ეს ინსტრუმენტი აჩვენებს ინსტალაციის ინფორმაციას და საშუალებას იძლევა განახლდეს, თუ ხელმისაწვდომია ახალი ვერსია.</translation>
+        <location filename="../../loadTools.py" line="5364"/>
+        <source>This tool allows you to show installation information and update Woodworking workbench, if there is new version available.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="1103" />
+        <location filename="../../Tools/debugInfo.py" line="1106"/>
         <source>This FreeCAD version is too buggy to get debug information.</source>
-        <translation>FreeCAD-ის ეს ვერსია ზედმეტად გამართულია გამართვის ინფორმაციის მისაღებად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="471" />
+        <location filename="../../Tools/debugInfo.py" line="474"/>
         <source>debugInfo</source>
-        <translation>debugInfo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="493" />
+        <location filename="../../Tools/debugInfo.py" line="496"/>
         <source>Woodworking</source>
-        <translation>ხის დამუშავება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="575" />
+        <location filename="../../Tools/debugInfo.py" line="578"/>
         <source>Your workbench is up-to-date. </source>
-        <translation>თქვენი სამუშაო მაგიდა განახლებულია.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="580" />
+        <location filename="../../Tools/debugInfo.py" line="583"/>
         <source>New update for your workbench</source>
-        <translation>ახალი განახლება თქვენი სამუშაო მაგიდასთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="610" />
+        <location filename="../../Tools/debugInfo.py" line="613"/>
         <source>This kernel passed all tests.</source>
-        <translation>ამ ბირთვმა გაიარა ყველა ტესტი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="613" />
+        <location filename="../../Tools/debugInfo.py" line="616"/>
         <source>This kernel version might not work correctly.</source>
-        <translation>ბირთვის ამ ვერსიამ შეიძლება სწორად არ იმუშაოს.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="614" />
+        <location filename="../../Tools/debugInfo.py" line="617"/>
         <source>Tests failed: </source>
-        <translation>ტესტები ჩაიშალა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="643" />
+        <location filename="../../Tools/debugInfo.py" line="646"/>
         <source>You are using tested kernel version. Thanks.</source>
-        <translation>თქვენ იყენებთ ტესტირებული ბირთვის ვერსიას. მადლობა.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="646" />
+        <location filename="../../Tools/debugInfo.py" line="649"/>
         <source>Your kernel version is not tested.</source>
-        <translation>თქვენი ბირთვის ვერსია არ არის გამოცდილი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="677" />
+        <location filename="../../Tools/debugInfo.py" line="680"/>
         <source>Note:</source>
-        <translation>შენიშვნა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="678" />
+        <location filename="../../Tools/debugInfo.py" line="681"/>
         <source>CTRL-V - to paste it at your forum topic</source>
-        <translation>CTRL-V - ჩასვით თქვენს ფორუმის თემაში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="679" />
+        <location filename="../../Tools/debugInfo.py" line="682"/>
         <source>CTRL-A, CTRL-C - to copy again</source>
-        <translation>CTRL-A, CTRL-C - ხელახლა კოპირება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="689" />
+        <location filename="../../Tools/debugInfo.py" line="692"/>
         <source>update Woodworking workbench and restart</source>
-        <translation>განაახლეთ Woodworking Workbench და გადატვირთეთ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="694" />
-        <source>show disabled workbenches</source>
-        <translation>გამორთული სამუშაო მაგიდების ჩვენება</translation>
+        <location filename="../../Tools/debugInfo.py" line="697"/>
+        <source>show inactive workbenches</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="699" />
-        <source>remove disabled workbenches</source>
-        <translation>ამოიღეთ გამორთული სამუშაო მაგიდა</translation>
+        <location filename="../../Tools/debugInfo.py" line="702"/>
+        <source>remove inactive workbenches</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="845" />
+        <location filename="../../Tools/debugInfo.py" line="848"/>
         <source>Downloading latest update for Woodworking workbench from</source>
-        <translation>მიმდინარეობს უახლესი განახლების ჩამოტვირთვა Woodworking Workbench-ისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="861" />
+        <location filename="../../Tools/debugInfo.py" line="864"/>
         <source>Download failed!</source>
-        <translation>ჩამოტვირთვა ვერ მოხერხდა!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="863" />
+        <location filename="../../Tools/debugInfo.py" line="866"/>
         <source>Error: </source>
-        <translation>შეცდომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="873" />
+        <location filename="../../Tools/debugInfo.py" line="876"/>
         <source>Unpacking Woodworking workbench to</source>
-        <translation>ხის დამუშავების სამუშაო მაგიდის ამოლაგება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="897" />
+        <location filename="../../Tools/debugInfo.py" line="900"/>
         <source>Setting new folder as:</source>
-        <translation>ახალი საქაღალდის დაყენება, როგორც:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="913" />
+        <location filename="../../Tools/debugInfo.py" line="916"/>
         <source>Disable old Woodworking workbench</source>
-        <translation>გამორთეთ ძველი ხის სამუშაო მაგიდა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="931" />
+        <location filename="../../Tools/debugInfo.py" line="934"/>
         <source>Cleaning temporary files</source>
-        <translation>დროებითი ფაილების გაწმენდა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="947" />
+        <location filename="../../Tools/debugInfo.py" line="950"/>
         <source>Restarting FreeCAD</source>
-        <translation>FreeCAD-ის გადატვირთვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="954" />
+        <location filename="../../Tools/debugInfo.py" line="957"/>
         <source>Please save current ActiveDocument to continue</source>
-        <translation>გთხოვთ, შეინახოთ მიმდინარე ActiveDocument გასაგრძელებლად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="971" />
+        <location filename="../../Tools/debugInfo.py" line="974"/>
         <source>Latest update for Woodworking workbench will be downloaded. </source>
-        <translation>Woodworking workbench-ის უახლესი განახლება ჩამოიტვირთება.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="972" />
+        <location filename="../../Tools/debugInfo.py" line="975"/>
         <source>FreeCAD will restart with new Woodworking workbench version </source>
-        <translation>FreeCAD გადაიტვირთება ახალი Woodworking workbench ვერსიით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="974" />
-        <source>but old version will be stored and disabled. </source>
-        <translation>მაგრამ ძველი ვერსია შეინახება და გამორთული იქნება.</translation>
+        <location filename="../../Tools/debugInfo.py" line="977"/>
+        <source>but old version will be stored and set to inactive state. </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="992" />
-        <source>Woodworking workbench folders to remove</source>
-        <translation>ხის სამუშაო მაგიდის საქაღალდეები ამოსაღებად</translation>
+        <location filename="../../Tools/debugInfo.py" line="995"/>
+        <source>Woodworking workbench directories to remove</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="1014" />
+        <location filename="../../Tools/debugInfo.py" line="1017"/>
         <source>No old Woodworking workbench versions found.</source>
-        <translation>ხის სამუშაო მაგიდის ძველი ვერსიები ვერ მოიძებნა.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="1030" />
+        <location filename="../../Tools/debugInfo.py" line="1033"/>
         <source>Nothing to remove.</source>
-        <translation>მოსახსნელი არაფერია.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="1039" />
-        <source>Removed</source>
-        <translation>ამოღებულია</translation>
+        <location filename="../../Tools/debugInfo.py" line="1042"/>
+        <source>Old versions removed.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="1042" />
+        <location filename="../../Tools/debugInfo.py" line="1045"/>
         <source>Error removing</source>
-        <translation>შეცდომა წაშლისას</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/debugInfo.py" line="1104" />
+        <location filename="../../Tools/debugInfo.py" line="1107"/>
         <source>Errors:</source>
-        <translation>შეცდომები:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>drillCounterbores</name>
     <message>
-        <location filename="../../loadTools.py" line="3140" />
-        <source>drillCounterbores, drill bit, drill counterbores</source>
-        <translation>საბურღი კონტრბურები, ბურღული, საბურღი კონტრბორტები</translation>
+        <location filename="../../loadTools.py" line="3140"/>
+        <source>drillCounterbores, to create drill bit or drill counterbores</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3141" />
+        <location filename="../../loadTools.py" line="3141"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores.py" line="51" />
+        <location filename="../../Tools/drillCounterbores.py" line="52"/>
         <source>Possible selection methods</source>
-        <translation>შერჩევის შესაძლო მეთოდები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores.py" line="53" />
+        <location filename="../../Tools/drillCounterbores.py" line="54"/>
         <source>Select face to create drill bit.</source>
-        <translation>აირჩიეთ სახე საბურღი ბიტის შესაქმნელად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores.py" line="56" />
+        <location filename="../../Tools/drillCounterbores.py" line="57"/>
         <source>Select face and next drill bits to drill holes at selected face.</source>
-        <translation>აირჩიეთ სახე და შემდეგი საბურღი ბიტები არჩეულ სახეზე ხვრელების გასაბურღად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores.py" line="58" />
+        <location filename="../../Tools/drillCounterbores.py" line="59"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores.py" line="59" />
-        <source>This is drill bit to make counterbore with hole. The hole will be drilled below the bottom part of the drill bit, below the red face. The radius of the hole will be drill bit Radius1. The radius of counterbore will be drill bit Radius2. The hole depth will be drill bit Height. If you select face only, the drill bit will be created in the corner of the face (0 vertex), allowing you to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected should be face, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
-        <translation>ეს არის საბურღი ნახვრეტის გასაკეთებლად. ხვრელი გაბურღული იქნება ბურღის ქვედა ნაწილის ქვემოთ, წითელი სახის ქვემოთ. ხვრელის რადიუსი იქნება საბურღი Radius1. კონტრგაყვანილობის რადიუსი იქნება საბურღი რადიუსი2. ხვრელის სიღრმე იქნება საბურღი ბიტის სიმაღლე. თუ თქვენ აირჩევთ მხოლოდ სახეს, საბურღი საბურღი შეიქმნება სახის კუთხეში (0 წვერო), რაც საშუალებას მოგცემთ ზუსტად გადაიტანოთ საბურღი საბურღი სახის ნებისმიერ ადგილას. საბურღი არ გადაწიოთ ზემოთ, საბურღი უნდა ეხებოდეს სახეს. თქვენ შეგიძლიათ აირჩიოთ ნებისმიერი რაოდენობის საბურღი, ხვრელები გაბურღული იქნება თითოეული საბურღი ბიტის ქვემოთ, მაგრამ პირველი არჩეული უნდა იყოს სახე, შემდეგი საბურღი. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. თუ არჩეული ელემენტია Cube, ის შეიცვლება Pad-ით.</translation>
+        <location filename="../../Tools/drillCounterbores.py" line="60"/>
+        <source>This is drill bit to make counterbore with hole. The hole will be drilled below the bottom part of the drill bit, below the red surface. The radius of the hole will be equal to Radius1 drill bit attribute. The radius of counterbore will be equal to Radius2  drill bit attribute. The hole depth will be equal to Height drill bit attribute. If you select surface only, the drill bit will be created in the corner of the selected surface (0 vertex), allowing you to move the drill bit precisely to any place at the surface. Do not move the drill bit up, the drill bit should touch the surface. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected object should be surface, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is type of Part::Box (simple panel), it will be replaced with object with type of PartDesign::Pad.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>drillCounterbores2x</name>
     <message>
-        <location filename="../../loadTools.py" line="3179" />
-        <source>drillCounterbores2x, drill bit, drill counterbores from both sides</source>
-        <translation>საბურღი Counterbores2x, საბურღი, საბურღი საბურღი ორივე მხრიდან</translation>
+        <location filename="../../loadTools.py" line="3179"/>
+        <source>drillCounterbores2x, to create drill bit or drill counterbores from both sides</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3180" />
+        <location filename="../../loadTools.py" line="3180"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores2x.py" line="51" />
+        <location filename="../../Tools/drillCounterbores2x.py" line="52"/>
         <source>Possible selection methods</source>
-        <translation>შერჩევის შესაძლო მეთოდები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores2x.py" line="53" />
+        <location filename="../../Tools/drillCounterbores2x.py" line="54"/>
         <source>Select face to create drill bit.</source>
-        <translation>აირჩიეთ სახე საბურღი ბიტის შესაქმნელად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores2x.py" line="56" />
+        <location filename="../../Tools/drillCounterbores2x.py" line="57"/>
         <source>Select face and next drill bits to drill holes at selected face from both sides of the panel.</source>
-        <translation>აირჩიეთ სახე და შემდეგი საბურღი ბიტები პანელის ორივე მხრიდან არჩეულ სახეზე ხვრელების გასაბურღად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores2x.py" line="58" />
+        <location filename="../../Tools/drillCounterbores2x.py" line="59"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCounterbores2x.py" line="59" />
-        <source>This is drill bit to make counterbore2x with hole. The hole will be drilled below the bottom part of the drill bit, below the red face. The radius of the hole will be drill bit Radius1. The radius of counterbore will be drill bit Radius2. The hole depth will be panel thickness. The counterbore depth will be drill bit Height. If you select face only, the drill bit will be created in the corner of the face (0 vertex), allowing you to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected should be face, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
-        <translation>ეს არის საბურღი ნახვრეტით counterbore2x-ის გასაკეთებლად. ხვრელი გაბურღული იქნება ბურღის ქვედა ნაწილის ქვემოთ, წითელი სახის ქვემოთ. ხვრელის რადიუსი იქნება საბურღი Radius1. კონტრგაყვანილობის რადიუსი იქნება საბურღი რადიუსი2. ხვრელის სიღრმე იქნება პანელის სისქე. საბურღი სიღრმე იქნება საბურღი ბიტის სიმაღლე. თუ თქვენ აირჩევთ მხოლოდ სახეს, საბურღი საბურღი შეიქმნება სახის კუთხეში (0 წვერო), რაც საშუალებას მოგცემთ ზუსტად გადაიტანოთ საბურღი საბურღი სახის ნებისმიერ ადგილას. საბურღი არ გადაწიოთ ზემოთ, საბურღი უნდა ეხებოდეს სახეს. თქვენ შეგიძლიათ აირჩიოთ ნებისმიერი რაოდენობის საბურღი, ხვრელები გაბურღული იქნება თითოეული საბურღი ბიტის ქვემოთ, მაგრამ პირველი არჩეული უნდა იყოს სახე, შემდეგი საბურღი. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. თუ არჩეული ელემენტია Cube, ის შეიცვლება Pad-ით.</translation>
+        <location filename="../../Tools/drillCounterbores2x.py" line="60"/>
+        <source>This is drill bit to make counterbore2x with hole. The hole will be drilled below the bottom part of the drill bit, below the red surface. The radius of the hole will be equal to Radius1 drill bit attribute. The radius of counterbore will be equal to Radius2 drill bit attribute. The hole depth will be equal to panel thickness. The counterbore depth will be equal to Height drill bit attribute. If you select surface only, the drill bit will be created in the corner of the surface (0 vertex), allowing you to move the drill bit precisely to any place at the surface. Do not move the drill bit up, the drill bit should touch the surface. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected object should be surface, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is type of Part::Box (simple panel), it will be replaced with object with type of PartDesign::Pad.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>drillCountersinks</name>
     <message>
-        <location filename="../../loadTools.py" line="3101" />
-        <source>drillCountersinks, drill bit, drill countersinks</source>
-        <translation>საბურღი კონტრნიჟარები, ბურღული, საბურღი კონტრნიჟარები</translation>
+        <location filename="../../loadTools.py" line="3101"/>
+        <source>drillCountersinks, to create drill bit or drill countersinks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3102" />
+        <location filename="../../loadTools.py" line="3102"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCountersinks.py" line="51" />
+        <location filename="../../Tools/drillCountersinks.py" line="52"/>
         <source>Possible selection methods</source>
-        <translation>შერჩევის შესაძლო მეთოდები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCountersinks.py" line="53" />
+        <location filename="../../Tools/drillCountersinks.py" line="54"/>
         <source>Select face to create drill bit.</source>
-        <translation>აირჩიეთ სახე საბურღი ბიტის შესაქმნელად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCountersinks.py" line="56" />
+        <location filename="../../Tools/drillCountersinks.py" line="57"/>
         <source>Select face and next drill bits to drill holes at selected face.</source>
-        <translation>აირჩიეთ სახე და შემდეგი საბურღი ბიტები არჩეულ სახეზე ხვრელების გასაბურღად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCountersinks.py" line="58" />
+        <location filename="../../Tools/drillCountersinks.py" line="59"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillCountersinks.py" line="59" />
-        <source>This is drill bit to make countersink with hole. The hole will be drilled below the bottom part of the drill bit, below the red face. The radius of the hole will be drill bit Radius1. The radius of countersink will be drill bit Radius2. The hole depth will be drill bit Height. If you select face only, the drill bit will be created in the corner of the face (0 vertex), allowing you to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected should be face, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
-        <translation>ეს არის საბურღი ხვრელით კონტრასატორის გასაკეთებლად. ხვრელი გაბურღული იქნება ბურღის ქვედა ნაწილის ქვემოთ, წითელი სახის ქვემოთ. ხვრელის რადიუსი იქნება საბურღი Radius1. კონტრძირის რადიუსი იქნება საბურღი Radius2. ხვრელის სიღრმე იქნება საბურღი ბიტის სიმაღლე. თუ თქვენ აირჩევთ მხოლოდ სახეს, საბურღი საბურღი შეიქმნება სახის კუთხეში (0 წვერო), რაც საშუალებას მოგცემთ ზუსტად გადაიტანოთ საბურღი საბურღი სახის ნებისმიერ ადგილას. საბურღი არ გადაწიოთ ზემოთ, საბურღი უნდა ეხებოდეს სახეს. თქვენ შეგიძლიათ აირჩიოთ ნებისმიერი რაოდენობის საბურღი, ხვრელები გაბურღული იქნება თითოეული საბურღი ბიტის ქვემოთ, მაგრამ პირველი არჩეული უნდა იყოს სახე, შემდეგი საბურღი. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. თუ არჩეული ელემენტია Cube, ის შეიცვლება Pad-ით.</translation>
+        <location filename="../../Tools/drillCountersinks.py" line="60"/>
+        <source>This is drill bit to make countersink with hole. The hole will be drilled below the bottom part of the drill bit, below the red surface. The radius of the hole will be equal to Radius1 drill bit attribute. The radius of countersink will be equal to Radius2 drill bit attribute. The hole depth will be equal to Height drill bit attribute. If you select surface only, the drill bit will be created in the corner of the surface (0 vertex), allowing you to move the drill bit precisely to any place at the surface. Do not move the drill bit up, the drill bit should touch the surface. You can select any amount of drill bits, the holes will be drilled below each drill bit but first selected object should be surface, next drill bits. To select more objects hold left CTRL key during selection. If the selected element is type of Part::Box (simple panel), it will be replaced with object with type of PartDesign::Pad.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>drillHoles</name>
     <message>
-        <location filename="../../loadTools.py" line="3062" />
-        <source>drillHoles, drill bit, drill simple holes</source>
-        <translation>საბურღი ხვრელები, საბურღი, გაბურღეთ მარტივი ხვრელები</translation>
+        <location filename="../../loadTools.py" line="3062"/>
+        <source>drillHoles, to create drill bit or drill simple holes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3063" />
+        <location filename="../../loadTools.py" line="3063"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillHoles.py" line="50" />
+        <location filename="../../Tools/drillHoles.py" line="51"/>
         <source>Possible selection methods</source>
-        <translation>შერჩევის შესაძლო მეთოდები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillHoles.py" line="52" />
+        <location filename="../../Tools/drillHoles.py" line="53"/>
         <source>Select face to create drill bit.</source>
-        <translation>აირჩიეთ სახე საბურღი ბიტის შესაქმნელად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillHoles.py" line="55" />
+        <location filename="../../Tools/drillHoles.py" line="56"/>
         <source>Select face and next drill bits to drill holes at selected face.</source>
-        <translation>აირჩიეთ სახე და შემდეგი საბურღი ბიტები არჩეულ სახეზე ხვრელების გასაბურღად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillHoles.py" line="57" />
+        <location filename="../../Tools/drillHoles.py" line="58"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/drillHoles.py" line="58" />
-        <source>This is drill bit to make simple hole. The hole will be drilled below the bottom part of the drill bit, below the red face of the cylinder. The radius and depth of the hole will be the same as drill bit radius and height. You can resize the drill bit if you want. If you select face only, the drill bit will be created in the corner of the face (0 vertex). So, you will be able to move the drill bit precisely to any place at the face. Do not move the drill bit up, the drill bit should touch the face to get exact hole depth. If you select face and than any amount of drill bits, the holes will be drilled below each drill bit. To select more objects hold left CTRL key during selection. If the selected element is Cube, it will be replaced with Pad.</source>
-        <translation>ეს არის საბურღი მარტივი ხვრელის გასაკეთებლად. ხვრელი გაბურღული იქნება ბურღის ქვედა ნაწილის ქვემოთ, ცილინდრის წითელი ზედაპირის ქვემოთ. ხვრელის რადიუსი და სიღრმე იგივე იქნება, რაც საბურღი ბიტის რადიუსი და სიმაღლე. თუ გსურთ, შეგიძლიათ შეცვალოთ ბურღის ზომა. თუ აირჩევთ მხოლოდ სახეს, საბურღი შეიქმნება სახის კუთხეში (0 წვერო). ამრიგად, თქვენ შეძლებთ ბურღის ზუსტად გადატანას სახის ნებისმიერ ადგილას. არ გადაწიოთ საბურღი მაღლა, საბურღი უნდა ეხებოდეს სახეს, რომ მიიღოთ ზუსტი ხვრელის სიღრმე. თუ თქვენ აირჩევთ საბურღი ნაჭრების სახეს და ნებისმიერ რაოდენობას, ხვრელები გაბურღული იქნება თითოეული საბურღი ბიტის ქვემოთ. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. თუ არჩეული ელემენტია Cube, ის შეიცვლება Pad-ით.</translation>
+        <location filename="../../Tools/drillHoles.py" line="59"/>
+        <source>This is drill bit to make simple hole. The hole will be drilled below the bottom part of the drill bit, below the red surface of the cylinder. The radius of the hole will be equal to Radius1 drill bit attribute. The depth of the hole will be equal to Height drill bit attribute. You can resize the drill bit if you want. If you select surface only, the drill bit will be created in the corner of the surface (0 vertex). So, you will be able to move the drill bit precisely to any place at the surface. Do not move the drill bit up, the drill bit should touch the surface to get exact hole depth. If you select surface and than any amount of drill bits, the holes will be drilled below each drill bit. To select more objects hold left CTRL key during selection. If the selected element is type of Part::Box (simple panel), it will be replaced with object with type of PartDesign::Pad.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>edge2dowel</name>
     <message>
-        <location filename="../../loadTools.py" line="2906" />
-        <source>edge2dowel, dowel from edge hole</source>
-        <translation>edge2dowel, dowel საწყისი ზღვარზე ხვრელი</translation>
+        <location filename="../../loadTools.py" line="2906"/>
+        <source>edge2dowel, to create dowel from selected edge of hole</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2907" />
+        <location filename="../../loadTools.py" line="2907"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/edge2dowel.py" line="43" />
+        <location filename="../../Tools/edge2dowel.py" line="44"/>
         <source>&lt;b&gt;Please select valid edge of the hole to create dowel. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create dowels above the selected hole edges. To create dowel select edge of the hole. You can select many edges at once but all the holes need to be at the same object. The dowel Height will be 40. The dowel radius will be get from the selected edge hole radius. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიეთ ხვრელის სწორი კიდე დუელის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო საშუალებას გაძლევთ შექმნათ დუბლები არჩეული ხვრელების კიდეების ზემოთ. დოლის შესაქმნელად აირჩიეთ ხვრელის კიდე. თქვენ შეგიძლიათ აირჩიოთ მრავალი კიდე ერთდროულად, მაგრამ ყველა ხვრელი უნდა იყოს იმავე ობიექტზე. დუელის სიმაღლე იქნება 40. დუბლის რადიუსი მიიღება შერჩეული კიდის ხვრელის რადიუსიდან. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>edge2drillbit</name>
     <message>
-        <location filename="../../loadTools.py" line="2984" />
-        <source>edge2drillbit, drill bit from edge hole</source>
-        <translation>edge2drillbit, საბურღი ბიტი კიდეზე ნახვრეტიდან</translation>
+        <location filename="../../loadTools.py" line="2984"/>
+        <source>edge2drillbit, to create drill bit from selected edge of hole</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2985" />
+        <location filename="../../loadTools.py" line="2985"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/edge2drillbit.py" line="46" />
+        <location filename="../../Tools/edge2drillbit.py" line="47"/>
         <source>&lt;b&gt;Please select valid hole edges to create drill bits.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool can be used to create drill bits above holes of the hinges, angles or other fixture type. You to create drill bits precisely above the hole so that you can drill the hole quickly later. The drill bits will be created above the selected hole edges. To create drill bits select edge of the hole. You can select many edges at once but all the holes need to be at the same object. The drill bit Height will be 16. The drill bits radius will be get from the selected edge hole radius but will be little smaller, 1 mm, than the selected hole, to make correct pilot hole for screw. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სწორი ხვრელების კიდეები საბურღი ბიტების შესაქმნელად.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო შეიძლება გამოყენებულ იქნას საბურღი ბიტების შესაქმნელად ანჯისების, კუთხეების ან სხვა ტიპის მოწყობილობების ხვრელების ზემოთ. თქვენ შექმენით საბურღი ბიტები ზუსტად ხვრელის ზემოთ, რათა მოგვიანებით სწრაფად გაბურღოთ ხვრელი. საბურღი ბიტები შეიქმნება არჩეული ხვრელების კიდეების ზემოთ. საბურღი ბიტების შესაქმნელად აირჩიეთ ხვრელის კიდე. თქვენ შეგიძლიათ აირჩიოთ მრავალი კიდე ერთდროულად, მაგრამ ყველა ხვრელი უნდა იყოს იმავე ობიექტზე. საბურღი ნაჭრის სიმაღლე იქნება 16. საბურღი ბიტების რადიუსი მიიღება შერჩეული კიდის ხვრელის რადიუსიდან, მაგრამ იქნება ოდნავ პატარა, 1 მმ, ვიდრე არჩეული ხვრელი, რათა მოხდეს სწორი საპილოტე ხვრელი ხრახნისთვის. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>eyeHorus</name>
     <message>
-        <location filename="../../loadTools.py" line="2438" />
-        <source>eyeHorus, allows you to hide tree structure</source>
-        <translation>eyeHorus, საშუალებას გაძლევთ დამალოთ ხის სტრუქტურა</translation>
+        <location filename="../../loadTools.py" line="2438"/>
+        <source>eyeHorus, allows you to hide objects tree structure</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2439" />
-        <source>This tool allows you to close tree structure for each container and hide its content.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ დახუროთ ხის სტრუქტურა თითოეული კონტეინერისთვის და დამალოთ მისი შინაარსი.</translation>
+        <location filename="../../loadTools.py" line="2439"/>
+        <source>This tool allows you to close objects tree structure for each container and hide its content.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/eyeHorus.py" line="18" />
+        <location filename="../../Tools/eyeHorus.py" line="19"/>
         <source>&lt;b&gt;Please create active document and at least one object inside container to close tree for container.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to close all containers in tree view to have cleaner tree structure. Personally I use auto-expand tree after object selection in 3D view option but after modeling and selecting many objects the objects tree look less readable if you have many deeply nested containers. So this simple tool allows you to make it cleaner with single click and together with eyeRa tool allows you to quickly view and hide full structure. &lt;br&gt;&lt;br&gt;&lt;b&gt;About icon:&lt;/b&gt; I did not have any ideas for an icon related to carpentry, and quite by chance I came up with the idea that the Eye of Ra and Horus would be cool in this case. Personally, I love stories about ancient Egyptian gods and the icon represents the eye of the god Horus, whose power was limited. So, in a sense, it is the opposite of the Eye of Ra.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმენით აქტიური დოკუმენტი და მინიმუმ ერთი ობიექტი კონტეინერში, რათა დახუროთ ხე კონტეინერისთვის.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ დახუროთ ყველა კონტეინერი ხეების ხედში, რათა გქონდეთ უფრო სუფთა ხის სტრუქტურა. პირადად მე ვიყენებ ავტომატური გაფართოების ხეს ობიექტის შერჩევის შემდეგ 3D ხედის ვარიანტში, მაგრამ მოდელირებისა და მრავალი ობიექტის არჩევის შემდეგ ობიექტების ხე ნაკლებად იკითხება, თუ ბევრი ღრმად ჩასმული კონტეინერი გაქვთ. ასე რომ, ეს მარტივი ინსტრუმენტი საშუალებას გაძლევთ გახადოთ ის უფრო სუფთა ერთი დაწკაპუნებით და eyeRa ინსტრუმენტთან ერთად საშუალებას გაძლევთ სწრაფად ნახოთ და დამალოთ სრული სტრუქტურა. &lt;br&gt;&lt;br&gt;&lt;b&gt;ხატის შესახებ:&lt;/b&gt; მე არ მქონდა იდეა ხუროსთან დაკავშირებული ხატის შესახებ და სრულიად შემთხვევით გამიჩნდა იდეა, რომ რა და ჰორუსის თვალი ამ შემთხვევაში მაგარი იქნებოდა. პირადად მე მიყვარს ისტორიები ძველ ეგვიპტურ ღმერთებზე და ხატი წარმოადგენს ღმერთ ჰორუსის თვალს, რომლის ძალა შეზღუდული იყო. ასე რომ, გარკვეული გაგებით, ეს არის რა თვალის საპირისპირო.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>eyeRa</name>
     <message>
-        <location filename="../../loadTools.py" line="2399" />
-        <source>eyeRa, allows you to show tree structure</source>
-        <translation>eyeRa, საშუალებას გაძლევთ აჩვენოთ ხის სტრუქტურა</translation>
+        <location filename="../../loadTools.py" line="2399"/>
+        <source>eyeRa, allows you to show objects tree structure</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2400" />
-        <source>This tool allows you to expand tree structure for each container and show its content.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გააფართოვოთ ხის სტრუქტურა თითოეული კონტეინერისთვის და აჩვენოთ მისი შინაარსი.</translation>
+        <location filename="../../loadTools.py" line="2400"/>
+        <source>This tool allows you to expand objects tree structure for each container and show its content.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/eyeRa.py" line="19" />
+        <location filename="../../Tools/eyeRa.py" line="20"/>
         <source>&lt;b&gt;Please create active document and at least one object inside container to expand tree for container and show its content.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to expand all containers in tree view to see quickly full tree structure of your model. Personally I use auto-expand tree after object selection in 3D view option but to exapand full structure you have to select all abject at 3D model or manually expand each container what is time-consuming. This simple tool allows you to make it with single click and together with eyeHorus tool allows you to quickly view and hide full structure. &lt;br&gt;&lt;br&gt;&lt;b&gt;About icon:&lt;/b&gt; I did not have any ideas for an icon related to carpentry, and quite by chance I came up with the idea that the Eye of Ra and Horus would be cool in this case. Personally, I love stories about ancient Egyptian gods and the icon represents the eye of the god Ra, who saw everything, so it perfectly fits to the expanding the entire object tree structure and displaying all objects.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმნათ აქტიური დოკუმენტი და მინიმუმ ერთი ობიექტი კონტეინერში, რათა გააფართოვოთ ხე კონტეინერისთვის და აჩვენოთ მისი შინაარსი.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გააფართოვოთ ყველა კონტეინერი ხის ხედში, რათა სწრაფად ნახოთ თქვენი მოდელის სრული ხის სტრუქტურა. პირადად მე ვიყენებ ავტომატური გაფართოების ხეს ობიექტის არჩევის შემდეგ 3D ხედვის ოფციაში, მაგრამ სრული სტრუქტურის გასადიდებლად თქვენ უნდა აირჩიოთ ყველა აბსენტი 3D მოდელზე ან ხელით გააფართოვოთ თითოეული კონტეინერი, რაც შრომატევადია. ეს მარტივი ინსტრუმენტი საშუალებას გაძლევთ გააკეთოთ ის ერთი დაწკაპუნებით და eyeHorus ინსტრუმენტთან ერთად საშუალებას გაძლევთ სწრაფად ნახოთ და დამალოთ სრული სტრუქტურა. &lt;br&gt;&lt;br&gt;&lt;b&gt;ხატის შესახებ:&lt;/b&gt; მე არ მქონდა იდეა ხუროსთან დაკავშირებული ხატის შესახებ და სრულიად შემთხვევით გამიჩნდა იდეა, რომ რა და ჰორუსის თვალი ამ შემთხვევაში მაგარი იქნებოდა. პირადად მე მიყვარს ისტორიები ძველი ეგვიპტური ღმერთების შესახებ და ხატი წარმოადგენს ღმერთის რა თვალს, რომელიც ხედავდა ყველაფერს, ამიტომ იგი იდეალურად ერგება მთელი ობიექტის ხის სტრუქტურის გაფართოებას და ყველა ობიექტის ჩვენებას.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>fitModel</name>
     <message>
-        <location filename="../../loadTools.py" line="2009" />
-        <source>fitModel, to view model</source>
-        <translation>fitModel, მოდელის სანახავად</translation>
+        <location filename="../../loadTools.py" line="2009"/>
+        <source>fitModel, set default model view</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2010" />
+        <location filename="../../loadTools.py" line="2010"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/fitModel.py" line="12" />
+        <location filename="../../Tools/fitModel.py" line="13"/>
         <source>Please create model to fit it to the screen. This tool allows to fit model to the screen view and also rotate the model view to the base XY position (0 key press).</source>
-        <translation>გთხოვთ, შექმენით მოდელი, რომ მოერგოს მას ეკრანზე. ეს ხელსაწყო საშუალებას იძლევა მოდელის მორგება ეკრანის ხედზე და ასევე მოდელის ხედის როტაცია საბაზისო XY პოზიციაზე (0 ღილაკის დაჭერა).</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>frontsOpenClose</name>
     <message>
-        <location filename="../../loadTools.py" line="2087" />
-        <source>frontsOpenClose, open or close all fronts</source>
-        <translation>frontsOpen დახურეთ, გახსენით ან დახურეთ ყველა ფრონტი</translation>
+        <location filename="../../loadTools.py" line="2087"/>
+        <source>frontsOpenClose, open or close all fronts of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2088" />
+        <location filename="../../loadTools.py" line="2088"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="11" />
+        <location filename="../../Tools/frontsOpenClose.py" line="12"/>
         <source>Object type for script parsing.</source>
-        <translation>ობიექტის ტიპი სკრიპტის ანალიზისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="16" />
+        <location filename="../../Tools/frontsOpenClose.py" line="17"/>
         <source>Allows to skip open simple front inside LinkGroup container and rotate whole LinkGroup container instead.</source>
-        <translation>საშუალებას აძლევს გამოტოვოს გახსნილი მარტივი ფრონტი LinkGroup კონტეინერის შიგნით და სანაცვლოდ მოაბრუნოს მთელი LinkGroup კონტეინერი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="21" />
-        <source>Object name of the edge to open front. By default all objects with name starting with Front or front will be opened to left.</source>
-        <translation>კიდის ობიექტის სახელი წინა გასახსნელად. ნაგულისხმევად, ყველა ობიექტი, სახელწოდებით დაწყებული წინა ან წინიდან, გაიხსნება მარცხნივ.</translation>
+        <location filename="../../Tools/frontsOpenClose.py" line="22"/>
+        <source>Object name for the edge to open furniture front. By default all objects with name starting with Front or front will be opened to left.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="26" />
-        <source>Edge name to open front as the CenterOfMass vector reference. Edge1 for left open. Edge5 for right open.</source>
-        <translation>გვერდის სახელი, რომ გაიხსნას წინ, როგორც CenterOfMass ვექტორის მითითება. Edge1 მარცხნივ ღია. Edge5 მარჯვენა გახსნისთვის.</translation>
+        <location filename="../../Tools/frontsOpenClose.py" line="27"/>
+        <source>Edge name to open furniture front as the CenterOfMass vector reference. The name Edge1 for left open and name Edge5 for right open.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/frontsOpenClose.py" line="146" />
-        <source>Possible selection methods: &lt;ul&gt;&lt;li&gt;&lt;b&gt;no selection&lt;/b&gt; - allows you to open all fronts. If the objects name starts with "front" or "Front" this front will be open by default via Edge1 to the left side.&lt;/li&gt;&lt;li&gt;&lt;b&gt;edges&lt;/b&gt; - you have to select single edge for each front to add open front attributes to each front. This allows you to change default left open to right open.&lt;/li&gt;&lt;li&gt;&lt;b&gt;LinkGroup + edge of simple front inside&lt;/b&gt; - allows you to set rotation attributes to LinkGroup container with handle and simple front inside, to rotate whole LinkGroup container with handle but via edge of simple front inside. In this case you must also set attributes to simple front inside but turn off open of the simple front inside to not duplicate rotation.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to open and close all cabinet fronts simultaneously. This allows you to quickly view the cabinets internal structure without having to search for each front in the object tree and hide or rotate them individually. The fronts rotate with a default rotation increment of 45 degrees. This allows you to select the front opening angle, from a simple tilt to an open inner front that can open beyond 90 degrees. Rotating the fronts around the Z axis avoids the issue of maximum opening angles for different hinge types. However, the opening of the fronts can be customized by editing the attributes for each front. Opening attributes can also be added to each front using this tool. To select more edges or objects hold left CTRL key during selection.</source>
-        <translation>შერჩევის შესაძლო მეთოდები: &lt;ul&gt;&lt;li&gt;&lt;b&gt;არჩევის გარეშე&lt;/b&gt; - გაძლევთ საშუალებას გახსნათ ყველა ფრონტი. თუ ობიექტების სახელი იწყება "წინა" ან "წინ"-ით, ეს წინა მხარე ნაგულისხმევად ღია იქნება Edge1-ის მეშვეობით მარცხენა მხარეს.&lt;/li&gt;&lt;li&gt;&lt;b&gt;კიდეები&lt;/b&gt; - თქვენ უნდა აირჩიოთ ერთი კიდე თითოეული ფრონტისთვის, რათა დაამატოთ ღია წინა ატრიბუტები თითოეულ ფრონტზე. ეს საშუალებას გაძლევთ შეცვალოთ ნაგულისხმევი მარცხნიდან ღია მარჯვნივ.&lt;/li&gt;&lt;li&gt;&lt;b&gt;LinkGroup + მარტივი წინა კიდეები შიგნით&lt;/b&gt; - საშუალებას გაძლევთ დააყენოთ ბრუნვის ატრიბუტები LinkGroup კონტეინერში სახელურით და მარტივი წინა შიგნით, მოატრიალოთ მთელი LinkGroup კონტეინერი სახელურით, მაგრამ შიგნით მარტივი წინა კიდეების გავლით. ამ შემთხვევაში თქვენ ასევე უნდა დააყენოთ ატრიბუტები შიგნიდან მარტივ წინა მხარეს, მაგრამ გამორთოთ მარტივი წინა ნაწილის გახსნა, რათა არ მოხდეს ბრუნვის დუბლიკატი.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გახსნათ და დახუროთ ყველა კაბინეტის ფრონტი ერთდროულად. ეს საშუალებას გაძლევთ სწრაფად დაათვალიეროთ კაბინეტის შიდა სტრუქტურა ობიექტის ხეში თითოეული ფრონტის მოძებნის და ცალკე დამალვის ან როტაციის გარეშე. ფრონტები ბრუნავს ნაგულისხმევი ბრუნვის 45 გრადუსით. ეს საშუალებას გაძლევთ აირჩიოთ წინა გახსნის კუთხე, მარტივი დახრილიდან ღია შიდა ფრონტამდე, რომელიც შეიძლება გაიხსნას 90 გრადუსზე მეტი. ფრონტების მოტრიალება Z ღერძის ირგვლივ თავიდან აიცილებს მაქსიმალური გახსნის კუთხეების საკითხს სხვადასხვა ტიპის საკინძებისთვის. თუმცა, ფრონტების გახსნა შეიძლება მორგებული იყოს თითოეული ფრონტის ატრიბუტების რედაქტირებით. გახსნის ატრიბუტები ასევე შეიძლება დაემატოს თითოეულ ფრონტს ამ ხელსაწყოს გამოყენებით. მეტი კიდეების ან ობიექტების ასარჩევად, შერჩევისას დააჭირეთ მარცხენა CTRL კლავიშს.</translation>
+        <location filename="../../Tools/frontsOpenClose.py" line="147"/>
+        <source>Possible selection methods: &lt;ul&gt;&lt;li&gt;&lt;b&gt;no selection&lt;/b&gt; - allows you to open all furniture fronts. If the objects name starts with name &quot;front&quot; or name &quot;Front&quot; this furniture front will be open by default via Edge1 to the left side.&lt;/li&gt;&lt;li&gt;&lt;b&gt;edges&lt;/b&gt; - you have to select single edge for each furniture front to add open furniture front attributes to each furniture front object. This allows you to change default left open to right open.&lt;/li&gt;&lt;li&gt;&lt;b&gt;LinkGroup + edge of simple furniture front inside&lt;/b&gt; - allows you to set rotation attributes to LinkGroup container with handle and simple furniture front inside, to rotate whole LinkGroup container with handle but via edge of simple furniture front inside. In this case you must also set attributes to simple furniture front object inside but turn off open attribute of the simple furniture front object inside to not duplicate rotation.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to open and close all cabinet fronts simultaneously. This allows you to quickly view the cabinets internal structure without having to search for each furniture front in the object tree and hide or rotate them individually. The furniture fronts rotate with a default rotation increment of 45 degrees. This allows you to select the furniture front opening angle, from a simple tilt to an open furniture inner front that can open beyond 90 degrees. Rotating the furniture fronts around the Z axis avoids the issue of maximum opening angles for different hinge types. However, the opening of the furniture fronts can be customized by editing the attributes for each furniture front object. Opening attributes can also be added to each furniture front object using this tool. To select more edges or objects hold left CTRL key during selection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>getDimensions</name>
     <message>
-        <location filename="../../loadTools.py" line="2594" />
-        <source>getDimensions, to create cut-list and BOM</source>
-        <translation>getDimensions, cut-list-ის და BOM-ის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="2594"/>
+        <source>getDimensions, to create a cut-list</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2595" />
-        <source>Creates spreadsheet with dimensions to cut.</source>
-        <translation>ქმნის ელცხრილს გასაჭრელად ზომებით.</translation>
+        <location filename="../../loadTools.py" line="2595"/>
+        <source>This tool allows you to create cutting lists. Multiple report types are available.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="35" />
+        <location filename="../../Tools/getDimensions.py" line="36"/>
         <source>all objects</source>
-        <translation>ყველა ობიექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="27" />
+        <location filename="../../Tools/getDimensions.py" line="28"/>
         <source>selected objects</source>
-        <translation>შერჩეული ობიექტები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="28" />
+        <location filename="../../Tools/getDimensions.py" line="29"/>
         <source>Assembly4 structure</source>
-        <translation>ასამბლეა 4 სტრუქტურა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="31" />
+        <location filename="../../Tools/getDimensions.py" line="32"/>
         <source>all objects in active document</source>
-        <translation>ყველა ობიექტი აქტიურ დოკუმენტში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="32" />
+        <location filename="../../Tools/getDimensions.py" line="33"/>
         <source>only selected objects in active document</source>
-        <translation>მხოლოდ შერჩეული ობიექტები აქტიურ დოკუმენტში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="33" />
+        <location filename="../../Tools/getDimensions.py" line="34"/>
         <source>dedicated for Assembly4 workbench objects</source>
-        <translation>განკუთვნილია Assembly4 სამუშაო მაგიდის ობიექტებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="65" />
+        <location filename="../../Tools/getDimensions.py" line="68"/>
         <source>q - for cut service</source>
-        <translation>q - მოჭრილი მომსახურებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="41" />
+        <location filename="../../Tools/getDimensions.py" line="42"/>
         <source>n - for verification</source>
-        <translation>n - გადამოწმებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="42" />
+        <location filename="../../Tools/getDimensions.py" line="43"/>
         <source>g - wood type</source>
-        <translation>g - ხის ტიპი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="43" />
+        <location filename="../../Tools/getDimensions.py" line="44"/>
         <source>m - material description</source>
-        <translation>მ - მასალის აღწერა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="44" />
+        <location filename="../../Tools/getDimensions.py" line="419"/>
+        <source>r - raw wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="46"/>
         <source>e - veneer</source>
-        <translation>e - veneer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="45" />
+        <location filename="../../Tools/getDimensions.py" line="47"/>
         <source>d - drilling</source>
-        <translation>დ - ბურღვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="46" />
+        <location filename="../../Tools/getDimensions.py" line="48"/>
         <source>c - named constraints</source>
-        <translation>გ - დასახელებული შეზღუდვები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="47" />
+        <location filename="../../Tools/getDimensions.py" line="49"/>
         <source>p - all constraints</source>
-        <translation>p - ყველა შეზღუდვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="48" />
+        <location filename="../../Tools/getDimensions.py" line="50"/>
         <source>w - weight</source>
-        <translation>w - წონა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="49" />
+        <location filename="../../Tools/getDimensions.py" line="51"/>
         <source>b - budget</source>
-        <translation>ბ - ბიუჯეტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="50" />
+        <location filename="../../Tools/getDimensions.py" line="52"/>
         <source>a - approximation</source>
-        <translation>ა - მიახლოება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="53" />
+        <location filename="../../Tools/getDimensions.py" line="55"/>
         <source>quantity first for cut chipboards service</source>
-        <translation>რაოდენობა პირველ რიგში მოჭრილი დაფების სერვისისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="54" />
+        <location filename="../../Tools/getDimensions.py" line="56"/>
         <source>objects labels for verification, furniture parts listing</source>
-        <translation>ობიექტების ეტიკეტები შემოწმებისთვის, ავეჯის ნაწილების ჩამონათვალი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="55" />
-        <source>containers labels for wood type, colors, custom groups</source>
-        <translation>კონტეინერების ეტიკეტები ხის ტიპის, ფერების, საბაჟო ჯგუფებისთვის</translation>
+        <location filename="../../Tools/getDimensions.py" line="57"/>
+        <source>shows the labels of the containers, for wood type, colors, custom groups</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="56" />
+        <location filename="../../Tools/getDimensions.py" line="58"/>
         <source>material description from object material, Label2 attribute or magicSettings</source>
-        <translation>მასალის აღწერა ობიექტის მასალისგან, Label2 ატრიბუტიდან ან magicSettings-დან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="57" />
+        <location filename="../../Tools/getDimensions.py" line="59"/>
+        <source>list for sawmills to order lumber with rough and finish columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="60"/>
         <source>dedicated for veneer by edge color, quick edgeband</source>
-        <translation>ეძღვნება ვინირს კიდეების ფერით, სწრაფი ზოლი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="58" />
+        <location filename="../../Tools/getDimensions.py" line="61"/>
         <source>dedicated for holes, countersinks, counterbores, pocket holes description</source>
-        <translation>ეძღვნება ხვრელებს, კონტრსინკებს, კონტრბორტებს, ჯიბის ხვრელების აღწერას</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="59" />
+        <location filename="../../Tools/getDimensions.py" line="62"/>
         <source>only named constraints for PartDesign objects, custom report</source>
-        <translation>მხოლოდ დასახელებული შეზღუდვები PartDesign ობიექტებისთვის, მორგებული ანგარიში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="60" />
+        <location filename="../../Tools/getDimensions.py" line="63"/>
         <source>all constraints for PartDesign objects, quick report</source>
-        <translation>ყველა შეზღუდვა PartDesign ობიექტებისთვის, სწრაფი ანგარიში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="61" />
+        <location filename="../../Tools/getDimensions.py" line="64"/>
         <source>calculate weight using magicSettings tool settings</source>
-        <translation>გამოთვალეთ წონა magicSettings ინსტრუმენტის პარამეტრების გამოყენებით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="62" />
+        <location filename="../../Tools/getDimensions.py" line="65"/>
         <source>calculate needed budget using magicSettings tool settings</source>
-        <translation>გამოთვალეთ საჭირო ბიუჯეტი magicSettings ინსტრუმენტის პარამეტრების გამოყენებით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="63" />
+        <location filename="../../Tools/getDimensions.py" line="66"/>
         <source>approximation for cutlistoptimizer.com</source>
-        <translation>მიახლოება cutlistoptimizer.com-ისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="121" />
+        <location filename="../../Tools/getDimensions.py" line="124"/>
         <source>millimeter</source>
-        <translation>მილიმეტრიანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="122" />
+        <location filename="../../Tools/getDimensions.py" line="125"/>
         <source>centimeter</source>
-        <translation>სანტიმეტრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="123" />
+        <location filename="../../Tools/getDimensions.py" line="126"/>
         <source>meter</source>
-        <translation>მეტრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="124" />
+        <location filename="../../Tools/getDimensions.py" line="127"/>
         <source>inch</source>
-        <translation>ინჩი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="125" />
-        <source>notation X' Y n/d" with reduction</source>
-        <translation>აღნიშვნა X' Y n/d" შემცირებით</translation>
+        <location filename="../../Tools/getDimensions.py" line="128"/>
+        <source>notation X&apos; Y n/d&quot; with reduction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="126" />
-        <source>notation X' Y-n/d" with reduction</source>
-        <translation>აღნიშვნა X' Y-n/d" შემცირებით</translation>
+        <location filename="../../Tools/getDimensions.py" line="129"/>
+        <source>notation X&apos; Y-n/d&quot; with reduction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="127" />
-        <source>notation X' Y n/d" without reduction</source>
-        <translation>აღნიშვნა X' Y n/d" შემცირების გარეშე</translation>
+        <location filename="../../Tools/getDimensions.py" line="130"/>
+        <source>notation X&apos; Y n/d&quot; without reduction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="212" />
+        <location filename="../../Tools/getDimensions.py" line="217"/>
         <source>user system settings</source>
-        <translation>მომხმარებლის სისტემის პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="153" />
+        <location filename="../../Tools/getDimensions.py" line="156"/>
         <source>square millimeter (mm2)</source>
-        <translation>კვადრატული მილიმეტრი (მმ2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="154" />
+        <location filename="../../Tools/getDimensions.py" line="157"/>
         <source>square centimeters (cm2)</source>
-        <translation>კვადრატული სანტიმეტრი (სმ2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="155" />
+        <location filename="../../Tools/getDimensions.py" line="158"/>
         <source>square meter (m2)</source>
-        <translation>კვადრატული მეტრი (მ2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="159" />
-        <source>square inch (in2)</source>
-        <translation>კვადრატული ინჩი (2 ინჩი)</translation>
+        <location filename="../../Tools/getDimensions.py" line="163"/>
+        <source>square inch (inch2)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="158" />
+        <location filename="../../Tools/getDimensions.py" line="160"/>
+        <source>volume in board foot (1ft × 1ft × 1in)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="162"/>
         <source>area by system settings</source>
-        <translation>ტერიტორია სისტემის პარამეტრების მიხედვით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="185" />
+        <location filename="../../Tools/getDimensions.py" line="190"/>
         <source>normal mode, show and calculate all objects and groups</source>
-        <translation>ნორმალური რეჟიმი, აჩვენეთ და გამოთვალეთ ყველა ობიექტი და ჯგუფი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="186" />
+        <location filename="../../Tools/getDimensions.py" line="191"/>
         <source>simple mode, not show hidden objects for simple structures</source>
-        <translation>მარტივი რეჟიმი, არ აჩვენოთ ფარული ობიექტები მარტივი სტრუქტურებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="187" />
+        <location filename="../../Tools/getDimensions.py" line="192"/>
         <source>simple edge mode, show all but not add hidden to the edge size</source>
-        <translation>მარტივი კიდეების რეჟიმი, აჩვენე ყველა, მაგრამ არ დაამატო ფარული კიდეების ზომაზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="188" />
+        <location filename="../../Tools/getDimensions.py" line="193"/>
         <source>simple nesting, inherit visibility from the nearest container</source>
-        <translation>მარტივი ბუდე, მემკვიდრეობით ხილვადობას უახლოესი კონტეინერიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="189" />
-        <source>base screw, to hide base screw inside LinkGroup containers</source>
-        <translation>საბაზისო ხრახნი, LinkGroup კონტეინერების შიგნით საბაზისო ხრახნის დასამალად</translation>
+        <location filename="../../Tools/getDimensions.py" line="194"/>
+        <source>to hide base object of the screw inside LinkGroup containers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="190" />
+        <location filename="../../Tools/getDimensions.py" line="195"/>
         <source>advanced nesting, inherit visibility from the highest container</source>
-        <translation>მოწინავე ბუდე, მემკვიდრეობით ხილვადობას უმაღლესი კონტეინერიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="196" />
-        <source>Woodworking workbench approach, show Base and Tool</source>
-        <translation>ხის სამუშაო მაგიდასთან მიდგომა, ჩვენება ბაზა და ხელსაწყო</translation>
+        <location filename="../../Tools/getDimensions.py" line="201"/>
+        <source>Woodworking workbench approach, show Part::Base and Part::Tool</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="197" />
-        <source>FreeCAD default approach, show Base only</source>
-        <translation>FreeCAD ნაგულისხმევი მიდგომა, ჩვენება მხოლოდ Base</translation>
+        <location filename="../../Tools/getDimensions.py" line="202"/>
+        <source>FreeCAD default approach, show Part::Base only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="198" />
-        <source>custom approach, show Tool only</source>
-        <translation>მორგებული მიდგომა, მხოლოდ ინსტრუმენტის ჩვენება</translation>
+        <location filename="../../Tools/getDimensions.py" line="203"/>
+        <source>custom approach, show Part::Tool only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="210" />
+        <location filename="../../Tools/getDimensions.py" line="215"/>
         <source>English language</source>
-        <translation>ინგლისური ენა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="211" />
+        <location filename="../../Tools/getDimensions.py" line="216"/>
         <source>Polish language</source>
-        <translation>პოლონური ენა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="218" />
+        <location filename="../../Tools/getDimensions.py" line="223"/>
         <source>low ink mode (good for printing)</source>
-        <translation>დაბალი მელნის რეჟიმი (კარგია დასაბეჭდად)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="219" />
+        <location filename="../../Tools/getDimensions.py" line="224"/>
         <source>high quality mode (good for pdf or html export)</source>
-        <translation>მაღალი ხარისხის რეჟიმი (კარგია pdf ან html ექსპორტისთვის)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="5854" />
+        <location filename="../../Tools/getDimensions.py" line="6051"/>
         <source>getDimensions</source>
-        <translation>getDimensions</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="468" />
+        <location filename="../../Tools/getDimensions.py" line="485"/>
         <source>Search path:</source>
-        <translation>ძიების გზა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="477" />
+        <location filename="../../Tools/getDimensions.py" line="494"/>
         <source>Main report:</source>
-        <translation>მთავარი მოხსენება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="493" />
+        <location filename="../../Tools/getDimensions.py" line="510"/>
         <source>- thickness summary</source>
-        <translation>- სისქის შეჯამება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="496" />
+        <location filename="../../Tools/getDimensions.py" line="513"/>
         <source>- edgeband info</source>
-        <translation>- edgeband ინფორმაცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="499" />
+        <location filename="../../Tools/getDimensions.py" line="516"/>
         <source>- custom measurements</source>
-        <translation>- ინდივიდუალური გაზომვები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="502" />
+        <location filename="../../Tools/getDimensions.py" line="519"/>
         <source>- dowels and screws</source>
-        <translation>- dowels და ხრახნები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="505" />
+        <location filename="../../Tools/getDimensions.py" line="522"/>
         <source>- construction profiles</source>
-        <translation>- სამშენებლო პროფილები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="508" />
+        <location filename="../../Tools/getDimensions.py" line="525"/>
         <source>- grain direction</source>
-        <translation>- მარცვლის მიმართულება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="511" />
+        <location filename="../../Tools/getDimensions.py" line="528"/>
         <source>- decorations</source>
-        <translation>- დეკორაციები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="514" />
+        <location filename="../../Tools/getDimensions.py" line="531"/>
         <source>- veneer simulation</source>
-        <translation>- ვინირების სიმულაცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="517" />
+        <location filename="../../Tools/getDimensions.py" line="534"/>
         <source>- weight column</source>
-        <translation>- წონის სვეტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="520" />
+        <location filename="../../Tools/getDimensions.py" line="537"/>
         <source>- price column</source>
-        <translation>- ფასის სვეტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="523" />
+        <location filename="../../Tools/getDimensions.py" line="540"/>
         <source>- max and min size</source>
-        <translation>- მაქსიმალური და მინიმალური ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="531" />
+        <location filename="../../Tools/getDimensions.py" line="548"/>
         <source>Units for dimensions:</source>
-        <translation>ერთეული ზომებისთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="543" />
+        <location filename="../../Tools/getDimensions.py" line="560"/>
         <source>Precision for dimensions:</source>
-        <translation>სიზუსტე ზომებისთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="550" />
+        <location filename="../../Tools/getDimensions.py" line="567"/>
         <source>Units for area:</source>
-        <translation>ერთეულები ფართობისთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="562" />
+        <location filename="../../Tools/getDimensions.py" line="579"/>
         <source>Precision for area:</source>
-        <translation>სიზუსტე ფართობისთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="569" />
+        <location filename="../../Tools/getDimensions.py" line="586"/>
         <source>Units for edge size:</source>
-        <translation>ერთეულები კიდეების ზომისთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="581" />
+        <location filename="../../Tools/getDimensions.py" line="598"/>
         <source>Precision for edge size:</source>
-        <translation>სიზუსტე კიდეების ზომისთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="592" />
+        <location filename="../../Tools/getDimensions.py" line="609"/>
         <source>All objects:</source>
-        <translation>ყველა ობიექტი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="604" />
-        <source>Part :: Cut content:</source>
-        <translation>ნაწილი :: ამოჭრილი შინაარსი:</translation>
+        <location filename="../../Tools/getDimensions.py" line="621"/>
+        <source>Part::Cut content:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="620" />
+        <location filename="../../Tools/getDimensions.py" line="637"/>
         <source>Report language:</source>
-        <translation>ანგარიშის ენა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="632" />
+        <location filename="../../Tools/getDimensions.py" line="649"/>
         <source>Report quality:</source>
-        <translation>მოხსენების ხარისხი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="649" />
+        <location filename="../../Tools/getDimensions.py" line="666"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="655" />
+        <location filename="../../Tools/getDimensions.py" line="672"/>
         <source>Please select face to get furniture color reference.</source>
-        <translation>გთხოვთ, აირჩიოთ სახე ავეჯის ფერის მითითების მისაღებად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="659" />
+        <location filename="../../Tools/getDimensions.py" line="676"/>
         <source>Edgeband code:</source>
-        <translation>Edgeband კოდი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="668" />
-        <source>Custom:</source>
-        <translation>მორგებული:</translation>
+        <location filename="../../Tools/getDimensions.py" line="685"/>
+        <source>Custom code:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="678" />
+        <location filename="../../Tools/getDimensions.py" line="695"/>
         <source>create spreadsheet toCut with dimensions, cut-list, BOM</source>
-        <translation>შექმენით ელცხრილი toCut ზომებით, cut-list, BOM</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="718" />
+        <location filename="../../Tools/getDimensions.py" line="735"/>
         <source>Report type:</source>
-        <translation>მოხსენების ტიპი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="737" />
+        <location filename="../../Tools/getDimensions.py" line="754"/>
         <source>Units:</source>
-        <translation>ერთეულები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="747" />
+        <location filename="../../Tools/getDimensions.py" line="764"/>
         <source>Visibility:</source>
-        <translation>ხილვადობა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="757" />
+        <location filename="../../Tools/getDimensions.py" line="774"/>
         <source>Additional settings:</source>
-        <translation>დამატებითი პარამეტრები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="774" />
+        <location filename="../../Tools/getDimensions.py" line="791"/>
         <source>Edgeband:</source>
-        <translation>Edgeband:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="1003" />
+        <location filename="../../Tools/getDimensions.py" line="1020"/>
         <source>Select face to get furniture color reference.</source>
-        <translation>აირჩიეთ სახე ავეჯის ფერის მითითების მისაღებად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="2809" />
+        <location filename="../../Tools/getDimensions.py" line="2870"/>
         <source>Veneer</source>
-        <translation>ვინირი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="2810" />
+        <location filename="../../Tools/getDimensions.py" line="2871"/>
         <source>Face</source>
-        <translation>სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="2812" />
+        <location filename="../../Tools/getDimensions.py" line="2873"/>
         <source>Color RGBA</source>
-        <translation>ფერი RGBA</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3739" />
+        <location filename="../../Tools/getDimensions.py" line="3818"/>
         <source>Name</source>
-        <translation>სახელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3740" />
+        <location filename="../../Tools/getDimensions.py" line="3819"/>
         <source>Quantity</source>
-        <translation>რაოდენობა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3767" />
+        <location filename="../../Tools/getDimensions.py" line="3848"/>
         <source>Dimensions</source>
-        <translation>ზომები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3766" />
+        <location filename="../../Tools/getDimensions.py" line="3847"/>
         <source>Thickness</source>
-        <translation>სისქე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3745" />
-        <source>mm2</source>
-        <translation>მმ2</translation>
+        <location filename="../../Tools/getDimensions.py" line="3824"/>
+        <source>mm^2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3747" />
-        <source>cm2</source>
-        <translation>სმ2</translation>
+        <location filename="../../Tools/getDimensions.py" line="3826"/>
+        <source>cm^2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3749" />
-        <source>m2</source>
-        <translation>მ2</translation>
+        <location filename="../../Tools/getDimensions.py" line="3828"/>
+        <source>m^2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3751" />
-        <source>in2</source>
-        <translation>2-ში</translation>
+        <location filename="../../Tools/getDimensions.py" line="3830"/>
+        <source>inch^2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3771" />
+        <location filename="../../Tools/getDimensions.py" line="3832"/>
+        <source>Board Foot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="3852"/>
         <source>Area</source>
-        <translation>ფართობი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3755" />
+        <location filename="../../Tools/getDimensions.py" line="3836"/>
         <source>Summary by groups</source>
-        <translation>შეჯამება ჯგუფების მიხედვით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3756" />
+        <location filename="../../Tools/getDimensions.py" line="3837"/>
         <source>Summary by thickness</source>
-        <translation>შეჯამება სისქის მიხედვით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3757" />
+        <location filename="../../Tools/getDimensions.py" line="3838"/>
         <source>Total edge size</source>
-        <translation>მთლიანი კიდეების ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3770" />
+        <location filename="../../Tools/getDimensions.py" line="3839"/>
         <source>Length</source>
-        <translation>სიგრძე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3759" />
+        <location filename="../../Tools/getDimensions.py" line="3840"/>
         <source>Total edge size without veneer</source>
-        <translation>კიდის მთლიანი ზომა ვინირების გარეშე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3760" />
+        <location filename="../../Tools/getDimensions.py" line="3841"/>
         <source>Total needed veneer</source>
-        <translation>სულ საჭირო ვინირი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3761" />
+        <location filename="../../Tools/getDimensions.py" line="3842"/>
         <source>edge</source>
-        <translation>ზღვარი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3762" />
+        <location filename="../../Tools/getDimensions.py" line="3843"/>
         <source>surface</source>
-        <translation>ზედაპირი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3763" />
+        <location filename="../../Tools/getDimensions.py" line="3844"/>
         <source>dimensions</source>
-        <translation>ზომები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3764" />
+        <location filename="../../Tools/getDimensions.py" line="3845"/>
         <source>Depth</source>
-        <translation>სიღრმე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3765" />
+        <location filename="../../Tools/getDimensions.py" line="3846"/>
         <source>Construction profile</source>
-        <translation>სამშენებლო პროფილი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3768" />
+        <location filename="../../Tools/getDimensions.py" line="3849"/>
         <source>Mounting points</source>
-        <translation>სამონტაჟო წერტილები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3769" />
+        <location filename="../../Tools/getDimensions.py" line="3850"/>
         <source>Diameter</source>
-        <translation>დიამეტრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3772" />
+        <location filename="../../Tools/getDimensions.py" line="3851"/>
+        <source>Wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="3853"/>
         <source>Custom measurements</source>
-        <translation>მორგებული გაზომვები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3773" />
+        <location filename="../../Tools/getDimensions.py" line="3854"/>
         <source>Grain Direction</source>
-        <translation>მარცვლეულის მიმართულება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3774" />
+        <location filename="../../Tools/getDimensions.py" line="3855"/>
         <source>horizontal</source>
-        <translation>ჰორიზონტალური</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3775" />
+        <location filename="../../Tools/getDimensions.py" line="3856"/>
         <source>vertical</source>
-        <translation>ვერტიკალური</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3776" />
+        <location filename="../../Tools/getDimensions.py" line="3857"/>
         <source>Needed veneer for color</source>
-        <translation>ფერისთვის საჭიროა ვინირი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3777" />
+        <location filename="../../Tools/getDimensions.py" line="3858"/>
         <source>Weight</source>
-        <translation>წონა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3778" />
+        <location filename="../../Tools/getDimensions.py" line="3859"/>
         <source>Price</source>
-        <translation>ფასი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3779" />
+        <location filename="../../Tools/getDimensions.py" line="3860"/>
         <source>Minimum edge size</source>
-        <translation>კიდეების მინიმალური ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3780" />
+        <location filename="../../Tools/getDimensions.py" line="3861"/>
         <source>Maximum edge size</source>
-        <translation>კიდეების მაქსიმალური ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3781" />
+        <location filename="../../Tools/getDimensions.py" line="3862"/>
         <source>Required width for transporting boards</source>
-        <translation>დაფების ტრანსპორტირებისთვის საჭირო სიგანე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3782" />
+        <location filename="../../Tools/getDimensions.py" line="3863"/>
         <source>Required length for transporting boards</source>
-        <translation>დაფების ტრანსპორტირებისთვის საჭირო სიგრძე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3783" />
+        <location filename="../../Tools/getDimensions.py" line="3864"/>
         <source>Price for needed veneer</source>
-        <translation>ფასი საჭირო ვინირისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="3784" />
+        <location filename="../../Tools/getDimensions.py" line="3865"/>
         <source>Veneer price for total edge</source>
-        <translation>ვინირების ფასი მთლიანი კიდეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/getDimensions.py" line="5851" />
+        <location filename="../../Tools/getDimensions.py" line="3866"/>
+        <source>Pieces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="3867"/>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="3868"/>
+        <source>raw wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="3869"/>
+        <source>finished wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/getDimensions.py" line="6048"/>
         <source>Please create active document and objects to generate cut-list.</source>
-        <translation>გთხოვთ, შექმენით აქტიური დოკუმენტი და ობიექტები cut-list-ის შესაქმნელად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>grainH</name>
     <message>
-        <location filename="../../loadTools.py" line="4037" />
-        <source>grainH, grain direction marker, horizontal</source>
-        <translation>grainH, მარცვლის მიმართულების მარკერი, ჰორიზონტალური</translation>
+        <location filename="../../loadTools.py" line="4037"/>
+        <source>grainH, to create horizontal grain direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4038" />
+        <location filename="../../loadTools.py" line="4038"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/grainH.py" line="27" />
+        <location filename="../../Tools/grainH.py" line="28"/>
         <source>face grain direction, h - horizontal, v - vertical, x - no grain</source>
-        <translation>სახე მარცვლის მიმართულება, h - ჰორიზონტალური, v - ვერტიკალური, x - მარცვლის გარეშე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/grainH.py" line="139" />
+        <location filename="../../Tools/grainH.py" line="140"/>
         <source>&lt;b&gt;Please select face to create horizontal grain direction description. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates horizontal grain direction description at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სახე ჰორიზონტალური მარცვლის მიმართულების აღწერილობის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო ქმნის ჰორიზონტალური მარცვლის მიმართულების აღწერას არჩეულ სახეზე. თქვენ შეგიძლიათ აირჩიოთ მრავალი სახე და მრავალი ობიექტი. შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. Grain ატრიბუტი დაემატება ობიექტს. მარცვლეულის მიმართულების აღწერილობის დამატების შემდეგ ობიექტი შეიძლება გადაადგილდეს და მარცვლეულის აღწერა გადაადგილდება ობიექტთან ერთად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>grainV</name>
     <message>
-        <location filename="../../loadTools.py" line="4076" />
-        <source>grainV, grain direction marker, vertical</source>
-        <translation>grainV, მარცვლის მიმართულების მარკერი, ვერტიკალური</translation>
+        <location filename="../../loadTools.py" line="4076"/>
+        <source>grainV, to create vertical grain direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4077" />
+        <location filename="../../loadTools.py" line="4077"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/grainV.py" line="27" />
+        <location filename="../../Tools/grainV.py" line="28"/>
         <source>face grain direction, h - horizontal, v - vertical, x - no grain</source>
-        <translation>სახე მარცვლის მიმართულება, h - ჰორიზონტალური, v - ვერტიკალური, x - მარცვლის გარეშე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/grainV.py" line="139" />
+        <location filename="../../Tools/grainV.py" line="140"/>
         <source>&lt;b&gt;Please select face to create vertical grain direction description. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates vertical grain direction description at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სახე მარცვლეულის მიმართულების ვერტიკალური აღწერილობის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო ქმნის ვერტიკალური მარცვლის მიმართულების აღწერას არჩეულ სახეზე. თქვენ შეგიძლიათ აირჩიოთ მრავალი სახე და მრავალი ობიექტი. შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. Grain ატრიბუტი დაემატება ობიექტს. მარცვლეულის მიმართულების აღწერილობის დამატების შემდეგ ობიექტი შეიძლება გადაადგილდეს და მარცვლეულის აღწერა გადაადგილდება ობიექტთან ერთად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>grainX</name>
     <message>
-        <location filename="../../loadTools.py" line="4115" />
-        <source>grainX, grain direction marker, no grain</source>
-        <translation>grainX, მარცვლის მიმართულების მარკერი, მარცვლების გარეშე</translation>
+        <location filename="../../loadTools.py" line="4115"/>
+        <source>grainX, to create a empty of grain direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4116" />
+        <location filename="../../loadTools.py" line="4116"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/grainX.py" line="27" />
+        <location filename="../../Tools/grainX.py" line="28"/>
         <source>face grain direction, h - horizontal, v - vertical, x - no grain</source>
-        <translation>სახე მარცვლის მიმართულება, h - ჰორიზონტალური, v - ვერტიკალური, x - მარცვლის გარეშე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/grainX.py" line="139" />
-        <source>&lt;b&gt;Please select face to create no grain direction description. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates no grain direction description at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სახე, რომ არ შექმნათ მარცვლეულის მიმართულების აღწერა. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი არ ქმნის მარცვლის მიმართულების აღწერას არჩეულ სახეზე. თქვენ შეგიძლიათ აირჩიოთ მრავალი სახე და მრავალი ობიექტი. შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. Grain ატრიბუტი დაემატება ობიექტს. მარცვლეულის მიმართულების აღწერილობის დამატების შემდეგ ობიექტი შეიძლება გადაადგილდეს და მარცვლეულის აღწერა გადაადგილდება ობიექტთან ერთად.</translation>
+        <location filename="../../Tools/grainX.py" line="140"/>
+        <source>&lt;b&gt;Please select face to create direction description about no grain. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates direction description  about no grain at selected face. You can select multiple faces and multiple objects. Hold left CTRL key during selection. The Grain attribute will be added to the object. After adding grain direction description the object can be moved and the grain description will be moved together with the object.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>jointMortiseCut</name>
     <message>
-        <location filename="../../loadTools.py" line="3998" />
-        <source>jointMortiseCut, joint mortise for jointTenonCut</source>
-        <translation>jointMortiseCut, სახსრის მორთვა ერთობლივიTenonCut-ისთვის</translation>
+        <location filename="../../loadTools.py" line="3998"/>
+        <source>jointMortiseCut, to create mortise for jointTenonCut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3999" />
+        <location filename="../../loadTools.py" line="3999"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointMortiseCut.py" line="34" />
+        <location filename="../../Tools/jointMortiseCut.py" line="35"/>
         <source>Part, jointMortiseCut</source>
-        <translation>ნაწილი, ერთობლივიMortiseCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointMortiseCut.py" line="37" />
+        <location filename="../../Tools/jointMortiseCut.py" line="38"/>
         <source>Body, jointMortiseCut</source>
-        <translation>სხეული, ერთობლივიMortiseCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointMortiseCut.py" line="41" />
+        <location filename="../../Tools/jointMortiseCut.py" line="42"/>
         <source>Pattern, jointMortiseCut</source>
-        <translation>ნიმუში, ერთობლივიMortiseCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointMortiseCut.py" line="135" />
+        <location filename="../../Tools/jointMortiseCut.py" line="136"/>
         <source>jointMortiseCut </source>
-        <translation>jointMortiseCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointMortiseCut.py" line="167" />
+        <location filename="../../Tools/jointMortiseCut.py" line="168"/>
         <source>&lt;b&gt;Possible selections:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Face to create Mortise + Tenons faces&lt;/b&gt; - in this case you need to first select the face of the object on which you want to create the Mortise, then press the spacebar to hide the object on which the Mortise will be created, to get access to the tenons faces inside the Mortise object, then while holding down the left CTRL key, select all the tenons faces for which you want to cut the Mortises. The Mortise object will appear if the Mortises will be created correctly. In this case, a new common Mortise pattern will be created for all selected Tenons faces.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch Mortise pattern + Face to create Mortise + Tenons faces&lt;/b&gt; - this version is the same as the previous one, except that you must first select the Sketch of an existing Mortise connection. This allows you to continue creating a Mortise for the existing connection pattern.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Note:&lt;/b&gt; This tool cut Mortises at the selected face in the parametric way. The pocket is created using Clones to the Sketch pattern. The Sketch pattern for pocket operation will be the same for all selected tenons faces and is based from first selected face or existing Sketch pattern. So if the faces have different sizes it is recommended to use this tool twice with different selection to have two Sketch patterns for pockets. This tool supports multi face selection. To select more faces hold left control button CTRL during faces selection. The objects can be type of PartDesign::Pad or Part::Box. If the object is Part::Box it will be automatically converted into PartDesign::Pad object and the cut will be done on such Pad. The dimensions is taken from not-cut Pad objects, SizeX and SizeY constraints.</source>
-        <translation>&lt;b&gt;შესაძლო არჩევანი:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Face შექმნა Mortise + Tenons სახეები&lt;/b&gt; - ამ შემთხვევაში თქვენ ჯერ უნდა აირჩიოთ ობიექტის სახე, რომელზეც გსურთ შექმნათ Mortise, შემდეგ დააჭიროთ spacebar-ს დასამალად ობიექტის დასამალად, რომელზეც შეიქმნება Mortise, რომ მიიღოთ წვდომა ტენონის სახეებზე შიგნით, ხოლო CT ღილაკი დააჭიროთ ქვემოთ, შემდეგ კი დააჭიროთ ათი კლავიშს. გინდა მორტისების მოჭრა. Mortise ობიექტი გამოჩნდება, თუ Mortises სწორად შეიქმნება. ამ შემთხვევაში, ახალი საერთო Mortise ნიმუში შეიქმნება ყველა შერჩეული Tenons სახეებისთვის.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch Mortise ნიმუში + Face შექმნა Mortise + Tenons სახეები&lt;/b&gt; - ეს ვერსია იგივეა, რაც წინა, გარდა იმისა, რომ ჯერ უნდა აირჩიოთ არსებული Mortise კავშირის ესკიზი. ეს საშუალებას გაძლევთ გააგრძელოთ Mortise-ის შექმნა არსებული კავშირის ნიმუშისთვის.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო წყვეტს Mortises-ს არჩეულ სახეზე პარამეტრული გზით. ჯიბე იქმნება კლონების გამოყენებით Sketch ნიმუშის გამოყენებით. ესკიზის ნიმუში ჯიბის მუშაობისთვის იგივე იქნება ყველა შერჩეული წვერის სახეებისთვის და დაფუძნებულია პირველ არჩეულ სახეზე ან არსებულ ესკიზის შაბლონზე. ასე რომ, თუ სახეებს განსხვავებული ზომები აქვთ, რეკომენდებულია ამ ხელსაწყოს ორჯერ გამოყენება სხვადასხვა შერჩევით, რომ გქონდეთ ჯიბეებისთვის ორი Sketch ნიმუში. ეს ინსტრუმენტი მხარს უჭერს მრავალ სახის არჩევანს. მეტი სახის ასარჩევად, სახეების შერჩევისას დააჭირეთ მარცხენა საკონტროლო ღილაკს CTRL. ობიექტები შეიძლება იყოს PartDesign::Pad ან Part::Box ტიპის. თუ ობიექტი არის Part::Box, ის ავტომატურად გარდაიქმნება PartDesign::Pad ობიექტად და ამოჭრა მოხდება ასეთ Pad-ზე. ზომები აღებულია არამოჭრილი Pad ობიექტებიდან, SizeX და SizeY შეზღუდვებიდან.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>jointTenonCut</name>
     <message>
-        <location filename="../../loadTools.py" line="3959" />
-        <source>jointTenonCut, joint tenon by cut</source>
-        <translation>ერთობლივი TenonCut, ერთობლივი tenon მიერ cut</translation>
+        <location filename="../../loadTools.py" line="3959"/>
+        <source>jointTenonCut, to create tenon by cut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3960" />
+        <location filename="../../loadTools.py" line="3960"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonCut.py" line="39" />
+        <location filename="../../Tools/jointTenonCut.py" line="40"/>
         <source>Part, jointTenonCut</source>
-        <translation>ნაწილი, ერთობლივიTenonCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonCut.py" line="42" />
+        <location filename="../../Tools/jointTenonCut.py" line="43"/>
         <source>Body, jointTenonCut</source>
-        <translation>სხეული, ერთობლივიTenonCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonCut.py" line="52" />
+        <location filename="../../Tools/jointTenonCut.py" line="53"/>
         <source>Pattern, jointTenonCut</source>
-        <translation>ნიმუში, ერთობლივიTenonCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonCut.py" line="105" />
+        <location filename="../../Tools/jointTenonCut.py" line="106"/>
         <source>jointTenonCut </source>
-        <translation>ერთობლივიTenonCut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonCut.py" line="137" />
+        <location filename="../../Tools/jointTenonCut.py" line="138"/>
         <source>&lt;b&gt;Possible selections:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Faces&lt;/b&gt; - in this case you need to select all faces on which you want to cut tenon, holding down the left CTRL key.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch Tenon pattern + Faces to create Tenons&lt;/b&gt; - this version is the same as the previous one, except that you must first select the Sketch of an existing Tenon connection. This allows you to continue creating a Tenons for the existing connection pattern.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Note:&lt;/b&gt; This tool cut tenon at the selected face in the parametric way. The pocket is created using Clones to the Sketch pattern. The Sketch pattern for pocket operation will be the same for all selected faces and is based from first selected face or Sketch pattern. So if the faces have different sizes it is recommended to use this tool twice with different selection to have two Sketch patterns for pockets. This tool supports multi face selection. To select more faces hold left control button CTRL during faces selection. The objects can be type of PartDesign::Pad or Part::Box. If the object is Part::Box it will be automatically converted into PartDesign::Pad object and the cut will be done on such Pad. The dimensions is taken from not-cut Pad objects, SizeX and SizeY constraints.</source>
-        <translation>&lt;b&gt;შესაძლო არჩევანი:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;სახები&lt;/b&gt; - ამ შემთხვევაში თქვენ უნდა აირჩიოთ ყველა სახე, რომელზედაც გსურთ ტენონის მოჭრა, დაჭერით მარცხენა CTRL ღილაკი.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sketch Tenon ნიმუში + Faces შექმნა Tenons&lt;/b&gt; - ეს ვერსია იგივეა, რაც წინა, გარდა იმისა, რომ თქვენ ჯერ უნდა აირჩიოთ Tenon კავშირი. ეს საშუალებას გაძლევთ გააგრძელოთ Tenons-ის შექმნა არსებული კავშირის შაბლონისთვის.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო პარამეტრული გზით ჭრის არჩეულ სახეს. ჯიბე იქმნება კლონების გამოყენებით Sketch ნიმუშის გამოყენებით. ჯიბის მუშაობის ესკიზის ნიმუში იგივე იქნება ყველა შერჩეული სახისთვის და დაფუძნებულია პირველ არჩეულ სახეზე ან ესკიზის შაბლონზე. ასე რომ, თუ სახეებს განსხვავებული ზომები აქვთ, რეკომენდებულია ამ ხელსაწყოს ორჯერ გამოყენება სხვადასხვა შერჩევით, რომ გქონდეთ ჯიბეებისთვის ორი Sketch ნიმუში. ეს ინსტრუმენტი მხარს უჭერს მრავალ სახის არჩევანს. მეტი სახის ასარჩევად, სახეების შერჩევისას დააჭირეთ მარცხენა საკონტროლო ღილაკს CTRL. ობიექტები შეიძლება იყოს PartDesign::Pad ან Part::Box ტიპის. თუ ობიექტი არის Part::Box, ის ავტომატურად გარდაიქმნება PartDesign::Pad ობიექტად და ამოჭრა მოხდება ასეთ Pad-ზე. ზომები აღებულია არამოჭრილი Pad ობიექტებიდან, SizeX და SizeY შეზღუდვებიდან.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>jointTenonDowel</name>
     <message>
-        <location filename="../../loadTools.py" line="4232" />
-        <source>jointTenonDowel, joint tenon as dowel</source>
-        <translation>ერთობლივი ტენონი, როგორც დუბლი</translation>
+        <location filename="../../loadTools.py" line="4232"/>
+        <source>jointTenonDowel, to create tenon as dowel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4233" />
+        <location filename="../../loadTools.py" line="4233"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowel.py" line="38" />
+        <location filename="../../Tools/jointTenonDowel.py" line="39"/>
         <source>Allows to skip tenon at BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ tenon BOM-ზე, მოჭრილი სიის ანგარიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowel.py" line="44" />
+        <location filename="../../Tools/jointTenonDowel.py" line="45"/>
         <source>Allows to cut tenon dowel via cutTenonDowels tool.</source>
-        <translation>საშუალებას გაძლევთ ამოჭრათ ღეროები cutTenonDowels ხელსაწყოს მეშვეობით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowel.py" line="58" />
-        <source>&lt;b&gt;Please select at least one face to create tenon dowel joint at the selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create quick tenon as dowel joint at selected face. This tool support any object type because the tenon dowel is additional Part::Box object only positioned at the face. This tool supports multi face selection. To select more faces hold left control button CTRL during faces selection. The tenon as dowel joint offset is 1/4 of the object thickness. The tenon dowel joint is hidden inside the object equally to the visible part, thickness up and thickness down. So, you can cut the tenon dowel also at the object and create removable joint similar to the dowels using cutTenonDowels tool. Created tenon dowels have special BOM attribute. By default the BOM attribute is set to False, so all tenon dowels are not listed at cut-list report, but if you set it to True, those tenon dowels will be listed. Also the parametric tenon dowels have special Tenon attribute, set by default to True to notify the cutTenonDowels tool to cut such tenon dowel. But if you set it to False such tenon dowel will be skipped during cut.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ მინიმუმ ერთი სახე არჩეულ სახეზე ძგიდის სამაგრის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო საშუალებას გაძლევთ შექმნათ სწრაფი ჭიპი, როგორც დუბლის სახსარი არჩეულ სახეზე. ეს ხელსაწყო მხარს უჭერს ნებისმიერი ტიპის ობიექტს, რადგან ძგიდის დუბლი არის დამატებითი ნაწილი::ყუთის ობიექტი, რომელიც განთავსებულია მხოლოდ სახეზე. ეს ინსტრუმენტი მხარს უჭერს მრავალ სახის არჩევანს. მეტი სახის ასარჩევად, სახეების შერჩევისას დააჭირეთ მარცხენა საკონტროლო ღილაკს CTRL. ძგიდის, როგორც დუბლის სახსრის ოფსეტი არის ობიექტის სისქის 1/4. დუნდულის სახსარი იმალება ობიექტის შიგნით ხილული ნაწილის თანაბრად, სისქე მაღლა და სისქე ქვემოთ. ასე რომ, თქვენ შეგიძლიათ გაჭრათ ღვეზელი ასევე ობიექტზე და შექმნათ მოსახსნელი სახსარი დუბლების მსგავსი, cutTenonDowels ხელსაწყოს გამოყენებით. შექმნილ დუნდულებს აქვთ სპეციალური BOM ატრიბუტი. ნაგულისხმევად, BOM ატრიბუტი დაყენებულია False-ზე, ასე რომ, ყველა სამაგრი არ არის ჩამოთვლილი სიის ამოკვეთის ანგარიშში, მაგრამ თუ დააყენებთ მას True-ზე, ეს ღერძები ჩამოთვლილი იქნება. ასევე პარამეტრულ დუნდულებს აქვთ სპეციალური Tenon ატრიბუტი, რომელიც ნაგულისხმევად დაყენებულია True-ზე, რათა შეატყობინოთ cutTenonDowels ხელსაწყოს, რომ მოჭრას ასეთი ღერო. მაგრამ თუ თქვენ დააყენეთ ის False-ზე, ასეთი დუნდული გამოტოვებული იქნება ჭრის დროს.</translation>
+        <location filename="../../Tools/jointTenonDowel.py" line="59"/>
+        <source>&lt;b&gt;Please select at least one face to create tenon dowel joint at the selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create quick tenon as dowel joint at selected face. This tool support any object type because the tenon dowel is additional Part::Box object only positioned at the face. This tool supports multi face selection. To select more faces hold left CTRL button during faces selection. The tenon as dowel joint offset is 1/4 of the object thickness. The tenon dowel joint is hidden inside the object equally to the visible part, thickness up and thickness down. So, you can cut the tenon dowel also at the object and create removable joint similar to the dowels using cutTenonDowels tool. Created tenon dowels have special BOM attribute. By default the BOM attribute is set to False, so all tenon dowels are not listed at cut-list report, but if you set it to True, those tenon dowels will be listed. Also the parametric tenon dowels have special Tenon attribute, set by default to True to notify the cutTenonDowels tool to cut such tenon dowel. But if you set it to False such tenon dowel will be skipped during cut.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>jointTenonDowelP</name>
     <message>
-        <location filename="../../loadTools.py" line="4427" />
-        <source>jointTenonDowelP, joint tenon as dowel (parametric version)</source>
-        <translation>jointTenonDowelP, სახსრის საყრდენი, როგორც დუელი (პარამეტრული ვერსია)</translation>
+        <location filename="../../loadTools.py" line="4427"/>
+        <source>jointTenonDowelP, to create tenon as dowel (parametric version)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4428" />
+        <location filename="../../loadTools.py" line="4428"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowelP.py" line="26" />
+        <location filename="../../Tools/jointTenonDowelP.py" line="27"/>
         <source>Tenon pattern </source>
-        <translation>ტენონის ნიმუში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowelP.py" line="42" />
+        <location filename="../../Tools/jointTenonDowelP.py" line="43"/>
         <source>Tenon clone </source>
-        <translation>ტენონის კლონი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowelP.py" line="64" />
+        <location filename="../../Tools/jointTenonDowelP.py" line="65"/>
         <source>Allows to skip tenon at BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ tenon BOM-ზე, მოჭრილი სიის ანგარიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowelP.py" line="70" />
+        <location filename="../../Tools/jointTenonDowelP.py" line="71"/>
         <source>Allows to cut tenon dowel via cutTenonDowels tool.</source>
-        <translation>საშუალებას გაძლევთ ამოჭრათ ღეროები cutTenonDowels ხელსაწყოს მეშვეობით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/jointTenonDowelP.py" line="85" />
-        <source>&lt;b&gt;Please select at least one face to create parametric tenon dowel joint at the selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This is parametric version of jointTenonDowel tool. In this case all the tenon dowels are linked via Clones to the simple LinkGroup container. Inside the LinkGroup container is the simple Part::Box object as tenon dowel pattern. This approach allows you to add new objects to the LinkGroup container or change the tenon dowel pattern inside the container and all tenon dowel clones will be updated. This tool works in the same way as jointTenonDowel and allows to create quick tenon as dowel joint at selected face. This tool support any object type because the tenon dowel is additional object only positioned at the face. This tool supports multi face selection. To select more faces hold left control button CTRL during faces selection. The tenon as dowel joint offset is 1/4 of the object thickness but you can change the tenon dowel pattern size and offset here because it is parametric. By default the tenon dowel joint is hidden inside the object equally to the visible part, thickness up and thickness down. So, you can cut all the tenon dowels also at the object and create removable joints similar to the dowels using cutTenonDowels tool. Created tenon dowels have special BOM attribute. By default the BOM attribute is set to False, so all tenon dowels are not listed at cut-list report, but if you set it to True, those tenon dowels will be listed. Also the parametric tenon dowels have special Tenon attribute, set by default to True to notify the cutTenonDowels tool to cut such tenon dowel. But if you set it to False such tenon dowel will be skipped during cut.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ მინიმუმ ერთი სახე არჩეულ სახეზე პარამეტრული ძგიდის სამაგრის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს არის jointTenonDowel ხელსაწყოს პარამეტრული ვერსია. ამ შემთხვევაში, ყველა დუნდული კლონების საშუალებით უკავშირდება LinkGroup-ის მარტივ კონტეინერს. LinkGroup-ის კონტეინერის შიგნით არის მარტივი ნაწილი::Box ობიექტი, როგორც ძგიდის დუბლის ნიმუში. ეს მიდგომა საშუალებას გაძლევთ დაამატოთ ახალი ობიექტები LinkGroup-ის კონტეინერში ან შეცვალოთ კონტეინერის შიგნით ტენონის დუბლის ნიმუში და განახლდება ყველა დუბლის კლონი. ეს ხელსაწყო მუშაობს ისევე, როგორც jointTenonDowel და საშუალებას გაძლევთ შექმნათ სწრაფი თხრილი, როგორც dowel ერთობლივი არჩეულ სახეზე. ეს ხელსაწყო მხარს უჭერს ნებისმიერი ტიპის ობიექტს, რადგან ძგიდის დუბლი არის დამატებითი ობიექტი, რომელიც განთავსებულია მხოლოდ სახეზე. ეს ინსტრუმენტი მხარს უჭერს მრავალ სახის არჩევანს. მეტი სახის ასარჩევად, სახეების შერჩევისას დააჭირეთ მარცხენა საკონტროლო ღილაკს CTRL. დუნდულის სახსრის ოფსეტი არის ობიექტის სისქის 1/4, მაგრამ თქვენ შეგიძლიათ შეცვალოთ დუბლის ნიმუშის ზომა და ოფსეტი აქ, რადგან ის პარამეტრულია. ნაგულისხმევად, დუნდულის სახსარი იმალება ობიექტის შიგნით, ხილული ნაწილის თანაბრად, სისქე ზემოთ და სისქე ქვემოთ. ასე რომ, თქვენ შეგიძლიათ მოჭრათ ყველა სამაგრი დუნდულები ასევე ობიექტზე და შექმნათ მოსახსნელი სახსრები, როგორც დუბლები, cutTenonDowels ხელსაწყოს გამოყენებით. შექმნილ დუნდულებს აქვთ სპეციალური BOM ატრიბუტი. ნაგულისხმევად, BOM ატრიბუტი დაყენებულია False-ზე, ასე რომ, ყველა სამაგრი არ არის ჩამოთვლილი სიის ამოკვეთის ანგარიშში, მაგრამ თუ დააყენებთ მას True-ზე, ეს ღერძები ჩამოთვლილი იქნება. ასევე პარამეტრულ დუნდულებს აქვთ სპეციალური Tenon ატრიბუტი, რომელიც ნაგულისხმევად დაყენებულია True-ზე, რათა შეატყობინოთ cutTenonDowels ხელსაწყოს, რომ მოჭრას ასეთი ღერო. მაგრამ თუ თქვენ დააყენეთ ის False-ზე, ასეთი დუნდული გამოტოვებული იქნება ჭრის დროს.</translation>
+        <location filename="../../Tools/jointTenonDowelP.py" line="86"/>
+        <source>&lt;b&gt;Please select at least one face to create parametric tenon dowel joint at the selected face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This is parametric version of jointTenonDowel tool. In this case all the tenon dowels are linked via Clones to the simple LinkGroup container. Inside the LinkGroup container is the simple Part::Box object as tenon dowel pattern. This approach allows you to add new objects to the LinkGroup container or change the tenon dowel pattern inside the container and all tenon dowel clones will be updated. This tool works in the same way as jointTenonDowel and allows to create quick tenon as dowel joint at selected face. This tool support any object type because the tenon dowel is additional object only positioned at the face. This tool supports multi face selection. To select more faces hold left CTRL button during faces selection. The tenon as dowel joint offset is 1/4 of the object thickness but you can change the tenon dowel pattern size and offset here because it is parametric. By default the tenon dowel joint is hidden inside the object equally to the visible part, thickness up and thickness down. So, you can cut all the tenon dowels also at the object and create removable joints similar to the dowels using cutTenonDowels tool. Created tenon dowels have special BOM attribute. By default the BOM attribute is set to False, so all tenon dowels are not listed at cut-list report, but if you set it to True, those tenon dowels will be listed. Also the parametric tenon dowels have special Tenon attribute, set by default to True to notify the cutTenonDowels tool to cut such tenon dowel. But if you set it to False such tenon dowel will be skipped during cut.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicAngle</name>
     <message>
-        <location filename="../../loadTools.py" line="566" />
-        <source>magicAngle, to rotate objects</source>
-        <translation>magicAngle, ობიექტების როტაცია</translation>
+        <location filename="../../loadTools.py" line="566"/>
+        <source>magicAngle, to rotate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="567" />
-        <source>Tool to rotate, for example open furniture fronts. This tool also allows to animate rotations, for example open front.</source>
-        <translation>როტაციის ხელსაწყო, მაგალითად ღია ავეჯის ფრონტები. ეს ინსტრუმენტი ასევე იძლევა ბრუნვის ანიმაციის საშუალებას, მაგალითად, ფრონტის გახსნას.</translation>
+        <location filename="../../loadTools.py" line="567"/>
+        <source>This tool allows you to rotate objects, containers and whole furniture modules.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="41" />
+        <location filename="../../Tools/magicAngle.py" line="42"/>
         <source>select containers or panels to rotate</source>
-        <translation>აირჩიეთ კონტეინერები ან პანელები დასატრიალებლად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="66" />
+        <location filename="../../Tools/magicAngle.py" line="67"/>
         <source>magicAngle</source>
-        <translation>magicAngle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="90" />
+        <location filename="../../Tools/magicAngle.py" line="91"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="99" />
+        <location filename="../../Tools/magicAngle.py" line="100"/>
         <source>Sphere radius:</source>
-        <translation>სფეროს რადიუსი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="123" />
+        <location filename="../../Tools/magicAngle.py" line="124"/>
         <source>Rotation point:</source>
-        <translation>ბრუნვის წერტილი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="141" />
+        <location filename="../../Tools/magicAngle.py" line="142"/>
         <source>add selected vertex, edge or face</source>
-        <translation>დაამატეთ არჩეული წვერო, კიდე ან სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="150" />
+        <location filename="../../Tools/magicAngle.py" line="151"/>
         <source>X axis (yaw):</source>
-        <translation>X ღერძი (yaw):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="172" />
+        <location filename="../../Tools/magicAngle.py" line="173"/>
         <source>Y axis (pitch):</source>
-        <translation>Y ღერძი (სიმაღლე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="194" />
+        <location filename="../../Tools/magicAngle.py" line="195"/>
         <source>Z axis (roll):</source>
-        <translation>Z ღერძი (როლი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="216" />
+        <location filename="../../Tools/magicAngle.py" line="217"/>
         <source>Angle step:</source>
-        <translation>კუთხის ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicAngle.py" line="227" />
+        <location filename="../../Tools/magicAngle.py" line="228"/>
         <source> - animate rotation</source>
-        <translation>- ანიმაციური როტაცია</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicCNC</name>
     <message>
-        <location filename="../../loadTools.py" line="3218" />
-        <source>magicCNC, drill bit move machine</source>
-        <translation>magicCNC, ბურღის მოძრავი მანქანა</translation>
+        <location filename="../../loadTools.py" line="3218"/>
+        <source>magicCNC, to create custom holes and export to CNC</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3219" />
-        <source>This tool allows to move drill bit at the selected face and drill holes.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ საბურღი არჩეულ პირზე და გაბურღოთ ხვრელები.</translation>
+        <location filename="../../loadTools.py" line="3219"/>
+        <source>This tool allows you to move drill bit along selected surface and dill holes.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="78" />
+        <location filename="../../Tools/magicCNC.py" line="79"/>
         <source>magicCNC</source>
-        <translation>magicCNC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="182" />
+        <location filename="../../Tools/magicCNC.py" line="180"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="101" />
+        <location filename="../../Tools/magicCNC.py" line="100"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="106" />
+        <location filename="../../Tools/magicCNC.py" line="105"/>
         <source>Move along X:</source>
-        <translation>გადაადგილება X-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="121" />
+        <location filename="../../Tools/magicCNC.py" line="120"/>
         <source>Move along Y:</source>
-        <translation>გადაადგილება Y-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="136" />
+        <location filename="../../Tools/magicCNC.py" line="135"/>
         <source>Move along Z:</source>
-        <translation>გადაადგილება Z-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="151" />
+        <location filename="../../Tools/magicCNC.py" line="150"/>
         <source>Move step:</source>
-        <translation>ნაბიჯის გადაადგილება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="158" />
+        <location filename="../../Tools/magicCNC.py" line="157"/>
         <source>set manually</source>
-        <translation>დააყენეთ ხელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="163" />
+        <location filename="../../Tools/magicCNC.py" line="162"/>
         <source>finish manually</source>
-        <translation>დაასრულეთ ხელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="168" />
+        <location filename="../../Tools/magicCNC.py" line="167"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="566" />
+        <location filename="../../Tools/magicCNC.py" line="553"/>
         <source>edge, face or vertex as start reference</source>
-        <translation>კიდე, სახე ან წვერო, როგორც საწყისი მითითება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="577" />
+        <location filename="../../Tools/magicCNC.py" line="564"/>
         <source>object to set CNC attributes</source>
-        <translation>CNC ატრიბუტების დაყენების ობიექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="188" />
+        <location filename="../../Tools/magicCNC.py" line="185"/>
         <source>set CNC attributes to target</source>
-        <translation>დააყენეთ CNC ატრიბუტები სამიზნეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="199" />
+        <location filename="../../Tools/magicCNC.py" line="196"/>
         <source>Corner cross:</source>
-        <translation>კუთხის ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="216" />
+        <location filename="../../Tools/magicCNC.py" line="211"/>
         <source>Center cross:</source>
-        <translation>ცენტრალური ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="219" />
-        <source>on</source>
-        <translation>on</translation>
+        <location filename="../../Tools/magicCNC.py" line="214"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="225" />
-        <source>off</source>
-        <translation>გამორთულია</translation>
+        <location filename="../../Tools/magicCNC.py" line="219"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="232" />
+        <location filename="../../Tools/magicCNC.py" line="225"/>
         <source> - keep custom cross settings</source>
-        <translation>- შეინახეთ ჯვარედინი პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="295" />
+        <location filename="../../Tools/magicCNC.py" line="285"/>
         <source>Manual drilling:</source>
-        <translation>ხელით ბურღვა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="319" />
+        <location filename="../../Tools/magicCNC.py" line="306"/>
         <source>Set attributes for CNC:</source>
-        <translation>დააყენეთ ატრიბუტები CNC-სთვის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="502" />
+        <location filename="../../Tools/magicCNC.py" line="489"/>
         <source>select face to drill</source>
-        <translation>აირჩიეთ სახე საბურღი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="520" />
+        <location filename="../../Tools/magicCNC.py" line="507"/>
         <source>select drill bit</source>
-        <translation>აირჩიეთ საბურღი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="816" />
+        <location filename="../../Tools/magicCNC.py" line="803"/>
         <source>Zero position for CNC along X axis.</source>
-        <translation>ნულოვანი პოზიცია CNC-სთვის X ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="821" />
+        <location filename="../../Tools/magicCNC.py" line="808"/>
         <source>Zero position for CNC along Y axis.</source>
-        <translation>ნულოვანი პოზიცია CNC-სთვის Y ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="826" />
+        <location filename="../../Tools/magicCNC.py" line="813"/>
         <source>Zero position for CNC along Z axis.</source>
-        <translation>ნულოვანი პოზიცია CNC-სთვის Z ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="832" />
+        <location filename="../../Tools/magicCNC.py" line="819"/>
         <source>Label of the hole object.</source>
-        <translation>ხვრელის ობიექტის ეტიკეტი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="836" />
+        <location filename="../../Tools/magicCNC.py" line="823"/>
         <source>Hole position along X axis.</source>
-        <translation>ხვრელის პოზიცია X ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="840" />
+        <location filename="../../Tools/magicCNC.py" line="827"/>
         <source>Hole position along Y axis.</source>
-        <translation>ხვრელის პოზიცია Y ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="844" />
+        <location filename="../../Tools/magicCNC.py" line="831"/>
         <source>Hole position along Z axis.</source>
-        <translation>ხვრელის პოზიცია Z ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="848" />
+        <location filename="../../Tools/magicCNC.py" line="835"/>
         <source>Offset for CNC from start position to hole position along X axis.</source>
-        <translation>ოფსეტური CNC-სთვის საწყისი პოზიციიდან ხვრელის პოზიციამდე X ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="852" />
+        <location filename="../../Tools/magicCNC.py" line="839"/>
         <source>Offset for CNC from start position to hole position along Y axis.</source>
-        <translation>ოფსეტური CNC-სთვის საწყისი პოზიციიდან ხვრელის პოზიციამდე Y ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="856" />
+        <location filename="../../Tools/magicCNC.py" line="843"/>
         <source>Offset for CNC from start position to hole position along Z axis.</source>
-        <translation>ოფსეტური CNC-სთვის საწყისი პოზიციიდან ხვრელის პოზიციამდე Z ღერძის გასწვრივ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="860" />
+        <location filename="../../Tools/magicCNC.py" line="847"/>
         <source>Depth for the hole.</source>
-        <translation>სიღრმე ხვრელისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCNC.py" line="864" />
+        <location filename="../../Tools/magicCNC.py" line="851"/>
         <source>Diameter for the hole.</source>
-        <translation>დიამეტრი ხვრელისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicColors</name>
     <message>
-        <location filename="../../loadTools.py" line="2477" />
+        <location filename="../../loadTools.py" line="2477"/>
         <source>magicColors, to add or change colors</source>
-        <translation>magicColors, ფერების დასამატებლად ან შესაცვლელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2478" />
-        <source>This tool allows you to browse colors for manually selected faces or objects and see the effect at 3D model in real-time. Also you can set face colors for all objects from spreadsheet. </source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ დაათვალიეროთ ფერები ხელით შერჩეული სახეებისთვის ან ობიექტებისთვის და ნახოთ ეფექტი 3D მოდელზე რეალურ დროში. ასევე შეგიძლიათ დააყენოთ სახის ფერები ყველა ობიექტისთვის ელცხრილიდან.</translation>
+        <location filename="../../loadTools.py" line="2478"/>
+        <source>This tool allows you to set colors for selected surfaces or objects in real-time. Also you can set colors from spreadsheet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="15" />
+        <location filename="../../Tools/magicColors.py" line="16"/>
         <source>Select target property:</source>
-        <translation>აირჩიეთ სამიზნე თვისება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="169" />
+        <location filename="../../Tools/magicColors.py" line="170"/>
         <source>DiffuseColor</source>
-        <translation>DiffuseColor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="169" />
+        <location filename="../../Tools/magicColors.py" line="170"/>
         <source>Transparency</source>
-        <translation>გამჭვირვალობა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="157" />
+        <location filename="../../Tools/magicColors.py" line="158"/>
         <source>AmbientColor</source>
-        <translation>AmbientColor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="157" />
+        <location filename="../../Tools/magicColors.py" line="158"/>
         <source>EmissiveColor</source>
-        <translation>EmissiveColor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="157" />
+        <location filename="../../Tools/magicColors.py" line="158"/>
         <source>Shininess</source>
-        <translation>ბზინვარება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="157" />
+        <location filename="../../Tools/magicColors.py" line="158"/>
         <source>SpecularColor</source>
-        <translation>SpecularColor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="157" />
-        <source>let's slide all</source>
-        <translation>მოდით გადავიცუროთ ყველა</translation>
+        <location filename="../../Tools/magicColors.py" line="158"/>
+        <source>let&apos;s slide all</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
-        <source>custom</source>
-        <translation>საბაჟო</translation>
+        <location filename="../../Tools/magicColors.py" line="185"/>
+        <source>custom color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
-        <source>reset</source>
-        <translation>გადატვირთვა</translation>
+        <location filename="../../Tools/magicColors.py" line="185"/>
+        <source>FreeCAD - default</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - white</source>
-        <translation>ხე - თეთრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - black</source>
-        <translation>ხე - შავი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - pink</source>
-        <translation>ხე - ვარდისფერი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - plywood</source>
-        <translation>ხე - პლაივუდი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - beech</source>
-        <translation>ხე - წიფელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - oak</source>
-        <translation>ხე - მუხა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - mahogany</source>
-        <translation>ხე - მაჰაგანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood 1</source>
-        <translation>ხე 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood 2</source>
-        <translation>ხე 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood 3</source>
-        <translation>ხე 3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood 4</source>
-        <translation>ხე 4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood 5</source>
-        <translation>ხე 5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood 6</source>
-        <translation>ხე 6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>from spreadsheet</source>
-        <translation>ცხრილიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - red</source>
-        <translation>ხე - წითელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - green</source>
-        <translation>ხე - მწვანე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Wood - blue</source>
-        <translation>ხე - ლურჯი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="184" />
+        <location filename="../../Tools/magicColors.py" line="185"/>
         <source>Woodworking - default</source>
-        <translation>ხის დამუშავება - ნაგულისხმევი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="130" />
+        <location filename="../../Tools/magicColors.py" line="131"/>
         <source>magicColors</source>
-        <translation>magicColors</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="143" />
+        <location filename="../../Tools/magicColors.py" line="144"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="152" />
+        <location filename="../../Tools/magicColors.py" line="153"/>
         <source>Target:</source>
-        <translation>სამიზნე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="181" />
+        <location filename="../../Tools/magicColors.py" line="182"/>
         <source>Sample:</source>
-        <translation>ნიმუში:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="215" />
+        <location filename="../../Tools/magicColors.py" line="216"/>
         <source>simple</source>
-        <translation>მარტივი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="219" />
+        <location filename="../../Tools/magicColors.py" line="220"/>
         <source>extended</source>
-        <translation>გაფართოებული</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="224" />
+        <location filename="../../Tools/magicColors.py" line="225"/>
         <source>Red:</source>
-        <translation>წითელი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="241" />
+        <location filename="../../Tools/magicColors.py" line="242"/>
         <source>Green:</source>
-        <translation>მწვანე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="258" />
+        <location filename="../../Tools/magicColors.py" line="259"/>
         <source>Blue:</source>
-        <translation>ლურჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="275" />
+        <location filename="../../Tools/magicColors.py" line="276"/>
         <source>Alpha:</source>
-        <translation>ალფა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="292" />
+        <location filename="../../Tools/magicColors.py" line="293"/>
         <source>Shininess:</source>
-        <translation>ბრწყინვალება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="315" />
+        <location filename="../../Tools/magicColors.py" line="316"/>
         <source>Transparency:</source>
-        <translation>გამჭვირვალობა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="338" />
+        <location filename="../../Tools/magicColors.py" line="339"/>
         <source>RGBA step:</source>
-        <translation>RGBA ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="344" />
+        <location filename="../../Tools/magicColors.py" line="345"/>
         <source>Step:</source>
-        <translation>ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="351" />
+        <location filename="../../Tools/magicColors.py" line="352"/>
         <source>set custom color</source>
-        <translation>დააყენეთ მორგებული ფერი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="356" />
+        <location filename="../../Tools/magicColors.py" line="357"/>
         <source>This button below will set face colors from spreadsheet for all objects in active document. If the faceColors spreadsheet is not available, it will be created. Make sure you want to overwrite existing colors for all objects. There is no undo option for that. </source>
-        <translation>ქვემოთ მოცემული ღილაკი დააყენებს სახის ფერებს ელცხრილიდან აქტიურ დოკუმენტში არსებული ყველა ობიექტისთვის. თუ faceColors ელცხრილი მიუწვდომელია, ის შეიქმნება. დარწმუნდით, რომ გსურთ არსებული ფერების გადაწერა ყველა ობიექტისთვის. ამისთვის გაუქმების ვარიანტი არ არსებობს.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="363" />
+        <location filename="../../Tools/magicColors.py" line="364"/>
         <source>set face colors from spreadsheet</source>
-        <translation>დააყენეთ სახის ფერები ელცხრილიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="1039" />
+        <location filename="../../Tools/magicColors.py" line="1040"/>
         <source>please select objects or faces</source>
-        <translation>გთხოვთ, აირჩიოთ ობიექტები ან სახეები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicColors.py" line="1220" />
+        <location filename="../../Tools/magicColors.py" line="1221"/>
         <source>The tool search all faces at object and try to read exact B row with color name. For example: for Face3 the color at B3 cell will be searched, for Face5 the color at B5 cell will be set. If there is no cell with color, this face will not be set. If you have Array object with 24 faces you need to set 24 rows. By default only first 6 faces will be set, usually it is base element. So you can quickly see where is the default element. You do not have to set A column, only B column is important for the tool. The A column is description for you. Currently only the 6 visible color names are supported.</source>
-        <translation>ხელსაწყო ეძებს ყველა სახეს ობიექტზე და შეეცადეთ წაიკითხოთ ზუსტი B მწკრივი ფერის სახელით. მაგალითად: Face3-სთვის მოიძებნება ფერი B3 უჯრედზე, Face5-ისთვის დაყენდება ფერი B5 უჯრედზე. თუ არ არის უჯრედი ფერის მქონე, ეს სახე არ დაყენდება. თუ თქვენ გაქვთ Array ობიექტი 24 სახეებით, თქვენ უნდა დააყენოთ 24 მწკრივი. ნაგულისხმევად დაყენდება მხოლოდ პირველი 6 სახე, როგორც წესი, ეს არის საბაზისო ელემენტი. ასე რომ თქვენ შეგიძლიათ სწრაფად ნახოთ სად არის ნაგულისხმევი ელემენტი. თქვენ არ გჭირდებათ A სვეტის დაყენება, ინსტრუმენტისთვის მნიშვნელოვანია მხოლოდ B სვეტი. სვეტი A არის აღწერა თქვენთვის. ამჟამად მხარდაჭერილია მხოლოდ 6 ხილული ფერის სახელი.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicCorner</name>
     <message>
-        <location filename="../../loadTools.py" line="4310" />
-        <source>magicCorner, create corner connection</source>
-        <translation>magicCorner, შექმენით კუთხის კავშირი</translation>
+        <location filename="../../loadTools.py" line="4310"/>
+        <source>magicCorner, to create corner connection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4311" />
+        <location filename="../../loadTools.py" line="4311"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCorner.py" line="51" />
-        <source>&lt;b&gt;First select base object and later all panels you want to fit to the base object. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner connection via Part :: Embed object FreeCAD feature. To fit corners, first select base object that will be cut, next panels that should be fited to the base object. To select multiple panels hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;პირველ რიგში აირჩიეთ საბაზისო ობიექტი და მოგვიანებით ყველა პანელი, რომლის მორგება გსურთ საბაზისო ობიექტზე. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ კუთხის კავშირი ნაწილი :: Embed object FreeCAD ფუნქციის მეშვეობით. კუთხეების მოსარგებად, ჯერ აირჩიეთ საბაზისო ობიექტი, რომელიც იქნება მოჭრილი, შემდეგი პანელები, რომლებიც უნდა მოერგოს საბაზისო ობიექტს. რამდენიმე პანელის ასარჩევად, შერჩევისას დააჭირეთ მარცხენა CTRL კლავიშს.</translation>
+        <location filename="../../Tools/magicCorner.py" line="52"/>
+        <source>&lt;b&gt;First select base object and later all panels you want to fit to the base object. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create corner connection via Part::Embed object FreeCAD feature. To fit corners, first select base object that will be cut, next panels that should be fited to the base object. To select multiple panels hold left CTRL key during selection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicCut</name>
     <message>
-        <location filename="../../loadTools.py" line="4154" />
-        <source>magicCut, single panel cut by many knives with copies</source>
-        <translation>magicCut, ერთი პანელი მოჭრილი მრავალი დანით ასლებით</translation>
+        <location filename="../../loadTools.py" line="4154"/>
+        <source>magicCut, to cut single panel by many knives with copies</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4155" />
+        <location filename="../../loadTools.py" line="4155"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCut.py" line="20" />
+        <location filename="../../Tools/magicCut.py" line="21"/>
         <source>&lt;b&gt;Please select the base object to cut and next the objects that will cut the base element. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool make multi boolean cut operation at selected objects. First object should be the base object to cut. All other selected objects will cut the base 1st selected object. To select more objects hold left CTRL key during selection. During this process only the copies will be used to cut, so the original objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. If you are looking for parametric Boolean Cut operation you may consider magicCutLinks instead.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ საბაზისო ობიექტი დასაჭრელად და შემდეგი ობიექტები, რომლებიც ამოჭრიან საბაზისო ელემენტს. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო ახორციელებს მრავალ ლოგიკურ ჭრას შერჩეულ ობიექტებზე. პირველი ობიექტი უნდა იყოს დასაჭრელი საბაზისო ობიექტი. ყველა სხვა შერჩეული ობიექტი მოჭრის საბაზისო პირველ არჩეულ ობიექტს. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ პროცესის დროს მხოლოდ ასლები იქნება გამოყენებული ჭრისთვის, ამიტომ ორიგინალური ობიექტები ხეზე არ გადავა. ასევე იქნება ავტომატური მარკირება, რათა მოჭრილი ხე იყოს უფრო ინფორმატიული და სუფთა. თუ თქვენ ეძებთ პარამეტრულ Boolean Cut ოპერაციას, ამის ნაცვლად შეგიძლიათ განიხილოთ magicCutLinks.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicCutLinks</name>
     <message>
-        <location filename="../../loadTools.py" line="4349" />
-        <source>magicCutLinks, single panel cut by many knives with links (parametric version)</source>
-        <translation>magicCutLinks, ერთი პანელი მოჭრილი მრავალი დანით ბმულებით (პარამეტრული ვერსია)</translation>
+        <location filename="../../loadTools.py" line="4349"/>
+        <source>magicCutLinks, to cut single panel by many knives using link (parametric version)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4350" />
+        <location filename="../../loadTools.py" line="4350"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicCutLinks.py" line="20" />
+        <location filename="../../Tools/magicCutLinks.py" line="21"/>
         <source>&lt;b&gt;Please select the base object to cut and next the objects that will cut the base element. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool make multi boolean cut operation at selected objects. First object should be the base object to cut. All other selected objects will cut the base 1st selected object. To select more objects hold left CTRL key during selection. During this process only the links will be used to cut, so the original objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. This tool works with the same way as magicCut tool but creates LinkGroup container for cut panels, knives, and uses container links for cut operation. Thanks to this approach you can change Cube to Pad or even add new element to the LinkGroup container and the cut will be updated with new content. So, if you are looking for parametric cut, you should rather use this version.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ საბაზისო ობიექტი დასაჭრელად და შემდეგი ობიექტები, რომლებიც ამოჭრიან საბაზისო ელემენტს. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო ახორციელებს მრავალ ლოგიკურ ჭრას შერჩეულ ობიექტებზე. პირველი ობიექტი უნდა იყოს დასაჭრელი საბაზისო ობიექტი. ყველა სხვა შერჩეული ობიექტი მოჭრის საბაზისო პირველ არჩეულ ობიექტს. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ პროცესის დროს მხოლოდ ბმულები იქნება გამოყენებული ჭრისთვის, ამიტომ ორიგინალური ობიექტები ხეზე არ გადავა. ასევე იქნება ავტომატური მარკირება, რათა მოჭრილი ხე იყოს უფრო ინფორმატიული და სუფთა. ეს ინსტრუმენტი მუშაობს ისევე, როგორც magicCut ინსტრუმენტი, მაგრამ ქმნის LinkGroup კონტეინერს დაჭრილი პანელებისთვის, დანებისთვის და იყენებს კონტეინერების ბმულებს ჭრის მუშაობისთვის. ამ მიდგომის წყალობით თქვენ შეგიძლიათ შეცვალოთ Cube Pad-ზე ან თუნდაც დაამატოთ ახალი ელემენტი LinkGroup-ის კონტეინერში და ჭრილი განახლდება ახალი შინაარსით. ასე რომ, თუ თქვენ ეძებთ პარამეტრულ ჭრილს, უმჯობესია გამოიყენოთ ეს ვერსია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicDowels</name>
     <message>
-        <location filename="../../loadTools.py" line="2750" />
+        <location filename="../../loadTools.py" line="2750"/>
         <source>magicDowels, to add dowels</source>
-        <translation>magicDowels, დუელების დასამატებლად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2751" />
-        <source>This tool allows to add mounting points to the furniture. For example you can easily add dowels or reference points for screws, shelves supporter pins or custom mounting points.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ დაამატოთ სამონტაჟო წერტილები ავეჯზე. მაგალითად, თქვენ შეგიძლიათ მარტივად დაამატოთ დულები ან საცნობარო წერტილები ხრახნებისთვის, თაროების დამჭერი ქინძისთავებისთვის ან მორგებული სამონტაჟო წერტილებისთვის.</translation>
+        <location filename="../../loadTools.py" line="2751"/>
+        <source>This tool allows to add mounting points to the furniture. For example you can easily add dowels or reference points for screws, shelves supporters or custom mounting points.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Dowel 8 x 35 mm </source>
-        <translation>დუელი 8 x 35 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Dowel 6 x 35 mm </source>
-        <translation>დუელი 6 x 35 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Dowel 10 x 35 mm </source>
-        <translation>დუელი 10 x 35 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Biscuits 16 x 48 mm </source>
-        <translation>ორცხობილა 16 x 48 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Biscuits 21 x 54 mm </source>
-        <translation>ორცხობილა 21 x 54 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Biscuits 24 x 57 mm </source>
-        <translation>ორცხობილა 24 x 57 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Screw 3 x 20 mm </source>
-        <translation>ხრახნი 3 x 20 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Screw 4.5 x 40 mm </source>
-        <translation>ხრახნი 4.5 x 40 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Screw 4 x 40 mm </source>
-        <translation>ხრახნი 4 x 40 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Screw 5 x 50 mm </source>
-        <translation>ხრახნი 5 x 50 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Screw 6 x 60 mm </source>
-        <translation>ხრახნი 6 x 60 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
-        <source>Confirmation 7 x 40 mm </source>
-        <translation>დადასტურება 7 x 40 მმ</translation>
+        <location filename="../../Tools/magicDowels.py" line="199"/>
+        <source>Confirmat screw 7 x 40 mm </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
-        <source>Confirmation 7 x 50 mm </source>
-        <translation>დადასტურება 7 x 50 მმ</translation>
+        <location filename="../../Tools/magicDowels.py" line="199"/>
+        <source>Confirmat screw 7 x 50 mm </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
-        <source>Confirmation 7 x 70 mm </source>
-        <translation>დადასტურება 7 x 70 მმ</translation>
+        <location filename="../../Tools/magicDowels.py" line="199"/>
+        <source>Confirmat screw 7 x 70 mm </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Shelf Pin 5 x 16 mm </source>
-        <translation>თაროს პინი 5 x 16 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Profile Pin 5 x 30 mm </source>
-        <translation>პროფილის პინი 5 x 30 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Profile Pin 8 x 40 mm </source>
-        <translation>პროფილის პინი 8 x 40 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Tenon joint </source>
-        <translation>ტენონის სახსარი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Custom mount point </source>
-        <translation>მორგებული სამონტაჟო წერტილი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Minifix 15 x 45 mm </source>
-        <translation>მინიფიქსი 15 x 45 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Cabinet handle - single hole </source>
-        <translation>კაბინეტის სახელური - ერთი ხვრელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="198" />
+        <location filename="../../Tools/magicDowels.py" line="199"/>
         <source>Cabinet handle - double hole </source>
-        <translation>კაბინეტის სახელური - ორმაგი ხვრელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="228" />
+        <location filename="../../Tools/magicDowels.py" line="229"/>
         <source>magicSettings</source>
-        <translation>magicSettings</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="117" />
+        <location filename="../../Tools/magicDowels.py" line="118"/>
         <source>please select face</source>
-        <translation>გთხოვთ აირჩიოთ სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="146" />
+        <location filename="../../Tools/magicDowels.py" line="147"/>
         <source>magicDowels</source>
-        <translation>magicDowels</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="189" />
+        <location filename="../../Tools/magicDowels.py" line="190"/>
         <source>refresh face selection</source>
-        <translation>განაახლეთ სახის არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="233" />
+        <location filename="../../Tools/magicDowels.py" line="234"/>
         <source>Select edge:</source>
-        <translation>აირჩიეთ ზღვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="250" />
+        <location filename="../../Tools/magicDowels.py" line="251"/>
         <source> - position autodetect</source>
-        <translation>- პოზიციის ავტომატური ამოცნობა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="258" />
+        <location filename="../../Tools/magicDowels.py" line="259"/>
         <source>Adjust edge:</source>
-        <translation>კიდეების მორგება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="275" />
-        <source>Adjust sink:</source>
-        <translation>ნიჟარის მორგება:</translation>
+        <location filename="../../Tools/magicDowels.py" line="276"/>
+        <source>Adjust penetration:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="292" />
+        <location filename="../../Tools/magicDowels.py" line="293"/>
         <source>Adjust rotation:</source>
-        <translation>ბრუნვის რეგულირება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="309" />
+        <location filename="../../Tools/magicDowels.py" line="310"/>
         <source>Select sides:</source>
-        <translation>აირჩიეთ მხარეები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="330" />
+        <location filename="../../Tools/magicDowels.py" line="331"/>
         <source>Label:</source>
-        <translation>ეტიკეტი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="336" />
+        <location filename="../../Tools/magicDowels.py" line="337"/>
         <source>Dowels per side:</source>
-        <translation>დუელები თითო მხარეს:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="337" />
-        <source>Tenons per side:</source>
-        <translation>მოდით წავიდეთ თითო მხარეს:</translation>
+        <location filename="../../Tools/magicDowels.py" line="338"/>
+        <source>Tenons from side:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="343" />
+        <location filename="../../Tools/magicDowels.py" line="344"/>
         <source>Tenon long:</source>
-        <translation>გრძელი ტენონი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="349" />
+        <location filename="../../Tools/magicDowels.py" line="350"/>
         <source>Dowels diameter:</source>
-        <translation>დუელების დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="355" />
+        <location filename="../../Tools/magicDowels.py" line="356"/>
         <source>Tenon thick:</source>
-        <translation>ტენონის სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="361" />
+        <location filename="../../Tools/magicDowels.py" line="362"/>
         <source>Dowels size:</source>
-        <translation>დუელების ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="367" />
+        <location filename="../../Tools/magicDowels.py" line="368"/>
         <source>Tenon depth:</source>
-        <translation>ტენონის სიღრმე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="373" />
-        <source>Dowels sink:</source>
-        <translation>დუელების ჩაძირვა:</translation>
+        <location filename="../../Tools/magicDowels.py" line="374"/>
+        <source>Dowels penetration:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="374" />
-        <source>Tenons sink:</source>
-        <translation>ჩავიძიროთ:</translation>
+        <location filename="../../Tools/magicDowels.py" line="375"/>
+        <source>Tenons penetration:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="380" />
+        <location filename="../../Tools/magicDowels.py" line="381"/>
         <source>Offset from corner:</source>
-        <translation>ოფსეტი კუთხიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="386" />
+        <location filename="../../Tools/magicDowels.py" line="387"/>
         <source>Offset between dowels:</source>
-        <translation>ოფსეტი დუელებს შორის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="387" />
+        <location filename="../../Tools/magicDowels.py" line="388"/>
         <source>Offset between tenons:</source>
-        <translation>ოფსეტი დუნდულებს შორის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="393" />
+        <location filename="../../Tools/magicDowels.py" line="394"/>
         <source>Offset from edge:</source>
-        <translation>ოფსეტი კიდიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="399" />
+        <location filename="../../Tools/magicDowels.py" line="400"/>
         <source> - keep custom settings</source>
-        <translation>- შეინახეთ პერსონალური პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="403" />
+        <location filename="../../Tools/magicDowels.py" line="404"/>
         <source>show custom settings</source>
-        <translation>მორგებული პარამეტრების ჩვენება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="410" />
+        <location filename="../../Tools/magicDowels.py" line="411"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDowels.py" line="1217" />
+        <location filename="../../Tools/magicDowels.py" line="1228"/>
         <source>Custom dowel </source>
-        <translation>საბაჟო dowel</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicDriller</name>
     <message>
-        <location filename="../../loadTools.py" line="3023" />
+        <location filename="../../loadTools.py" line="3023"/>
         <source>magicDriller, to drill holes</source>
-        <translation>magicDriller, ხვრელების გასაბურღად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3024" />
-        <source>Allows to drill holes, countersinks or counterbores in a series with predefined or custom sequences.</source>
-        <translation>საშუალებას გაძლევთ გაბურღოთ ხვრელები, კონტრჩანთები ან კონტრბორტები სერიებში წინასწარ განსაზღვრული ან მორგებული თანმიმდევრობით.</translation>
+        <location filename="../../loadTools.py" line="3024"/>
+        <source>This tool allows you to drill holes, countersinks or counterbores in a series with predefined or custom sequences.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="269" />
+        <location filename="../../Tools/magicDriller.py" line="268"/>
         <source>Holes</source>
-        <translation>ხვრელები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="134" />
+        <location filename="../../Tools/magicDriller.py" line="135"/>
         <source>magicSettings</source>
-        <translation>magicSettings</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="114" />
+        <location filename="../../Tools/magicDriller.py" line="115"/>
         <source>Dowel 6 x 35 mm </source>
-        <translation>დუელი 6 x 35 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="115" />
+        <location filename="../../Tools/magicDriller.py" line="116"/>
         <source>Dowel 8 x 35 mm </source>
-        <translation>დუელი 8 x 35 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="116" />
+        <location filename="../../Tools/magicDriller.py" line="117"/>
         <source>Dowel 10 x 35 mm </source>
-        <translation>დუელი 10 x 35 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="117" />
+        <location filename="../../Tools/magicDriller.py" line="118"/>
         <source>Screw 3 x 20 mm </source>
-        <translation>ხრახნი 3 x 20 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="119" />
+        <location filename="../../Tools/magicDriller.py" line="120"/>
         <source>Screw 4 x 40 mm </source>
-        <translation>ხრახნი 4 x 40 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="118" />
+        <location filename="../../Tools/magicDriller.py" line="119"/>
         <source>Screw 4.5 x 40 mm </source>
-        <translation>ხრახნი 4.5 x 40 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="120" />
+        <location filename="../../Tools/magicDriller.py" line="121"/>
         <source>Screw 5 x 50 mm </source>
-        <translation>ხრახნი 5 x 50 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="121" />
+        <location filename="../../Tools/magicDriller.py" line="122"/>
         <source>Screw 6 x 60 mm </source>
-        <translation>ხრახნი 6 x 60 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="122" />
+        <location filename="../../Tools/magicDriller.py" line="123"/>
         <source>Shelf Pin 5 x 16 mm </source>
-        <translation>თაროს პინი 5 x 16 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="123" />
+        <location filename="../../Tools/magicDriller.py" line="124"/>
         <source>Profile Pin 5 x 30 mm </source>
-        <translation>პროფილის პინი 5 x 30 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="124" />
+        <location filename="../../Tools/magicDriller.py" line="125"/>
         <source>Profile Pin 8 x 40 mm </source>
-        <translation>პროფილის პინი 8 x 40 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="128" />
+        <location filename="../../Tools/magicDriller.py" line="129"/>
         <source>Minifix 15 x 45 mm - top </source>
-        <translation>მინიფიქსი 15 x 45 მმ - ზედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="129" />
+        <location filename="../../Tools/magicDriller.py" line="130"/>
         <source>Minifix 15 x 45 mm - side </source>
-        <translation>მინიფიქსი 15 x 45 მმ - გვერდი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="130" />
+        <location filename="../../Tools/magicDriller.py" line="131"/>
         <source>Cabinet handle - single hole </source>
-        <translation>კაბინეტის სახელური - ერთი ხვრელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="131" />
+        <location filename="../../Tools/magicDriller.py" line="132"/>
         <source>Cabinet handle - double hole </source>
-        <translation>კაბინეტის სახელური - ორმაგი ხვრელი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="132" />
-        <source>Wall cabinet brackets - camar 1 </source>
-        <translation>კედლის კარადის სამაგრები - camar 1</translation>
+        <location filename="../../Tools/magicDriller.py" line="133"/>
+        <source>Hooks for wall cabinets - camar 1 </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="133" />
-        <source>Wall cabinet brackets - camar 2 </source>
-        <translation>კედლის კარადის სამაგრები - camar 2</translation>
+        <location filename="../../Tools/magicDriller.py" line="134"/>
+        <source>Hooks for wall cabinets - camar 2 </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="269" />
+        <location filename="../../Tools/magicDriller.py" line="268"/>
         <source>Countersinks</source>
-        <translation>კონტრნიჟარები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="269" />
+        <location filename="../../Tools/magicDriller.py" line="268"/>
         <source>Counterbores</source>
-        <translation>კონტრბორცვები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="269" />
+        <location filename="../../Tools/magicDriller.py" line="268"/>
         <source>Pocket holes</source>
-        <translation>ჯიბის ხვრელები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="125" />
+        <location filename="../../Tools/magicDriller.py" line="126"/>
         <source>Screw 4 x 25 mm </source>
-        <translation>ხრახნი 4 x 25 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="126" />
+        <location filename="../../Tools/magicDriller.py" line="127"/>
         <source>Screw 4 x 30 mm </source>
-        <translation>ხრახნი 4 x 30 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="127" />
+        <location filename="../../Tools/magicDriller.py" line="128"/>
         <source>Screw 4 x 60 mm </source>
-        <translation>ხრახნი 4 x 60 მმ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="207" />
+        <location filename="../../Tools/magicDriller.py" line="208"/>
         <source>select face for drill bit position</source>
-        <translation>აირჩიეთ სახე საბურღი ბიტის პოზიციისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="208" />
+        <location filename="../../Tools/magicDriller.py" line="209"/>
         <source>select face for drilling into</source>
-        <translation>აირჩიეთ სახე ბურღვისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="225" />
+        <location filename="../../Tools/magicDriller.py" line="226"/>
         <source>magicDriller</source>
-        <translation>magicDriller</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="252" />
+        <location filename="../../Tools/magicDriller.py" line="252"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="260" />
+        <location filename="../../Tools/magicDriller.py" line="259"/>
         <source>refresh all faces selection</source>
-        <translation>განაახლეთ ყველა სახის არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="300" />
+        <location filename="../../Tools/magicDriller.py" line="299"/>
         <source>Select edge:</source>
-        <translation>აირჩიეთ ზღვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="315" />
+        <location filename="../../Tools/magicDriller.py" line="314"/>
         <source>Adjust edge:</source>
-        <translation>კიდეების მორგება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="330" />
+        <location filename="../../Tools/magicDriller.py" line="329"/>
         <source>Adjust rotation:</source>
-        <translation>ბრუნვის რეგულირება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="345" />
+        <location filename="../../Tools/magicDriller.py" line="344"/>
         <source>Select sides:</source>
-        <translation>აირჩიეთ მხარეები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="364" />
+        <location filename="../../Tools/magicDriller.py" line="363"/>
         <source>Holes per side:</source>
-        <translation>ხვრელები თითოეულ მხარეს:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="370" />
+        <location filename="../../Tools/magicDriller.py" line="369"/>
         <source>Hole diameter:</source>
-        <translation>ხვრელის დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="376" />
+        <location filename="../../Tools/magicDriller.py" line="375"/>
         <source>Countersink diameter:</source>
-        <translation>კონტრასფერი დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="382" />
+        <location filename="../../Tools/magicDriller.py" line="381"/>
         <source>Hole depth:</source>
-        <translation>ხვრელის სიღრმე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="388" />
+        <location filename="../../Tools/magicDriller.py" line="387"/>
         <source>Offset from corner:</source>
-        <translation>ოფსეტი კუთხიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="394" />
+        <location filename="../../Tools/magicDriller.py" line="393"/>
         <source>Offset between holes:</source>
-        <translation>გადაადგილება ხვრელებს შორის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="400" />
+        <location filename="../../Tools/magicDriller.py" line="399"/>
         <source>Offset from edge:</source>
-        <translation>ოფსეტი კიდიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="406" />
+        <location filename="../../Tools/magicDriller.py" line="405"/>
         <source>Pocket rotation:</source>
-        <translation>ჯიბის როტაცია:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="412" />
-        <source>Pocket sink:</source>
-        <translation>ჯიბის ნიჟარა:</translation>
+        <location filename="../../Tools/magicDriller.py" line="411"/>
+        <source>Pocket hole penetration:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="422" />
+        <location filename="../../Tools/magicDriller.py" line="421"/>
         <source> - keep custom settings</source>
-        <translation>- შეინახეთ პერსონალური პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="426" />
+        <location filename="../../Tools/magicDriller.py" line="425"/>
         <source>show custom settings</source>
-        <translation>მორგებული პარამეტრების ჩვენება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicDriller.py" line="430" />
+        <location filename="../../Tools/magicDriller.py" line="429"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicFixture</name>
     <message>
-        <location filename="../../loadTools.py" line="2945" />
-        <source>magicFixture, to add fixture</source>
-        <translation>magicFixture, არმატურის დასამატებლად</translation>
+        <location filename="../../loadTools.py" line="2945"/>
+        <source>magicFixture, to add furniture fixture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2946" />
-        <source>Allows to add any type of detailed fixture to the furniture. You can create Link or Clone to the realistic looking part.</source>
-        <translation>საშუალებას აძლევს ავეჯს დაამატოს ნებისმიერი ტიპის დეტალური მოწყობილობა. თქვენ შეგიძლიათ შექმნათ ბმული ან კლონი რეალისტური შესახედაობის ნაწილისთვის.</translation>
+        <location filename="../../loadTools.py" line="2946"/>
+        <source>This tool allows you to add any type of detailed furniture fixture. You can create Link or Clone to the realistic looking part.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="43" />
+        <location filename="../../Tools/magicFixture.py" line="44"/>
         <source>please select fixture object and face</source>
-        <translation>გთხოვთ, აირჩიოთ სამაგრის ობიექტი და სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="84" />
+        <location filename="../../Tools/magicFixture.py" line="85"/>
         <source>magicFixture</source>
-        <translation>magicFixture</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="119" />
+        <location filename="../../Tools/magicFixture.py" line="119"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="128" />
+        <location filename="../../Tools/magicFixture.py" line="127"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="137" />
+        <location filename="../../Tools/magicFixture.py" line="136"/>
         <source>Anchor:</source>
-        <translation>წამყვანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="159" />
+        <location filename="../../Tools/magicFixture.py" line="158"/>
         <source>Rotation:</source>
-        <translation>როტაცია:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="180" />
+        <location filename="../../Tools/magicFixture.py" line="179"/>
         <source>add selected anchor</source>
-        <translation>შერჩეული წამყვანის დამატება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="188" />
-        <source>X offset:</source>
-        <translation>X ოფსეტი:</translation>
+        <location filename="../../Tools/magicFixture.py" line="187"/>
+        <source>Offset along X axis:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="212" />
-        <source>Y offset:</source>
-        <translation>Y ოფსეტი:</translation>
+        <location filename="../../Tools/magicFixture.py" line="211"/>
+        <source>Offset along Y axis:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="236" />
-        <source>Z offset:</source>
-        <translation>ოფსეტურით:</translation>
+        <location filename="../../Tools/magicFixture.py" line="235"/>
+        <source>Offset along Z axis:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="260" />
+        <location filename="../../Tools/magicFixture.py" line="259"/>
         <source>Step:</source>
-        <translation>ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="272" />
+        <location filename="../../Tools/magicFixture.py" line="271"/>
         <source>show custom settings</source>
-        <translation>მორგებული პარამეტრების ჩვენება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="280" />
+        <location filename="../../Tools/magicFixture.py" line="279"/>
         <source>set manually</source>
-        <translation>დააყენეთ ხელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="284" />
+        <location filename="../../Tools/magicFixture.py" line="283"/>
         <source>finish manually</source>
-        <translation>დაასრულეთ ხელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="294" />
+        <location filename="../../Tools/magicFixture.py" line="293"/>
         <source>Link</source>
-        <translation>ბმული</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="298" />
+        <location filename="../../Tools/magicFixture.py" line="297"/>
         <source>Clone for drilling</source>
-        <translation>კლონი ბურღვისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="302" />
+        <location filename="../../Tools/magicFixture.py" line="301"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="805" />
+        <location filename="../../Tools/magicFixture.py" line="312"/>
+        <source>Corner cross:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicFixture.py" line="327"/>
+        <source>Center cross:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicFixture.py" line="330"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicFixture.py" line="335"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicFixture.py" line="341"/>
+        <source> - keep custom cross settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicFixture.py" line="800"/>
         <source>fixture to apply</source>
-        <translation>გამოსაყენებელი მოწყობილობა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicFixture.py" line="831" />
+        <location filename="../../Tools/magicFixture.py" line="826"/>
         <source>face, edge, hole or vertex</source>
-        <translation>სახე, კიდე, ხვრელი ან წვერო</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicGlue</name>
     <message>
-        <location filename="../../loadTools.py" line="3569" />
-        <source>magicGlue, for parameterization</source>
-        <translation>magicGlue, პარამეტრიზაციისთვის</translation>
+        <location filename="../../loadTools.py" line="3569"/>
+        <source>magicGlue, to add parameterization</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3570" />
-        <source>This tool allows to add or remove expressions.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ დაამატოთ ან წაშალოთ გამონათქვამები.</translation>
+        <location filename="../../loadTools.py" line="3570"/>
+        <source>This tool allows you to add or remove expressions.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="735" />
+        <location filename="../../Tools/magicGlue.py" line="728"/>
         <source>Glue position</source>
-        <translation>წებოს პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="1257" />
+        <location filename="../../Tools/magicGlue.py" line="1250"/>
         <source>Glue size</source>
-        <translation>წებოს ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="111" />
+        <location filename="../../Tools/magicGlue.py" line="112"/>
         <source>Clean glue</source>
-        <translation>სუფთა წებო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="111" />
+        <location filename="../../Tools/magicGlue.py" line="112"/>
         <source>Super glue everywhere</source>
-        <translation>სუპერ წებო ყველგან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="35" />
+        <location filename="../../Tools/magicGlue.py" line="36"/>
         <source>Position along X:</source>
-        <translation>პოზიცია X-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="36" />
+        <location filename="../../Tools/magicGlue.py" line="37"/>
         <source>Position along Y:</source>
-        <translation>პოზიცია Y-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="37" />
+        <location filename="../../Tools/magicGlue.py" line="38"/>
         <source>Position along Z:</source>
-        <translation>პოზიცია Z-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="39" />
+        <location filename="../../Tools/magicGlue.py" line="40"/>
         <source>vertex or face as source</source>
-        <translation>წვერო ან სახე, როგორც წყარო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="40" />
+        <location filename="../../Tools/magicGlue.py" line="41"/>
         <source>objects as target</source>
-        <translation>ობიექტები, როგორც სამიზნე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="41" />
+        <location filename="../../Tools/magicGlue.py" line="42"/>
         <source>edge as source</source>
-        <translation>ზღვარი, როგორც წყარო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="42" />
+        <location filename="../../Tools/magicGlue.py" line="43"/>
         <source>edges as target</source>
-        <translation>კიდეები, როგორც სამიზნე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="43" />
+        <location filename="../../Tools/magicGlue.py" line="44"/>
         <source>select objects to clean glue</source>
-        <translation>შეარჩიეთ ობიექტები წებოს გასაწმენდად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="44" />
+        <location filename="../../Tools/magicGlue.py" line="45"/>
         <source>Objects order: automatic</source>
-        <translation>ობიექტების რიგი: ავტომატური</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="93" />
+        <location filename="../../Tools/magicGlue.py" line="94"/>
         <source>magicGlue</source>
-        <translation>magicGlue</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="192" />
+        <location filename="../../Tools/magicGlue.py" line="190"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="216" />
+        <location filename="../../Tools/magicGlue.py" line="213"/>
         <source>refresh all selection</source>
-        <translation>განაახლეთ ყველა არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="176" />
+        <location filename="../../Tools/magicGlue.py" line="175"/>
         <source>add glue</source>
-        <translation>დაამატეთ წებო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="204" />
+        <location filename="../../Tools/magicGlue.py" line="201"/>
         <source>add glue size</source>
-        <translation>დაამატეთ წებოს ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="221" />
+        <location filename="../../Tools/magicGlue.py" line="218"/>
         <source>clean glue position</source>
-        <translation>სუფთა წებოს პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="227" />
+        <location filename="../../Tools/magicGlue.py" line="224"/>
         <source>clean glue size</source>
-        <translation>სუფთა წებოს ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="232" />
+        <location filename="../../Tools/magicGlue.py" line="229"/>
         <source> - use VarSet</source>
-        <translation>- გამოიყენეთ VarSet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="239" />
+        <location filename="../../Tools/magicGlue.py" line="236"/>
         <source>add super glue everywhere</source>
-        <translation>დაამატეთ სუპერ წებო ყველგან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="244" />
+        <location filename="../../Tools/magicGlue.py" line="241"/>
         <source>clean super glue everywhere</source>
-        <translation>სუფთა სუპერ წებო ყველგან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="252" />
+        <location filename="../../Tools/magicGlue.py" line="249"/>
         <source>set order from selected</source>
-        <translation>შეკვეთის დაყენება არჩეულიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="256" />
+        <location filename="../../Tools/magicGlue.py" line="253"/>
         <source>glue position</source>
-        <translation>წებოს პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="261" />
+        <location filename="../../Tools/magicGlue.py" line="258"/>
         <source>clean position</source>
-        <translation>სუფთა პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="266" />
+        <location filename="../../Tools/magicGlue.py" line="263"/>
         <source>glue size</source>
-        <translation>წებოს ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="271" />
+        <location filename="../../Tools/magicGlue.py" line="268"/>
         <source>clean size</source>
-        <translation>სუფთა ზომა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="283" />
+        <location filename="../../Tools/magicGlue.py" line="280"/>
         <source>Corner cross:</source>
-        <translation>კუთხის ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="300" />
+        <location filename="../../Tools/magicGlue.py" line="295"/>
         <source>Center cross:</source>
-        <translation>ცენტრალური ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="303" />
-        <source>on</source>
-        <translation>on</translation>
+        <location filename="../../Tools/magicGlue.py" line="298"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="309" />
-        <source>off</source>
-        <translation>გამორთულია</translation>
+        <location filename="../../Tools/magicGlue.py" line="303"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="316" />
+        <location filename="../../Tools/magicGlue.py" line="309"/>
         <source> - keep custom cross settings</source>
-        <translation>- შეინახეთ ჯვარედინი პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicGlue.py" line="1130" />
+        <location filename="../../Tools/magicGlue.py" line="1123"/>
         <source>Objects order: selected</source>
-        <translation>ობიექტების თანმიმდევრობა: შერჩეული</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicJoints</name>
     <message>
-        <location filename="../../loadTools.py" line="3920" />
-        <source>magicJoints, custom joints based on Sketch</source>
-        <translation>magicJoints, მორგებული სახსრები, ესკიზის საფუძველზე</translation>
+        <location filename="../../loadTools.py" line="3920"/>
+        <source>magicJoints, to create joints based on sketch</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3921" />
-        <source>Allows to move or copy joints created from Sketch pattern and create Mortise and Tenon.</source>
-        <translation>საშუალებას გაძლევთ გადაიტანოთ ან დააკოპიროთ Sketch ნიმუშიდან შექმნილი სახსრები და შექმნათ Mortise და Tenon.</translation>
+        <location filename="../../loadTools.py" line="3921"/>
+        <source>This tool allows you to move or copy joints created from sketch pattern, create mortise and tenon.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="342" />
-        <source>Corner cross:</source>
-        <translation>კუთხის ჯვარი:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicJoints.py" line="359" />
-        <source>Center cross:</source>
-        <translation>ცენტრალური ჯვარი:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicJoints.py" line="362" />
-        <source>on</source>
-        <translation>on</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicJoints.py" line="368" />
-        <source>off</source>
-        <translation>გამორთულია</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicJoints.py" line="375" />
-        <source> - keep custom cross settings</source>
-        <translation>- შეინახეთ ჯვარედინი პარამეტრები</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicJoints.py" line="61" />
+        <location filename="../../Tools/magicJoints.py" line="62"/>
         <source>1: select Sketch pattern</source>
-        <translation>1: აირჩიეთ ესკიზის ნიმუში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="62" />
+        <location filename="../../Tools/magicJoints.py" line="63"/>
         <source>2: select face for pattern position</source>
-        <translation>2: აირჩიეთ სახე ნიმუშის პოზიციისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="63" />
+        <location filename="../../Tools/magicJoints.py" line="64"/>
         <source>3 (optional): select face for Mortise</source>
-        <translation>3 (არასავალდებულო): აირჩიეთ სახე Mortise-სთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="104" />
+        <location filename="../../Tools/magicJoints.py" line="105"/>
         <source>magicJoints</source>
-        <translation>magicJoints</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="139" />
+        <location filename="../../Tools/magicJoints.py" line="138"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="151" />
+        <location filename="../../Tools/magicJoints.py" line="149"/>
         <source>refresh all selections</source>
-        <translation>განაახლეთ ყველა არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="160" />
+        <location filename="../../Tools/magicJoints.py" line="158"/>
         <source>Anchor:</source>
-        <translation>წამყვანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="182" />
+        <location filename="../../Tools/magicJoints.py" line="180"/>
         <source>Rotation:</source>
-        <translation>როტაცია:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="204" />
+        <location filename="../../Tools/magicJoints.py" line="202"/>
         <source>X axis:</source>
-        <translation>X ღერძი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="228" />
+        <location filename="../../Tools/magicJoints.py" line="226"/>
         <source>Y axis:</source>
-        <translation>Y ღერძი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="252" />
+        <location filename="../../Tools/magicJoints.py" line="250"/>
         <source>Z axis:</source>
-        <translation>Z ღერძი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="276" />
+        <location filename="../../Tools/magicJoints.py" line="274"/>
         <source>Step:</source>
-        <translation>ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="288" />
+        <location filename="../../Tools/magicJoints.py" line="286"/>
         <source>set custom values</source>
-        <translation>დააყენეთ საბაჟო ღირებულებები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="296" />
+        <location filename="../../Tools/magicJoints.py" line="294"/>
         <source>set manually</source>
-        <translation>დააყენეთ ხელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="300" />
+        <location filename="../../Tools/magicJoints.py" line="298"/>
         <source>finish manually</source>
-        <translation>დაასრულეთ ხელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="308" />
+        <location filename="../../Tools/magicJoints.py" line="306"/>
         <source>Mortise and Tenon size:</source>
-        <translation>მორტისა და ტენონის ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="319" />
+        <location filename="../../Tools/magicJoints.py" line="317"/>
         <source>create Mortise</source>
-        <translation>შექმენით Mortise</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="323" />
+        <location filename="../../Tools/magicJoints.py" line="321"/>
         <source>create Tenon</source>
-        <translation>შექმენით ტენონი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicJoints.py" line="331" />
+        <location filename="../../Tools/magicJoints.py" line="329"/>
         <source>create Tenon and Mortise</source>
-        <translation>შექმენით Tenon და Mortise</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicJoints.py" line="340"/>
+        <source>Corner cross:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicJoints.py" line="355"/>
+        <source>Center cross:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicJoints.py" line="358"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicJoints.py" line="363"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicJoints.py" line="369"/>
+        <source> - keep custom cross settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicKnife</name>
     <message>
-        <location filename="../../loadTools.py" line="4193" />
-        <source>magicKnife, single knife cut many panels with copies</source>
-        <translation>magicKnife, ერთი დანა გაჭრა მრავალი პანელი ასლებით</translation>
+        <location filename="../../loadTools.py" line="4193"/>
+        <source>magicKnife, to cut many panels by single knife with copies</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4194" />
+        <location filename="../../loadTools.py" line="4194"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicKnife.py" line="28" />
+        <location filename="../../Tools/magicKnife.py" line="29"/>
         <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ ეს დუბლირებული ასლი BOM-ში, ამოჭრილი სიის ანგარიშში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicKnife.py" line="46" />
-        <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is opposite for magicCut tool. This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the copies of knife are used, so the original knife objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. If you are looking for parametric Boolean Cut operation you may consider magicKnifeLinks instead.</source>
-        <translation>&lt;b&gt;ჯერ აირჩიეთ დანა (ობიექტი) და მოგვიანებით ყველა პანელი (ობიექტი), რომლის მოჭრაც გსურთ ამ დანით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საპირისპიროა magicCut ინსტრუმენტისთვის. ეს ინსტრუმენტი საშუალებას გაძლევთ გამოიყენოთ ერთი დანა მრავალი პანელის დასაჭრელად. პირველი შერჩეული ობიექტი უნდა იყოს დანა, ხოლო ყველა სხვა შერჩეული ობიექტი დანით დაიჭრება. დანა შეიძლება იყოს ნებისმიერი ობიექტი. ასე რომ, თქვენ შეგიძლიათ შექმნათ დანის საკუთარი ფორმა და ერთდროულად მოჭრათ მრავალი პანელი. ასევე შეგიძლიათ მოჭრათ მაგიდის ყველა ფეხი დანით იატაკის ან მაგიდის ზედა ნაწილის გამოყენებით. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ პროცესის დროს გამოიყენება დანის ასლები, ამიტომ ორიგინალური დანის საგნები ხეზე არ გადავა. ასევე იქნება ავტომატური მარკირება, რათა მოჭრილი ხე იყოს უფრო ინფორმატიული და სუფთა. თუ თქვენ ეძებთ პარამეტრულ Boolean Cut ოპერაციას, ამის ნაცვლად შეგიძლიათ განიხილოთ magicKnifeLinks.</translation>
+        <location filename="../../Tools/magicKnife.py" line="47"/>
+        <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool is opposite for magicCut tool. This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the copies of knife are used, so the original knife objects will not be moved in objects tree. Also there will be auto labeling to keep the objects tree after cut more informative and cleaner. If you are looking for parametric Boolean Cut operation you may consider magicKnifeLinks instead.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicKnifeLinks</name>
     <message>
-        <location filename="../../loadTools.py" line="4388" />
-        <source>magicKnifeLinks, single knife cut many panels with links (parametric version)</source>
-        <translation>magicKnifeLinks, ერთი დანით გაჭრა მრავალი პანელი ბმულებით (პარამეტრული ვერსია)</translation>
+        <location filename="../../loadTools.py" line="4388"/>
+        <source>magicKnifeLinks, to cut many panels by single knife using link (parametric version)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4389" />
+        <location filename="../../loadTools.py" line="4389"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicKnifeLinks.py" line="30" />
+        <location filename="../../Tools/magicKnifeLinks.py" line="31"/>
         <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ ეს დუბლირებული ასლი BOM-ში, ამოჭრილი სიის ანგარიშში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicKnifeLinks.py" line="55" />
-        <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the links of knife are used, so the original knife objects will not be moved at tree. Also there will be auto labeling to keep the cut tree more informative and cleaner. This tool works with the same way as magicKnife tool but creates LinkGroup container for Knife and uses container links for cut operation. Thanks to this approach you can change Knife Cube to Pad or even add new Knife to the LinkGroup container and the cut will be updated with new Knife content. So, if you are looking for parametric cut, you should rather use this version.</source>
-        <translation>&lt;b&gt;ჯერ აირჩიეთ დანა (ობიექტი) და მოგვიანებით ყველა პანელი (ობიექტი), რომლის მოჭრაც გსურთ ამ დანით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გამოიყენოთ ერთი დანა მრავალი პანელის მოსაჭრელად. პირველი შერჩეული ობიექტი უნდა იყოს დანა, ხოლო ყველა სხვა შერჩეული ობიექტი დანით დაიჭრება. დანა შეიძლება იყოს ნებისმიერი ობიექტი. ასე რომ, თქვენ შეგიძლიათ შექმნათ დანის საკუთარი ფორმა და ერთდროულად მოჭრათ მრავალი პანელი. ასევე შეგიძლიათ მოჭრათ მაგიდის ყველა ფეხი დანით იატაკის ან მაგიდის ზედა ნაწილის გამოყენებით. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ პროცესის დროს გამოიყენება დანის რგოლები, ამიტომ ორიგინალური დანის საგნები ხეზე არ გადაადგილდება. ასევე იქნება ავტომატური მარკირება, რათა მოჭრილი ხე იყოს უფრო ინფორმატიული და სუფთა. ეს ინსტრუმენტი მუშაობს ისევე, როგორც magicKnife ინსტრუმენტი, მაგრამ ქმნის LinkGroup კონტეინერს Knife-სთვის და იყენებს კონტეინერის ბმულებს ჭრის მუშაობისთვის. ამ მიდგომის წყალობით თქვენ შეგიძლიათ შეცვალოთ Knife Cube-ზე Pad ან თუნდაც დაამატოთ ახალი Knife LinkGroup-ის კონტეინერში და ჭრილი განახლდება ახალი Knife შინაარსით. ასე რომ, თუ თქვენ ეძებთ პარამეტრულ ჭრილს, უმჯობესია გამოიყენოთ ეს ვერსია.</translation>
+        <location filename="../../Tools/magicKnifeLinks.py" line="56"/>
+        <source>&lt;b&gt;First select knife (object) and later all panels (objects) you want to cut with this knife. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to use single knife to cut many panels. First selected object should be knife, and all other selected objects will be cut with the knife. The knife can be any object. So, you can create your own shape of the knife and cut many panels at once. Also you can cut all legs of the table using floor or top of the table as knife. To select more objects hold left CTRL key during selection. During this process the links of knife are used, so the original knife objects will not be moved in objects tree. Also there will be auto labeling to keep the objects tree after cut more informative and cleaner. This tool works with the same way as magicKnife tool but creates LinkGroup container for Knife and uses container links for cut operation. Thanks to this approach you can change Knife Cube to Pad or even add new Knife to the LinkGroup container and the cut will be updated with new Knife content. So, if you are looking for parametric cut, you should rather use this version.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicManager</name>
     <message>
-        <location filename="../../loadTools.py" line="1346" />
+        <location filename="../../loadTools.py" line="1346"/>
         <source>magicManager, to create custom panels</source>
-        <translation>magicManager, პერსონალური პანელების შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1347" />
-        <source>If you have problem with unexpected result of face or between Magic Panels, you can use this tool to preview panel before creation. It may take more time to create panel, but you can select exact panel to apply, also the edge and vertex position. This tool allows to create panel at selected face or between two faces.</source>
-        <translation>თუ თქვენ გაქვთ პრობლემა სახის მოულოდნელ შედეგთან ან ჯადოსნურ პანელებს შორის, შეგიძლიათ გამოიყენოთ ეს ინსტრუმენტი შექმნამდე პანელის გადახედვისთვის. პანელის შექმნას შეიძლება მეტი დრო დასჭირდეს, მაგრამ თქვენ შეგიძლიათ აირჩიოთ ზუსტი პანელის გამოსაყენებლად, ასევე კიდეების და წვეროების პოზიცია. ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ პანელი არჩეულ სახეზე ან ორ სახეს შორის.</translation>
+        <location filename="../../loadTools.py" line="1347"/>
+        <source>This tool allows you to create a panel on a selected surface, between two surfaces, or a custom panel with a vertex-based shape. It also allows you to preview the panel before creating it.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="141" />
+        <location filename="../../Tools/magicManager.py" line="142"/>
         <source>Reading vertices: OFF</source>
-        <translation>წვეროების კითხვა: OFF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="143" />
-        <source>To create panel from vertices, click "ON" button to start reading vertices with exact order.</source>
-        <translation>წვეროებიდან პანელის შესაქმნელად დააწკაპუნეთ ღილაკზე "ჩართვა", რათა დაიწყოთ წვეროების კითხვა ზუსტი თანმიმდევრობით.</translation>
+        <location filename="../../Tools/magicManager.py" line="144"/>
+        <source>To create panel from vertices, click &quot;turn it on&quot; button to start reading vertices with exact order.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="145" />
+        <location filename="../../Tools/magicManager.py" line="146"/>
         <source>Reading vertices: ON</source>
-        <translation>წვეროების კითხვა: ON</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="147" />
-        <source>Please select vertices in correct order to create shape. First selected vertex is automatically added to the end to close the wire.</source>
-        <translation>გთხოვთ, აირჩიოთ წვეროები სწორი თანმიმდევრობით ფორმის შესაქმნელად. პირველი შერჩეული წვერო ავტომატურად ემატება ბოლოს მავთულის დახურვისთვის.</translation>
+        <location filename="../../Tools/magicManager.py" line="148"/>
+        <source>Please select vertices in correct order to create shape. First selected vertex is automatically added to the end to close the entire edge.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="175" />
+        <location filename="../../Tools/magicManager.py" line="176"/>
         <source>magicManager</source>
-        <translation>magicManager</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="191" />
+        <location filename="../../Tools/magicManager.py" line="192"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="199" />
-        <source>Plane:</source>
-        <translation>თვითმფრინავი:</translation>
+        <location filename="../../Tools/magicManager.py" line="200"/>
+        <source>Surface:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="217" />
+        <location filename="../../Tools/magicManager.py" line="218"/>
         <source>Anchor:</source>
-        <translation>წამყვანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="235" />
+        <location filename="../../Tools/magicManager.py" line="236"/>
         <source>Size:</source>
-        <translation>ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="254" />
+        <location filename="../../Tools/magicManager.py" line="255"/>
         <source>Offset:</source>
-        <translation>ოფსეტი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="276" />
-        <source>ON</source>
-        <translation>ჩართულია</translation>
+        <location filename="../../Tools/magicManager.py" line="277"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="280" />
-        <source>OFF</source>
-        <translation>გამორთულია</translation>
+        <location filename="../../Tools/magicManager.py" line="281"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="284" />
+        <location filename="../../Tools/magicManager.py" line="285"/>
         <source>remove last</source>
-        <translation>ამოიღეთ ბოლო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="288" />
+        <location filename="../../Tools/magicManager.py" line="289"/>
         <source>New object thickness:</source>
-        <translation>ახალი ობიექტის სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="293" />
+        <location filename="../../Tools/magicManager.py" line="294"/>
         <source>create panel</source>
-        <translation>პანელის შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="671" />
+        <location filename="../../Tools/magicManager.py" line="672"/>
         <source>1. select single face for panel at face</source>
-        <translation>1. აირჩიეთ ერთი სახე პანელის წინაშე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicManager.py" line="672" />
+        <location filename="../../Tools/magicManager.py" line="673"/>
         <source>2. select 2 faces for panel between</source>
-        <translation>2. აირჩიეთ 2 სახე პანელის შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicMeasure</name>
     <message>
-        <location filename="../../loadTools.py" line="2711" />
-        <source>magicMeasure, custom measurement</source>
-        <translation>magicMeasure, საბაჟო გაზომვა</translation>
+        <location filename="../../loadTools.py" line="2711"/>
+        <source>magicMeasure, to show the dimensions of selected edges</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2712" />
-        <source>Quick measurement preview on hover or by selection.</source>
-        <translation>სწრაფი გაზომვის გადახედვა ჰოვერზე ან შერჩევით.</translation>
+        <location filename="../../loadTools.py" line="2712"/>
+        <source>This tool allows you to obtain the dimensions of selected edges, distances to selected surfaces, distances between holes, as well as many other measurements useful when designing furniture.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>PartDesign - system</source>
-        <translation>PartDesign - სისტემა</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>simple</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - green</source>
-        <translation>მონახაზი - მწვანე</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>green</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - yellow</source>
-        <translation>მონახაზი - ყვითელი</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>yellow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - black</source>
-        <translation>დრაფტი - შავი</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>black</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - red</source>
-        <translation>მონახაზი - წითელი</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>red</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - handwrite green</source>
-        <translation>მონახაზი - ხელნაწერი მწვანე</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>handwrite green</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - handwrite yellow</source>
-        <translation>მონახაზი - ხელნაწერი ყვითელი</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>handwrite yellow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - handwrite black</source>
-        <translation>მონახაზი - ხელნაწერი შავი</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>handwrite black</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="567" />
-        <source>Draft - handwrite red</source>
-        <translation>მონახაზი - ხელნაწერი წითელი</translation>
+        <location filename="../../Tools/magicMeasure.py" line="568"/>
+        <source>handwrite red</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="488" />
+        <location filename="../../Tools/magicMeasure.py" line="489"/>
         <source>The observer is currently &lt;b&gt;disabled&lt;/b&gt;, please click observer &lt;b&gt;start&lt;/b&gt; button to start measuring.</source>
-        <translation>დამკვირვებელი ამჟამად &lt;b&gt;გამორთულია&lt;/b&gt;, გთხოვთ დააწკაპუნოთ დამკვირვებლის &lt;b&gt;დაწყება&lt;/b&gt; ღილაკზე გაზომვის დასაწყებად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="489" />
+        <location filename="../../Tools/magicMeasure.py" line="490"/>
         <source>This tool works in two modes:</source>
-        <translation>ეს ინსტრუმენტი მუშაობს ორ რეჟიმში:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="491" />
+        <location filename="../../Tools/magicMeasure.py" line="492"/>
         <source>Preselection mode: </source>
-        <translation>წინასწარი შერჩევის რეჟიმი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="492" />
+        <location filename="../../Tools/magicMeasure.py" line="493"/>
         <source>this mode allows you to measure objects quickly only by moving mouse cursor over the object.</source>
-        <translation>ეს რეჟიმი საშუალებას გაძლევთ სწრაფად გაზომოთ ობიექტები მხოლოდ მაუსის კურსორის გადაადგილებით ობიექტზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="493" />
+        <location filename="../../Tools/magicMeasure.py" line="494"/>
         <source>Selection mode: </source>
-        <translation>შერჩევის რეჟიმი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="494" />
-        <source>this mode allows you to measure objects by selecting vertex, face or holes.</source>
-        <translation>ეს რეჟიმი საშუალებას გაძლევთ გაზომოთ ობიექტები წვერის, სახის ან ხვრელების არჩევით.</translation>
+        <location filename="../../Tools/magicMeasure.py" line="495"/>
+        <source>this mode allows you to measure objects by selecting edge, vertex, surface or hole.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="519" />
-        <source>Preselection mode is: </source>
-        <translation>წინასწარი შერჩევის რეჟიმი არის:</translation>
+        <location filename="../../Tools/magicMeasure.py" line="520"/>
+        <source>Preselection mode is:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="612" />
-        <source>ON</source>
-        <translation>ჩართულია</translation>
+        <location filename="../../Tools/magicMeasure.py" line="500"/>
+        <source>ACTIVATED</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="505" />
+        <location filename="../../Tools/magicMeasure.py" line="506"/>
         <source>In this mode you can measure: </source>
-        <translation>ამ რეჟიმში შეგიძლიათ გაზომოთ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="506" />
+        <location filename="../../Tools/magicMeasure.py" line="507"/>
         <source>edge</source>
-        <translation>ზღვარი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="507" />
+        <location filename="../../Tools/magicMeasure.py" line="508"/>
         <source>face</source>
-        <translation>სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="508" />
+        <location filename="../../Tools/magicMeasure.py" line="509"/>
         <source>hole diameter</source>
-        <translation>ხვრელის დიამეტრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="509" />
+        <location filename="../../Tools/magicMeasure.py" line="510"/>
         <source>and hole depth</source>
-        <translation>და ხვრელის სიღრმე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="511" />
+        <location filename="../../Tools/magicMeasure.py" line="512"/>
         <source>To see measurements, in this preselection mode, you have to move cursor over the object.</source>
-        <translation>გაზომვების სანახავად, ამ წინასწარ შერჩევის რეჟიმში, თქვენ უნდა გადაიტანოთ კურსორი ობიექტზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="512" />
+        <location filename="../../Tools/magicMeasure.py" line="513"/>
         <source>If you click left mouse button the current visible measurements will be stored.</source>
-        <translation>თუ დააწკაპუნებთ მაუსის მარცხენა ღილაკს, მიმდინარე ხილული გაზომვები შეინახება.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="513" />
+        <location filename="../../Tools/magicMeasure.py" line="514"/>
         <source>For more detailed measurements turn off preselection mode.</source>
-        <translation>უფრო დეტალური გაზომვებისთვის გამორთეთ წინასწარი შერჩევის რეჟიმი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="618" />
-        <source>OFF</source>
-        <translation>გამორთულია</translation>
+        <location filename="../../Tools/magicMeasure.py" line="520"/>
+        <source>NOT ACTIVATED</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="523" />
+        <location filename="../../Tools/magicMeasure.py" line="524"/>
         <source>In this mode you have possible selections:</source>
-        <translation>ამ რეჟიმში თქვენ გაქვთ შესაძლო არჩევანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="525" />
+        <location filename="../../Tools/magicMeasure.py" line="526"/>
         <source>&lt;b&gt;Edge&lt;/b&gt;: to measure edge size,</source>
-        <translation>&lt;b&gt;კიდე&lt;/b&gt;: კიდის ზომის გასაზომად,</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="526" />
+        <location filename="../../Tools/magicMeasure.py" line="527"/>
         <source>&lt;b&gt;Vertex -&gt; Face&lt;/b&gt; or &lt;b&gt;Vertex -&gt; Edge&lt;/b&gt; or &lt;b&gt;Vertex -&gt; Hole&lt;/b&gt; or &lt;b&gt;Vertex -&gt; Vertex&lt;/b&gt;: to measure distance from vertex to the other selected object,</source>
-        <translation>&lt;b&gt; Vertex -&gt; Face&lt;/b&gt; ან &lt;b&gt; Vertex -&gt; Edge&lt;/b&gt; ან &lt;b&gt; Vertex -&gt; Hole&lt;/b&gt; ან &lt;b&gt; Vertex -&gt; Vertex&lt;/b&gt;: წვეროდან სხვა არჩეულ ობიექტამდე მანძილის გასაზომად,</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="527" />
+        <location filename="../../Tools/magicMeasure.py" line="528"/>
         <source>&lt;b&gt;Hole -&gt; Hole&lt;/b&gt; or &lt;b&gt;Hole -&gt; Edge&lt;/b&gt; or &lt;b&gt;Hole -&gt; Face&lt;/b&gt; or &lt;b&gt;Hole -&gt; Vertex&lt;/b&gt;: to measure distance from hole to the other selected object.</source>
-        <translation>&lt;b&gt;ხვრელი -&gt; ხვრელი&lt;/b&gt; ან &lt;b&gt;ხვრელი -&gt; კიდე&lt;/b&gt; ან &lt;b&gt;ხვრელი -&gt; სახე&lt;/b&gt; ან &lt;b&gt;ხვრელი -&gt; წვერო&lt;/b&gt;: ხვრელიდან სხვა არჩეულ ობიექტამდე მანძილის გასაზომად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="554" />
+        <location filename="../../Tools/magicMeasure.py" line="555"/>
         <source>magicMeasure</source>
-        <translation>magicMeasure</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="564" />
+        <location filename="../../Tools/magicMeasure.py" line="565"/>
         <source>Drawing type:</source>
-        <translation>ნახატის ტიპი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="590" />
+        <location filename="../../Tools/magicMeasure.py" line="591"/>
         <source>Measurement observer:</source>
-        <translation>გაზომვის დამკვირვებელი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="593" />
+        <location filename="../../Tools/magicMeasure.py" line="594"/>
         <source>START</source>
-        <translation>დაწყება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="599" />
+        <location filename="../../Tools/magicMeasure.py" line="599"/>
         <source>PAUSE</source>
-        <translation>პაუზა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="609" />
+        <location filename="../../Tools/magicMeasure.py" line="608"/>
         <source>Preselection mode:</source>
-        <translation>წინასწარი შერჩევის რეჟიმი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMeasure.py" line="628" />
+        <location filename="../../Tools/magicMeasure.py" line="611"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicMeasure.py" line="616"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicMeasure.py" line="625"/>
         <source>Vertices size:</source>
-        <translation>ვერტიკების ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicMove</name>
     <message>
-        <location filename="../../loadTools.py" line="293" />
+        <location filename="../../loadTools.py" line="293"/>
         <source>magicMove, to move or copy panels or other objects</source>
-        <translation>magicMove, პანელების ან სხვა ობიექტების გადასატანად ან კოპირებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="294" />
-        <source>Tool to move, copy and mirror parts of the furniture. This tool also allows to animate move, for example move drawer container.</source>
-        <translation>ხელსაწყო ავეჯის ნაწილების გადასატანად, კოპირებასა და სარკეში. ეს ინსტრუმენტი ასევე იძლევა მოძრაობის ანიმაციის საშუალებას, მაგალითად, უჯრის კონტეინერის გადატანას.</translation>
+        <location filename="../../loadTools.py" line="294"/>
+        <source>This tool allows you to move, copy, and mirror furniture parts. This tool also allows you to animate movement, such as moving a container with a drawer.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="174" />
+        <location filename="../../Tools/magicMove.py" line="175"/>
         <source>Move</source>
-        <translation>გადაადგილება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="174" />
+        <location filename="../../Tools/magicMove.py" line="175"/>
         <source>Copy</source>
-        <translation>კოპირება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="174" />
+        <location filename="../../Tools/magicMove.py" line="175"/>
         <source>Copy by Path</source>
-        <translation>კოპირება გზაზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="174" />
+        <location filename="../../Tools/magicMove.py" line="175"/>
         <source>Mirror</source>
-        <translation>სარკე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="174" />
+        <location filename="../../Tools/magicMove.py" line="175"/>
         <source>Copy by Edge</source>
-        <translation>დააკოპირეთ Edge-ით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="174" />
+        <location filename="../../Tools/magicMove.py" line="175"/>
         <source>Move to Equal</source>
-        <translation>გადატანა თანაბარზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="190" />
+        <location filename="../../Tools/magicMove.py" line="191"/>
         <source>copyObject</source>
-        <translation>copyObject</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="206" />
+        <location filename="../../Tools/magicMove.py" line="207"/>
         <source>Clone</source>
-        <translation>კლონი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="190" />
+        <location filename="../../Tools/magicMove.py" line="191"/>
         <source>Link</source>
-        <translation>ბმული</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="206" />
+        <location filename="../../Tools/magicMove.py" line="207"/>
         <source>auto</source>
-        <translation>ავტო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="190" />
+        <location filename="../../Tools/magicMove.py" line="191"/>
         <source>Array</source>
-        <translation>მასივი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="206" />
+        <location filename="../../Tools/magicMove.py" line="207"/>
         <source>LinkGroup</source>
-        <translation>LinkGroup</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="314" />
+        <location filename="../../Tools/magicMove.py" line="315"/>
         <source>normal</source>
-        <translation>ნორმალური</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="314" />
+        <location filename="../../Tools/magicMove.py" line="315"/>
         <source>rotated</source>
-        <translation>შემოტრიალდა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="509" />
+        <location filename="../../Tools/magicMove.py" line="506"/>
         <source>default</source>
-        <translation>ნაგულისხმევი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="509" />
+        <location filename="../../Tools/magicMove.py" line="506"/>
         <source>object center</source>
-        <translation>ობიექტის ცენტრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="69" />
+        <location filename="../../Tools/magicMove.py" line="70"/>
         <source>Rotation X, Y, Z:</source>
-        <translation>როტაცია X, Y, Z:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="70" />
+        <location filename="../../Tools/magicMove.py" line="71"/>
         <source>Next point step:</source>
-        <translation>შემდეგი ნაბიჯი ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="72" />
+        <location filename="../../Tools/magicMove.py" line="73"/>
         <source>select objects to move or copy</source>
-        <translation>შეარჩიეთ ობიექტები გადასატანად ან გადასაწერად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="73" />
+        <location filename="../../Tools/magicMove.py" line="74"/>
         <source>select copy path</source>
-        <translation>აირჩიეთ კოპირების გზა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="74" />
+        <location filename="../../Tools/magicMove.py" line="75"/>
         <source>select edge or face</source>
-        <translation>აირჩიეთ ზღვარი ან სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="75" />
+        <location filename="../../Tools/magicMove.py" line="76"/>
         <source>edge, face or vertex</source>
-        <translation>კიდე, სახე ან წვერო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="76" />
+        <location filename="../../Tools/magicMove.py" line="77"/>
         <source>select start edge</source>
-        <translation>აირჩიეთ საწყისი ზღვარი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="77" />
+        <location filename="../../Tools/magicMove.py" line="78"/>
         <source>select end edge</source>
-        <translation>აირჩიეთ ბოლო კიდე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="154" />
+        <location filename="../../Tools/magicMove.py" line="155"/>
         <source>magicMove</source>
-        <translation>magicMove</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="169" />
+        <location filename="../../Tools/magicMove.py" line="170"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="220" />
+        <location filename="../../Tools/magicMove.py" line="221"/>
         <source>copy to new container</source>
-        <translation>დააკოპირეთ ახალ კონტეინერში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="249" />
-        <source>Move along X:</source>
-        <translation>გადაადგილება X-ის გასწვრივ:</translation>
+        <location filename="../../Tools/magicMove.py" line="250"/>
+        <source>Move objects along X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="264" />
-        <source>Move along Y:</source>
-        <translation>გადაადგილება Y-ის გასწვრივ:</translation>
+        <location filename="../../Tools/magicMove.py" line="265"/>
+        <source>Move objects along Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="279" />
-        <source>Move along Z:</source>
-        <translation>გადაადგილება Z-ის გასწვრივ:</translation>
+        <location filename="../../Tools/magicMove.py" line="280"/>
+        <source>Move objects along Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="294" />
-        <source>Move step:</source>
-        <translation>ნაბიჯის გადაადგილება:</translation>
+        <location filename="../../Tools/magicMove.py" line="295"/>
+        <source>Step to move:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="302" />
+        <location filename="../../Tools/magicMove.py" line="303"/>
         <source> - animate move</source>
-        <translation>- ანიმაციური მოძრაობა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="310" />
+        <location filename="../../Tools/magicMove.py" line="311"/>
         <source>Object type:</source>
-        <translation>ობიექტის ტიპი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="326" />
+        <location filename="../../Tools/magicMove.py" line="327"/>
         <source>Copy offset:</source>
-        <translation>ოფსეტური კოპირება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="449" />
+        <location filename="../../Tools/magicMove.py" line="447"/>
         <source>Copy along X:</source>
-        <translation>დააკოპირეთ X-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="458" />
+        <location filename="../../Tools/magicMove.py" line="456"/>
         <source>Copy along Y:</source>
-        <translation>კოპირება Y-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="467" />
+        <location filename="../../Tools/magicMove.py" line="465"/>
         <source>Copy along Z:</source>
-        <translation>დააკოპირეთ Z-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="529" />
+        <location filename="../../Tools/magicMove.py" line="526"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="398" />
+        <location filename="../../Tools/magicMove.py" line="397"/>
         <source>set both edges</source>
-        <translation>დააყენეთ ორივე კიდე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="403" />
+        <location filename="../../Tools/magicMove.py" line="402"/>
         <source>Equal space along X:</source>
-        <translation>თანაბარი სივრცე X-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="424" />
+        <location filename="../../Tools/magicMove.py" line="423"/>
         <source>move</source>
-        <translation>გადაადგილება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="412" />
+        <location filename="../../Tools/magicMove.py" line="411"/>
         <source>Equal space along Y:</source>
-        <translation>თანაბარი სივრცე Y გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="421" />
+        <location filename="../../Tools/magicMove.py" line="420"/>
         <source>Equal space along Z:</source>
-        <translation>თანაბარი სივრცე Z-ს გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="551" />
+        <location filename="../../Tools/magicMove.py" line="547"/>
         <source>Additional offset:</source>
-        <translation>დამატებითი კომპენსაცია:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="580" />
+        <location filename="../../Tools/magicMove.py" line="576"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="506" />
+        <location filename="../../Tools/magicMove.py" line="503"/>
         <source>Anchor:</source>
-        <translation>წამყვანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="520" />
+        <location filename="../../Tools/magicMove.py" line="517"/>
         <source>copy along path</source>
-        <translation>კოპირება გზის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="536" />
+        <location filename="../../Tools/magicMove.py" line="532"/>
         <source>Mirror XYZ:</source>
-        <translation>სარკე XYZ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="559" />
+        <location filename="../../Tools/magicMove.py" line="555"/>
         <source>Mirror along X:</source>
-        <translation>სარკე X-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="568" />
+        <location filename="../../Tools/magicMove.py" line="564"/>
         <source>Mirror along Y:</source>
-        <translation>სარკე Y-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="577" />
+        <location filename="../../Tools/magicMove.py" line="573"/>
         <source>Mirror along Z:</source>
-        <translation>სარკე Z-ის გასწვრივ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="592" />
+        <location filename="../../Tools/magicMove.py" line="588"/>
         <source>Corner cross:</source>
-        <translation>კუთხის ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="609" />
+        <location filename="../../Tools/magicMove.py" line="603"/>
         <source>Center cross:</source>
-        <translation>ცენტრალური ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="612" />
-        <source>on</source>
-        <translation>on</translation>
+        <location filename="../../Tools/magicMove.py" line="606"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="618" />
-        <source>off</source>
-        <translation>გამორთულია</translation>
+        <location filename="../../Tools/magicMove.py" line="611"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="625" />
+        <location filename="../../Tools/magicMove.py" line="617"/>
         <source> - keep custom cross settings</source>
-        <translation>- შეინახეთ ჯვარედინი პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="1678" />
+        <location filename="../../Tools/magicMove.py" line="1672"/>
         <source>is not supported. Currently supported objects are only Part::Box and App::Part. If you want to create this parametric mirror for PartDesign object, please select Part container. 
 </source>
-        <translation>არ არის მხარდაჭერილი. ამჟამად მხარდაჭერილი ობიექტები არის მხოლოდ ნაწილი::ყუთი და აპლიკაცია::ნაწილი. თუ გსურთ შექმნათ ეს პარამეტრული სარკე PartDesign ობიექტისთვის, გთხოვთ, აირჩიოთ Part container.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicMove.py" line="1680" />
+        <location filename="../../Tools/magicMove.py" line="1674"/>
         <source>select Part::Box or App::Part instead</source>
-        <translation>ამის ნაცვლად აირჩიეთ Part::Box ან App::Part</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicResizer</name>
     <message>
-        <location filename="../../loadTools.py" line="605" />
+        <location filename="../../loadTools.py" line="605"/>
         <source>magicResizer, smart resizer tool</source>
-        <translation>magicResizer, ჭკვიანი resizer ინსტრუმენტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="606" />
-        <source>This tool allows to resize object via selected edge or to the nearest face of other object.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ ობიექტის ზომა შერჩეული კიდეებით ან სხვა ობიექტის უახლოეს სახემდე.</translation>
+        <location filename="../../loadTools.py" line="606"/>
+        <source>This tool allows you to resize object via selected edge or to the nearest face of other object.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="39" />
+        <location filename="../../Tools/magicResizer.py" line="40"/>
         <source>select edge to resize</source>
-        <translation>აირჩიეთ ზღვარი ზომის შესაცვლელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="40" />
+        <location filename="../../Tools/magicResizer.py" line="41"/>
         <source>select face, edge or vertex as destination</source>
-        <translation>აირჩიეთ სახე, კიდე ან წვერო, როგორც დანიშნულება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="57" />
+        <location filename="../../Tools/magicResizer.py" line="58"/>
         <source>magicResizer</source>
-        <translation>magicResizer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="75" />
+        <location filename="../../Tools/magicResizer.py" line="75"/>
         <source>set</source>
-        <translation>კომპლექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="83" />
+        <location filename="../../Tools/magicResizer.py" line="82"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="92" />
+        <location filename="../../Tools/magicResizer.py" line="91"/>
         <source>Resize step:</source>
-        <translation>ზომის შეცვლის ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="103" />
+        <location filename="../../Tools/magicResizer.py" line="102"/>
         <source>resize -</source>
-        <translation>ზომის შეცვლა -</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="109" />
+        <location filename="../../Tools/magicResizer.py" line="108"/>
         <source>resize +</source>
-        <translation>ზომის შეცვლა +</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicResizer.py" line="119" />
+        <location filename="../../Tools/magicResizer.py" line="118"/>
         <source>resize to nearest</source>
-        <translation>ზომის შეცვლა უახლოესმდე</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicSettings</name>
     <message>
-        <location filename="../../loadTools.py" line="2165" />
+        <location filename="../../loadTools.py" line="2165"/>
         <source>magicSettings, tool for Woodworking workbench settings</source>
-        <translation>magicSettings, ინსტრუმენტი ხის სამუშაო მაგიდის პარამეტრებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2166" />
+        <location filename="../../loadTools.py" line="2166"/>
         <source>This tool allows you to set default settings for Woodworking workbench.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ დააყენოთ ნაგულისხმევი პარამეტრები Woodworking Workbench-ისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="110" />
+        <location filename="../../Tools/magicSettings.py" line="111"/>
         <source>Settings - page 1</source>
-        <translation>პარამეტრები - გვერდი 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="110" />
+        <location filename="../../Tools/magicSettings.py" line="111"/>
         <source>Settings - page 2</source>
-        <translation>პარამეტრები - გვერდი 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="110" />
+        <location filename="../../Tools/magicSettings.py" line="111"/>
         <source>Settings - page 3</source>
-        <translation>პარამეტრები - გვერდი 3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="110" />
+        <location filename="../../Tools/magicSettings.py" line="111"/>
         <source>Settings - page 4</source>
-        <translation>პარამეტრები - გვერდი 4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="110" />
+        <location filename="../../Tools/magicSettings.py" line="111"/>
         <source>Settings - page 5</source>
-        <translation>პარამეტრები - გვერდი 5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="110" />
+        <location filename="../../Tools/magicSettings.py" line="111"/>
         <source>Settings - page 6</source>
-        <translation>პარამეტრები - გვერდი 6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>kg per area in m^2</source>
-        <translation>კგ თითო ფართობზე m^2-ში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>kg per volume in m^3</source>
-        <translation>კგ თითო მოცულობაში m^3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>kg per wood piece</source>
-        <translation>კგ ხის ნაჭერზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>pounds per area in ft^2</source>
-        <translation>ფუნტი თითო ფართობზე ფტ^2-ში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>pounds per cubic foot</source>
-        <translation>ფუნტი კუბურ მეტრზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>pounds per cubic inch</source>
-        <translation>ფუნტი კუბურ ინჩზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>pounds per board foot</source>
-        <translation>ფუნტი თითო დაფის ფეხზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="180" />
+        <location filename="../../Tools/magicSettings.py" line="244"/>
         <source>pounds per wood piece</source>
-        <translation>ფუნტი ხის ნაჭერზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per area in m^2</source>
-        <translation>ფართის ფასი მ^2-ში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per volume in m^3</source>
-        <translation>მოცულობის ფასი მ^3-ში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per wood piece</source>
-        <translation>ფასი ხის ნაჭერზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per area in ft^2</source>
-        <translation>ფასი თითო ფართობზე ფუტ ^ 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per cubic foot</source>
-        <translation>ფასი კუბურ მეტრზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per cubic inch</source>
-        <translation>ფასი კუბურ ინჩზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="207" />
+        <location filename="../../Tools/magicSettings.py" line="271"/>
         <source>price per board foot</source>
-        <translation>ფასი თითო დაფის ფეხით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="406" />
+        <location filename="../../Tools/magicSettings.py" line="437"/>
         <source>price per mm - millimeter</source>
-        <translation>ფასი მმ - მილიმეტრზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="406" />
+        <location filename="../../Tools/magicSettings.py" line="437"/>
         <source>price per cm - centimeter</source>
-        <translation>ფასი სმ - სანტიმეტრზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="406" />
+        <location filename="../../Tools/magicSettings.py" line="437"/>
         <source>price per m - meter</source>
-        <translation>მ - მეტრის ფასი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="406" />
+        <location filename="../../Tools/magicSettings.py" line="437"/>
         <source>price per ft - foot</source>
-        <translation>ფასი ფუტზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="406" />
+        <location filename="../../Tools/magicSettings.py" line="437"/>
         <source>price per in - inch</source>
-        <translation>ფასი თითო ინჩზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="240" />
+        <location filename="../../Tools/magicSettings.py" line="194"/>
         <source>FreeCAD Main Window</source>
-        <translation>FreeCAD-ის მთავარი ფანჯარა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="240" />
+        <location filename="../../Tools/magicSettings.py" line="194"/>
         <source>Desktop screen</source>
-        <translation>დესკტოპის ეკრანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="99" />
+        <location filename="../../Tools/magicSettings.py" line="100"/>
         <source>magicSettings</source>
-        <translation>magicSettings</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="130" />
+        <location filename="../../Tools/magicSettings.py" line="131"/>
         <source>Theme:</source>
-        <translation>თემა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="139" />
+        <location filename="../../Tools/magicSettings.py" line="140"/>
         <source>Main window theme:</source>
-        <translation>ფანჯრის მთავარი თემა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="426" />
+        <location filename="../../Tools/magicSettings.py" line="457"/>
         <source>yes</source>
-        <translation>დიახ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="430" />
+        <location filename="../../Tools/magicSettings.py" line="461"/>
         <source>no</source>
-        <translation>არა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="154" />
+        <location filename="../../Tools/magicSettings.py" line="155"/>
         <source>Wood thickness:</source>
-        <translation>ხის სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="159" />
+        <location filename="../../Tools/magicSettings.py" line="160"/>
         <source>Wood size X (long):</source>
-        <translation>ხის ზომა X (გრძელი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="164" />
+        <location filename="../../Tools/magicSettings.py" line="165"/>
         <source>Wood size Y (short):</source>
-        <translation>ხის ზომა Y (მოკლე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="169" />
+        <location filename="../../Tools/magicSettings.py" line="170"/>
         <source>Wood description:</source>
-        <translation>ხის აღწერა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="174" />
-        <source>Wood weight:</source>
-        <translation>ხის წონა:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicSettings.py" line="179" />
-        <source>Wood weight calculation:</source>
-        <translation>ხის წონის გაანგარიშება:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicSettings.py" line="196" />
-        <source>Wood price:</source>
-        <translation>ხის ფასი:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicSettings.py" line="201" />
-        <source>Wood price symbol:</source>
-        <translation>ხის ფასის სიმბოლო:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicSettings.py" line="206" />
-        <source>Wood price calculation:</source>
-        <translation>ხის ფასის გაანგარიშება:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicSettings.py" line="222" />
+        <location filename="../../Tools/magicSettings.py" line="176"/>
         <source>Wood color (red):</source>
-        <translation>ხის ფერი (წითელი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="226" />
+        <location filename="../../Tools/magicSettings.py" line="180"/>
         <source>Wood color (green):</source>
-        <translation>ხის ფერი (მწვანე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="230" />
+        <location filename="../../Tools/magicSettings.py" line="184"/>
         <source>Wood color (blue):</source>
-        <translation>ხის ფერი (ლურჯი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="234" />
+        <location filename="../../Tools/magicSettings.py" line="188"/>
         <source>Wood color (alpha channel):</source>
-        <translation>ხის ფერი (ალფა არხი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="239" />
+        <location filename="../../Tools/magicSettings.py" line="193"/>
         <source>Tools GUI anchor:</source>
-        <translation>ინსტრუმენტების GUI წამყვანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="250" />
+        <location filename="../../Tools/magicSettings.py" line="204"/>
         <source>Window stays on top:</source>
-        <translation>ფანჯარა რჩება თავზე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="265" />
+        <location filename="../../Tools/magicSettings.py" line="219"/>
         <source>Current selection:</source>
-        <translation>მიმდინარე არჩევანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="284" />
-        <source>Front inside thickness:</source>
-        <translation>წინა შიდა სისქე:</translation>
+        <location filename="../../Tools/magicSettings.py" line="238"/>
+        <source>Wood weight:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="289" />
-        <source>Front inside offset left:</source>
-        <translation>წინა შიდა ოფსეტი მარცხნივ:</translation>
+        <location filename="../../Tools/magicSettings.py" line="243"/>
+        <source>Wood weight calculation:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="294" />
-        <source>Front inside offset right:</source>
-        <translation>წინა შიდა ოფსეტი მარჯვნივ:</translation>
+        <location filename="../../Tools/magicSettings.py" line="260"/>
+        <source>Wood price:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="299" />
-        <source>Front inside offset bottom:</source>
-        <translation>წინა შიდა ოფსეტური ქვედა:</translation>
+        <location filename="../../Tools/magicSettings.py" line="265"/>
+        <source>Wood price symbol:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="304" />
-        <source>Front inside offset top:</source>
-        <translation>წინა შიდა ოფსეტური ზედა:</translation>
+        <location filename="../../Tools/magicSettings.py" line="270"/>
+        <source>Wood price calculation:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="309" />
-        <source>Front outside thickness:</source>
-        <translation>წინა გარე სისქე:</translation>
+        <location filename="../../Tools/magicSettings.py" line="286"/>
+        <source>Lumber allowance for length:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="314" />
-        <source>Front outside overlap left:</source>
-        <translation>წინა გარე გადახურვა მარცხნივ:</translation>
+        <location filename="../../Tools/magicSettings.py" line="291"/>
+        <source>Lumber allowance for width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="319" />
-        <source>Front outside overlap right:</source>
-        <translation>წინა გარე გადახურვა მარჯვნივ:</translation>
+        <location filename="../../Tools/magicSettings.py" line="296"/>
+        <source>Lumber allowance for thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="324" />
-        <source>Front outside overlap bottom:</source>
-        <translation>წინა გარე გადახურვა ქვედა:</translation>
+        <location filename="../../Tools/magicSettings.py" line="301"/>
+        <source>Steps of lumber thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="329" />
-        <source>Front outside overlap top:</source>
-        <translation>წინა გარე გადახურვა ზედა:</translation>
+        <location filename="../../Tools/magicSettings.py" line="306"/>
+        <source>Add lumber allowance everywhere:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="334" />
-        <source>Shelf thickness:</source>
-        <translation>თაროს სისქე:</translation>
+        <location filename="../../Tools/magicSettings.py" line="315"/>
+        <source>Front inside - thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="339" />
-        <source>Shelf sides offset:</source>
-        <translation>თაროების გვერდების გადანაწილება:</translation>
+        <location filename="../../Tools/magicSettings.py" line="320"/>
+        <source>Front inside - gap from left:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="344" />
-        <source>Back inside thickness:</source>
-        <translation>უკანა შიდა სისქე:</translation>
+        <location filename="../../Tools/magicSettings.py" line="325"/>
+        <source>Front inside - gap from right:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="349" />
-        <source>Back outside thickness:</source>
-        <translation>უკანა გარე სისქე:</translation>
+        <location filename="../../Tools/magicSettings.py" line="330"/>
+        <source>Front inside - gap from bottom:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="358" />
+        <location filename="../../Tools/magicSettings.py" line="335"/>
+        <source>Front inside - gap from top:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="340"/>
+        <source>Front outside - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="345"/>
+        <source>Front outside - overlap from left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="350"/>
+        <source>Front outside - overlap from right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="355"/>
+        <source>Front outside - overlap from bottom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="360"/>
+        <source>Front outside - overlap from top:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="365"/>
+        <source>Shelf - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="370"/>
+        <source>Shelf - the gap from sides:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="375"/>
+        <source>Back inside - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="380"/>
+        <source>Back outside - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicSettings.py" line="389"/>
         <source>Veneer thickness:</source>
-        <translation>ვინირების სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="363" />
+        <location filename="../../Tools/magicSettings.py" line="394"/>
         <source>Veneer apply:</source>
-        <translation>ვინირის წასმა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="366" />
+        <location filename="../../Tools/magicSettings.py" line="397"/>
         <source>everywhere</source>
-        <translation>ყველგან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="370" />
+        <location filename="../../Tools/magicSettings.py" line="401"/>
         <source>visible</source>
-        <translation>ხილული</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="378" />
+        <location filename="../../Tools/magicSettings.py" line="409"/>
         <source>Veneer color (red):</source>
-        <translation>ვინირების ფერი (წითელი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="382" />
+        <location filename="../../Tools/magicSettings.py" line="413"/>
         <source>Veneer color (green):</source>
-        <translation>ვენის ფერი (მწვანე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="386" />
+        <location filename="../../Tools/magicSettings.py" line="417"/>
         <source>Veneer color (blue):</source>
-        <translation>ვინრის ფერი (ლურჯი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="390" />
+        <location filename="../../Tools/magicSettings.py" line="421"/>
         <source>Veneer color (alpha channel):</source>
-        <translation>ვინირების ფერი (ალფა არხი):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="395" />
+        <location filename="../../Tools/magicSettings.py" line="426"/>
         <source>Edgeband price:</source>
-        <translation>Edgeband ფასი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="400" />
+        <location filename="../../Tools/magicSettings.py" line="431"/>
         <source>Edgeband price symbol:</source>
-        <translation>Edgeband ფასის სიმბოლო:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="405" />
+        <location filename="../../Tools/magicSettings.py" line="436"/>
         <source>Edgeband price calculation:</source>
-        <translation>Edgeband ფასის გაანგარიშება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="423" />
+        <location filename="../../Tools/magicSettings.py" line="454"/>
         <source>Prefer magicSettings defaults:</source>
-        <translation>უპირატესობა მიანიჭეთ magicSettings ნაგულისხმევს:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="438" />
+        <location filename="../../Tools/magicSettings.py" line="469"/>
         <source>Sides:</source>
-        <translation>მხარეები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="443" />
+        <location filename="../../Tools/magicSettings.py" line="474"/>
         <source>Items per side:</source>
-        <translation>ნივთები თითო მხარეს:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="448" />
+        <location filename="../../Tools/magicSettings.py" line="479"/>
         <source>Offset from corner:</source>
-        <translation>ოფსეტი კუთხიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="453" />
+        <location filename="../../Tools/magicSettings.py" line="484"/>
         <source>Offset between items:</source>
-        <translation>ოფსეტი ერთეულებს შორის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="458" />
+        <location filename="../../Tools/magicSettings.py" line="489"/>
         <source>Offset from edge:</source>
-        <translation>ოფსეტი კიდიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="467" />
+        <location filename="../../Tools/magicSettings.py" line="498"/>
         <source>Dowel diameter:</source>
-        <translation>დოლის დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="472" />
+        <location filename="../../Tools/magicSettings.py" line="503"/>
         <source>Dowel size:</source>
-        <translation>დუელის ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="477" />
-        <source>Dowel sink:</source>
-        <translation>დუელის ნიჟარა:</translation>
+        <location filename="../../Tools/magicSettings.py" line="508"/>
+        <source>Dowel penetration:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="482" />
+        <location filename="../../Tools/magicSettings.py" line="513"/>
         <source>Hole diameter:</source>
-        <translation>ხვრელის დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="487" />
+        <location filename="../../Tools/magicSettings.py" line="518"/>
         <source>Hole countersink diameter:</source>
-        <translation>ხვრელის კონტრასატორის დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="492" />
+        <location filename="../../Tools/magicSettings.py" line="523"/>
         <source>Hole size:</source>
-        <translation>ხვრელის ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="497" />
-        <source>Hole spike:</source>
-        <translation>ხვრელის მწვერვალი:</translation>
+        <location filename="../../Tools/magicSettings.py" line="528"/>
+        <source>Spike inside hole:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="502" />
+        <location filename="../../Tools/magicSettings.py" line="533"/>
         <source>Pocket diameter:</source>
-        <translation>ჯიბის დიამეტრი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="507" />
+        <location filename="../../Tools/magicSettings.py" line="538"/>
         <source>Pocket countersink:</source>
-        <translation>ჯიბის კონტეინერი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="512" />
+        <location filename="../../Tools/magicSettings.py" line="543"/>
         <source>Pocket size:</source>
-        <translation>ჯიბის ზომა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="517" />
+        <location filename="../../Tools/magicSettings.py" line="548"/>
         <source>Pocket offset from edge:</source>
-        <translation>ჯიბის გადაადგილება კიდიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="522" />
-        <source>Pocket rotation:</source>
-        <translation>ჯიბის როტაცია:</translation>
+        <location filename="../../Tools/magicSettings.py" line="553"/>
+        <source>Pocket hole rotation:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="527" />
-        <source>Pocket sink:</source>
-        <translation>ჯიბის ნიჟარა:</translation>
+        <location filename="../../Tools/magicSettings.py" line="558"/>
+        <source>Pocket hole penetration:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="539" />
+        <location filename="../../Tools/magicSettings.py" line="570"/>
         <source>save settings</source>
-        <translation>პარამეტრების შენახვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="1634" />
+        <location filename="../../Tools/magicSettings.py" line="1782"/>
         <source>Settings have been updated.</source>
-        <translation>პარამეტრები განახლებულია.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicSettings.py" line="1637" />
+        <location filename="../../Tools/magicSettings.py" line="1785"/>
         <source>Error during save settings.</source>
-        <translation>შეცდომა შენახვის პარამეტრების დროს.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicStart</name>
     <message>
-        <location filename="../../loadTools.py" line="20" />
+        <location filename="../../loadTools.py" line="20"/>
         <source>magicStart, tool for easier start</source>
-        <translation>magicStart, ინსტრუმენტი უფრო მარტივი დაწყებისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="21" />
+        <location filename="../../loadTools.py" line="21"/>
         <source>This tool was created to make it easier to start designing furniture. It contains some structures that I often use personally, as well as other carpentry solutions suggested by users. However, this tool does not contain a complete list of solutions, because there are too many of them in the world of carpentry, practically every carpenter and manufacturer of furniture or accessories has their own standards. I try to adjust the contents of this tool in such a way that it gives the greatest possible possibilities for later processing and adapting the initial structure to your own needs.</source>
-        <translation>ეს ინსტრუმენტი შეიქმნა იმისათვის, რომ გაადვილდეს ავეჯის დიზაინის დაწყება. ის შეიცავს ზოგიერთ სტრუქტურას, რომელსაც მე ხშირად ვიყენებ პირადად, ისევე როგორც სხვა ხუროს გადაწყვეტილებებს, რომლებსაც შემოგვთავაზებენ მომხმარებლები. თუმცა, ეს ინსტრუმენტი არ შეიცავს გადაწყვეტილებების სრულ ჩამონათვალს, რადგან ხუროს სამყაროში ძალიან ბევრია, პრაქტიკულად ყველა დურგელსა და ავეჯის ან აქსესუარების მწარმოებელს აქვს საკუთარი სტანდარტები. ვცდილობ ამ ხელსაწყოს შიგთავსი ისე დავარეგულირო, რომ შემდგომში დამუშავებისა და თავდაპირველი სტრუქტურის საკუთარ საჭიროებებზე ადაპტაციის მაქსიმალურ შესაძლებლობებს იძლევა.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Storage module ( front outside, back inside, veneer )</source>
-        <translation>შენახვის მოდული (წინა გარეთ, უკან შიგნით, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="3207" />
+        <location filename="../../Tools/magicStart.py" line="2767"/>
         <source>Bookcase module ( no front, back outside, veneer )</source>
-        <translation>წიგნის კარადის მოდული (წინა, უკანა გარეთ, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Bookcase ( import parametric )</source>
-        <translation>წიგნის კარადა (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( simple, parametric )</source>
-        <translation>უჯრა (მარტივი, პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Simple chair ( import parametric )</source>
-        <translation>მარტივი სკამი (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Picture frame ( import parametric )</source>
-        <translation>სურათის ჩარჩო (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( simple, import parametric )</source>
-        <translation>ცხრილი (მარტივი, იმპორტის პარამეტრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( simple, import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Storage box ( import parametric )</source>
-        <translation>შესანახი ყუთი (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Dowel 8x35 mm ( import parametric )</source>
-        <translation>დუელი 8x35 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Screw 4x40 mm ( import parametric )</source>
-        <translation>ხრახნი 4x40 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Storage ( front outside, back inside, heavy duty )</source>
-        <translation>შენახვა (წინა გარეთ, უკანა შიგნით, მძიმე გამძლეობით)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Screw 3x20 mm for HDF ( import parametric )</source>
-        <translation>ხრახნი 3x20 მმ HDF-სთვის (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Screw 5x50 mm ( import parametric )</source>
-        <translation>ხრახნი 5x50 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Counterbore 2x 5x60 mm ( import parametric )</source>
-        <translation>Counterbore 2x 5x60 mm (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Shelf Pin 5x16 mm ( import parametric )</source>
-        <translation>თაროს პინი 5x16 მმ (იმპორტის პარამეტრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Shelf support 5x16 mm ( import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Angle 40x40x100 mm ( import parametric )</source>
-        <translation>კუთხე 40x40x100 მმ (იმპორტის პარამეტრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Angle supporter 40x40x100 mm ( import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Foot ( good for cleaning )</source>
-        <translation>ფეხი (კარგია დასუფთავებისთვის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Cabinet foot ( good for cleaning )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Foot ( standard )</source>
-        <translation>ფეხი (სტანდარტული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Cabinet foot ( standard )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Foot ( more stable )</source>
-        <translation>ფეხი (უფრო სტაბილური)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Cabinet foot ( more stable )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Foot ( decorated )</source>
-        <translation>ფეხი (მორთული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Cabinet foot ( decorated )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Foot ( chair style )</source>
-        <translation>ფეხი (სკამის სტილი)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Cabinet foot ( chair style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( single, X or Y direction, front outside )</source>
-        <translation>უჯრა (ერთჯერადი, X ან Y მიმართულებით, წინა გარეთ)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( single, X or Y direction, front inside )</source>
-        <translation>უჯრა (ერთი, X ან Y მიმართულებით, წინა შიგნით)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7916" />
-        <source>Front outside</source>
-        <translation>წინა გარეთ</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front outside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7940" />
-        <source>Front inside</source>
-        <translation>წინა შიგნით</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front inside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12574" />
-        <source>Shelf</source>
-        <translation>თარო</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture shelf</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Center side</source>
-        <translation>ცენტრალური მხარე</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture center board</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Storage module ( front outside, back outside, veneer )</source>
-        <translation>შენახვის მოდული (წინა გარეთ, უკანა გარეთ, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Storage module ( front inside, back inside, veneer )</source>
-        <translation>შენახვის მოდული (წინა შიგნით, უკან შიგნით, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Storage module ( front inside, back outside, veneer )</source>
-        <translation>შენახვის მოდული (წინა შიგნით, უკანა გარეთ, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( series, front outside )</source>
-        <translation>უჯრა (სერია, წინა გარეთ)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( series, front inside )</source>
-        <translation>უჯრა (სერია, წინა შიგნით)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Face Frame ( horizontal, around )</source>
-        <translation>სახის ჩარჩო (ჰორიზონტალური, გარშემო)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture face frame ( horizontal, around )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Face Frame ( horizontal, with center )</source>
-        <translation>სახის ჩარჩო (ჰორიზონტალური, ცენტრით)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture face frame ( horizontal, with center )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Face Frame ( horizontal, for custom changes )</source>
-        <translation>სახის ჩარჩო (ჰორიზონტალური, მორგებული ცვლილებებისთვის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture face frame ( horizontal, for custom changes )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Simple bookcase ( face frame, no front, back HDF )</source>
-        <translation>მარტივი წიგნის კარადა (სახის ჩარჩო, წინა, უკანა HDF)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Simple storage ( face frame, no front, back HDF )</source>
-        <translation>მარტივი შენახვა (სახის ჩარჩო, წინა, უკანა HDF)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front outside with glass ( simple frame )</source>
-        <translation>წინა გარე მინით (მარტივი ჩარჩო)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front outside with glass ( simple frame )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front outside with glass ( frame with decoration )</source>
-        <translation>წინა გარე შუშით (ჩარჩო დეკორით)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front outside with glass ( frame with decoration )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front inside with glass ( simple frame )</source>
-        <translation>წინა შიგნით მინით (მარტივი ჩარჩო)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front inside with glass ( simple frame )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front inside with glass ( frame with decoration )</source>
-        <translation>წინა შიგნით შუშით (ჩარჩო დეკორით)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front inside with glass ( frame with decoration )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Shelf series with equal space</source>
-        <translation>თაროების სერია თანაბარი სივრცით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( kitchen simple style )</source>
-        <translation>მაგიდა (სამზარეულო მარტივი სტილის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( kitchen simple style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( coffee simple style )</source>
-        <translation>მაგიდა (ყავა მარტივი სტილის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( coffee simple style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( kitchen modern style )</source>
-        <translation>მაგიდა (სამზარეულო თანამედროვე სტილის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( kitchen modern style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( coffee modern style )</source>
-        <translation>მაგიდა (ყავა თანამედროვე სტილის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( coffee modern style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( kitchen decorated style )</source>
-        <translation>მაგიდა (სამზარეულო მორთული სტილით)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( kitchen decorated style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( coffee decorated style )</source>
-        <translation>მაგიდა (ყავის სტილით მორთული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( coffee decorated style )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9791" />
-        <source>Side</source>
-        <translation>მხარე</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Biscuits 4x16x48 mm ( import parametric )</source>
-        <translation>ორცხობილა 4x16x48 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Biscuits 4x21x54 mm ( import parametric )</source>
-        <translation>ორცხობილა 4x21x54 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Biscuits 4x24x57 mm ( import parametric )</source>
-        <translation>ორცხობილა 4x24x57 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Pocket screw 4x40 mm ( import parametric )</source>
-        <translation>ჯიბის ხრახნი 4x40 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Angle 30x30x25 mm ( import parametric )</source>
-        <translation>კუთხე 30x30x25 მმ (იმპორტის პარამეტრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Angle supporter 30x30x25 mm ( import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Angle 80x80x20 mm ( import parametric )</source>
-        <translation>კუთხე 80x80x20 მმ (იმპორტის პარამეტრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Angle supporter 80x80x20 mm ( import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front right (decoration, import parametric )</source>
-        <translation>წინა მარჯვენა (დეკორაცია, პარამეტრული იმპორტი)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front right (decoration, import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front left (decoration, import parametric )</source>
-        <translation>წინა მარცხენა (დეკორაცია, პარამეტრული იმპორტი)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front left (decoration, import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Top (decoration, import parametric )</source>
-        <translation>ზედა (დეკორაცია, პარამეტრული იმპორტი)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture top (decoration, import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( decoration, parametric )</source>
-        <translation>უჯრა (დეკორაცია, პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front outside ( decorative )</source>
-        <translation>წინა გარე (დეკორატიული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front outside ( decorative )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front inside ( decorative )</source>
-        <translation>წინა შიგნით (დეკორატიული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front inside ( decorative )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Front decoration ( simple frame )</source>
-        <translation>წინა გაფორმება (მარტივი ჩარჩო)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture front decoration ( simple frame )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Side decoration ( simple frame )</source>
-        <translation>გვერდითი გაფორმება (მარტივი ჩარჩო)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture side decoration ( simple frame )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Minifix 15x45 mm ( import parametric )</source>
-        <translation>მინიფიქსი 15x45 მმ (იმპორტის პარამეტრული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Face Frame ( vertical, for custom changes )</source>
-        <translation>სახის ჩარჩო (ვერტიკალური, მორგებული ცვლილებებისთვის)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture face frame ( vertical, for custom changes )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Kitchen cabinet ( US style )</source>
-        <translation>სამზარეულოს კარადა (ამერიკული სტილი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Kitchen wall module ( front outside, back outside, veneer )</source>
-        <translation>სამზარეულოს კედლის მოდული (წინ გარე, უკანა გარეთ, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Kitchen wall cabinet ( US style )</source>
-        <translation>სამზარეულოს კედლის კარადა (ამერიკული სტილი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Handle ( single hole )</source>
-        <translation>სახელური (ერთი ხვრელი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Handle ( double hole )</source>
-        <translation>სახელური (ორმაგი ხვრელი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Brackets for wall cabinets ( Camar 807 )</source>
-        <translation>სამაგრები კედლის კარადებისთვის ( Camar 807 )</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Hooks for wall cabinets ( Camar 807 )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( series, Blum, Hafele, GTV, Amix, front outside )</source>
-        <translation>უჯრა (სერიები, Blum, Hafele, GTV, Amix, წინა გარეთ)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Drawer ( series, Blum, Hafele, GTV, Amix, front inside )</source>
-        <translation>უჯრა (სერიები, Blum, Hafele, GTV, Amix, წინა შიგნით)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Workspace platform</source>
-        <translation>სამუშაო სივრცის პლატფორმა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Back outside ( HDF )</source>
-        <translation>უკან გარეთ (HDF)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture back board ( outside, HDF )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Back inside ( full )</source>
-        <translation>უკან შიგნით (სრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture back board ( inside, full )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Handle ( single hole, decorated )</source>
-        <translation>სახელური (ერთი ხვრელი, მორთული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Handle ( double hole, decorated )</source>
-        <translation>სახელური (ორმაგი ხვრელი, მორთული)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Bookcase ( no front, back inside, simple )</source>
-        <translation>წიგნის კარადა (წინა არ არის, უკანა შიგნით, მარტივი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Bookcase ( no front, back outside, simple )</source>
-        <translation>წიგნის კარადა (წინა არ არის, უკანა გარეთ, მარტივი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( school desk, single right side )</source>
-        <translation>მაგიდა (სკოლის მაგიდა, ერთი მარჯვენა მხარე)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( school desk, single right side )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( School desk, single left side )</source>
-        <translation>მაგიდა (სკოლის მაგიდა, მარცხენა მხარეს)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( School desk, single left side )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Table ( school desk, both sides )</source>
-        <translation>მაგიდა (სკოლის მაგიდა, ორივე მხარეს)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Wooden table ( school desk, both sides )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
-        <source>Sides with holes ( import parametric )</source>
-        <translation>გვერდები ხვრელების მქონე (იმპორტის პარამეტრული)</translation>
+        <location filename="../../Tools/magicStart.py" line="193"/>
+        <source>Furniture sides with holes ( import parametric )</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Wardrobe ( front outside, back outside, 2x clothes width )</source>
-        <translation>გარდერობი (წინ გარე, უკანა გარეთ, ტანსაცმლის 2x სიგანე)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Wardrobe ( front outside, back outside, clothes hangers )</source>
-        <translation>გარდერობი (წინ გარე, უკან გარე, ტანსაცმლის საკიდები)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Module on top ( back inside, veneer )</source>
-        <translation>მოდული თავზე (უკანა შიგნით, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Module on top ( back outside, veneer )</source>
-        <translation>მოდული ზევით (უკან გარეთ, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Module base ( back inside, veneer )</source>
-        <translation>მოდულის საფუძველი (უკანა შიგნით, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Module base ( back outside, veneer )</source>
-        <translation>მოდულის საფუძველი (უკანა გარეთ, ვინირი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="789" />
+        <location filename="../../Tools/magicStart.py" line="193"/>
         <source>Wardrobe ( front outside, back outside, flexible )</source>
-        <translation>გარდერობი (წინ გარე, უკან გარე, მოქნილი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="158" />
-        <source>Choose one method and make selection before calculate or create button press. Possible selections:</source>
-        <translation>აირჩიეთ ერთი მეთოდი და გააკეთეთ არჩევანი ღილაკზე დაჭერამდე ან შექმნით. შესაძლო არჩევანი:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="181" />
-        <source>X edge</source>
-        <translation>X ზღვარი</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="161" />
-        <source>to set XYZ position and width. X edge means any edge along the X coordinate axis. In this case, the starting point will be the vertex of the edge and the width of the furniture will be the length of the edge.</source>
-        <translation>XYZ პოზიციისა და სიგანის დასაყენებლად. X ზღვარი ნიშნავს ნებისმიერ კიდეს X კოორდინატთა ღერძის გასწვრივ. ამ შემთხვევაში, ამოსავალი წერტილი იქნება კიდის წვერო, ხოლო ავეჯის სიგანე იქნება კიდის სიგრძე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="328" />
-        <source>XY face</source>
-        <translation>XY სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="163" />
-        <source>to put next module on top. XY face means the plane on the object along the X and Y coordinate axes, i.e. horizontal, such as the top of the object, to create the next furniture module on top. In this case, the width of the furniture and its depth will be calculated from the selected plane so that the furniture is in line with the previous identical module.</source>
-        <translation>შემდეგი მოდულის თავზე დასაყენებლად. XY სახე ნიშნავს ობიექტზე არსებულ სიბრტყეს X და Y კოორდინატთა ღერძების გასწვრივ, ანუ ჰორიზონტალურ, როგორიცაა ობიექტის ზედა ნაწილი, რათა შეიქმნას შემდეგი ავეჯის მოდული თავზე. ამ შემთხვევაში, ავეჯის სიგანე და მისი სიღრმე გამოითვლება შერჩეული სიბრტყიდან ისე, რომ ავეჯი შეესაბამება წინა იდენტურ მოდულს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="185" />
-        <source>Vertex</source>
-        <translation>ვერტექსი</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="165" />
-        <source>to set XYZ position only. Vertex means selecting any vertex of the object. In this case, only the starting point for creating the furniture will be calculated.</source>
-        <translation>მხოლოდ XYZ პოზიციის დასაყენებლად. Vertex ნიშნავს ობიექტის ნებისმიერი წვერის არჩევას. ამ შემთხვევაში გამოითვლება მხოლოდ ავეჯის შექმნის საწყისი წერტილი.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="166" />
-        <source>no selection</source>
-        <translation>არჩევანი არ არის</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="167" />
-        <source>to create with custom settings</source>
-        <translation>შექმნათ მორგებული პარამეტრებით</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="169" />
-        <source>To calculate the furniture and its dimensions, make selection, change fields, and then press the &amp;quot;calculate furniture&amp;quot; button. Before pressing the &amp;quot;create&amp;quot; button, you can manually correct some values ​​if necessary.</source>
-        <translation>ავეჯის და მისი ზომების გამოსათვლელად გააკეთეთ არჩევანი, შეცვალეთ ველები და შემდეგ დააჭირეთ ღილაკს &amp;quot;ავეჯის გამოთვლა&amp;quot; ღილაკი. სანამ დააჭირეთ ღილაკს &amp;quot;შექმნა&amp;quot; ღილაკზე, საჭიროების შემთხვევაში შეგიძლიათ ხელით შეასწოროთ ზოგიერთი მნიშვნელობა.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="174" />
-        <source>To initially calculate the the Foot, make selection, fill in the appropriate fields and click the "calculate foot" button. Possible selections:</source>
-        <translation>ფეხის საწყისად გამოსათვლელად გააკეთეთ არჩევანი, შეავსეთ შესაბამისი ველები და დააწკაპუნეთ ღილაკზე „ფეხის გამოთვლა“. შესაძლო არჩევანი:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="178" />
-        <source>indicates the face of the bottom panel of the furniture. In this case, the position, width, and depth of the foot will be taken from the selected face.</source>
-        <translation>მიუთითებს ავეჯის ქვედა პანელის სახეზე. ამ შემთხვევაში ფეხის პოზიცია, სიგანე და სიღრმე აიღება შერჩეული სახედან.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="182" />
-        <source>indicates the X edge of the bottom panel of the furniture. In this case, the position and width of the foot will be taken from the selected face. The depth needs to be added by you.</source>
-        <translation>მიუთითებს ავეჯის ქვედა პანელის X კიდეზე. ამ შემთხვევაში ფეხის პოზიცია და სიგანე აიღება შერჩეული სახედან. სიღრმე უნდა დაამატოთ თქვენ მიერ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="186" />
-        <source>indicates any vertex at any object to set the XYZ start position for the foot creation. In this case, the width and depth needs to be added by you.</source>
-        <translation>მიუთითებს ნებისმიერ წვეროზე ნებისმიერ ობიექტზე ფეხის შექმნისთვის XYZ საწყისი პოზიციის დასაყენებლად. ამ შემთხვევაში, თქვენ უნდა დაამატოთ სიგანე და სიღრმე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="189" />
-        <source>Fields:</source>
-        <translation>ველები:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="437" />
-        <source>Wood thickness</source>
-        <translation>ხის სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="193" />
-        <source>means the thickness of the elements from which the foot will be created, i.e. the thickness of the wood.</source>
-        <translation>ნიშნავს იმ ელემენტების სისქეს, საიდანაც შეიქმნება ფეხი, ანუ ხის სისქე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="196" />
-        <source>Foot height</source>
-        <translation>ფეხის სიმაღლე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="197" />
-        <source>means the size of the foot elements, relative to the Z coordinate axis.</source>
-        <translation>ნიშნავს ფეხის ელემენტების ზომას, Z კოორდინატთა ღერძთან შედარებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="200" />
-        <source>The foot will be created at the starting position of the XYZ coordinate axis taking into account the height of the foot.</source>
-        <translation>ფეხი შეიქმნება XYZ კოორდინატთა ღერძის საწყის პოზიციაზე ფეხის სიმაღლის გათვალისწინებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="206" />
-        <source>top edge</source>
-        <translation>ზედა ზღვარი</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="207" />
-        <source>The drawer will be created from the 0 position on the Z coordinate axis to the position of the selected top edge. The width of the drawer will be taken from the selected top edge size. The depth of the drawer will be taken from the object from the selected top edge. This is a kind of "quick shot" to create the drawer as quickly as possible without a long selection.</source>
-        <translation>უჯრა შეიქმნება 0 პოზიციიდან Z კოორდინატთა ღერძზე არჩეული ზედა კიდის პოზიციამდე. უჯრის სიგანე აღებული იქნება შერჩეული ზედა კიდეების ზომიდან. უჯრის სიღრმე აღებული იქნება ობიექტიდან შერჩეული ზედა კიდიდან. ეს არის ერთგვარი "სწრაფი გასროლა", რათა შეიქმნას უჯრა რაც შეიძლება სწრაფად, ხანგრძლივი შერჩევის გარეშე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="210" />
-        <source>top edge + back face</source>
-        <translation>ზედა კიდე + უკანა სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="219" />
-        <source>This is the same as above, but here selecting the back face allows you to set the depth in a more detailed way.</source>
-        <translation>ეს იგივეა რაც ზემოთ, მაგრამ აქ უკანა სახის არჩევა საშუალებას გაძლევთ დააყენოთ სიღრმე უფრო დეტალურად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="214" />
-        <source>bottom edge + top edge</source>
-        <translation>ქვედა კიდე + ზედა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="215" />
-        <source>The drawer will be created from the position of the first selected bottom edge to the position of the second selected top edge. The width and depth of the drawer will be taken from the object with the shortest edge. This is a kind of "quick shot" to create the drawer quickly without a long selection.</source>
-        <translation>უჯრა შეიქმნება პირველი შერჩეული ქვედა კიდის პოზიციიდან მეორე შერჩეული ზედა კიდის პოზიციამდე. უჯრის სიგანე და სიღრმე აღებული იქნება ყველაზე მოკლე კიდის მქონე ობიექტიდან. ეს არის ერთგვარი „სწრაფი გასროლა“ უჯრის სწრაფად შესაქმნელად ხანგრძლივი შერჩევის გარეშე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="218" />
-        <source>bottom edge + top edge + back face</source>
-        <translation>ქვედა კიდე + ზედა კიდე + უკანა სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="222" />
-        <source>bottom edge + top edge + left edge + right edge + back face</source>
-        <translation>ქვედა კიდე + ზედა კიდე + მარცხენა კიდე + მარჯვენა კიდე + უკანა სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="223" />
-        <source>The drawer will be created from the position of the first selected bottom edge to the position of the second selected top edge. The width of the drawer will be obtained from the difference of the third and fourth selected edges. The depth of the drawer will be obtained from the selected back face. There are many more objects to select here, but this is the most precise version of determining the size of the drawer. So if you have trouble with any of the above, I recommend trying this method. Also this method solves the problem with longest bottom and top edges.</source>
-        <translation>უჯრა შეიქმნება პირველი შერჩეული ქვედა კიდის პოზიციიდან მეორე შერჩეული ზედა კიდის პოზიციამდე. უჯრის სიგანე მიიღება მესამე და მეოთხე შერჩეული კიდეების სხვაობიდან. უჯრის სიღრმე მიიღება შერჩეული უკანა სახიდან. აქ კიდევ ბევრი ობიექტია შესარჩევი, მაგრამ ეს არის უჯრის ზომის განსაზღვრის ყველაზე ზუსტი ვერსია. ასე რომ, თუ ზემოთ ჩამოთვლილთაგან რომელიმეს პრობლემა გაქვთ, გირჩევთ სცადოთ ეს მეთოდი. ასევე ეს მეთოდი წყვეტს პრობლემას ყველაზე გრძელი ქვედა და ზედა კიდეებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="226" />
-        <source>The edges can be in line with the X or Y coordinate axis, so the drawer can be created on all four sides of the furniture.</source>
-        <translation>კიდეები შეიძლება შეესაბამებოდეს X ან Y კოორდინატთა ღერძს, ამიტომ უჯრა შეიძლება შეიქმნას ავეჯის ოთხივე მხარეს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="230" />
-        <source>To initially calculate the starting point of the front and its dimensions, make selection, fill in the appropriate fields and click the "calculate front" button.</source>
-        <translation>ფრონტის საწყისი წერტილის და მისი ზომების თავიდან გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ შესაბამისი ველები და დააწკაპუნეთ ღილაკზე "გამოთვლა წინა".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="721" />
-        <source>X bottom edge</source>
-        <translation>X ქვედა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="234" />
-        <source>means the inner bottom edge of the shelf or floor of the furniture along the X coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის თაროს ან იატაკის შიდა ქვედა კიდეს X კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="725" />
-        <source>X top edge</source>
-        <translation>X ზედა ზღვარი</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="238" />
-        <source>means the inner top edge of the shelf or top of the furniture along the X coordinate axis.</source>
-        <translation>ნიშნავს თაროს შიდა ზედა კიდეს ან ავეჯის ზედა კიდეს X კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="669" />
-        <source>Z left edge</source>
-        <translation>Z მარცხენა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="242" />
-        <source>means the inner left edge of the side of the furniture along the Z coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის მხარის შიდა მარცხენა კიდეს Z კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="733" />
-        <source>Z right edge</source>
-        <translation>Z მარჯვენა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="246" />
-        <source>means the inner right edge of the side of the furniture along the Z coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის მხარის შიდა მარჯვენა კიდეს Z კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="249" />
-        <source>Front thickness</source>
-        <translation>წინა სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="250" />
-        <source>means the thickness of the front, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს ფრონტის სისქეს, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="253" />
-        <source>Front offsets</source>
-        <translation>წინა ოფსეტები</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="254" />
-        <source>in the case of an external front, it means how much the front will overlap the furniture, and in the case of an internal front, it means how big the gap will be between the front and the remaining parts of the furniture.</source>
-        <translation>გარე ფრონტის შემთხვევაში, ეს ნიშნავს, თუ რამდენად გადაფარავს წინა მხარე ავეჯს, ხოლო შიდა ფრონტის შემთხვევაში, ეს ნიშნავს, თუ რამდენად დიდი იქნება უფსკრული ავეჯის წინა და დანარჩენ ნაწილებს შორის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="749" />
-        <source>Before pressing the &amp;quot;create&amp;quot; button, you can manually correct some values ​​if necessary.</source>
-        <translation>სანამ დააჭირეთ ღილაკს &amp;quot;შექმნა&amp;quot; ღილაკზე, საჭიროების შემთხვევაში შეგიძლიათ ხელით შეასწოროთ ზოგიერთი მნიშვნელობა.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="261" />
-        <source>To initially calculate the starting point of the shelf and its dimensions, make selection, fill in the appropriate fields and click the "calculate shelf" button. To calculate a shelf, you need to select the two side edges of the space where the shelf is to be placed and the back face of the gap to determine the shelf depth. There are two ways to create a shelf:</source>
-        <translation>თაროს საწყისი წერტილის და მისი ზომების თავიდან გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ შესაბამისი ველები და დააწკაპუნეთ ღილაკზე „თაროს გამოთვლა“. თაროს გამოსათვლელად, თქვენ უნდა აირჩიოთ სივრცის ორი გვერდითი კიდე, სადაც თარო უნდა განთავსდეს და უფსკრულის უკანა მხარე, რათა დადგინდეს თაროების სიღრმე. თაროს შექმნის ორი გზა არსებობს:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="309" />
-        <source>Method 1</source>
-        <translation>მეთოდი 1</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="265" />
-        <source>By setting the shelf depth, then the front gap will be calculated as the difference between the free space and the desired shelf depth.</source>
-        <translation>შელფის სიღრმის დაყენებით, მაშინ წინა უფსკრული გამოითვლება, როგორც სხვაობა თავისუფალ სივრცესა და შელფის სასურველ სიღრმეს შორის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="313" />
-        <source>Method 2</source>
-        <translation>მეთოდი 2</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="269" />
-        <source>By entering a value of 0 as the depth and setting the offsets for the shelf. Then the depth and width of the shelf will be calculated taking into account the given offsets.</source>
-        <translation>სიღრმის სახით 0 მნიშვნელობის შეყვანით და თაროზე ოფსეტების დაყენებით. შემდეგ თაროს სიღრმე და სიგანე გამოითვლება მოცემული ოფსეტების გათვალისწინებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="317" />
-        <source>Meaning:</source>
-        <translation>მნიშვნელობა:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="276" />
-        <source>means the left inner edge of the side of the furniture in line with the Z coordinate axis, i.e. vertical.</source>
-        <translation>ნიშნავს ავეჯის გვერდის მარცხენა შიდა კიდეს Z კოორდინატთა ღერძის შესაბამისად, ანუ ვერტიკალურად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="280" />
-        <source>means the right inner edge of the side of the furniture in line with the Z coordinate axis, i.e. vertical.</source>
-        <translation>ნიშნავს ავეჯის გვერდის მარჯვენა შიდა კიდეს Z კოორდინატთა ღერძის შესაბამისად, ანუ ვერტიკალურად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="484" />
-        <source>back face</source>
-        <translation>უკანა სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="284" />
-        <source>means the inner plane of the back wall of the furniture. The plane should be in line with the X and Z coordinate axes.</source>
-        <translation>ნიშნავს ავეჯის უკანა კედლის შიდა სიბრტყეს. თვითმფრინავი უნდა შეესაბამებოდეს X და Z კოორდინატთა ღერძებს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="287" />
-        <source>Shelf thickness</source>
-        <translation>თაროს სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="288" />
-        <source>means the thickness of the shelf, i.e. in the direction of the Z coordinate axis.</source>
-        <translation>ნიშნავს თაროს სისქეს, ანუ Z კოორდინატთა ღერძის მიმართულებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="295" />
-        <source>To initially calculate the starting point of the center side and its dimensions, make selection, fill in the appropriate fields and click the "calculate center side" button. There are two ways of selection:</source>
-        <translation>ცენტრალური მხარის საწყისი წერტილისა და მისი ზომების თავიდან გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ შესაბამისი ველები და დააწკაპუნეთ ღილაკზე „ცენტრალური მხარის გამოთვლა“. შერჩევის ორი გზა არსებობს:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="299" />
-        <source>X top left edge + X top right edge + XY bottom face</source>
-        <translation>X ზედა მარცხენა კიდე + X ზედა მარჯვენა კიდე + XY ქვედა სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="303" />
-        <source>X bottom left edge + X bottom right edge + XY top face</source>
-        <translation>X ქვედა მარცხენა კიდე + X ქვედა მარჯვენა კიდე + XY ზედა სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="306" />
-        <source>There are two ways to create a center side:</source>
-        <translation>ცენტრალური მხარის შესაქმნელად ორი გზა არსებობს:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="310" />
-        <source>By setting the side depth, then the front gap will be calculated as the difference between the free space and the desired side depth.</source>
-        <translation>გვერდითი სიღრმის დაყენებით, მაშინ წინა უფსკრული გამოითვლება, როგორც სხვაობა თავისუფალ სივრცესა და სასურველ გვერდითა სიღრმეს შორის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="314" />
-        <source>By entering a value of 0 as the depth and setting the offsets for the side. Then the depth and height of the center side will be calculated taking into account the given offsets.</source>
-        <translation>სიღრმის სახით 0 მნიშვნელობის შეყვანით და გვერდისთვის ოფსეტების დაყენებით. შემდეგ ცენტრის მხარის სიღრმე და სიმაღლე გამოითვლება მოცემული ოფსეტების გათვალისწინებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="320" />
-        <source>Y left edge</source>
-        <translation>Y მარცხენა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="321" />
-        <source>means the left inner edge of the side of the furniture in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის მხარის მარცხენა შიდა კიდეს Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="324" />
-        <source>Y right edge</source>
-        <translation>Y მარჯვენა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="325" />
-        <source>means the right inner edge of the side of the furniture in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის გვერდის მარჯვენა შიდა კიდეს Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="329" />
-        <source>means the inner plane of the gap, for example top or bottom surface of the shelf. The plane should be in line with the X and Y coordinate axes.</source>
-        <translation>ნიშნავს უფსკრულის შიდა სიბრტყეს, მაგალითად, თაროს ზედა ან ქვედა ზედაპირს. თვითმფრინავი უნდა შეესაბამებოდეს X და Y კოორდინატთა ღერძებს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="332" />
-        <source>Side thickness</source>
-        <translation>გვერდითი სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="333" />
-        <source>means the thickness of the center side, i.e. in the direction of the X coordinate axis.</source>
-        <translation>ნიშნავს ცენტრალური მხარის სისქეს, ანუ X კოორდინატთა ღერძის მიმართულებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="340" />
-        <source>To pre-calculate the starting point for series of drawers and its dimensions, make selection, fill desired fields and press the "calculate gaps" button.</source>
-        <translation>უჯრების სერიის საწყისი წერტილის და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ სასურველი ველები და დააჭირეთ ღილაკს "გამოთვალეთ ხარვეზები".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="344" />
-        <source>means the bottom edge in line with the X coordinate axis of the free space where you want to create a series of drawers, i.e. the horizontal edge of the bottom shelf.</source>
-        <translation>ნიშნავს ქვედა კიდეს, რომელიც შეესაბამება თავისუფალი სივრცის X კოორდინატთა ღერძს, სადაც გსურთ შექმნათ უჯრების სერია, ანუ ქვედა თაროს ჰორიზონტალური კიდე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="348" />
-        <source>means the top edge in line with the X coordinate axis of the free space where you want to create a series of drawers, i.e. the horizontal edge of the top shelf.</source>
-        <translation>ნიშნავს ზედა კიდეს, რომელიც შეესაბამება თავისუფალი სივრცის X კოორდინატთა ღერძს, სადაც გსურთ შექმნათ უჯრების სერია, ანუ ზედა თაროს ჰორიზონტალური კიდე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="352" />
-        <source>means the left edge in line with the Z coordinate axis of the free space where you want to create a series of drawers, i.e. the vertical edge of the left side.</source>
-        <translation>ნიშნავს მარცხენა კიდეს თავისუფალი სივრცის Z კოორდინატთა ღერძთან შესაბამისობაში, სადაც გსურთ შექმნათ უჯრების სერია, ანუ მარცხენა მხარის ვერტიკალური კიდე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="356" />
-        <source>means the right edge in line with the Z coordinate axis of the free space where you want to create a series of drawers, i.e. the vertical edge of the right side.</source>
-        <translation>ნიშნავს მარჯვენა კიდეს თავისუფალი სივრცის Z კოორდინატთა ღერძთან შესაბამისობაში, სადაც გსურთ შექმნათ უჯრების სერია, ანუ მარჯვენა მხარის ვერტიკალური კიდე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="360" />
-        <source>means the inner plane of the back wall of the furniture. The plane should be in line with the X and Z coordinate axes, i.e. vertical faced to the front.</source>
-        <translation>ნიშნავს ავეჯის უკანა კედლის შიდა სიბრტყეს. თვითმფრინავი უნდა შეესაბამებოდეს X და Z კოორდინატთა ღერძებს, ანუ ვერტიკალურად მიმართული წინა მხარეს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="364" />
-        <source>means the thickness of the wood from which the walls and the front of the drawer will be made.</source>
-        <translation>ნიშნავს ხის სისქეს, საიდანაც გაკეთდება კედლები და უჯრის წინა მხარე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="367" />
-        <source>Space between drawers</source>
-        <translation>სივრცე უჯრებს შორის</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="368" />
-        <source>this is additional space between drawer fronts and drawers so that drawer fronts do not rub against each other.</source>
-        <translation>ეს არის დამატებითი სივრცე უჯრის ფრონტებსა და უჯრებს შორის ისე, რომ უჯრის ფრონტები ერთმანეთს არ შეეჯახოს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="371" />
-        <source>Drawer system offsets</source>
-        <translation>უჯრის სისტემის ოფსეტები</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="372" />
-        <source>these are the distances that must be taken into account when installing the drawer system rail. The most important is "Sides" for side guides.</source>
-        <translation>ეს ის დისტანციებია, რომლებიც გასათვალისწინებელია უჯრის სისტემის რელსის დაყენებისას. ყველაზე მნიშვნელოვანია "მხარეები" გვერდითი გიდებისთვის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="379" />
-        <source>To pre-calculate the starting point for Face Frame and its dimensions, make selection, fill desired fields and press the "calculate Face Frame" button.</source>
-        <translation>Face Frame-ის საწყისი წერტილის და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ სასურველი ველები და დააჭირეთ ღილაკს "გამოთვლა Face Frame".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="383" />
-        <source>means the inner edge of the furniture floor in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის იატაკის შიდა კიდეს X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="387" />
-        <source>means the inner edge of the top of the furniture in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის ზედა ნაწილის შიდა კიდეს X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="391" />
-        <source>means the inner edge of the left side of the furniture in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის მარცხენა მხარის შიდა კიდეს Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="395" />
-        <source>means the inner edge of the right side of the furniture in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის მარჯვენა მხარის შიდა კიდეს Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="677" />
-        <source>Single bar width</source>
-        <translation>ერთი ზოლის სიგანე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="399" />
-        <source>means the width of the beam from which the Face Frame will be built, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს სხივის სიგანეს, საიდანაც აშენდება Face Frame, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="681" />
-        <source>Single bar thickness</source>
-        <translation>ერთი ბარის სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="403" />
-        <source>means the thickness of the beam from which the Face Frame will be built, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს სხივის სისქეს, საიდანაც აშენდება Face Frame, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="406" />
-        <source>Lip outside</source>
-        <translation>ტუჩი გარეთ</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="407" />
-        <source>means how much the Face Frame will protrude outside the furniture.</source>
-        <translation>ნიშნავს, თუ რამდენად ამოიჭრება სახის ჩარჩო ავეჯის გარეთ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="410" />
-        <source>Delve into furniture</source>
-        <translation>ჩაუღრმავდით ავეჯს</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="411" />
-        <source>means sinking the Face Frame towards the furniture, i.e. in the direction of the Y coordinate axis. This allows you to take into account a possible groove, thanks to which the Face Frame can be placed on the edges of the furniture, which will stiffen the entire structure of the furniture.</source>
-        <translation>ნიშნავს Face Frame-ის ჩაძირვას ავეჯისკენ, ანუ Y კოორდინატთა ღერძის მიმართულებით. ეს საშუალებას გაძლევთ გაითვალისწინოთ შესაძლო ღარი, რომლის წყალობითაც შესაძლებელია ავეჯის კიდეებზე Face Frame განთავსება, რაც გამაგრებს ავეჯის მთელ სტრუქტურას.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="418" />
-        <source>To pre-calculate the starting point for the Front with glass and its dimensions, make selection, fill in the required fields and press the "calculate front with glass" button.</source>
-        <translation>ფრონტის საწყისი წერტილი მინისა და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ საჭირო ველები და დააჭირეთ ღილაკს "გამოთვალეთ ფრონტი შუშით".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="572" />
-        <source>means the inner bottom edge of the space, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს სივრცის შიდა ქვედა კიდეს, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="576" />
-        <source>means the inner top edge of the space, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს სივრცის შიდა ზედა კიდეს, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="580" />
-        <source>means the inner left edge of the space, in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს სივრცის შიდა მარცხენა კიდეს, Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="584" />
-        <source>means the inner right edge of the space, in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს სივრცის შიდა მარჯვენა კიდეს, Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="643" />
-        <source>means the thickness of the beam of the frame, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს ჩარჩოს სხივის სისქეს, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="441" />
-        <source>Overlap horizontal</source>
-        <translation>ჰორიზონტალური გადახურვა</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="442" />
-        <source>in the case of an outside front, this is the width by which the glass front will overlap the furniture elements. If the front is to cover the entire surface, set the same value as Wood thickness.</source>
-        <translation>გარე ფრონტის შემთხვევაში, ეს არის სიგანე, რომლითაც შუშის წინა მხარე გადაფარავს ავეჯის ელემენტებს. თუ წინა მხარეს უნდა დაფაროს მთელი ზედაპირი, დააყენეთ იგივე მნიშვნელობა, როგორც ხის სისქე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="445" />
-        <source>Overlap vertical</source>
-        <translation>ვერტიკალური გადახურვა</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="446" />
-        <source>in the case of an outside front, this is the height by which the glass front will overlap the furniture elements. If the front is to cover the entire surface, set the same value as Wood thickness.</source>
-        <translation>გარე ფრონტის შემთხვევაში, ეს არის სიმაღლე, რომლითაც შუშის წინა მხარე გადაფარავს ავეჯის ელემენტებს. თუ წინა მხარეს უნდა დაფაროს მთელი ზედაპირი, დააყენეთ იგივე მნიშვნელობა, როგორც ხის სისქე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="449" />
-        <source>Offset horizontal</source>
-        <translation>ოფსეტური ჰორიზონტალური</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="600" />
-        <source>in the case of an inside front, this is the width of the gap between the front frame and the furniture elements.</source>
-        <translation>შიდა ფრონტის შემთხვევაში, ეს არის უფსკრული წინა ჩარჩოსა და ავეჯის ელემენტებს შორის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="453" />
-        <source>Offset vertical</source>
-        <translation>ოფსეტური ვერტიკალური</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="604" />
-        <source>in the case of an inside front, this is the height of the gap between the front frame and the furniture elements.</source>
-        <translation>შიდა ფრონტის შემთხვევაში, ეს არის უფსკრული წინა ჩარჩოსა და ავეჯის ელემენტებს შორის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="457" />
-        <source>Glass thickness</source>
-        <translation>შუშის სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="458" />
-        <source>means the thickness of the glass, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს შუშის სისქეს, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="465" />
-        <source>To pre-calculate the starting point for shelf series and its dimensions, make selection, fill desired fields and press the "calculate shelf series" button.</source>
-        <translation>თაროების სერიებისა და მისი ზომების საწყისი წერტილის წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ სასურველი ველები და დააჭირეთ ღილაკს "თაროების სერიის გამოთვლა".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="469" />
-        <source>means the lower inner edge from which the series of shelves is to start. The selected edge should be in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ქვედა შიდა კიდეს, საიდანაც უნდა დაიწყოს თაროების სერია. შერჩეული კიდე უნდა შეესაბამებოდეს X კოორდინატთა ღერძს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="473" />
-        <source>means the upper inner edge to which the series of shelves is to end. The selected edge should be in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ზედა შიდა კიდეს, რომლითაც უნდა დასრულდეს თაროების სერია. შერჩეული კიდე უნდა შეესაბამებოდეს X კოორდინატთა ღერძს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="477" />
-        <source>means the left inner edge of the free space in which the series of shelves is to be created. The selected edge should be in line with the Z coordinate axis, i.e. the inner edge of the left side of the furniture.</source>
-        <translation>ნიშნავს თავისუფალი სივრცის მარცხენა შიდა კიდეს, რომელშიც უნდა შეიქმნას თაროების სერია. შერჩეული ზღვარი უნდა შეესაბამებოდეს Z კოორდინატთა ღერძს, ანუ ავეჯის მარცხენა მხარის შიდა კიდეს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="481" />
-        <source>means the right inner edge of the free space in which the series of shelves is to be created. The selected edge should be in line with the Z coordinate axis, i.e. the inner edge of the right side of the furniture.</source>
-        <translation>ნიშნავს თავისუფალი სივრცის მარჯვენა შიდა კიდეს, რომელშიც უნდა შეიქმნას თაროების სერია. შერჩეული კიდე უნდა შეესაბამებოდეს Z კოორდინატთა ღერძს, ანუ ავეჯის მარჯვენა მხარის შიდა კიდეს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="485" />
-        <source>means the internal surface of the back wall of the furniture, which is in line with the X and Z coordinate axes.</source>
-        <translation>ნიშნავს ავეჯის უკანა კედლის შიდა ზედაპირს, რომელიც შეესაბამება X და Z კოორდინატთა ღერძებს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="488" />
-        <source>Single shelf thickness</source>
-        <translation>ერთი თაროს სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="489" />
-        <source>means the thickness of a single shelf, i.e. in the direction of the Z coordinate axis.</source>
-        <translation>ნიშნავს ერთი თაროს სისქეს, ანუ Z კოორდინატთა ღერძის მიმართულებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="492" />
-        <source>Number of shelves</source>
-        <translation>თაროების რაოდენობა</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="493" />
-        <source>means the number of shelves to be created at equal distances.</source>
-        <translation>ნიშნავს თაროების რაოდენობას, რომელიც უნდა შეიქმნას თანაბარ მანძილზე.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="500" />
-        <source>To pre-calculate the location where the table will be created, select any vertex and press the "calculate table position" button.</source>
-        <translation>იმ ადგილის წინასწარ გამოსათვლელად, სადაც ცხრილი შეიქმნება, აირჩიეთ ნებისმიერი წვერო და დააჭირეთ ღილაკს "გამოთვალეთ ცხრილის პოზიცია".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="503" />
-        <source>Table width X</source>
-        <translation>მაგიდის სიგანე X</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="504" />
-        <source>means the width of the table, i.e. the size according to the X coordinate axis.</source>
-        <translation>ნიშნავს ცხრილის სიგანეს, ანუ ზომას X კოორდინატთა ღერძის მიხედვით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="507" />
-        <source>Table depth Y</source>
-        <translation>მაგიდის სიღრმე Y</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="508" />
-        <source>means the depth of the table, i.e. the size according to the Y coordinate axis.</source>
-        <translation>ნიშნავს ცხრილის სიღრმეს, ანუ ზომას Y კოორდინატთა ღერძის მიხედვით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="511" />
-        <source>Table height Z</source>
-        <translation>მაგიდის სიმაღლე Z</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="512" />
-        <source>means the height of the table, i.e. the size according to the Z coordinate axis.</source>
-        <translation>ნიშნავს ცხრილის სიმაღლეს, ანუ ზომას Z კოორდინატთა ღერძის მიხედვით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="515" />
-        <source>Table top thickness</source>
-        <translation>მაგიდის ზედა სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="516" />
-        <source>means the thickness of the table top, i.e. the size according to the Z coordinate axis.</source>
-        <translation>ნიშნავს მაგიდის ზედაპირის სისქეს, ანუ ზომას Z კოორდინატთა ღერძის მიხედვით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="519" />
-        <source>Legs and Supporters thickness</source>
-        <translation>ფეხების და საყრდენების სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="520" />
-        <source>this is the thickness of the wood from which the table legs and the supporting beams under the top will be made.</source>
-        <translation>ეს არის ხის სისქე, საიდანაც დამზადდება მაგიდის ფეხები და საყრდენი სხივები ზედა ქვეშ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="523" />
-        <source>Table top offset</source>
-        <translation>მაგიდის ზედა ოფსეტი</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="524" />
-        <source>means the distance of the legs and supporting beams from the top. If the top is not to have protruding corners, the value 0 should be entered.</source>
-        <translation>ნიშნავს ფეხების და საყრდენი სხივების მანძილს ზემოდან. თუ ზემოდან არ უნდა ჰქონდეს ამობურცული კუთხეები, უნდა შეიყვანოთ მნიშვნელობა 0.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="531" />
-        <source>To create a side, you need to select 4 edges in the correct order around the free space where you want to create the side:</source>
-        <translation>გვერდის შესაქმნელად, თქვენ უნდა აირჩიოთ 4 კიდე სწორი თანმიმდევრობით თავისუფალი სივრცის გარშემო, სადაც გსურთ გვერდის შექმნა:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="534" />
-        <source>X or Y bottom edge</source>
-        <translation>X ან Y ქვედა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="535" />
-        <source>means that the selected edge is to be the bottom edge, along the X or Y coordinate axis.</source>
-        <translation>ნიშნავს, რომ შერჩეული კიდე უნდა იყოს ქვედა კიდე, X ან Y კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="538" />
-        <source>X or Y top edge</source>
-        <translation>X ან Y ზედა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="539" />
-        <source>means that the selected edge is to be the top edge, along the X or Y coordinate axis.</source>
-        <translation>ნიშნავს, რომ არჩეული კიდე უნდა იყოს ზედა კიდე X ან Y კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="543" />
-        <source>means that the selected edge is to be the left edge, along the Z coordinate axis, i.e. vertical.</source>
-        <translation>ნიშნავს, რომ შერჩეული კიდე უნდა იყოს მარცხენა კიდე, Z კოორდინატთა ღერძის გასწვრივ, ანუ ვერტიკალური.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="547" />
-        <source>means that the selected edge is to be the right edge, along the Z coordinate axis, i.e. vertical.</source>
-        <translation>ნიშნავს, რომ შერჩეული კიდე უნდა იყოს მარჯვენა კიდე, Z კოორდინატთა ღერძის გასწვრივ, ანუ ვერტიკალური.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="550" />
-        <source>Next, you need to decide how the side to be created is to be calculated. There are 3 cases:</source>
-        <translation>შემდეგი, თქვენ უნდა გადაწყვიტოთ, როგორ უნდა გამოითვალოს შექმნილი მხარე. არის 3 შემთხვევა:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="553" />
-        <source>0 width and 0 offsets</source>
-        <translation>0 სიგანე და 0 ოფსეტური</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="554" />
-        <source>If you do not fill the widths and gaps, the side will fill the entire selected space.</source>
-        <translation>თუ არ შეავსებთ სიგანეებს და ხარვეზებს, მხარე შეავსებს მთელ შერჩეულ სივრცეს.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="557" />
-        <source>custom width and 0 offsets</source>
-        <translation>მორგებული სიგანე და 0 ოფსეტური</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="558" />
-        <source>If a width is given, the right spacing will be the difference between the width of the free space and the previously set desired width.</source>
-        <translation>თუ სიგანე მოცემულია, სწორი ინტერვალი იქნება განსხვავება თავისუფალი სივრცის სიგანესა და ადრე დაყენებულ სასურველ სიგანეს შორის.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="561" />
-        <source>0 width and custom offsets</source>
-        <translation>0 სიგანე და მორგებული ოფსეტები</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="562" />
-        <source>If offsets are set and the width is set to 0, the width and height of the side to be created will be calculated with the offsets taken into account.</source>
-        <translation>თუ ოფსეტები დაყენებულია და სიგანე დაყენებულია 0-ზე, შექმნილი მხარის სიგანე და სიმაღლე გამოითვლება ოფსეტების გათვალისწინებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="568" />
-        <source>To pre-calculate the starting point for the Decorative front and its dimensions, make selection, fill in the required fields and press the "calculate decorative front" button.</source>
-        <translation>დეკორატიული ფრონტის საწყისი წერტილის და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ საჭირო ველები და დააჭირეთ ღილაკს "გამოთვალეთ დეკორატიული ფრონტი".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="587" />
-        <source>Single beam thickness</source>
-        <translation>ერთჯერადი სხივის სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="591" />
-        <source>Front overlap horizontal</source>
-        <translation>წინა გადახურვა ჰორიზონტალურად</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="592" />
-        <source>in the case of an outside front, this is the width by which the front will overlap the furniture elements. If the front is to cover the entire surface, set the same value as "Single beam thickness".</source>
-        <translation>გარე ფრონტის შემთხვევაში, ეს არის სიგანე, რომლითაც წინა მხარე გადაფარავს ავეჯის ელემენტებს. თუ წინა მხარეს უნდა დაფაროს მთელი ზედაპირი, დააყენეთ იგივე მნიშვნელობა, როგორც "ერთი სხივის სისქე".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="595" />
-        <source>Front overlap vertical</source>
-        <translation>წინა გადახურვა ვერტიკალურად</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="596" />
-        <source>in the case of an outside front, this is the height by which the front will overlap the furniture elements. If the front is to cover the entire surface, set the same value as "Single beam thickness".</source>
-        <translation>გარე ფრონტის შემთხვევაში, ეს არის სიმაღლე, რომლითაც წინა მხარე გადაფარავს ავეჯის ელემენტებს. თუ წინა მხარეს უნდა დაფაროს მთელი ზედაპირი, დააყენეთ იგივე მნიშვნელობა, როგორც "ერთი სხივის სისქე".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="599" />
-        <source>Front offset horizontal</source>
-        <translation>წინა ოფსეტი ჰორიზონტალური</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="603" />
-        <source>Front offset vertical</source>
-        <translation>წინა ოფსეტი ვერტიკალური</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="607" />
-        <source>Inner board thickness</source>
-        <translation>შიდა დაფის სისქე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="608" />
-        <source>means the thickness of the board inside the frame, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს ჩარჩოს შიგნით დაფის სისქეს, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="615" />
-        <source>To pre-calculate the starting point for the Front decoration and its dimensions, make selection, fill in the required fields and press the "calculate front decoration" button.</source>
-        <translation>წინა დეკორაციის საწყისი წერტილის და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ საჭირო ველები და დააჭირეთ ღილაკს "გამოთვალეთ წინა დეკორაცია".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="618" />
-        <source>XZ face of front</source>
-        <translation>XZ წინა მხარე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="619" />
-        <source>means the front surface where you want to place the decoration, in line with the X and Z coordinate axes.</source>
-        <translation>ნიშნავს წინა ზედაპირს, სადაც გსურთ დეკორაციის განთავსება, X და Z კოორდინატთა ღერძების შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="623" />
-        <source>means the bottom edge of the front where you want to place the decoration, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ფრონტის ქვედა კიდეს, სადაც გსურთ დეკორაციის განთავსება, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="627" />
-        <source>means the top edge of the front where you want to place the decoration, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ფრონტის ზედა კიდეს, სადაც გსურთ დეკორაციის განთავსება, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="631" />
-        <source>means the left edge of the front where you want to place the decoration, in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს ფრონტის მარცხენა კიდეს, სადაც გსურთ დეკორაციის განთავსება, Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="635" />
-        <source>means the right edge of the front where you want to place the decoration, in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს ფრონტის მარჯვენა კიდეს, სადაც გსურთ დეკორაციის განთავსება, Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="639" />
-        <source>means the width of the beam of the frame, in line with the X or Z coordinate axis.</source>
-        <translation>ნიშნავს ჩარჩოს სხივის სიგანეს, X ან Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="685" />
-        <source>Offset from edge</source>
-        <translation>ოფსეტური კიდიდან</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="647" />
-        <source>this is the distance of the decoration from the selected edges of the front towards the inside of the front.</source>
-        <translation>ეს არის დეკორაციის მანძილი ფრონტის შერჩეული კიდეებიდან წინა შიგნიდან.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="654" />
-        <source>To pre-calculate the starting point for the Side decoration and its dimensions, make selection, fill in the required fields and press the "calculate side decoration" button.</source>
-        <translation>გვერდითი დეკორაციის საწყისი წერტილის და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ საჭირო ველები და დააჭირეთ ღილაკს "გამოთვალეთ გვერდითი დეკორაცია".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="657" />
-        <source>YZ face of side</source>
-        <translation>YZ მხარის სახე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="658" />
-        <source>means the side surface where you want to place the decoration, in line with the Y and Z coordinate axes.</source>
-        <translation>ნიშნავს გვერდით ზედაპირს, სადაც გსურთ დეკორაციის განთავსება, Y და Z კოორდინატთა ღერძების შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="661" />
-        <source>Y bottom edge</source>
-        <translation>Y ქვედა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="662" />
-        <source>means the bottom edge of the side where you want to place the decoration, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს იმ მხარის ქვედა კიდეს, სადაც გსურთ დეკორაციის განთავსება, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="665" />
-        <source>Y top edge</source>
-        <translation>Y ზედა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="666" />
-        <source>means the top edge of the side where you want to place the decoration, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს იმ მხარის ზედა კიდეს, სადაც გსურთ დეკორაციის განთავსება, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="670" />
-        <source>means the left edge of the side where you want to place the decoration, in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს იმ მხარის მარცხენა კიდეს, სადაც გსურთ დეკორაციის განთავსება, Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="674" />
-        <source>means the right edge of the side where you want to place the decoration, in line with the Z coordinate axis.</source>
-        <translation>ნიშნავს იმ მხარის მარჯვენა კიდეს, სადაც გსურთ დეკორაციის განთავსება, Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="678" />
-        <source>means the width of the beam of the frame, in line with the Y or Z coordinate axis.</source>
-        <translation>ნიშნავს ჩარჩოს სხივის სიგანეს, Y ან Z კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="682" />
-        <source>means the thickness of the beam of the frame, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ჩარჩოს სხივის სისქეს, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="686" />
-        <source>this is the distance of the decoration from the selected edges of the side towards the inside of the side.</source>
-        <translation>ეს არის დეკორაციის მანძილი გვერდის შერჩეული კიდეებიდან გვერდის შიგნით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="693" />
-        <source>This workspace allows you to create reference platform. So you can use the workspace edges or faces as reference point for other tools. This is dedicated mostly for specific custom projects to make start easier. The Z size will be used later to workspace resize step. This workspace will not be listed at BOM, cut-list report, so you do not have to remove it later.</source>
-        <translation>ეს სამუშაო სივრცე საშუალებას გაძლევთ შექმნათ საცნობარო პლატფორმა. ასე რომ, თქვენ შეგიძლიათ გამოიყენოთ სამუშაო სივრცის კიდეები ან სახეები, როგორც საცნობარო წერტილი სხვა ხელსაწყოებისთვის. ეს ეძღვნება ძირითადად კონკრეტულ პერსონალურ პროექტებს, რათა გაადვილდეს. Z ზომა მოგვიანებით იქნება გამოყენებული სამუშაო სივრცის ზომის შესაცვლელად. ეს სამუშაო ადგილი არ იქნება ჩამოთვლილი BOM-ში, cut-list ანგარიშში, ასე რომ თქვენ არ მოგიწევთ მისი წაშლა მოგვიანებით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="695" />
-        <source>To pre-calculate the starting point for the workspace platform, make selection, fill in fields you want to change and press the "calculate workspace position" button. To create workspace press "create" button.</source>
-        <translation>სამუშაო სივრცის პლატფორმის საწყისი წერტილის წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ ველები, რომელთა შეცვლა გსურთ და დააჭირეთ ღილაკს "გამოთვალეთ სამუშაო ადგილის პოზიცია". სამუშაო სივრცის შესაქმნელად დააჭირეთ ღილაკს "შექმნა".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="698" />
-        <source>X size</source>
-        <translation>X ზომა</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="699" />
-        <source>means the workspace platform size along X coordinate axis.</source>
-        <translation>ნიშნავს სამუშაო სივრცის პლატფორმის ზომას X კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="702" />
-        <source>Y size</source>
-        <translation>Y ზომა</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="703" />
-        <source>means the workspace platform size along Y coordinate axis.</source>
-        <translation>ნიშნავს სამუშაო სივრცის პლატფორმის ზომას Y კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="706" />
-        <source>Z size</source>
-        <translation>Z ზომა</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="707" />
-        <source>means the workspace platform size along Z coordinate axis.</source>
-        <translation>ნიშნავს სამუშაო სივრცის პლატფორმის ზომას Z კოორდინატთა ღერძის გასწვრივ.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="710" />
-        <source>Start XYZ</source>
-        <translation>დაიწყეთ XYZ</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="711" />
-        <source>means the point the workspace will be created. The workspace will be created in Z position according to its thickness to allow creating abjects on the platfor with (0, 0, 0) start position.</source>
-        <translation>ნიშნავს იმ წერტილს, სადაც სამუშაო სივრცე შეიქმნება. სამუშაო ადგილი შეიქმნება Z პოზიციაში მისი სისქის მიხედვით, რათა მოხდეს პლატფორმაზე აბჯენტების შექმნა (0, 0, 0) საწყისი პოზიციით.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="714" />
-        <source>Before pressing the &amp;lt;b&amp;gt;create&amp;lt;/b&amp;gt; button, you can manually correct some values ​​if necessary.</source>
-        <translation>სანამ დააჭირეთ ღილაკს &amp;lt;b&amp;gt;შექმნა&amp;lt;/b&amp;gt; ღილაკზე, საჭიროების შემთხვევაში შეგიძლიათ ხელით შეასწოროთ ზოგიერთი მნიშვნელობა.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="718" />
-        <source>To pre-calculate the starting point for the Back and its dimensions, make selection, fill in the required fields and press the "calculate back" button.</source>
-        <translation>ზურგის საწყისი წერტილის და მისი ზომების წინასწარ გამოსათვლელად, გააკეთეთ არჩევანი, შეავსეთ საჭირო ველები და დააჭირეთ ღილაკს "გამოთვლა უკან".</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="722" />
-        <source>means the inner bottom edge of the furniture where you want to place the back, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის შიდა ქვედა კიდეს, სადაც გსურთ ზურგის განთავსება, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="726" />
-        <source>means the inner top edge of the furniture where you want to place the back, in line with the X coordinate axis.</source>
-        <translation>ნიშნავს ავეჯის შიდა ზედა კიდეს, სადაც გსურთ ზურგის განთავსება, X კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="729" />
-        <source>Z left edge from back model view</source>
-        <translation>Z მარცხენა კიდე უკანა მოდელის ხედიდან</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="730" />
-        <source>means the inner left edge of the furniture where you want to place the back, in line with the Z coordinate axis but looking at the model from the back side.</source>
-        <translation>ნიშნავს ავეჯის შიდა მარცხენა კიდეს, სადაც გსურთ მოათავსოთ უკანა მხარე, Z კოორდინატთა ღერძის შესაბამისად, მაგრამ უყურებთ მოდელს უკანა მხრიდან.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="734" />
-        <source>means the inner right edge of the furniture where you want to place the back, in line with the Z coordinate axis but looking at the model from the back side.</source>
-        <translation>ნიშნავს ავეჯის შიდა მარჯვენა კიდეს, სადაც გსურთ მოათავსოთ უკანა მხარე, Z კოორდინატთა ღერძის შესაბამისად, მაგრამ მოდელს უყურებთ უკანა მხრიდან.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="737" />
-        <source>Back thickness along Y</source>
-        <translation>ზურგის სისქე Y-ის გასწვრივ</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="738" />
-        <source>means the thickness of the wood, in line with the Y coordinate axis.</source>
-        <translation>ნიშნავს ხის სისქეს, Y კოორდინატთა ღერძის შესაბამისად.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="741" />
-        <source>Back overlaps</source>
-        <translation>უკან გადახურვები</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="742" />
-        <source>this is the size by which the back will overlap the furniture parts, looking from the back of the model.</source>
-        <translation>ეს არის ზომა, რომლითაც უკანა მხარე გადაფარავს ავეჯის ნაწილებს, მოდელის უკანა მხრიდან.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="745" />
-        <source>Back offsets</source>
-        <translation>უკან ოფსეტები</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="746" />
-        <source>this is the size by which the back will be reduced and will create free space between the parts of the furniture, when looking at the model from the back.</source>
-        <translation>ეს ის ზომაა, რომლითაც ზურგი შემცირდება და შექმნის თავისუფალ სივრცეს ავეჯის ნაწილებს შორის მოდელს უკნიდან ყურებისას.</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="766" />
+        <location filename="../../Tools/magicStart.py" line="170"/>
         <source>magicStart</source>
-        <translation>magicStart</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="910" />
+        <location filename="../../Tools/magicStart.py" line="314"/>
         <source>show help info</source>
-        <translation>დახმარების ინფორმაციის ჩვენება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="914" />
+        <location filename="../../Tools/magicStart.py" line="318"/>
         <source>hide help info</source>
-        <translation>დახმარების ინფორმაციის დამალვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="944" />
+        <location filename="../../Tools/magicStart.py" line="330"/>
+        <source>&lt;b&gt;Step 1&lt;/b&gt;: Choose one of the selection methods below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="331"/>
+        <source>&lt;b&gt;Step 1&lt;/b&gt;: Select all objects listed below in the same order while holding the left CTRL button:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="333"/>
+        <source>&lt;b&gt;Step 2&lt;/b&gt;: Press &lt;b&gt;calculate&lt;/b&gt; button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="334"/>
+        <source>&lt;b&gt;Step 3&lt;/b&gt;: Press the &lt;b&gt;create&lt;/b&gt; button. Before pressing the &lt;b&gt;create&lt;/b&gt; button, you can manually correct some values if necessary.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="352"/>
         <source>This object has its own settings in spreadsheet and will be imported from Woodworking workbench Examples folder.</source>
-        <translation>ამ ობიექტს აქვს საკუთარი პარამეტრები ელცხრილში და იმპორტირებული იქნება Woodworking workbench Examples საქაღალდიდან.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="946" />
+        <location filename="../../Tools/magicStart.py" line="354"/>
         <source>More examples see at: </source>
-        <translation>მეტი მაგალითები იხილეთ აქ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="949" />
+        <location filename="../../Tools/magicStart.py" line="357"/>
         <source>Fully parametric examples</source>
-        <translation>სრულად პარამეტრული მაგალითები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="952" />
-        <source>Fixture examples</source>
-        <translation>ფიქსაციის მაგალითები</translation>
+        <location filename="../../Tools/magicStart.py" line="360"/>
+        <source>Furniture fixture examples</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="962" />
+        <location filename="../../Tools/magicStart.py" line="370"/>
         <source>import from examples</source>
-        <translation>იმპორტი მაგალითებიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="971" />
-        <source>Choose one selection method and make selection before calculate or create button press, possible selections: &lt;br&gt;&lt;br&gt; 1. Edge - to set workspace start XYZ position same as edge center &lt;br&gt;&lt;br&gt; 2. Face - to set workspace start XYZ position same as face center &lt;br&gt;&lt;br&gt; 3. Vertex - to set workspace start XYZ position same as vertex position &lt;br&gt;&lt;br&gt; 4. no selection - to create with custom settings</source>
-        <translation>აირჩიეთ შერჩევის ერთი მეთოდი და გააკეთეთ არჩევა ღილაკის გამოთვლამდე ან შექმნამდე, შესაძლო არჩევანი: &lt;br&gt;&lt;br&gt; 1. Edge - სამუშაო სივრცის დასაყენებლად დაწყების XYZ პოზიციის იგივე, რაც edge ცენტრი &lt;br&gt;&lt;br&gt; 2. Face - დასაყენებლად სამუშაო სივრცის დასაყენებლად დაწყება XYZ პოზიცია იგივე, რაც სახის ცენტრი &lt;br&gt;&lt;br&gt; 3. Vertex - დასაყენებლად სამუშაო სივრცის დასაყენებლად დაწყება XYZ პოზიცია იგივეა, როგორც წვერო.</translation>
+        <location filename="../../Tools/magicStart.py" line="382"/>
+        <source>Edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="977" />
-        <source>X size:</source>
-        <translation>X ზომა:</translation>
+        <location filename="../../Tools/magicStart.py" line="383"/>
+        <source>to set workspace start XYZ position same as edge CenterOfMass.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="982" />
-        <source>Y size:</source>
-        <translation>Y ზომა:</translation>
+        <location filename="../../Tools/magicStart.py" line="384"/>
+        <source>Surface</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="987" />
-        <source>Z size:</source>
-        <translation>Z ზომა:</translation>
+        <location filename="../../Tools/magicStart.py" line="385"/>
+        <source>to set workspace start XYZ position same as surface CenterOfMass.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="992" />
+        <location filename="../../Tools/magicStart.py" line="688"/>
+        <source>Vertex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="387"/>
+        <source>to set workspace start XYZ position same as vertex position.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="690"/>
+        <source>no selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="691"/>
+        <source>to create with custom settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="392"/>
+        <source>&lt;b&gt;Note&lt;/b&gt;: This workspace allows you to create reference platform. So you can use the workspace edges or surfaces as reference point for other tools. This is dedicated mostly for specific custom projects to make start easier. The Z size will be used later to workspace resize step. This workspace will not be listed at BOM, cut-list report, so you do not have to remove it later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="394"/>
+        <source>Size along X:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="399"/>
+        <source>Size along Y:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="404"/>
+        <source>Size along Z:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="409"/>
         <source>calculate workspace position</source>
-        <translation>გამოთვალეთ სამუშაო ადგილის პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2566" />
+        <location filename="../../Tools/magicStart.py" line="2145"/>
         <source>Start X:</source>
-        <translation>დაწყება X:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2571" />
+        <location filename="../../Tools/magicStart.py" line="2150"/>
         <source>Start Y:</source>
-        <translation>დაწყება Y:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2576" />
+        <location filename="../../Tools/magicStart.py" line="2155"/>
         <source>Start Z:</source>
-        <translation>დაწყება Z:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2591" />
+        <location filename="../../Tools/magicStart.py" line="2170"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1036" />
+        <location filename="../../Tools/magicStart.py" line="455"/>
+        <source>edge along X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="456"/>
+        <source>Means any edge along the X coordinate axis. In this case, the starting point will be the vertex of the edge and the width of the furniture will be the length of the edge. This method can be used to set XYZ position and width.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="457"/>
+        <source>surface along X and Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="458"/>
+        <source>Means the surface on the object along the X and Y coordinate axes, i.e. horizontal, such as the top of the object, to create the next furniture module on top. In this case, the width of the furniture and its depth will be calculated from the selected surface so that the furniture is in line with the previous identical module. This method can be used to put next module on top.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="460"/>
+        <source>Means selecting any vertex of the object. In this case, only the starting point for creating the furniture will be calculated. This method can be used to set XYZ position only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="462"/>
+        <source>This method can be used to create with custom settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="466"/>
         <source>Construction wood thickness:</source>
-        <translation>სამშენებლო ხის სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1041" />
-        <source>Back wood thickness:</source>
-        <translation>უკანა ხის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="471"/>
+        <source>Furniture back - thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1046" />
-        <source>Shelf wood thickness:</source>
-        <translation>თაროს ხის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="476"/>
+        <source>Furniture shelf - thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1051" />
-        <source>Front wood thickness:</source>
-        <translation>წინა ხის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="481"/>
+        <source>Furniture front - thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1056" />
-        <source>Left front offset:</source>
-        <translation>მარცხენა წინა ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="1089"/>
+        <source>Furniture front - gap from left:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1061" />
-        <source>Right front offset:</source>
-        <translation>მარჯვენა წინა ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="1094"/>
+        <source>Furniture front - gap from right:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1066" />
-        <source>Top front offset:</source>
-        <translation>ზედა წინა ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="1099"/>
+        <source>Furniture front - gap from top:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1071" />
-        <source>Bottom front offset:</source>
-        <translation>ქვედა წინა ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="1104"/>
+        <source>Furniture front - gap from bottom:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1076" />
-        <source>Modules number:</source>
-        <translation>მოდულების ნომერი:</translation>
+        <location filename="../../Tools/magicStart.py" line="506"/>
+        <source>Number of furniture modules:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1081" />
+        <location filename="../../Tools/magicStart.py" line="511"/>
         <source>Offset from selection X:</source>
-        <translation>ოფსეტი X არჩევიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1086" />
+        <location filename="../../Tools/magicStart.py" line="516"/>
         <source>Offset from selection Y:</source>
-        <translation>ოფსეტი არჩევიდან Y:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1091" />
+        <location filename="../../Tools/magicStart.py" line="521"/>
         <source>Offset from selection Z:</source>
-        <translation>ოფსეტი Z არჩევიდან:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1096" />
+        <location filename="../../Tools/magicStart.py" line="526"/>
         <source>Furniture along Z (height):</source>
-        <translation>ავეჯი Z გასწვრივ (სიმაღლე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1101" />
-        <source>calculate furniture from selection</source>
-        <translation>გამოთვალეთ ავეჯი შერჩეულიდან</translation>
+        <location filename="../../Tools/magicStart.py" line="531"/>
+        <source>calculate furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1120" />
+        <location filename="../../Tools/magicStart.py" line="550"/>
         <source>Furniture along X (width):</source>
-        <translation>ავეჯი X-ის გასწვრივ (სიგანე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1125" />
+        <location filename="../../Tools/magicStart.py" line="555"/>
         <source>Furniture along Y (depth):</source>
-        <translation>ავეჯი Y-ის გასწვრივ (სიღრმე):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1178" />
-        <source>Possible selections, choose one method and make selection before calculate or create button press: &lt;br&gt;&lt;br&gt; 1. XY face - to set size and position &lt;br&gt;&lt;br&gt; 2. X edge - to set X size and position &lt;br&gt;&lt;br&gt; 3. Vertex - to set XYZ start position &lt;br&gt;&lt;br&gt; 4. no selection - to create with custom settings</source>
-        <translation>შესაძლო არჩევანი, აირჩიეთ ერთი მეთოდი და გააკეთეთ არჩევანი, სანამ გამოთვალეთ ან შექმნათ ღილაკზე დაჭერით: &lt;br&gt;&lt;br&gt; 1. XY სახე - ზომისა და პოზიციის დასაყენებლად &lt;br&gt;&lt;br&gt; 2. X ზღვარი - X ზომისა და პოზიციის დასაყენებლად &lt;br&gt;&lt;br&gt; 3. Vertex - XYZ საწყისი პოზიციის დასაყენებლად &lt;br&gt;&lt;br&gt; 4. მონიშვნა არ არის - შექმნა მორგებული პარამეტრებით</translation>
+        <location filename="../../Tools/magicStart.py" line="611"/>
+        <source>XY surface</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1805" />
+        <location filename="../../Tools/magicStart.py" line="612"/>
+        <source>indicates the surface of the bottom panel of the furniture. In this case, the position, width, and depth of the furniture foot will be taken from the selected surface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="613"/>
+        <source>X edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="614"/>
+        <source>indicates the X edge of the bottom panel of the furniture. In this case, the position and width of the furniture foot will be taken from the selected edge. The depth needs to be added by you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="616"/>
+        <source>indicates any vertex at any object to set the XYZ start position for the furniture foot creation. In this case, the width and depth needs to be added by you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1284"/>
         <source>Wood thickness:</source>
-        <translation>ხის სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1189" />
-        <source>Foot height (Z axis):</source>
-        <translation>ფეხის სიმაღლე (Z ღერძი):</translation>
+        <location filename="../../Tools/magicStart.py" line="625"/>
+        <source>Furniture foot - height (Z axis):</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1194" />
-        <source>calculate foot</source>
-        <translation>ფეხის გამოთვლა</translation>
+        <location filename="../../Tools/magicStart.py" line="630"/>
+        <source>calculate foot of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1213" />
-        <source>Foot width (X axis):</source>
-        <translation>ფეხის სიგანე (X ღერძი):</translation>
+        <location filename="../../Tools/magicStart.py" line="649"/>
+        <source>Furniture foot - width (X axis):</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1218" />
-        <source>Foot depth (Y axis):</source>
-        <translation>ფეხის სიღრმე (Y ღერძი):</translation>
+        <location filename="../../Tools/magicStart.py" line="654"/>
+        <source>Furniture foot - depth (Y axis):</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1250" />
-        <source>Possible selections: &lt;br&gt;&lt;br&gt;1. Vertex - to set XYZ position &lt;br&gt;&lt;br&gt;2. no selection - to create with custom settings</source>
-        <translation>შესაძლო არჩევანი: &lt;br&gt;&lt;br&gt;1. Vertex - XYZ პოზიციის დასაყენებლად &lt;br&gt;&lt;br&gt;2. არჩევანის გარეშე - შექმნა მორგებული პარამეტრებით</translation>
+        <location filename="../../Tools/magicStart.py" line="689"/>
+        <source>to set XYZ position.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1256" />
-        <source>Table width X:</source>
-        <translation>ცხრილის სიგანე X:</translation>
+        <location filename="../../Tools/magicStart.py" line="695"/>
+        <source>Wood table - width X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1261" />
-        <source>Table depth Y:</source>
-        <translation>ცხრილის სიღრმე Y:</translation>
+        <location filename="../../Tools/magicStart.py" line="700"/>
+        <source>Wood table - depth Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1266" />
-        <source>Table height Z:</source>
-        <translation>მაგიდის სიმაღლე Z:</translation>
+        <location filename="../../Tools/magicStart.py" line="705"/>
+        <source>Wood table - height Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1271" />
-        <source>Table top thickness:</source>
-        <translation>მაგიდის ზედა სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="710"/>
+        <source>Wood table - thickness of the top:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1276" />
-        <source>Legs and Supporters thickness:</source>
-        <translation>ფეხების და საყრდენების სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="715"/>
+        <source>Legs and Supporters - thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1281" />
-        <source>Table top offset:</source>
-        <translation>მაგიდის ზედა ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="720"/>
+        <source>Wood table top - size of protrusion:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1286" />
-        <source>calculate table position</source>
-        <translation>ცხრილის პოზიციის გამოთვლა</translation>
+        <location filename="../../Tools/magicStart.py" line="725"/>
+        <source>calculate wood table</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1336" />
-        <source>Possible selections: &lt;br&gt;&lt;br&gt;1. top edge&lt;br&gt;2. top edge + back face&lt;br&gt;3. bottom edge + top edge&lt;br&gt;4. bottom edge + top edge + back face&lt;br&gt;5. bottom edge + top edge + left edge + right edge + back face&lt;br&gt;&lt;br&gt;The edge can be along X or Y axis.</source>
-        <translation>შესაძლო არჩევანი: &lt;br&gt;&lt;br&gt;1. ზედა კიდე&lt;br&gt;2. ზედა კიდე + უკანა სახე&lt;br&gt;3. ქვედა კიდე + ზედა კიდე&lt;br&gt;4. ქვედა კიდე + ზედა კიდე + უკანა სახე&lt;br&gt;5. ქვედა კიდე + ზედა კიდე + მარცხენა კიდე + მარჯვენა კიდე + უკანა სახე&lt;br&gt;&lt;br&gt;კიდე შეიძლება იყოს X ან Y ღერძის გასწვრივ.</translation>
+        <location filename="../../Tools/magicStart.py" line="777"/>
+        <source>top edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4735" />
-        <source>Drawer front horizontal overlap:</source>
-        <translation>უჯრის წინა ჰორიზონტალური გადახურვა:</translation>
+        <location filename="../../Tools/magicStart.py" line="778"/>
+        <source>The drawer will be created from the 0 position on the Z coordinate axis to the position of the selected top edge. The width of the drawer will be taken from the selected top edge size. The depth of the drawer will be taken from the object from the selected top edge. This is a kind of &quot;quick shot&quot; to create the drawer as quickly as possible without a long selection.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4736" />
-        <source>Drawer front vertical overlap:</source>
-        <translation>უჯრის წინა ვერტიკალური გადახურვა:</translation>
+        <location filename="../../Tools/magicStart.py" line="779"/>
+        <source>top edge + surface of furniture back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1490" />
-        <source>Drawer front wood thickness:</source>
-        <translation>უჯრის წინა ხის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="784"/>
+        <source>This is the same as above, but here selecting the surface of furniture back allows you to set the depth in a more detailed way.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1495" />
-        <source>Drawer sides wood thickness:</source>
-        <translation>უჯრის გვერდები ხის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="781"/>
+        <source>bottom edge + top edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1500" />
-        <source>Drawer bottom wood thickness:</source>
-        <translation>უჯრის ქვედა ხის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="782"/>
+        <source>The drawer will be created from the position of the first selected bottom edge to the position of the second selected top edge. The width and depth of the drawer will be taken from the object with the shortest edge. This is a kind of &quot;quick shot&quot; to create the drawer quickly without a long selection.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1505" />
-        <source>Drawer system offsets for sides:</source>
-        <translation>უჯრის სისტემის გადახრები გვერდებისთვის:</translation>
+        <location filename="../../Tools/magicStart.py" line="783"/>
+        <source>bottom edge + top edge + surface of furniture back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1510" />
-        <source>Drawer system offsets for back:</source>
-        <translation>უჯრის სისტემის გადახრები უკანა მხარეს:</translation>
+        <location filename="../../Tools/magicStart.py" line="785"/>
+        <source>bottom edge + top edge + left edge + right edge + surface of furniture back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1515" />
-        <source>Drawer system offsets for top:</source>
-        <translation>უჯრის სისტემის გადახრები ზემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="786"/>
+        <source>The drawer will be created from the position of the first selected bottom edge to the position of the second selected top edge. The width of the drawer will be obtained from the difference of the third and fourth selected edges. The depth of the drawer will be obtained from the selected surface of furniture back. There are many more objects to select here, but this is the most precise version of determining the size of the drawer. So if you have trouble with any of the above, I recommend trying this method. Also this method solves the problem with longest bottom and top edges.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1520" />
-        <source>Drawer system offsets for bottom:</source>
-        <translation>უჯრის სისტემის გადახრები ქვედასთვის:</translation>
+        <location filename="../../Tools/magicStart.py" line="789"/>
+        <source>&lt;b&gt;Note&lt;/b&gt;: The edges can be in line with the X or Y coordinate axis, so the drawer can be created on all four sides of the furniture.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1387" />
+        <location filename="../../Tools/magicStart.py" line="4262"/>
+        <source>Drawer front - horizontal overlap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="4263"/>
+        <source>Drawer front - vertical overlap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="948"/>
+        <source>Drawer front - wood thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="953"/>
+        <source>Drawer sides - wood thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="958"/>
+        <source>Drawer bottom - wood thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="963"/>
+        <source>Drawer system - gap from sides:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="968"/>
+        <source>Drawer system - gap from back:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="973"/>
+        <source>Drawer system - gap from top:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="978"/>
+        <source>Drawer system - gap from bottom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="836"/>
         <source>calculate gap for drawer</source>
-        <translation>გამოთვალეთ უფსკრული უჯრისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1534" />
-        <source>Gap start X:</source>
-        <translation>უფსკრული დაწყება X:</translation>
+        <location filename="../../Tools/magicStart.py" line="992"/>
+        <source>Drawer gap - start X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1539" />
-        <source>Gap start Y:</source>
-        <translation>უფსკრული დაწყება Y:</translation>
+        <location filename="../../Tools/magicStart.py" line="997"/>
+        <source>Drawer gap - start Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1544" />
-        <source>Gap start Z:</source>
-        <translation>უფსკრული დაწყება Z:</translation>
+        <location filename="../../Tools/magicStart.py" line="1002"/>
+        <source>Drawer gap - start Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1406" />
-        <source>Gap width:</source>
-        <translation>უფსკრული სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1007"/>
+        <source>Drawer gap - width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1411" />
-        <source>Gap height:</source>
-        <translation>უფსკრული სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1012"/>
+        <source>Drawer gap - height:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1416" />
-        <source>Gap depth:</source>
-        <translation>უფსკრული სიღრმე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1017"/>
+        <source>Drawer gap - depth:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1464" />
-        <source>Please select 4 edges around the gap and back face: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge &lt;br&gt; 5. selection - back face</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე უფსკრულისა და უკანა მხარის გარშემო: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. არჩევანი - X ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე &lt;br&gt; 5. შერჩევა - უკანა მხარე</translation>
+        <location filename="../../Tools/magicStart.py" line="1776"/>
+        <source>bottom edge along X</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1470" />
+        <location filename="../../Tools/magicStart.py" line="916"/>
+        <source>means the bottom edge in line with the X coordinate axis of the free space where you want to create a series of drawers, i.e. the horizontal edge of the bottom shelf.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1778"/>
+        <source>top edge along X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="918"/>
+        <source>means the top edge in line with the X coordinate axis of the free space where you want to create a series of drawers, i.e. the horizontal edge of the top shelf.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2114"/>
+        <source>left edge along Z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="920"/>
+        <source>means the left edge in line with the Z coordinate axis of the free space where you want to create a series of drawers, i.e. the vertical edge of the left side of the furniture.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2116"/>
+        <source>right edge along Z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="922"/>
+        <source>means the right edge in line with the Z coordinate axis of the free space where you want to create a series of drawers, i.e. the vertical edge of the right side of the furniture.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="923"/>
+        <source>surface of the furniture back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="924"/>
+        <source>means the inner surface of the back wall of the furniture. The surface should be in line with the X and Z coordinate axes, i.e. vertical faced to the furniture front.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="928"/>
         <source>Number of drawers:</source>
-        <translation>უჯრების რაოდენობა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4749" />
+        <location filename="../../Tools/magicStart.py" line="4276"/>
         <source>Space between drawers fronts:</source>
-        <translation>სივრცე უჯრების ფრონტებს შორის:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1525" />
-        <source>Drawer system offsets for back sides:</source>
-        <translation>უჯრის სისტემის გადახრები უკანა მხარეებისთვის:</translation>
+        <location filename="../../Tools/magicStart.py" line="983"/>
+        <source>Drawer system - gap from back sides:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1530" />
-        <source>calculate gaps</source>
-        <translation>გამოთვალეთ ხარვეზები</translation>
+        <location filename="../../Tools/magicStart.py" line="988"/>
+        <source>calculate gaps for drawers series</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1549" />
-        <source>Single gap width:</source>
-        <translation>ერთი უფსკრული სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1074"/>
+        <source>means the inner bottom edge of the shelf or floor of the furniture along the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1554" />
-        <source>Single gap height:</source>
-        <translation>ერთი უფსკრული სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1076"/>
+        <source>means the inner top edge of the shelf or top of the furniture along the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1559" />
-        <source>Single gap depth:</source>
-        <translation>ერთი უფსკრული სიღრმე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1078"/>
+        <source>means the inner left edge of the side of the furniture along the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1613" />
-        <source>Please select 4 edges around the gap to calculate front size in this order: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე უფსკრულის გარშემო, რათა გამოთვალოთ წინა ზომა შემდეგი თანმიმდევრობით: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. შერჩევა - X ზედა კიდე &lt;br&gt; 3. შერჩევა - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
+        <location filename="../../Tools/magicStart.py" line="1080"/>
+        <source>means the inner right edge of the side of the furniture along the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1619" />
-        <source>Front thickness:</source>
-        <translation>წინა სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1084"/>
+        <source>Furniture front - wood thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1624" />
-        <source>Front offset from left:</source>
-        <translation>წინა გადაადგილება მარცხნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1404"/>
+        <source>calculate front of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1629" />
-        <source>Front offset from right:</source>
-        <translation>წინა გადაადგილება მარცხნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1408"/>
+        <source>Furniture front - start X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1634" />
-        <source>Front offset from top:</source>
-        <translation>წინა გადაადგილება ზემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1413"/>
+        <source>Furniture front - start Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1639" />
-        <source>Front offset from bottom:</source>
-        <translation>წინა გადაადგილება ქვემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1418"/>
+        <source>Furniture front - start Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1644" />
-        <source>calculate front</source>
-        <translation>გამოთვალეთ წინა</translation>
+        <location filename="../../Tools/magicStart.py" line="1128"/>
+        <source>Furniture front - width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1922" />
-        <source>Front start X:</source>
-        <translation>წინა დაწყება X:</translation>
+        <location filename="../../Tools/magicStart.py" line="1133"/>
+        <source>Furniture front - height:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1927" />
-        <source>Front start Y:</source>
-        <translation>წინა დაწყება Y:</translation>
+        <location filename="../../Tools/magicStart.py" line="1174"/>
+        <source>means the inner bottom edge of the furniture where you want to place the back of the furniture, in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1932" />
-        <source>Front start Z:</source>
-        <translation>წინა დაწყება Z:</translation>
+        <location filename="../../Tools/magicStart.py" line="1176"/>
+        <source>means the inner top edge of the furniture where you want to place the back of the furniture, in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1663" />
-        <source>Front width:</source>
-        <translation>წინა სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1177"/>
+        <source>left edge along Z in back model view</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1668" />
-        <source>Front height:</source>
-        <translation>წინა სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1178"/>
+        <source>means the inner left edge of the furniture where you want to place the back of the furniture, in line with the Z coordinate axis but looking at the model from the back side.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1706" />
-        <source>Please select 4 edges around the gap to calculate back: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge from back model view &lt;br&gt; 4. selection - Z right edge from back model view</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე უფსკრულის ირგვლივ, რათა გამოვთვალოთ უკან: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. შერჩევა - X ზედა კიდე &lt;br&gt; 3. შერჩევა - Z მარცხენა კიდე უკანა მოდელის ხედიდან &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე უკანა მოდელის ხედიდან</translation>
+        <location filename="../../Tools/magicStart.py" line="1180"/>
+        <source>means the inner right edge of the furniture where you want to place the back of the furniture, in line with the Z coordinate axis but looking at the model from the back side.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1712" />
-        <source>Back thickness along Y:</source>
-        <translation>უკანა სისქე Y გასწვრივ:</translation>
+        <location filename="../../Tools/magicStart.py" line="1184"/>
+        <source>Furniture back - thickness along Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4770" />
-        <source>Back offset from left:</source>
-        <translation>უკანა გადაადგილება მარცხნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4297"/>
+        <source>Furniture back - offset from left:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4771" />
-        <source>Back offset from right:</source>
-        <translation>უკანა გადაადგილება მარცხნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4298"/>
+        <source>Furniture back - offset from right:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4772" />
-        <source>Back offset from top:</source>
-        <translation>უკანა გადაადგილება ზემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4299"/>
+        <source>Furniture back - offset from top:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4773" />
-        <source>Back offset from bottom:</source>
-        <translation>უკანა გადაადგილება ქვემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4300"/>
+        <source>Furniture back - offset from bottom:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1737" />
-        <source>calculate back</source>
-        <translation>გამოთვალეთ უკან</translation>
+        <location filename="../../Tools/magicStart.py" line="1209"/>
+        <source>calculate back of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1756" />
-        <source>Calculated back width along X:</source>
-        <translation>გამოითვლება უკანა სიგანე X-ის გასწვრივ:</translation>
+        <location filename="../../Tools/magicStart.py" line="1228"/>
+        <source>Calculated width along X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1761" />
-        <source>Calculated back height along Z:</source>
-        <translation>გამოთვლილი უკანა სიმაღლე Z-ს გასწვრივ:</translation>
+        <location filename="../../Tools/magicStart.py" line="1233"/>
+        <source>Calculated height along Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1799" />
-        <source>Please select 4 edges around the gap to calculate Front with glass: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე უფსკრულის ირგვლივ, რათა გამოთვალოთ წინა შუშით: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. არჩევანი - X ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
+        <location filename="../../Tools/magicStart.py" line="1374"/>
+        <source>means the inner bottom edge of the space, in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4637" />
+        <location filename="../../Tools/magicStart.py" line="1376"/>
+        <source>means the inner top edge of the space, in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1378"/>
+        <source>means the inner left edge of the space, in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1380"/>
+        <source>means the inner right edge of the space, in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="4164"/>
         <source>Overlap horizontal:</source>
-        <translation>ჰორიზონტალური გადახურვა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4638" />
+        <location filename="../../Tools/magicStart.py" line="4165"/>
         <source>Overlap vertical:</source>
-        <translation>ვერტიკალური გადახურვა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1820" />
+        <location filename="../../Tools/magicStart.py" line="1299"/>
         <source>Glass thickness:</source>
-        <translation>შუშის სისქე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1825" />
+        <location filename="../../Tools/magicStart.py" line="1304"/>
         <source>calculate front with glass</source>
-        <translation>გამოთვალეთ წინა მინით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1844" />
-        <source>Calculated single bar width:</source>
-        <translation>გამოთვლილი ერთი ზოლის სიგანე:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1942" />
-        <source>Calculated front width:</source>
-        <translation>გამოთვლილი წინა სიგანე:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1947" />
-        <source>Calculated front height:</source>
-        <translation>გამოთვლილი წინა სიმაღლე:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1892" />
-        <source>Please select 4 edges around the gap to calculate decorative front: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, შეარჩიოთ 4 კიდე უფსკრულის გარშემო დეკორატიული ფრონტის გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. არჩევანი - X ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1898" />
-        <source>Single beam thickness:</source>
-        <translation>ერთჯერადი სხივის სისქე:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="4697" />
-        <source>Front overlap horizontal:</source>
-        <translation>წინა ჰორიზონტალური გადახურვა:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="4698" />
-        <source>Front overlap vertical:</source>
-        <translation>წინა ვერტიკალური გადახურვა:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1913" />
-        <source>Inner board thickness:</source>
-        <translation>შიდა დაფის სისქე:</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1918" />
-        <source>calculate decorative front</source>
-        <translation>გამოთვალეთ დეკორატიული წინა მხარე</translation>
-    </message>
-    <message>
-        <location filename="../../Tools/magicStart.py" line="1937" />
+        <location filename="../../Tools/magicStart.py" line="1423"/>
         <source>Calculated single beam width:</source>
-        <translation>გამოთვლილი ერთი სხივის სიგანე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="1985" />
-        <source>Please select face or 4 edges around the front to calculate Front decoration: &lt;br&gt;&lt;br&gt; 1. selection - XZ face of front&lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, აირჩიოთ სახე ან 4 კიდე წინას გარშემო წინა დეკორაციის გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. არჩევანი - XZ წინა მხარე&lt;br&gt;&lt;br&gt; 1. არჩევანი - X ქვედა კიდე &lt;br&gt; 2. არჩევანი - X ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
+        <location filename="../../Tools/magicStart.py" line="1428"/>
+        <source>Calculated front - width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2542" />
-        <source>Single bar width:</source>
-        <translation>ერთი ზოლის სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1433"/>
+        <source>Calculated front - height:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2547" />
-        <source>Single bar thickness:</source>
-        <translation>ერთი ზოლის სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1384"/>
+        <source>Single beam thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2552" />
-        <source>Offset from edge horizontal:</source>
-        <translation>გადაადგილება ჰორიზონტალური კიდიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4224"/>
+        <source>Furniture front - overlap horizontal:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2557" />
-        <source>Offset from edge vertical:</source>
-        <translation>გადაადგილება ვერტიკალური კიდიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4225"/>
+        <source>Furniture front - overlap vertical:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2011" />
+        <location filename="../../Tools/magicStart.py" line="1399"/>
+        <source>Inner board thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1473"/>
+        <source>XZ face of front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1474"/>
+        <source>means the front surface where you want to place the decoration, in line with the X and Z coordinate axes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1479"/>
+        <source>means the bottom edge of the front where you want to place the decoration, in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1481"/>
+        <source>means the top edge of the front where you want to place the decoration, in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1483"/>
+        <source>means the left edge of the front where you want to place the decoration, in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1485"/>
+        <source>means the right edge of the front where you want to place the decoration, in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2121"/>
+        <source>Single beam - width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2126"/>
+        <source>Single beam - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2131"/>
+        <source>Offset from edge - horizontal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2136"/>
+        <source>Offset from edge - vertical:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1509"/>
         <source>calculate front decoration</source>
-        <translation>გამოთვალეთ წინა გაფორმება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2581" />
-        <source>Calculated decoration width:</source>
-        <translation>გამოთვლილი დეკორაციის სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="2160"/>
+        <source>Calculated decoration - width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2586" />
-        <source>Calculated decoration height:</source>
-        <translation>გამოთვლილი დეკორაციის სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="2165"/>
+        <source>Calculated decoration - height:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2071" />
-        <source>Please select 4 edges around the gap to calculate Face Frame: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე უფსკრულის გარშემო სახის ჩარჩოს გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. არჩევანი - X ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
+        <location filename="../../Tools/magicStart.py" line="1572"/>
+        <source>means the inner edge of the furniture floor in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2087" />
+        <location filename="../../Tools/magicStart.py" line="1574"/>
+        <source>means the inner edge of the top of the furniture in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1576"/>
+        <source>means the inner edge of the left side of the furniture in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1578"/>
+        <source>means the inner edge of the right side of the furniture in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1592"/>
         <source>Lip outside:</source>
-        <translation>ტუჩი გარეთ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2092" />
+        <location filename="../../Tools/magicStart.py" line="1597"/>
         <source>Delve into furniture:</source>
-        <translation>შეისწავლეთ ავეჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2097" />
-        <source>calculate face frame</source>
-        <translation>სახის ჩარჩოს გამოთვლა</translation>
+        <location filename="../../Tools/magicStart.py" line="1602"/>
+        <source>calculate face frame of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2101" />
-        <source>Frame start X:</source>
-        <translation>ჩარჩოს დასაწყისი X:</translation>
+        <location filename="../../Tools/magicStart.py" line="1606"/>
+        <source>Frame - start X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2106" />
-        <source>Frame start Y:</source>
-        <translation>ჩარჩოს დაწყება Y:</translation>
+        <location filename="../../Tools/magicStart.py" line="1611"/>
+        <source>Frame - start Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2111" />
-        <source>Frame start Z:</source>
-        <translation>ჩარჩოს დაწყება Z:</translation>
+        <location filename="../../Tools/magicStart.py" line="1616"/>
+        <source>Frame - start Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2116" />
-        <source>Calculated Face Frame width:</source>
-        <translation>გამოთვლილი სახის ჩარჩოს სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1621"/>
+        <source>Calculated frame - width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2121" />
-        <source>Calculated Face Frame height:</source>
-        <translation>გამოთვლილი სახის ჩარჩოს სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1626"/>
+        <source>Calculated frame - height:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2157" />
-        <source>Please select 2 edges and face to calculate shelf: &lt;br&gt;&lt;br&gt; 1. selection - Z left edge &lt;br&gt; 2. selection - Z right edge &lt;br&gt; 3. selection - back face &lt;br&gt;&lt;br&gt; Please add "Shelf by depth" or "Shelf by offsets", if you do not want full depth.</source>
-        <translation>გთხოვთ, აირჩიოთ 2 კიდე და სახე თაროს გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. შერჩევა - Z მარცხენა კიდე &lt;br&gt; 2. არჩევანი - Z მარჯვენა კიდე &lt;br&gt; 3. შერჩევა - უკანა სახე &lt;br&gt;&lt;br&gt; გთხოვთ, დაამატოთ "თარო სიღრმის მიხედვით" ან "თარო ოფსეტურით", თუ არ გსურთ სრული სიღრმე.</translation>
+        <location filename="../../Tools/magicStart.py" line="1665"/>
+        <source>means the left inner edge of the side of the furniture in line with the Z coordinate axis, i.e. vertical.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2163" />
-        <source>Shelf thickness:</source>
-        <translation>თაროს სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1667"/>
+        <source>means the right inner edge of the side of the furniture in line with the Z coordinate axis, i.e. vertical.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2168" />
-        <source>Shelf by depth:</source>
-        <translation>თარო სიღრმის მიხედვით:</translation>
+        <location filename="../../Tools/magicStart.py" line="1784"/>
+        <source>surface of the furniture back board</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2173" />
-        <source>Shelf by offset from left:</source>
-        <translation>თარო მარცხნიდან ოფსეტურით:</translation>
+        <location filename="../../Tools/magicStart.py" line="1669"/>
+        <source>means the inner surface of the furniture back wall of the furniture. The surface should be in line with the X and Z coordinate axes.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2178" />
-        <source>Shelf by offset from right:</source>
-        <translation>თარო მარჯვნიდან ოფსეტურით:</translation>
+        <location filename="../../Tools/magicStart.py" line="1672"/>
+        <source>&lt;b&gt;Note&lt;/b&gt;: There are two methods:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2183" />
-        <source>Shelf by offset from front:</source>
-        <translation>თარო წინა მხრიდან ოფსეტურით:</translation>
+        <location filename="../../Tools/magicStart.py" line="2001"/>
+        <source>Method 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2188" />
-        <source>Shelf by offset from back:</source>
-        <translation>თარო უკნიდან ოფსეტურით:</translation>
+        <location filename="../../Tools/magicStart.py" line="1675"/>
+        <source>By setting the shelf depth, then the front gap will be calculated as the difference between the free space and the desired shelf depth.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2193" />
+        <location filename="../../Tools/magicStart.py" line="2003"/>
+        <source>Method 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1677"/>
+        <source>By entering a value of 0 as the depth and setting the gaps for the shelf. Then the depth and width of the shelf will be calculated taking into account the given gaps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1680"/>
+        <source>Shelf - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1685"/>
+        <source>Shelf - by depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1690"/>
+        <source>Shelf - by gap from left:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1695"/>
+        <source>Shelf - by gap from right:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1700"/>
+        <source>Shelf - by gap from front:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1705"/>
+        <source>Shelf - by gap from back:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1710"/>
         <source>calculate shelf</source>
-        <translation>გამოთვალეთ თარო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2277" />
-        <source>Shelf start X:</source>
-        <translation>თაროს დაწყება X:</translation>
+        <location filename="../../Tools/magicStart.py" line="1803"/>
+        <source>Shelf - start X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2282" />
-        <source>Shelf start Y:</source>
-        <translation>თაროს დაწყება Y:</translation>
+        <location filename="../../Tools/magicStart.py" line="1808"/>
+        <source>Shelf - start Y:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2287" />
-        <source>Shelf start Z:</source>
-        <translation>თაროს დაწყება Z:</translation>
+        <location filename="../../Tools/magicStart.py" line="1813"/>
+        <source>Shelf - start Z:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2292" />
-        <source>Calculated shelf width:</source>
-        <translation>გამოთვლილი თაროს სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1818"/>
+        <source>Calculated shelf - width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2297" />
-        <source>Calculated shelf depth:</source>
-        <translation>შელფის გამოთვლილი სიღრმე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1823"/>
+        <source>Calculated shelf - depth:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2257" />
-        <source>Please select 4 edges and face to calculate shelf series: &lt;br&gt;&lt;br&gt; 1. selection - X bottom edge &lt;br&gt; 2. selection - X top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge &lt;br&gt; 5. selection - back face</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე და სახე თაროების სერიის გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ქვედა კიდე &lt;br&gt; 2. შერჩევა - X ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე &lt;br&gt; 5. შერჩევა - უკანა მხარე</translation>
+        <location filename="../../Tools/magicStart.py" line="1777"/>
+        <source>means the lower inner edge from which the series of shelves is to start. The selected edge should be in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2263" />
-        <source>Single shelf thickness:</source>
-        <translation>ერთი თაროს სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1779"/>
+        <source>means the upper inner edge to which the series of shelves is to end. The selected edge should be in line with the X coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2268" />
+        <location filename="../../Tools/magicStart.py" line="1781"/>
+        <source>means the left inner edge of the free space in which the series of shelves is to be created. The selected edge should be in line with the Z coordinate axis, i.e. the inner edge of the left side of the furniture.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1783"/>
+        <source>means the right inner edge of the free space in which the series of shelves is to be created. The selected edge should be in line with the Z coordinate axis, i.e. the inner edge of the right side of the furniture.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1785"/>
+        <source>means the internal surface of the back wall of the furniture, which is in line with the X and Z coordinate axes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1789"/>
+        <source>Single shelf - thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1794"/>
         <source>Number of shelves:</source>
-        <translation>თაროების რაოდენობა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2273" />
+        <location filename="../../Tools/magicStart.py" line="1799"/>
         <source>calculate shelf series</source>
-        <translation>გამოთვალეთ თაროების სერია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2302" />
+        <location filename="../../Tools/magicStart.py" line="1828"/>
         <source>Calculated shelves space:</source>
-        <translation>თაროების გამოთვლილი სივრცე:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2336" />
-        <source>Please select 4 edges around the gap to calculate Side: &lt;br&gt;&lt;br&gt; 1. selection - X or Y bottom edge &lt;br&gt; 2. selection - X or Y top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, აირჩიოთ 4 კიდე უფსკრულის გარშემო გვერდის გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. შერჩევა - X ან Y ქვედა კიდე &lt;br&gt; 2. არჩევანი - X ან Y ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
+        <location filename="../../Tools/magicStart.py" line="1864"/>
+        <source>bottom edge along X or Y</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2442" />
-        <source>Side thickness:</source>
-        <translation>გვერდითი სისქე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1865"/>
+        <source>means that the selected edge is to be the bottom edge, along the X or Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2347" />
-        <source>Side by width:</source>
-        <translation>გვერდიგვერდ სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1866"/>
+        <source>top edge along X or Y</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2352" />
-        <source>Side by offset from left:</source>
-        <translation>გვერდიგვერდ ოფსეტური მარცხნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1867"/>
+        <source>means that the selected edge is to be the top edge, along the X or Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2357" />
-        <source>Side by offset from right:</source>
-        <translation>გვერდიგვერდ ოფსეტური მარჯვნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1869"/>
+        <source>means that the selected edge is to be the left edge, along the Z coordinate axis, i.e. vertical.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2452" />
-        <source>Side by offset from top:</source>
-        <translation>გვერდით ოფსეტური ზემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1871"/>
+        <source>means that the selected edge is to be the right edge, along the Z coordinate axis, i.e. vertical.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2457" />
-        <source>Side by offset from bottom:</source>
-        <translation>გვერდიგვერდ ოფსეტური ქვემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1874"/>
+        <source>&lt;b&gt;Note&lt;/b&gt;: Next, you need to decide how the side to be created is to be calculated. There are three methods:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2372" />
-        <source>calculate side</source>
-        <translation>მხარის გამოთვლა</translation>
+        <location filename="../../Tools/magicStart.py" line="1876"/>
+        <source>0 width and 0 gaps</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2476" />
-        <source>Side start X:</source>
-        <translation>გვერდითი დასაწყისი X:</translation>
+        <location filename="../../Tools/magicStart.py" line="1877"/>
+        <source>If you do not fill the widths and gaps, the side will fill the entire selected space.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2481" />
-        <source>Side start Y:</source>
-        <translation>გვერდითი დასაწყისი Y:</translation>
+        <location filename="../../Tools/magicStart.py" line="1878"/>
+        <source>custom width and 0 gaps</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2486" />
-        <source>Side start Z:</source>
-        <translation>გვერდითი დასაწყისი Z:</translation>
+        <location filename="../../Tools/magicStart.py" line="1879"/>
+        <source>If a width is given, the right spacing will be the difference between the width of the free space and the previously set desired width.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2391" />
-        <source>Calculated side width:</source>
-        <translation>გამოთვლილი გვერდის სიგანე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1880"/>
+        <source>0 width and custom gaps</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2396" />
-        <source>Calculated side height:</source>
-        <translation>გამოთვლილი მხარის სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1881"/>
+        <source>If gaps are set and the width is set to 0, the width and height of the side to be created will be calculated with the gaps taken into account.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2436" />
-        <source>Please select 2 edges (top or bottom at Y axis direction) and 1 face (bottom or top at XY plane) to calculate side in the center: &lt;br&gt;&lt;br&gt; 1. selection - Y left edge &lt;br&gt; 2. selection - Y right edge &lt;br&gt; 3. selection - XY face</source>
-        <translation>გთხოვთ, აირჩიოთ 2 კიდე (ზედა ან ქვედა Y ღერძის მიმართულებით) და 1 სახე (ქვედა ან ზემოდან XY სიბრტყეზე) გვერდის გამოსათვლელად ცენტრში: &lt;br&gt;&lt;br&gt; 1. არჩევანი - Y მარცხენა კიდე &lt;br&gt; 2. არჩევანი - Y მარჯვენა კიდე &lt;br&gt; 3. შერჩევა - XY სახე</translation>
+        <location filename="../../Tools/magicStart.py" line="1884"/>
+        <source>Furniture side - thickness:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2447" />
-        <source>Side by depth:</source>
-        <translation>გვერდიგვერდ სიღრმე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1889"/>
+        <source>Furniture side - by width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2462" />
-        <source>Side by offset from front:</source>
-        <translation>გვერდიგვერდ ოფსეტური წინიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1894"/>
+        <source>Furniture side - by gap from left:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2467" />
-        <source>Side by offset from back:</source>
-        <translation>გვერდიგვერდ ოფსეტური უკნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="1899"/>
+        <source>Furniture side - by gap from right:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2472" />
-        <source>calculate center side</source>
-        <translation>გამოთვალეთ ცენტრალური მხარე</translation>
+        <location filename="../../Tools/magicStart.py" line="2017"/>
+        <source>Furniture side - by gap from top:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2491" />
-        <source>Calculated center side height:</source>
-        <translation>გამოთვლილი ცენტრალური მხარის სიმაღლე:</translation>
+        <location filename="../../Tools/magicStart.py" line="2022"/>
+        <source>Furniture side - by gap from bottom:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2496" />
-        <source>Calculated center side depth:</source>
-        <translation>გამოთვლილი ცენტრალური მხარის სიღრმე:</translation>
+        <location filename="../../Tools/magicStart.py" line="1914"/>
+        <source>calculate side of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2536" />
-        <source>Please select face or 4 edges around the side to calculate Side decoration: &lt;br&gt;&lt;br&gt; 1. selection - YZ face of side &lt;br&gt;&lt;br&gt; 1. selection - Y bottom edge &lt;br&gt; 2. selection - Y top edge &lt;br&gt; 3. selection - Z left edge &lt;br&gt; 4. selection - Z right edge</source>
-        <translation>გთხოვთ, აირჩიოთ სახე ან 4 კიდე გვერდის ირგვლივ გვერდითი გაფორმების გამოსათვლელად: &lt;br&gt;&lt;br&gt; 1. შერჩევა - YZ გვერდის სახე &lt;br&gt;&lt;br&gt; 1. არჩევანი - Y ქვედა კიდე &lt;br&gt; 2. არჩევანი - Y ზედა კიდე &lt;br&gt; 3. არჩევანი - Z მარცხენა კიდე &lt;br&gt; 4. შერჩევა - Z მარჯვენა კიდე</translation>
+        <location filename="../../Tools/magicStart.py" line="2041"/>
+        <source>Furniture side - start X:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="2562" />
+        <location filename="../../Tools/magicStart.py" line="2046"/>
+        <source>Furniture side - start Y:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2051"/>
+        <source>Furniture side - start Z:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1933"/>
+        <source>Calculated furniture side - width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1938"/>
+        <source>Calculated furniture side - height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1978"/>
+        <source>&lt;b&gt;Referring to the top part of the furniture sides:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1981"/>
+        <source>top left edge along Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1982"/>
+        <source>means the left inner edge of the side of the furniture at the top in line with the Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1983"/>
+        <source>top right edge along Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1984"/>
+        <source>means the right inner edge of the side of the furniture at the top in line with the Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1985"/>
+        <source>bottom surface along X and Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1986"/>
+        <source>means the bottom inner surface of the gap, for example bottom surface of the shelf. The surface should be in line with the X and Y coordinate axes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1988"/>
+        <source>&lt;b&gt;Referring to the bottom part of the furniture sides:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1991"/>
+        <source>bottom left edge along Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1992"/>
+        <source>means the left inner edge of the side of the furniture at the bottom in line with the Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1993"/>
+        <source>bottom right edge along Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1994"/>
+        <source>means the right inner edge of the side of the furniture at the bottom in line with the Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1995"/>
+        <source>top surface along X and Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1996"/>
+        <source>means the top inner surface of the gap, for example top surface of the shelf. The surface should be in line with the X and Y coordinate axes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="1999"/>
+        <source>&lt;b&gt;Note&lt;/b&gt;: There are two methods to create a center side:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2002"/>
+        <source>By setting the side depth, then the front gap will be calculated as the difference between the free space and the desired side depth.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2004"/>
+        <source>By entering a value of 0 as the depth and setting the gaps for the side. Then the depth and height of the center board of the furniture will be calculated taking into account the given gaps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2007"/>
+        <source>Furniture side thickness:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2012"/>
+        <source>Furniture side - by depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2027"/>
+        <source>Furniture side - by gap from front:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2032"/>
+        <source>Furniture side - by gap from back:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2037"/>
+        <source>calculate center board of the furniture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2056"/>
+        <source>Calculated board - height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2061"/>
+        <source>Calculated board - depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2101"/>
+        <source>&lt;b&gt;Referring to the surface only:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2104"/>
+        <source>surface of furniture side along Y and Z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2105"/>
+        <source>means the surface of furniture side where you want to place the decoration, in line with the Y and Z coordinate axes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2107"/>
+        <source>&lt;b&gt;Referring to the edges around the surface:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2110"/>
+        <source>bottom edge along Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2111"/>
+        <source>means the bottom edge of the furniture side where you want to place the decoration, in line with the Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2112"/>
+        <source>top edge along Y</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2113"/>
+        <source>means the top edge of the furniture side where you want to place the decoration, in line with the Y coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2115"/>
+        <source>means the left edge of the furniture side where you want to place the decoration, in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2117"/>
+        <source>means the right edge of the furniture side where you want to place the decoration, in line with the Z coordinate axis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="2141"/>
         <source>calculate side decoration</source>
-        <translation>გამოთვალეთ გვერდითი გაფორმება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4747" />
-        <source>Drawer front horizontal offset:</source>
-        <translation>უჯრის წინა ჰორიზონტალური ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="4274"/>
+        <source>Drawer front - horizontal offset:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4748" />
-        <source>Drawer front vertical offset:</source>
-        <translation>უჯრის წინა ვერტიკალური ოფსეტი:</translation>
+        <location filename="../../Tools/magicStart.py" line="4275"/>
+        <source>Drawer front - vertical offset:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4643" />
+        <location filename="../../Tools/magicStart.py" line="4170"/>
         <source>Offset horizontal:</source>
-        <translation>ჰორიზონტალური ოფსეტური:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4644" />
+        <location filename="../../Tools/magicStart.py" line="4171"/>
         <source>Offset vertical:</source>
-        <translation>ოფსეტური ვერტიკალური:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4703" />
-        <source>Front offset horizontal:</source>
-        <translation>წინა ოფსეტი ჰორიზონტალური:</translation>
+        <location filename="../../Tools/magicStart.py" line="4230"/>
+        <source>Furniture front - offset horizontal:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4704" />
-        <source>Front offset vertical:</source>
-        <translation>წინა ოფსეტი ვერტიკალური:</translation>
+        <location filename="../../Tools/magicStart.py" line="4231"/>
+        <source>Furniture front - offset vertical:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4759" />
-        <source>Back overlap from left:</source>
-        <translation>უკანა გადახურვა მარცხნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4286"/>
+        <source>Furniture back - overlap from left:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4760" />
-        <source>Back overlap from right:</source>
-        <translation>უკანა გადახურვა მარჯვნიდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4287"/>
+        <source>Furniture back - overlap from right:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4761" />
-        <source>Back overlap from top:</source>
-        <translation>უკანა გადახურვა ზემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4288"/>
+        <source>Furniture back - overlap from top:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="4762" />
-        <source>Back overlap from bottom:</source>
-        <translation>უკანა გადახურვა ქვემოდან:</translation>
+        <location filename="../../Tools/magicStart.py" line="4289"/>
+        <source>Furniture back - overlap from bottom:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12355" />
-        <source>Floor</source>
-        <translation>სართული</translation>
+        <location filename="../../Tools/magicStart.py" line="11882"/>
+        <source>Furniture - Floor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12543" />
-        <source>Left</source>
-        <translation>მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="12070"/>
+        <source>Furniture - Left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12553" />
-        <source>Right</source>
-        <translation>უფლება</translation>
+        <location filename="../../Tools/magicStart.py" line="12080"/>
+        <source>Furniture - Right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12563" />
-        <source>Back</source>
-        <translation>უკან</translation>
+        <location filename="../../Tools/magicStart.py" line="12090"/>
+        <source>Furniture - Back board</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12585" />
-        <source>Top</source>
-        <translation>ზედა</translation>
+        <location filename="../../Tools/magicStart.py" line="12112"/>
+        <source>Furniture - Top board</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12595" />
-        <source>Front</source>
-        <translation>წინა</translation>
+        <location filename="../../Tools/magicStart.py" line="12122"/>
+        <source>Furniture - Front</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11073" />
-        <source>Top cover</source>
-        <translation>ზედა საფარი</translation>
+        <location filename="../../Tools/magicStart.py" line="12101"/>
+        <source>Furniture - Shelf</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7175" />
-        <source>Foot Left</source>
-        <translation>ფეხი მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="6702"/>
+        <source>Foot from left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7185" />
-        <source>Foot Right</source>
-        <translation>ფეხის მარჯვენა</translation>
+        <location filename="../../Tools/magicStart.py" line="6712"/>
+        <source>Foot from right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7195" />
-        <source>Foot Back</source>
-        <translation>ფეხის უკან</translation>
+        <location filename="../../Tools/magicStart.py" line="6722"/>
+        <source>Foot from back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7205" />
-        <source>Foot Front</source>
-        <translation>ფეხის წინა</translation>
+        <location filename="../../Tools/magicStart.py" line="6732"/>
+        <source>Foot from front</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7143" />
-        <source>Foot Center</source>
-        <translation>ფეხის ცენტრი</translation>
+        <location filename="../../Tools/magicStart.py" line="6670"/>
+        <source>Foot in center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7236" />
+        <location filename="../../Tools/magicStart.py" line="6763"/>
         <source>Foot Left Front</source>
-        <translation>ფეხის მარცხენა წინა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7246" />
+        <location filename="../../Tools/magicStart.py" line="6773"/>
         <source>Foot Left Back</source>
-        <translation>ფეხი მარცხენა უკან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7256" />
+        <location filename="../../Tools/magicStart.py" line="6783"/>
         <source>Foot Right Front</source>
-        <translation>ფეხის მარჯვენა წინა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7266" />
+        <location filename="../../Tools/magicStart.py" line="6793"/>
         <source>Foot Right Back</source>
-        <translation>ფეხი მარჯვენა უკან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7837" />
-        <source>Drawer Left</source>
-        <translation>უჯრა მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="7364"/>
+        <source>Drawer - Left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7847" />
-        <source>Drawer Right</source>
-        <translation>უჯრა მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="7374"/>
+        <source>Drawer - Right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7857" />
-        <source>Drawer Back</source>
-        <translation>უჯრის უკან</translation>
+        <location filename="../../Tools/magicStart.py" line="7384"/>
+        <source>Drawer - Back board</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7867" />
-        <source>Drawer Front Inside</source>
-        <translation>უჯრის წინა შიგნით</translation>
+        <location filename="../../Tools/magicStart.py" line="7394"/>
+        <source>Drawer - Front Inside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7877" />
-        <source>Drawer Bottom HDF</source>
-        <translation>უჯრის ქვედა HDF</translation>
+        <location filename="../../Tools/magicStart.py" line="7404"/>
+        <source>Drawer - Bottom HDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7888" />
-        <source>Drawer Front Outside</source>
-        <translation>უჯრის წინა გარე</translation>
+        <location filename="../../Tools/magicStart.py" line="7415"/>
+        <source>Drawer - Front Outside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="7988" />
-        <source>Side Center</source>
-        <translation>გვერდითი ცენტრი</translation>
+        <location filename="../../Tools/magicStart.py" line="7443"/>
+        <source>Front outside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10335" />
-        <source>Back HDF</source>
-        <translation>უკან HDF</translation>
+        <location filename="../../Tools/magicStart.py" line="7467"/>
+        <source>Front inside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10021" />
-        <source>Face Frame Left</source>
-        <translation>სახის ჩარჩო მარცხნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="7515"/>
+        <source>Furniture center board </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10031" />
-        <source>Face Frame Right</source>
-        <translation>სახის ჩარჩო მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="9862"/>
+        <source>Furniture back HDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10041" />
-        <source>Face Frame Bottom</source>
-        <translation>სახის ჩარჩო ქვედა</translation>
+        <location filename="../../Tools/magicStart.py" line="9548"/>
+        <source>Left side of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10051" />
-        <source>Face Frame Top</source>
-        <translation>სახის ჩარჩო ზედა</translation>
+        <location filename="../../Tools/magicStart.py" line="9558"/>
+        <source>Right side of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10061" />
-        <source>Face Frame Center</source>
-        <translation>სახის ჩარჩოს ცენტრი</translation>
+        <location filename="../../Tools/magicStart.py" line="9568"/>
+        <source>Bottom side of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10071" />
-        <source>Face Frame Horizontal</source>
-        <translation>სახის ჩარჩო ჰორიზონტალური</translation>
+        <location filename="../../Tools/magicStart.py" line="9578"/>
+        <source>Top of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9051" />
-        <source>Face Frame Horizontal Left</source>
-        <translation>სახის ჩარჩო ჰორიზონტალური მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="9588"/>
+        <source>Center part of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9061" />
-        <source>Face Frame Horizontal Right</source>
-        <translation>სახის ჩარჩო ჰორიზონტალური მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="9598"/>
+        <source>Horizontal part of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9174" />
-        <source>FG Left</source>
-        <translation>FG მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="8578"/>
+        <source>Horizontal left part of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9184" />
-        <source>FG Right</source>
-        <translation>FG მარჯვენა</translation>
+        <location filename="../../Tools/magicStart.py" line="8588"/>
+        <source>Horizontal right part of frame</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9194" />
+        <location filename="../../Tools/magicStart.py" line="8701"/>
+        <source>FG Left side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="8711"/>
+        <source>FG Right side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="8721"/>
         <source>FG Bottom</source>
-        <translation>FG ქვედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9204" />
+        <location filename="../../Tools/magicStart.py" line="8731"/>
         <source>FG Top</source>
-        <translation>FG ტოპი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9214" />
+        <location filename="../../Tools/magicStart.py" line="8741"/>
         <source>FG Glass</source>
-        <translation>FG მინა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9228" />
+        <location filename="../../Tools/magicStart.py" line="8755"/>
         <source>FG Vertical</source>
-        <translation>FG ვერტიკალური</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9242" />
+        <location filename="../../Tools/magicStart.py" line="8769"/>
         <source>FG Horizontal 1</source>
-        <translation>FG ჰორიზონტალური 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9255" />
+        <location filename="../../Tools/magicStart.py" line="8782"/>
         <source>FG Horizontal 2</source>
-        <translation>FG ჰორიზონტალური 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9268" />
+        <location filename="../../Tools/magicStart.py" line="8795"/>
         <source>FG Horizontal 3</source>
-        <translation>FG ჰორიზონტალური 3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9281" />
+        <location filename="../../Tools/magicStart.py" line="8808"/>
         <source>FG Horizontal 4</source>
-        <translation>FG ჰორიზონტალური 4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9650" />
-        <source>Table Leg LF</source>
-        <translation>მაგიდის ფეხი LF</translation>
+        <location filename="../../Tools/magicStart.py" line="9177"/>
+        <source>Wood table Leg LF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9660" />
-        <source>Table Leg LB</source>
-        <translation>მაგიდის ფეხი LB</translation>
+        <location filename="../../Tools/magicStart.py" line="9187"/>
+        <source>Wood table Leg LB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9671" />
-        <source>Table Leg RF</source>
-        <translation>მაგიდის ფეხი RF</translation>
+        <location filename="../../Tools/magicStart.py" line="9198"/>
+        <source>Wood table Leg RF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9682" />
-        <source>Table Leg RB</source>
-        <translation>მაგიდის ფეხი RB</translation>
+        <location filename="../../Tools/magicStart.py" line="9209"/>
+        <source>Wood table Leg RB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9567" />
-        <source>Table Supporter Front</source>
-        <translation>მაგიდის საყრდენი წინა</translation>
+        <location filename="../../Tools/magicStart.py" line="9094"/>
+        <source>Wood table support from front</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9580" />
-        <source>Table Supporter Back</source>
-        <translation>მაგიდის მხარდამჭერი უკან</translation>
+        <location filename="../../Tools/magicStart.py" line="9107"/>
+        <source>Wood table support from back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9593" />
-        <source>Table Supporter Left</source>
-        <translation>მაგიდის მხარდამჭერი მარცხნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="9120"/>
+        <source>Wood table support from left</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9606" />
-        <source>Table Supporter Right</source>
-        <translation>მაგიდის მხარდამჭერი მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="9133"/>
+        <source>Wood table support from right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11564" />
-        <source>Table Top</source>
-        <translation>მაგიდის ზედა</translation>
+        <location filename="../../Tools/magicStart.py" line="11091"/>
+        <source>Wood table Top</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9479" />
-        <source>Table Leg LF1</source>
-        <translation>მაგიდის ფეხი LF1</translation>
+        <location filename="../../Tools/magicStart.py" line="9006"/>
+        <source>Wood table Leg LF1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9489" />
-        <source>Table Leg LF2</source>
-        <translation>მაგიდის ფეხი LF2</translation>
+        <location filename="../../Tools/magicStart.py" line="9016"/>
+        <source>Wood table Leg LF2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9499" />
-        <source>Table Leg LB1</source>
-        <translation>მაგიდის ფეხი LB1</translation>
+        <location filename="../../Tools/magicStart.py" line="9026"/>
+        <source>Wood table Leg LB1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9510" />
-        <source>Table Leg LB2</source>
-        <translation>მაგიდის ფეხი LB2</translation>
+        <location filename="../../Tools/magicStart.py" line="9037"/>
+        <source>Wood table Leg LB2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9521" />
-        <source>Table Leg RF1</source>
-        <translation>მაგიდის ფეხი RF1</translation>
+        <location filename="../../Tools/magicStart.py" line="9048"/>
+        <source>Wood table Leg RF1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9532" />
-        <source>Table Leg RF2</source>
-        <translation>მაგიდის ფეხი RF2</translation>
+        <location filename="../../Tools/magicStart.py" line="9059"/>
+        <source>Wood table Leg RF2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9543" />
-        <source>Table Leg RB1</source>
-        <translation>მაგიდის ფეხი RB1</translation>
+        <location filename="../../Tools/magicStart.py" line="9070"/>
+        <source>Wood table Leg RB1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9555" />
-        <source>Table Leg RB2</source>
-        <translation>მაგიდის ფეხი RB2</translation>
+        <location filename="../../Tools/magicStart.py" line="9082"/>
+        <source>Wood table Leg RB2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9694" />
-        <source>Table SLT</source>
-        <translation>მაგიდა SLT</translation>
+        <location filename="../../Tools/magicStart.py" line="9221"/>
+        <source>Wood table SLT</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9707" />
-        <source>Table SLB</source>
-        <translation>მაგიდა SLB</translation>
+        <location filename="../../Tools/magicStart.py" line="9234"/>
+        <source>Wood table SLB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9720" />
-        <source>Table SRT</source>
-        <translation>მაგიდა SRT</translation>
+        <location filename="../../Tools/magicStart.py" line="9247"/>
+        <source>Wood table SRT</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9733" />
-        <source>Table SRB</source>
-        <translation>ცხრილი SRB</translation>
+        <location filename="../../Tools/magicStart.py" line="9260"/>
+        <source>Wood table SRB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9820" />
-        <source>DF Left</source>
-        <translation>DF მარცხნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="9318"/>
+        <source>Side of the wardrobe</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9830" />
-        <source>DF Right</source>
-        <translation>DF მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="9347"/>
+        <source>DF Left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9840" />
+        <location filename="../../Tools/magicStart.py" line="9357"/>
+        <source>DF Right side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="9367"/>
         <source>DF Bottom</source>
-        <translation>DF ქვედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9850" />
+        <location filename="../../Tools/magicStart.py" line="9377"/>
         <source>DF Top</source>
-        <translation>DF ტოპი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9860" />
+        <location filename="../../Tools/magicStart.py" line="9387"/>
         <source>DF Inner</source>
-        <translation>DF შიდა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9895" />
-        <source>FD Left</source>
-        <translation>FD მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="9422"/>
+        <source>FD Left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9905" />
-        <source>FD Right</source>
-        <translation>FD უფლება</translation>
+        <location filename="../../Tools/magicStart.py" line="9432"/>
+        <source>FD Right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9915" />
+        <location filename="../../Tools/magicStart.py" line="9442"/>
         <source>FD Bottom</source>
-        <translation>FD ქვედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9925" />
+        <location filename="../../Tools/magicStart.py" line="9452"/>
         <source>FD Top</source>
-        <translation>FD ტოპი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9957" />
-        <source>SD Left</source>
-        <translation>SD მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="9484"/>
+        <source>SD Left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9967" />
-        <source>SD Right</source>
-        <translation>SD მარჯვენა</translation>
+        <location filename="../../Tools/magicStart.py" line="9494"/>
+        <source>SD Right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9977" />
+        <location filename="../../Tools/magicStart.py" line="9504"/>
         <source>SD Bottom</source>
-        <translation>SD ქვედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="9987" />
+        <location filename="../../Tools/magicStart.py" line="9514"/>
         <source>SD Top</source>
-        <translation>SD ზედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10172" />
+        <location filename="../../Tools/magicStart.py" line="9699"/>
         <source>ST 1</source>
-        <translation>ST 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10182" />
+        <location filename="../../Tools/magicStart.py" line="9709"/>
         <source>ST 2</source>
-        <translation>ST 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10192" />
+        <location filename="../../Tools/magicStart.py" line="9719"/>
         <source>SB 1</source>
-        <translation>SB 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10523" />
-        <source>FF Left</source>
-        <translation>FF მარცხნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="10050"/>
+        <source>FF Left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10533" />
-        <source>FF Right</source>
-        <translation>FF მარჯვენა</translation>
+        <location filename="../../Tools/magicStart.py" line="10060"/>
+        <source>FF Right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10543" />
+        <location filename="../../Tools/magicStart.py" line="10070"/>
         <source>FF Bottom</source>
-        <translation>FF ქვედა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10553" />
+        <location filename="../../Tools/magicStart.py" line="10080"/>
         <source>FF Top</source>
-        <translation>FF ტოპ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10244" />
+        <location filename="../../Tools/magicStart.py" line="9771"/>
         <source>FF Center</source>
-        <translation>FF ცენტრი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10254" />
+        <location filename="../../Tools/magicStart.py" line="9781"/>
         <source>FF Horizontal</source>
-        <translation>FF ჰორიზონტალური</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10489" />
+        <location filename="../../Tools/magicStart.py" line="10016"/>
         <source>ST</source>
-        <translation>სტ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10499" />
+        <location filename="../../Tools/magicStart.py" line="10026"/>
         <source>SB</source>
-        <translation>სბ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10733" />
+        <location filename="../../Tools/magicStart.py" line="10260"/>
         <source>workspace</source>
-        <translation>სამუშაო სივრცე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="10743" />
+        <location filename="../../Tools/magicStart.py" line="10270"/>
         <source>Allows to skip this workspace in BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ ეს სამუშაო სივრცე BOM-ში, მოჭრილი სიის ანგარიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12605" />
+        <location filename="../../Tools/magicStart.py" line="12132"/>
         <source>Module </source>
-        <translation>მოდული</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11245" />
-        <source>Table Leg Left</source>
-        <translation>მაგიდის ფეხი მარცხენა</translation>
+        <location filename="../../Tools/magicStart.py" line="10772"/>
+        <source>Wood table Leg Left</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11255" />
-        <source>Table Leg Middle</source>
-        <translation>მაგიდის ფეხი შუა</translation>
+        <location filename="../../Tools/magicStart.py" line="10782"/>
+        <source>Wood table Leg Middle</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11266" />
-        <source>Table Leg Rright</source>
-        <translation>მაგიდის ფეხი მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="10649"/>
+        <source>Wood table Leg Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11303" />
-        <source>Table Back Left 1</source>
-        <translation>ცხრილი უკან მარცხნივ 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10830"/>
+        <source>Wood table back left side 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11146" />
-        <source>Table Back Left 2</source>
-        <translation>მაგიდა უკან მარცხნივ 2</translation>
+        <location filename="../../Tools/magicStart.py" line="10673"/>
+        <source>Wood table back left side 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11159" />
-        <source>Table Right Back 1</source>
-        <translation>ცხრილი მარჯვენა უკან 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10686"/>
+        <source>Wood table right back side 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11316" />
-        <source>Table SF1</source>
-        <translation>ცხრილი SF1</translation>
+        <location filename="../../Tools/magicStart.py" line="10843"/>
+        <source>Wood table SF1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11329" />
-        <source>Table Shelf 1</source>
-        <translation>მაგიდის თარო 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10856"/>
+        <source>Wood table Shelf 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11342" />
-        <source>Table Shelf 2</source>
-        <translation>მაგიდის თარო 2</translation>
+        <location filename="../../Tools/magicStart.py" line="10869"/>
+        <source>Wood table Shelf 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11277" />
-        <source>Table Back Right 1</source>
-        <translation>ცხრილი უკან მარჯვნივ 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10793"/>
+        <source>Wood table Leg Rright</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11290" />
-        <source>Table Back Right 2</source>
-        <translation>მაგიდა უკან მარჯვნივ 2</translation>
+        <location filename="../../Tools/magicStart.py" line="10804"/>
+        <source>Wood table back right side 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11391" />
-        <source>Table Leg Left 1</source>
-        <translation>მაგიდის მარცხენა ფეხი 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10817"/>
+        <source>Wood table back right side 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11401" />
-        <source>Table Leg Left 2</source>
-        <translation>მაგიდის მარცხენა ფეხი 2</translation>
+        <location filename="../../Tools/magicStart.py" line="10918"/>
+        <source>Wood table Leg Left 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11412" />
-        <source>Table Leg Right 1</source>
-        <translation>მაგიდის ფეხი მარჯვნივ 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10928"/>
+        <source>Wood table Leg Left 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11423" />
-        <source>Table Leg Right 2</source>
-        <translation>მაგიდის ფეხი მარჯვნივ 2</translation>
+        <location filename="../../Tools/magicStart.py" line="10939"/>
+        <source>Wood table Leg Right 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11434" />
-        <source>Table Back Left</source>
-        <translation>მაგიდა უკან მარცხნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="10950"/>
+        <source>Wood table Leg Right 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11447" />
-        <source>Table Back Right</source>
-        <translation>მაგიდა უკან მარჯვნივ</translation>
+        <location filename="../../Tools/magicStart.py" line="10961"/>
+        <source>Wood table back left side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11460" />
-        <source>Table Back Middle 1</source>
-        <translation>მაგიდის უკან შუა 1</translation>
+        <location filename="../../Tools/magicStart.py" line="10974"/>
+        <source>Wood table back right side</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11473" />
-        <source>Table Back Middle 2</source>
-        <translation>მაგიდის უკან შუა 2</translation>
+        <location filename="../../Tools/magicStart.py" line="10987"/>
+        <source>Wood table back middle 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11486" />
-        <source>Table Support FL</source>
-        <translation>მაგიდის მხარდაჭერა FL</translation>
+        <location filename="../../Tools/magicStart.py" line="11000"/>
+        <source>Wood table back middle 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11499" />
-        <source>Table Support FR</source>
-        <translation>მაგიდის მხარდაჭერა FR</translation>
+        <location filename="../../Tools/magicStart.py" line="11013"/>
+        <source>Wood table Support FL</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11512" />
-        <source>Table Shelf Left 1</source>
-        <translation>მაგიდის თარო დარჩა 1</translation>
+        <location filename="../../Tools/magicStart.py" line="11026"/>
+        <source>Wood table Support FR</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11525" />
-        <source>Table Shelf Left 2</source>
-        <translation>მაგიდის თარო დარჩა 2</translation>
+        <location filename="../../Tools/magicStart.py" line="11039"/>
+        <source>Wood table Shelf Left 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11538" />
-        <source>Table Shelf Right 1</source>
-        <translation>მაგიდის თარო მარჯვნივ 1</translation>
+        <location filename="../../Tools/magicStart.py" line="11052"/>
+        <source>Wood table Shelf Left 2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="11551" />
-        <source>Table Shelf Right 2</source>
-        <translation>მაგიდის თარო მარჯვნივ 2</translation>
+        <location filename="../../Tools/magicStart.py" line="11065"/>
+        <source>Wood table Shelf Right 1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12530" />
+        <location filename="../../Tools/magicStart.py" line="11078"/>
+        <source>Wood table Shelf Right 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/magicStart.py" line="12057"/>
         <source>Module 1</source>
-        <translation>მოდული 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12247" />
-        <source>Left M</source>
-        <translation>მარცხენა მ</translation>
+        <location filename="../../Tools/magicStart.py" line="11774"/>
+        <source>Left side M</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12257" />
-        <source>Right M</source>
-        <translation>მარჯვენა მ</translation>
+        <location filename="../../Tools/magicStart.py" line="11784"/>
+        <source>Right side M</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12267" />
-        <source>Back M</source>
-        <translation>უკან მ</translation>
+        <location filename="../../Tools/magicStart.py" line="11794"/>
+        <source>Back board M</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12278" />
-        <source>Top M</source>
-        <translation>ტოპ მ</translation>
+        <location filename="../../Tools/magicStart.py" line="11805"/>
+        <source>Top cover M</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12288" />
+        <location filename="../../Tools/magicStart.py" line="11815"/>
         <source>Shelf M</source>
-        <translation>თარო M</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12237" />
+        <location filename="../../Tools/magicStart.py" line="11764"/>
         <source>Floor M</source>
-        <translation>სართული M</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12406" />
+        <location filename="../../Tools/magicStart.py" line="11933"/>
         <source>Front BL</source>
-        <translation>წინა BL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12416" />
+        <location filename="../../Tools/magicStart.py" line="11943"/>
         <source>Front BR</source>
-        <translation>წინა BR</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12453" />
+        <location filename="../../Tools/magicStart.py" line="11980"/>
         <source>Front TL</source>
-        <translation>წინა TL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12463" />
+        <location filename="../../Tools/magicStart.py" line="11990"/>
         <source>Front TR</source>
-        <translation>წინა TR</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12500" />
+        <location filename="../../Tools/magicStart.py" line="12027"/>
         <source>Shelf 1</source>
-        <translation>თარო 1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12510" />
+        <location filename="../../Tools/magicStart.py" line="12037"/>
         <source>Shelf 2</source>
-        <translation>თარო 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicStart.py" line="12520" />
+        <location filename="../../Tools/magicStart.py" line="12047"/>
         <source>Shelf 3</source>
-        <translation>თარო 3</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>magicView</name>
     <message>
-        <location filename="../../loadTools.py" line="2126" />
-        <source>magicView, create views and export to TechDraw</source>
-        <translation>magicView, შექმენით ხედები და ექსპორტი TechDraw-ში</translation>
+        <location filename="../../loadTools.py" line="2126"/>
+        <source>magicView, create different model views and export to TechDraw</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2127" />
+        <location filename="../../loadTools.py" line="2127"/>
         <source>This tool allows you to create views and export views to TechDraw.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ ხედები და ექსპორტის ხედები TechDraw-ში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
+        <location filename="../../Tools/magicView.py" line="108"/>
         <source>restore</source>
-        <translation>აღდგენა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
+        <location filename="../../Tools/magicView.py" line="108"/>
         <source>explode</source>
-        <translation>აფეთქდეს</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
+        <location filename="../../Tools/magicView.py" line="108"/>
         <source>along X</source>
-        <translation>X-ის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
+        <location filename="../../Tools/magicView.py" line="108"/>
         <source>along Y</source>
-        <translation>Y-ის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
+        <location filename="../../Tools/magicView.py" line="108"/>
         <source>along Z</source>
-        <translation>გასწვრივ ზ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
+        <location filename="../../Tools/magicView.py" line="108"/>
         <source>along XYZ</source>
-        <translation>XYZ-ის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
-        <source>Assembly</source>
-        <translation>ასამბლეა</translation>
+        <location filename="../../Tools/magicView.py" line="108"/>
+        <source>zero XYZ</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="107" />
-        <source>custom</source>
-        <translation>საბაჟო</translation>
+        <location filename="../../Tools/magicView.py" line="108"/>
+        <source>custom settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="86" />
+        <location filename="../../Tools/magicView.py" line="87"/>
         <source>magicView</source>
-        <translation>magicView</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="127" />
+        <location filename="../../Tools/magicView.py" line="128"/>
         <source>read from spreadsheet</source>
-        <translation>წაიკითხეთ ცხრილიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="131" />
+        <location filename="../../Tools/magicView.py" line="132"/>
         <source>save to spreadsheet</source>
-        <translation>შენახვა ელცხრილში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="138" />
+        <location filename="../../Tools/magicView.py" line="139"/>
         <source>screenshot</source>
-        <translation>ეკრანის ანაბეჭდი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="143" />
+        <location filename="../../Tools/magicView.py" line="144"/>
         <source>objects</source>
-        <translation>ობიექტები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="146" />
+        <location filename="../../Tools/magicView.py" line="147"/>
         <source>export to TechDraw</source>
-        <translation>ექსპორტი TechDraw-ში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="157" />
+        <location filename="../../Tools/magicView.py" line="158"/>
         <source>Corner cross:</source>
-        <translation>კუთხის ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="174" />
+        <location filename="../../Tools/magicView.py" line="173"/>
         <source>Center cross:</source>
-        <translation>ცენტრალური ჯვარი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="177" />
-        <source>on</source>
-        <translation>on</translation>
+        <location filename="../../Tools/magicView.py" line="176"/>
+        <source>turn it on</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="183" />
-        <source>off</source>
-        <translation>გამორთულია</translation>
+        <location filename="../../Tools/magicView.py" line="181"/>
+        <source>turn it off</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="190" />
+        <location filename="../../Tools/magicView.py" line="187"/>
         <source> - keep custom cross settings</source>
-        <translation>- შეინახეთ ჯვარედინი პარამეტრები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="322" />
+        <location filename="../../Tools/magicView.py" line="319"/>
         <source>magicView - restore view</source>
-        <translation>magicView - ხედის აღდგენა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/magicView.py" line="647" />
+        <location filename="../../Tools/magicView.py" line="644"/>
         <source>magicView </source>
-        <translation>magicView</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>makeBeautiful</name>
     <message>
-        <location filename="../../loadTools.py" line="2555" />
+        <location filename="../../loadTools.py" line="2555"/>
         <source>makeBeautiful, make all objects more beautiful</source>
-        <translation>makeBeautiful, გახადე ყველა ობიექტი უფრო ლამაზი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2556" />
-        <source>This tool change all objects to look better at the picture. It can be used to make better looking screenshot. If you click again all objects will be changed back to default settings.</source>
-        <translation>ეს ინსტრუმენტი ცვლის ყველა ობიექტს, რათა უკეთ გამოიყურებოდეს სურათზე. მისი გამოყენება შესაძლებელია ეკრანის უკეთესად გასაკეთებლად. თუ ხელახლა დააწკაპუნებთ, ყველა ობიექტი დაუბრუნდება ნაგულისხმევ პარამეტრებს.</translation>
+        <location filename="../../loadTools.py" line="2556"/>
+        <source>This tool change visible properties of all objects to look better at the picture. It can be used to make better looking screenshot. If you click again all objects will be changed back to default settings.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/makeBeautiful.py" line="62" />
+        <location filename="../../Tools/makeBeautiful.py" line="63"/>
         <source>This tool change all objects look, make edges and vertices smaller to look better at screenshots. If you click it again all objects will be changed to default values.</source>
-        <translation>ეს ინსტრუმენტი ცვლის ყველა ობიექტის იერს, ამცირებს კიდეებს და წვეროებს, რათა უკეთ გამოიყურებოდეს ეკრანის სურათებზე. თუ კვლავ დააწკაპუნებთ მასზე, ყველა ობიექტი შეიცვლება ნაგულისხმევ მნიშვნელობებზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>makeCuts</name>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="6745" />
+        <location filename="../../Tools/MagicPanels.py" line="6757"/>
         <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ ეს დუბლირებული ასლი BOM-ში, ამოჭრილი სიის ანგარიშში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>makeCutsLinks</name>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="6807" />
+        <location filename="../../Tools/MagicPanels.py" line="6819"/>
         <source>Allows to skip this duplicated copy in BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ ეს დუბლირებული ასლი BOM-ში, ამოჭრილი სიის ანგარიშში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>makePad</name>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4372" />
+        <location filename="../../Tools/MagicPanels.py" line="4384"/>
         <source>Part</source>
-        <translation>ნაწილი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4375" />
+        <location filename="../../Tools/MagicPanels.py" line="4387"/>
         <source>Body</source>
-        <translation>სხეული</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4379" />
+        <location filename="../../Tools/MagicPanels.py" line="4391"/>
         <source>Pattern</source>
-        <translation>ნიმუში</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>makeTransparent</name>
     <message>
-        <location filename="../../loadTools.py" line="2048" />
-        <source>makeTransparent, make objects transparent or normal</source>
-        <translation>გახადე გამჭვირვალე, გახადე ობიექტები გამჭვირვალე ან ნორმალური</translation>
+        <location filename="../../loadTools.py" line="2048"/>
+        <source>makeTransparent, set all objects to transparent or normal for quick preview</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2049" />
+        <location filename="../../loadTools.py" line="2049"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/makeTransparent.py" line="86" />
+        <location filename="../../Tools/makeTransparent.py" line="87"/>
         <source>&lt;b&gt;Please create an active document and at least one object to make it transparent. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool sets all available objects to transparent or restores normal visibility if they are already transparent. This allows you to temporarily set all furniture parts to transparent so that you can see all the dowels, screws, pilot holes or countersinks. If you click again, all furniture parts will return to normal. The transparency value used by this tool is 83, so do not set any furniture part to this number if you want to keep the glass part of the furniture transparent after this preview, for example.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმენით აქტიური დოკუმენტი და ერთი ობიექტი მაინც, რათა ის გამჭვირვალე გახდეს. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი აყენებს ყველა ხელმისაწვდომ ობიექტს გამჭვირვალედ ან აღადგენს ნორმალურ ხილვადობას, თუ ისინი უკვე გამჭვირვალეა. ეს საშუალებას გაძლევთ დროებით დააყენოთ ავეჯის ყველა ნაწილი გამჭვირვალეზე, რათა დაინახოთ ყველა დუბლი, ხრახნი, პილოტის ხვრელები ან კონტრჩანთები. თუ ხელახლა დააწკაპუნებთ, ავეჯის ყველა ნაწილი ნორმალურად დაბრუნდება. ამ ხელსაწყოს მიერ გამოყენებული გამჭვირვალობის მნიშვნელობა არის 83, ასე რომ, ნუ დააყენებთ ავეჯის ნაწილს ამ რიცხვზე, თუ გსურთ, მაგალითად, ამ გადახედვის შემდეგ ავეჯის შუშის ნაწილი გამჭვირვალე იყოს.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>manuAutoupdate</name>
     <message>
-        <location filename="../../loadMenu.py" line="244" />
+        <location filename="../../loadMenu.py" line="244"/>
         <source>Updated macro tools:</source>
-        <translation>განახლებული მაკრო ინსტრუმენტები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="250" />
+        <location filename="../../loadMenu.py" line="250"/>
         <source>Skipped macro tools:</source>
-        <translation>გამოტოვებული მაკრო ინსტრუმენტები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="256" />
+        <location filename="../../loadMenu.py" line="256"/>
         <source>Macro tools - autoupdate</source>
-        <translation>მაკრო ინსტრუმენტები - ავტომატური განახლება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="308" />
+        <location filename="../../loadMenu.py" line="308"/>
         <source>Error during getting FreeCAD supported locales.</source>
-        <translation>შეცდომა FreeCAD-ის მხარდაჭერილი ლოკალების მიღებისას.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="330" />
+        <location filename="../../loadMenu.py" line="330"/>
         <source>Updated translations:</source>
-        <translation>განახლებული თარგმანები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="336" />
+        <location filename="../../loadMenu.py" line="336"/>
         <source>Not available translations:</source>
-        <translation>მიუწვდომელია თარგმანები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadMenu.py" line="342" />
+        <location filename="../../loadMenu.py" line="342"/>
         <source>Translations - autoupdate</source>
-        <translation>თარგმანები - ავტომატური განახლება</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>mapPosition</name>
     <message>
-        <location filename="../../loadTools.py" line="1892" />
-        <source>mapPosition, move to 1st selected</source>
-        <translation>mapPosition, გადადით არჩეულ პირველზე</translation>
+        <location filename="../../loadTools.py" line="1892"/>
+        <source>mapPosition, move objects to the first selected object</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1893" />
+        <location filename="../../loadTools.py" line="1893"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/mapPosition.py" line="114" />
+        <location filename="../../Tools/mapPosition.py" line="115"/>
         <source>&lt;b&gt;First select object to copy position, next select objects to move. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to move objects to the same position as first selected object. The objects will be moved without rotation. Only the placement will change. If the first selected object is rotated the objects may not match exactly the starting point. This tool is very useful if you want to redesign furniture and you want to create new element. Using this tool you can quickly move the new element to the same position of old element and remove the old element. To select more objects hold left CTRL key during selection. With this tool you can also move Cylinders and Sketches more precisely. If first you select Edge or Face the Cylinders or Sketches will be moved to the CenterOfMass. If first you select Vertex the Cylinders or Sketches will be moved to the selected Vertex position.</source>
-        <translation>&lt;b&gt;ჯერ აირჩიეთ ობიექტი კოპირებისთვის, შემდეგ გადასატანი ობიექტები. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ ობიექტები იმავე პოზიციაზე, როგორც პირველი არჩეული ობიექტი. ობიექტები გადაადგილდებიან ბრუნვის გარეშე. შეიცვლება მხოლოდ განლაგება. თუ პირველი შერჩეული ობიექტი შემოტრიალებულია, ობიექტები შეიძლება ზუსტად არ ემთხვეოდეს საწყის წერტილს. ეს ინსტრუმენტი ძალიან სასარგებლოა, თუ გსურთ ავეჯის ხელახალი დიზაინი და გსურთ შექმნათ ახალი ელემენტი. ამ ხელსაწყოს გამოყენებით შეგიძლიათ სწრაფად გადაიტანოთ ახალი ელემენტი ძველი ელემენტის იმავე პოზიციაზე და წაშალოთ ძველი ელემენტი. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ამ ხელსაწყოთი ასევე შეგიძლიათ ცილინდრების და ესკიზების უფრო ზუსტად გადატანა. თუ თავიდან აირჩევთ Edge ან Face, ცილინდრები ან ესკიზები გადავა CenterOfMass-ში. თუ პირველად აირჩევთ Vertex-ს, ცილინდრები ან ესკიზები გადავა არჩეულ ვერტექს პოზიციაზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>multiPocket</name>
     <message>
-        <location filename="../../loadTools.py" line="4973" />
-        <source>multiPocket, multi Sketch to Pocket, thickness</source>
-        <translation>multiPocket, multi Sketch to Pocket, სისქე</translation>
+        <location filename="../../loadTools.py" line="4973"/>
+        <source>multiPocket, to create pocket from selected sketch, panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4974" />
+        <location filename="../../loadTools.py" line="4974"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="891" />
+        <location filename="../../Tools/MagicPanelsController.py" line="891"/>
         <source>&lt;b&gt;Please select object, next Sketches to create Pockets. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create custom decoration from Sketches. You can select many Sketches at once. The selected Sketches will make Pockets at the first selected object. The Sketches need to be correctly aligned at the object. Hold left CTRL key during Sketches selection. For 2 and 4 variant this tool gets first selected object size and create Pocket with 1/2 thickness or 1/4 thickness.</source>
-        <translation>&lt;b&gt;გთხოვთ აირჩიოთ ობიექტი, შემდეგი სკეტჩები ჯიბეების შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მორგებული დეკორაცია ესკიზებიდან. თქვენ შეგიძლიათ აირჩიოთ მრავალი ესკიზი ერთდროულად. არჩეული ესკიზები გააკეთებენ ჯიბეებს პირველ არჩეულ ობიექტზე. ესკიზები სწორად უნდა იყოს გასწორებული ობიექტზე. გეჭიროთ მარცხენა CTRL კლავიში ესკიზების არჩევისას. 2 და 4 ვარიანტებისთვის ეს ინსტრუმენტი იღებს პირველად შერჩეულ ობიექტის ზომას და ქმნის ჯიბეს 1/2 სისქით ან 1/4 სისქით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>multiPocket2</name>
     <message>
-        <location filename="../../loadTools.py" line="5012" />
-        <source>multiPocket2, multi Sketch to Pocket, 1/2 thickness</source>
-        <translation>multiPocket2, multi Sketch to Pocket, 1/2 სისქე</translation>
+        <location filename="../../loadTools.py" line="5012"/>
+        <source>multiPocket2, to create pocket from selected sketch, 1/2 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5013" />
+        <location filename="../../loadTools.py" line="5013"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>multiPocket4</name>
     <message>
-        <location filename="../../loadTools.py" line="5051" />
-        <source>multiPocket4, multi Sketch to Pocket, 1/4 thickness</source>
-        <translation>multiPocket4, multi Sketch to Pocket, 1/4 სისქე</translation>
+        <location filename="../../loadTools.py" line="5051"/>
+        <source>multiPocket4, to create pocket from selected sketch, 1/4 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5052" />
+        <location filename="../../loadTools.py" line="5052"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2angle</name>
     <message>
-        <location filename="../../loadTools.py" line="3725" />
-        <source>panel2angle, to create construction angle</source>
-        <translation>panel2angle, სამშენებლო კუთხის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="3725"/>
+        <source>panel2angle, to create construction angles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3726" />
+        <location filename="../../loadTools.py" line="3726"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2angle.py" line="175" />
+        <location filename="../../Tools/panel2angle.py" line="176"/>
         <source>&lt;b&gt;Please select valid faces at any amount of Cubes or Pads to cut the faces and create construction angle profiles. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace panel with construction angle. You can replace more than one panel at once. To select more faces hold left CTRL key during faces selection. The new created construction angle will get the same dimensions, placement and rotation as the selected panel. You can cut any faces at panel. However, if the panel has two equal sizes e.g. 20 mm x 20 mm x 600 mm, the ends will be cut as well, so you do not have to select them. If you do not have same sizes you have have to select ends too, if you want to cut them. If the selected faces are not valid, e.g. opposite faces, the final object may disappear and be broken. You can remove last operation and try again. If you have all construction created with simple panels that imitating angles, you can replace all of them with realistic looking construction angles with single click and they will be rotated according to the selected faces.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სწორი სახეები კუბების ან ბალიშების ნებისმიერი რაოდენობით, რათა მოჭრათ სახეები და შექმნათ კონსტრუქციული კუთხის პროფილები. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ პანელი კონსტრუქციული კუთხით. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი პანელი ერთდროულად. მეტი სახის ასარჩევად, სახეების შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ახალი შექმნილი კონსტრუქციის კუთხე მიიღებს იმავე ზომებს, განლაგებას და ბრუნვას, როგორც არჩეული პანელი. პანელზე შეგიძლიათ ნებისმიერი სახის მოჭრა. თუმცა, თუ პანელს აქვს ორი თანაბარი ზომა მაგ. 20 მმ x 20 მმ x 600 მმ, ბოლოებიც მოიჭრება, ამიტომ მათი შერჩევა არ დაგჭირდებათ. თუ თქვენ არ გაქვთ იგივე ზომები, უნდა აირჩიოთ ბოლოები, თუ გსურთ მათი მოჭრა. თუ არჩეული სახეები არ არის სწორი, ე.ი. საპირისპირო სახეები, საბოლოო ობიექტი შეიძლება გაქრეს და დაირღვეს. შეგიძლიათ წაშალოთ ბოლო ოპერაცია და სცადოთ ხელახლა. თუ თქვენ გაქვთ ყველა კონსტრუქცია შექმნილი მარტივი პანელებით, რომლებიც ასახავს კუთხეებს, შეგიძლიათ შეცვალოთ ყველა მათგანი რეალისტური კონსტრუქციის კუთხით ერთი დაწკაპუნებით და ისინი შემობრუნდება შერჩეული სახეების მიხედვით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2angle45cut</name>
     <message>
-        <location filename="../../loadTools.py" line="3764" />
+        <location filename="../../loadTools.py" line="3764"/>
         <source>panel2angle45cut, to cut construction profile, angle 45 cut</source>
-        <translation>panel2angle45 cut, კონსტრუქციის პროფილის მოსაჭრელად, კუთხე 45 cut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3765" />
+        <location filename="../../loadTools.py" line="3765"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2angle45cut.py" line="106" />
+        <location filename="../../Tools/panel2angle45cut.py" line="107"/>
         <source>&lt;b&gt;Please select valid face at construction angle to create 45 cut at edges. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to cut construction angle with 45 cut. You can select many construction angles at once but only single face can be selected for each construction angle. If the construction angle is C-shape you can select face inside profile and two sides will be cut. If the construction angle is L-shape you select single face inside profile and only single side will be cut. Because to create frame with L-shape profiles you have to cut only single side. To create frame with C-shape profiles you have to cut both sides. The face should be selected inside profile to set exact cut size without profile thickness. To select more faces hold left CTRL key during faces selection. You can remove last operation and try again. If you have all construction created with construction angles you can cut all of them at once.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სწორი სახე კონსტრუქციის კუთხით, რათა შექმნათ 45 ჭრილი კიდეებთან. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო იძლევა კონსტრუქციის კუთხის მოჭრას 45 ჭრით. თქვენ შეგიძლიათ აირჩიოთ მრავალი კონსტრუქციის კუთხე ერთდროულად, მაგრამ მხოლოდ ერთი სახე შეიძლება შეირჩეს თითოეული კონსტრუქციის კუთხისთვის. თუ კონსტრუქციის კუთხე არის C- ფორმის, შეგიძლიათ აირჩიოთ სახე პროფილის შიგნით და ორი მხარე ამოიჭრება. თუ კონსტრუქციის კუთხე L- ფორმისაა, თქვენ აირჩიეთ ერთი სახე პროფილის შიგნით და მხოლოდ ერთი მხარე დაიჭრება. იმის გამო, რომ L- ფორმის პროფილებით ჩარჩოს შესაქმნელად საჭიროა მხოლოდ ერთი მხარის მოჭრა. C- ფორმის პროფილებით ჩარჩოს შესაქმნელად, თქვენ უნდა გაჭრათ ორივე მხარე. სახე უნდა იყოს შერჩეული პროფილის შიგნით, რათა დააყენოთ ჭრის ზუსტი ზომა პროფილის სისქის გარეშე. მეტი სახის ასარჩევად, სახეების შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. შეგიძლიათ წაშალოთ ბოლო ოპერაცია და სცადოთ ხელახლა. თუ თქვენ გაქვთ მთელი კონსტრუქცია შექმნილი კონსტრუქციული კუთხით, შეგიძლიათ ყველა მათგანი ერთდროულად მოჭრათ.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2clone</name>
     <message>
-        <location filename="../../loadTools.py" line="2828" />
-        <source>panel2clone, replace selected objects with clones</source>
-        <translation>panel2clone, შეცვალეთ შერჩეული ობიექტები კლონებით</translation>
+        <location filename="../../loadTools.py" line="2828"/>
+        <source>panel2clone, to replace selected objects with clones</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2829" />
+        <location filename="../../loadTools.py" line="2829"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2clone.py" line="44" />
+        <location filename="../../Tools/panel2clone.py" line="45"/>
         <source>&lt;b&gt;Please select object to clone, next select objects you want to replace with Clones. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace simple objects with any detailed object, e.g. Cylinders with realistic looking screws. First you have to select detailed object and than simple object that will be replaced with Clones. The first selected detailed object can be Part, LinkGroup or any other created manually or merged with your project. You can replace more than one simple object at once with Clone. To select more objects hold left CTRL key during selection. The simple objects should imitate the detailed object to replace all of them in-place with realistic looking one. This tool works with the same way as panel2link but instead of Link it creates Clone objects. It can be useful if you want to remove the base object and have clean objects Tree. Also if you want to change each copy separately. </source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტი კლონირებისთვის, შემდეგ აირჩიეთ ობიექტები, რომელთა შეცვლა გსურთ კლონებით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ მარტივი ობიექტები ნებისმიერი დეტალური ობიექტით, მაგ. ცილინდრები რეალისტური გარეგნობის ხრახნებით. ჯერ უნდა აირჩიოთ დეტალური ობიექტი და შემდეგ მარტივი ობიექტი, რომელიც შეიცვლება კლონებით. პირველი შერჩეული დეტალური ობიექტი შეიძლება იყოს Part, LinkGroup ან ნებისმიერი სხვა ხელით შექმნილი ან გაერთიანებული თქვენს პროექტთან. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი მარტივი ობიექტი ერთდროულად Clone-ით. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. უბრალო ობიექტებმა უნდა მიბაძონ დეტალურ ობიექტს, რათა ადგილზე შეცვალონ ყველა მათგანი რეალისტური იერით. ეს ინსტრუმენტი მუშაობს ისევე, როგორც panel2link, მაგრამ Link-ის ნაცვლად ის ქმნის კლონის ობიექტებს. ეს შეიძლება იყოს სასარგებლო, თუ გსურთ ამოიღოთ ბაზის ობიექტი და გქონდეთ სუფთა ობიექტები ხე. ასევე, თუ გსურთ შეცვალოთ თითოეული ასლი ცალკე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2clone.py" line="46" />
+        <location filename="../../Tools/panel2clone.py" line="47"/>
         <source>For more details please see:</source>
-        <translation>დამატებითი დეტალებისთვის გთხოვთ იხილოთ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2clone.py" line="48" />
+        <location filename="../../Tools/panel2clone.py" line="49"/>
         <source>fixture.</source>
-        <translation>არმატურა.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2frame</name>
     <message>
-        <location filename="../../loadTools.py" line="3803" />
+        <location filename="../../loadTools.py" line="3803"/>
         <source>panel2frame, to convert panels into frame</source>
-        <translation>panel2frame, პანელების ჩარჩოში გადასაყვანად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3804" />
+        <location filename="../../loadTools.py" line="3804"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2frame.py" line="34" />
+        <location filename="../../Tools/panel2frame.py" line="35"/>
         <source>&lt;b&gt;Please select single face for each Cube object to make 45 cut at both sides. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace Cube panel with frame 45 cut at both sides. You can replace more than one Cube panel at once. To replace Cube objects with frames you have to select exact face at each Cube object. To select more objects hold left CTRL key during selection. The new created frame will get the same dimensions, placement and rotation as the selected Cube panel but will be cut at the selected face. If you have all construction created with simple Cube objects that imitating picture frame or window, you can replace all of them with realistic looking frame with single click.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ერთი სახე თითოეული კუბის ობიექტისთვის, რათა მოხდეს 45-იანი ჭრილი ორივე მხრიდან. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო საშუალებას გაძლევთ შეცვალოთ Cube პანელი ორივე მხრიდან 45-იანი ჩარჩოთი. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი Cube პანელი ერთდროულად. კუბის ობიექტების ჩარჩოებით ჩანაცვლებისთვის, თქვენ უნდა აირჩიოთ ზუსტი სახე თითოეულ კუბ ობიექტზე. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ახალი შექმნილი ჩარჩო მიიღებს იმავე ზომებს, განლაგებას და ბრუნვას, როგორც არჩეული Cube პანელი, მაგრამ მოჭრილი იქნება არჩეულ სახეზე. თუ თქვენ გაქვთ ყველა კონსტრუქცია შექმნილი მარტივი კუბის ობიექტებით, რომლებიც ასახავს სურათის ჩარჩოს ან ფანჯრის იმიტაციას, შეგიძლიათ შეცვალოთ ყველა მათგანი რეალისტური იერის ჩარჩოებით ერთი დაწკაპუნებით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2link</name>
     <message>
-        <location filename="../../loadTools.py" line="2789" />
-        <source>panel2link, replace selected objects with links</source>
-        <translation>panel2link, შეცვალეთ შერჩეული ობიექტები ბმულებით</translation>
+        <location filename="../../loadTools.py" line="2789"/>
+        <source>panel2link, to replace selected objects with links</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2790" />
+        <location filename="../../loadTools.py" line="2790"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2link.py" line="47" />
+        <location filename="../../Tools/panel2link.py" line="48"/>
         <source>&lt;b&gt;Please select object to link, next select objects you want to replace with Links. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace simple objects with any detailed object, e.g. Cylinders with realistic looking screws. First you have to select detailed object and than simple object that will be replaced with Link. The first selected detailed object can be Part, LinkGroup or any other created manually or merged with your project. You can replace more than one simple object at once with Link. To select more objects hold left CTRL key during selection. The simple objects should imitate the detailed object to replace all of them in-place with realistic looking one. </source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტი, რომლითაც ბმულია, შემდეგ აირჩიეთ ობიექტები, რომელთა შეცვლა გსურთ ბმულებით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ მარტივი ობიექტები ნებისმიერი დეტალური ობიექტით, მაგ. ცილინდრები რეალისტური გარეგნობის ხრახნებით. ჯერ უნდა აირჩიოთ დეტალური ობიექტი და შემდეგ მარტივი ობიექტი, რომელიც შეიცვლება Link-ით. პირველი შერჩეული დეტალური ობიექტი შეიძლება იყოს Part, LinkGroup ან ნებისმიერი სხვა ხელით შექმნილი ან გაერთიანებული თქვენს პროექტთან. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი მარტივი ობიექტი ერთდროულად Link-ით. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. უბრალო ობიექტებმა უნდა მიბაძონ დეტალურ ობიექტს, რათა ადგილზე შეცვალონ ყველა მათგანი რეალისტური იერით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2link.py" line="49" />
+        <location filename="../../Tools/panel2link.py" line="50"/>
         <source>For more details please see:</source>
-        <translation>დამატებითი დეტალებისთვის გთხოვთ იხილოთ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2link.py" line="51" />
+        <location filename="../../Tools/panel2link.py" line="52"/>
         <source>fixture.</source>
-        <translation>არმატურა.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2pad</name>
     <message>
-        <location filename="../../loadTools.py" line="3296" />
-        <source>panel2pad, to convert panel to object with sketch</source>
-        <translation>panel2pad, პანელის ობიექტად გადაქცევა ესკიზის საშუალებით</translation>
+        <location filename="../../loadTools.py" line="3296"/>
+        <source>panel2pad, to convert a simple panel to a sketch based object</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3297" />
+        <location filename="../../loadTools.py" line="3297"/>
         <source>This tool allows you to convert in-place simple panels Part::Box to PartDesign::Pad objects.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ ადგილზე გადაიყვანოთ მარტივი პანელები Part::Box PartDesign::Pad ობიექტებად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2pad.py" line="28" />
+        <location filename="../../Tools/panel2pad.py" line="29"/>
         <source>&lt;b&gt;Please select Cube panels (Part::Box objects) to convert to Pads (PartDesign::Pad objects). &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace Cube panel with Pad panel. The new created Pad panel will get the same dimensions, placement and rotation as the selected Cube panel. You can transform many Cube panels into Pad at once. To select more Cubes hold left CTRL key during selection. This tool is mostly dedicated to add decoration that is not supported for Cube objects by FreeCAD PartDesign workbench. You can also change shape by changing the Sketch.</source>
-        <translation>&lt;b&gt;გთხოვთ აირჩიოთ Cube პანელები (Part::Box ობიექტები) ბალიშებად გადასაყვანად (PartDesign::Pad ობიექტები). &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ Cube პანელი Pad პანელით. ახალი შექმნილი Pad პანელი მიიღებს იგივე ზომებს, განლაგებას და ბრუნვას, როგორც არჩეული Cube პანელი. თქვენ შეგიძლიათ გადააქციოთ მრავალი Cube პანელი ერთდროულად Pad-ად. მეტი კუბის ასარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ეს ინსტრუმენტი ძირითადად ეძღვნება დეკორაციის დამატებას, რომელიც არ არის მხარდაჭერილი Cube ობიექტებისთვის FreeCAD PartDesign სამუშაო მაგიდაზე. თქვენ ასევე შეგიძლიათ შეცვალოთ ფორმა ესკიზის შეცვლით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panel2profile</name>
     <message>
-        <location filename="../../loadTools.py" line="3686" />
-        <source>panel2profile, to create construction profile</source>
-        <translation>panel2profile, სამშენებლო პროფილის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="3686"/>
+        <source>panel2profile, to create construction profiles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3687" />
+        <location filename="../../loadTools.py" line="3687"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panel2profile.py" line="80" />
+        <location filename="../../Tools/panel2profile.py" line="81"/>
         <source>&lt;b&gt;Please select valid Cube or Pad object imitating profile. The selected Cube or Pad objects need to have two equal sizes e.g. 20 mm x 20 mm x 300 mm to replace it with construction profile. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace panel with construction profile. You can replace more than one panel at once. To select more panels hold left CTRL key during selection. The new created construction profile will get the same dimensions, placement and rotation as the selected panel. If you have all construction created with simple panel objects that imitating profiles, you can replace all of them with realistic looking construction profiles with single click.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სწორი Cube ან Pad ობიექტის იმიტირებული პროფილი. შერჩეულ Cube ან Pad ობიექტებს უნდა ჰქონდეს ორი თანაბარი ზომა, მაგ. 20 მმ x 20 მმ x 300 მმ შესაცვლელად სამშენებლო პროფილით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ პანელის კონსტრუქციული პროფილით. თქვენ შეგიძლიათ შეცვალოთ ერთზე მეტი პანელი ერთდროულად. მეტი პანელის ასარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ახალი შექმნილი სამშენებლო პროფილი მიიღებს იმავე ზომებს, განლაგებას და ბრუნვას, როგორც არჩეული პანელი. თუ თქვენ გაქვთ მთელი კონსტრუქცია შექმნილი მარტივი პანელის ობიექტებით, რომლებიც პროფილების იმიტაციას ახდენენ, შეგიძლიათ შეცვალოთ ყველა მათგანი რეალისტური კონსტრუქციის პროფილებით ერთი დაწკაპუნებით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBackOut</name>
     <message>
-        <location filename="../../loadTools.py" line="1541" />
-        <source>panelBackOut, to create back out panel</source>
-        <translation>panelBackOut, უკანა პანელის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1541"/>
+        <source>panelBackOut, to create back side of the furniture outside</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1542" />
+        <location filename="../../loadTools.py" line="1542"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="401" />
+        <location filename="../../Tools/MagicPanelsController.py" line="401"/>
         <source>&lt;b&gt;Please select three faces according to the icon. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create back of the furniture with single click. To create back of the furniture you have to select 3 faces in the order described by the icon. To select more than one face, hold left CTRL key during face selection. The red edges at blue panels represents the selected faces. The transparent red panel represents the new created object. The icon refers to the back of the furniture.</source>
-        <translation>&lt;b&gt;გთხოვთ აირჩიოთ სამი სახე ხატის მიხედვით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ ავეჯის უკანა ნაწილი ერთი დაწკაპუნებით. ავეჯის ზურგის შესაქმნელად, თქვენ უნდა აირჩიოთ 3 სახე ხატზე აღწერილი თანმიმდევრობით. ერთზე მეტი სახის ასარჩევად, სახის შერჩევისას დააჭირეთ მარცხენა ღილაკს CTRL. ლურჯი პანელების წითელი კიდეები წარმოადგენს შერჩეულ სახეებს. გამჭვირვალე წითელი პანელი წარმოადგენს ახალ შექმნილ ობიექტს. ხატი ეხება ავეჯის უკანა მხარეს.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetween</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="263" />
-        <source>&lt;b&gt;Please select two faces at two different objects, to create panel between them. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel between two selected faces. Selection faces order is not important. To select more than one face, hold left CTRL key during second face selection. The blue panels represents the selected faces direction and the red one represents the new created panel direction. The icon refers to base XY model view (0 key position), click fitModel to set model into referred view.  If the two selected panels will be matching the icon, the new created panel should fill the gap between the selected faces according to the icon red panel direction. This tool supports veneer thickness from magicSettings tool and will add addiional offset and will resize the panel to fit the gap between. You can experiment with selection faces outside to resize the new panel. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ორი სახე ორ სხვადასხვა ობიექტზე, რათა შექმნათ პანელი მათ შორის. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი ქმნის ახალ პანელს ორ არჩეულ სახეს შორის. სახეების შერჩევის თანმიმდევრობა არ არის მნიშვნელოვანი. ერთზე მეტი სახის ასარჩევად, მეორე სახის შერჩევისას გეჭიროთ მარცხენა CTRL ღილაკი. ლურჯი პანელები წარმოადგენს შერჩეულ სახეების მიმართულებას, ხოლო წითელი წარმოადგენს ახალ შექმნილ პანელის მიმართულებას. ხატულა ეხება საბაზისო XY მოდელის ხედს (0 საკვანძო პოზიცია), დააწკაპუნეთ fitModel მოდელის მითითებულ ხედში დასაყენებლად.  თუ ორი არჩეული პანელი ემთხვევა ხატულას, ახალმა შექმნილმა პანელმა უნდა შეავსოს უფსკრული არჩეულ სახეებს შორის ხატის წითელი პანელის მიმართულების მიხედვით. ეს ხელსაწყო მხარს უჭერს veneer-ის სისქეს magicSettings ხელსაწყოსგან და დაამატებს დამატებით ოფსეტს და შეცვლის პანელის ზომას, რათა მოერგოს უფსკრული. ახალი პანელის ზომის შესაცვლელად შეგიძლიათ ექსპერიმენტი გააკეთოთ შერჩევის სახეებზე. თუ თქვენ გაქვთ პრობლემა არაპროგნოზირებად შედეგთან დაკავშირებით, გამოიყენეთ magicManager ინსტრუმენტი შექმნამდე პანელის გადახედვისთვის.</translation>
+        <location filename="../../Tools/MagicPanelsController.py" line="263"/>
+        <source>&lt;b&gt;Please select two faces at two different objects, to create panel between them. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel between two selected faces. Selection order of the faces is not important. To select more than one face, hold left CTRL key during second face selection. The blue panels represents the selected faces direction and the red one represents the new created panel direction. The icon refers to base XY model view (key 0), click fitModel to set model into referred view.  If the two selected panels will be matching the icon, the new created panel should fill the gap between the selected faces according to the icon red panel direction. This tool supports veneer thickness from magicSettings tool and will add addiional offset and will resize the panel to fit the gap between. You can experiment with selection faces outside to resize the new panel. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetweenXY</name>
     <message>
-        <location filename="../../loadTools.py" line="1112" />
+        <location filename="../../loadTools.py" line="1112"/>
         <source>panelBetweenXY, to create panel XY between selected faces</source>
-        <translation>panelBetweenXY, პანელის XY შესაქმნელად შერჩეულ სახეებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1113" />
+        <location filename="../../loadTools.py" line="1113"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetweenXZ</name>
     <message>
-        <location filename="../../loadTools.py" line="1190" />
+        <location filename="../../loadTools.py" line="1190"/>
         <source>panelBetweenXZ, to create panel XZ between selected faces</source>
-        <translation>panelBetweenXZ, XZ პანელის შესაქმნელად შერჩეულ სახეებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1191" />
+        <location filename="../../loadTools.py" line="1191"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetweenYX</name>
     <message>
-        <location filename="../../loadTools.py" line="1151" />
+        <location filename="../../loadTools.py" line="1151"/>
         <source>panelBetweenYX, to create panel YX between selected faces</source>
-        <translation>panelBetweenYX, პანელის YX-ის შესაქმნელად შერჩეულ სახეებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1152" />
+        <location filename="../../loadTools.py" line="1152"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetweenYZ</name>
     <message>
-        <location filename="../../loadTools.py" line="1268" />
+        <location filename="../../loadTools.py" line="1268"/>
         <source>panelBetweenYZ, to create panel YZ between selected faces</source>
-        <translation>panelBetweenYZ, პანელის YZ-ის შესაქმნელად შერჩეულ სახეებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1269" />
+        <location filename="../../loadTools.py" line="1269"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetweenZX</name>
     <message>
-        <location filename="../../loadTools.py" line="1229" />
+        <location filename="../../loadTools.py" line="1229"/>
         <source>panelBetweenZX, to create panel ZX between selected faces</source>
-        <translation>panelBetweenZX, პანელის ZX-ის შესაქმნელად შერჩეულ სახეებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1230" />
+        <location filename="../../loadTools.py" line="1230"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelBetweenZY</name>
     <message>
-        <location filename="../../loadTools.py" line="1307" />
+        <location filename="../../loadTools.py" line="1307"/>
         <source>panelBetweenZY, to create panel ZY between selected faces</source>
-        <translation>panelBetweenZY, პანელის ZY-ის შესაქმნელად შერჩეულ სახეებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1308" />
+        <location filename="../../loadTools.py" line="1308"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopy</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="106" />
+        <location filename="../../Tools/MagicPanelsController.py" line="106"/>
         <source>This tool creates a new Cube (Part::Box) object based on a selected object of any type. The newly created object will be consistent with the selected orientation relative to the XYZ planes visible on the icon. You have the following selections for creating a new object:</source>
-        <translation>ეს ინსტრუმენტი ქმნის ახალ კუბს (ნაწილი:: ყუთი) ობიექტს ნებისმიერი ტიპის შერჩეული ობიექტის საფუძველზე. ახლად შექმნილი ობიექტი შეესაბამება შერჩეულ ორიენტაციას ხატზე ხილულ XYZ სიბრტყეებთან მიმართებაში. თქვენ გაქვთ შემდეგი არჩევანი ახალი ობიექტის შესაქმნელად:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="109" />
+        <location filename="../../Tools/MagicPanelsController.py" line="109"/>
         <source>object</source>
-        <translation>ობიექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="110" />
+        <location filename="../../Tools/MagicPanelsController.py" line="110"/>
         <source>in this case the new object will be created at position (0, 0, 0) on the XYZ axis.</source>
-        <translation>ამ შემთხვევაში ახალი ობიექტი შეიქმნება პოზიციაზე (0, 0, 0) XYZ ღერძზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="113" />
+        <location filename="../../Tools/MagicPanelsController.py" line="113"/>
         <source>object and face</source>
-        <translation>ობიექტი და სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="114" />
+        <location filename="../../Tools/MagicPanelsController.py" line="114"/>
         <source>to start in CenterOfMass of the face.</source>
-        <translation>დაწყება სახის CenterOfMass-ში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="117" />
+        <location filename="../../Tools/MagicPanelsController.py" line="117"/>
         <source>object and edge</source>
-        <translation>ობიექტი და ზღვარი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="118" />
+        <location filename="../../Tools/MagicPanelsController.py" line="118"/>
         <source>to start in CenterOfMass of the edge.</source>
-        <translation>დასაწყებად CenterOfMass-ის ზღვარზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="121" />
+        <location filename="../../Tools/MagicPanelsController.py" line="121"/>
         <source>object and vertex</source>
-        <translation>ობიექტი და წვერო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="122" />
+        <location filename="../../Tools/MagicPanelsController.py" line="122"/>
         <source>to start in CenterOfMass of the vertex.</source>
-        <translation>დასაწყებად წვეროს CenterOfMass-ში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="125" />
-        <source>&lt;b&gt;Note:&lt;/b&gt; If you want to copy Pad, you need to have Constraints named "SizeX" and "SizeY" at the Sketch. For custom objects types you need to have Length, Width, Height properties at object (Group: "Base", Type: "App::PropertyLength").</source>
-        <translation>&lt;b&gt;შენიშვნა:&lt;/b&gt; თუ გსურთ Pad-ის კოპირება, თქვენ უნდა გქონდეთ შეზღუდვები სახელწოდებით "SizeX" და "SizeY" Sketch-ზე. მორგებული ობიექტების ტიპებისთვის თქვენ უნდა გქონდეთ სიგრძე, სიგანე, სიმაღლე ობიექტზე (ჯგუფი: "Base", ტიპი: "App::PropertyLength").</translation>
+        <location filename="../../Tools/MagicPanelsController.py" line="125"/>
+        <source>&lt;b&gt;Note:&lt;/b&gt; If you want to copy Pad, you need to have Constraints named &quot;SizeX&quot; and &quot;SizeY&quot; at the Sketch. For custom objects types you need to have Length, Width, Height properties at object (Group: &quot;Base&quot;, Type: &quot;App::PropertyLength&quot;).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopyXY</name>
     <message>
-        <location filename="../../loadTools.py" line="3335" />
+        <location filename="../../loadTools.py" line="3335"/>
         <source>panelCopyXY, to create panel XY from selected object</source>
-        <translation>panelCopyXY, შერჩეული ობიექტიდან XY პანელის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3336" />
+        <location filename="../../loadTools.py" line="3336"/>
         <source>This tool allows you to create simple panel in exact direction based on PartDesign object. It is some kind of backward conversion of panel2pad.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი ზუსტი მიმართულებით PartDesign ობიექტის საფუძველზე. ეს არის panel2pad-ის ერთგვარი უკანა კონვერტაცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopyXZ</name>
     <message>
-        <location filename="../../loadTools.py" line="3413" />
+        <location filename="../../loadTools.py" line="3413"/>
         <source>panelCopyXZ, to create panel XZ from selected object</source>
-        <translation>panelCopyXZ, შერჩეული ობიექტიდან XZ პანელის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3414" />
+        <location filename="../../loadTools.py" line="3414"/>
         <source>This tool allows you to create simple panel in exact direction based on PartDesign object. It is some kind of backward conversion of panel2pad.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი ზუსტი მიმართულებით PartDesign ობიექტის საფუძველზე. ეს არის panel2pad-ის ერთგვარი უკანა კონვერტაცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopyYX</name>
     <message>
-        <location filename="../../loadTools.py" line="3374" />
+        <location filename="../../loadTools.py" line="3374"/>
         <source>panelCopyYX, to create panel YX from selected object</source>
-        <translation>panelCopyYX, პანელის YX-ის შესაქმნელად შერჩეული ობიექტიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3375" />
+        <location filename="../../loadTools.py" line="3375"/>
         <source>This tool allows you to create simple panel in exact direction based on PartDesign object. It is some kind of backward conversion of panel2pad.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი ზუსტი მიმართულებით PartDesign ობიექტის საფუძველზე. ეს არის panel2pad-ის ერთგვარი უკანა კონვერტაცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopyYZ</name>
     <message>
-        <location filename="../../loadTools.py" line="3491" />
+        <location filename="../../loadTools.py" line="3491"/>
         <source>panelCopyYZ, to create panel YZ from selected object</source>
-        <translation>panelCopyYZ, არჩეული ობიექტიდან YZ პანელის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3492" />
+        <location filename="../../loadTools.py" line="3492"/>
         <source>This tool allows you to create simple panel in exact direction based on PartDesign object. It is some kind of backward conversion of panel2pad.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი ზუსტი მიმართულებით PartDesign ობიექტის საფუძველზე. ეს არის panel2pad-ის ერთგვარი უკანა კონვერტაცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopyZX</name>
     <message>
-        <location filename="../../loadTools.py" line="3452" />
+        <location filename="../../loadTools.py" line="3452"/>
         <source>panelCopyZX, to create panel ZX from selected object</source>
-        <translation>panelCopyZX, შერჩეული ობიექტიდან ZX პანელის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3453" />
+        <location filename="../../loadTools.py" line="3453"/>
         <source>This tool allows you to create simple panel in exact direction based on PartDesign object. It is some kind of backward conversion of panel2pad.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი ზუსტი მიმართულებით PartDesign ობიექტის საფუძველზე. ეს არის panel2pad-ის ერთგვარი უკანა კონვერტაცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCopyZY</name>
     <message>
-        <location filename="../../loadTools.py" line="3530" />
+        <location filename="../../loadTools.py" line="3530"/>
         <source>panelCopyZY, to create panel ZY from selected object</source>
-        <translation>panelCopyZY, არჩეული ობიექტიდან პანელის ZY-ის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3531" />
+        <location filename="../../loadTools.py" line="3531"/>
         <source>This tool allows you to create simple panel in exact direction based on PartDesign object. It is some kind of backward conversion of panel2pad.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი ზუსტი მიმართულებით PartDesign ობიექტის საფუძველზე. ეს არის panel2pad-ის ერთგვარი უკანა კონვერტაცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCover</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="458" />
+        <location filename="../../Tools/MagicPanelsController.py" line="458"/>
         <source>&lt;b&gt;Please select three faces according to the icon. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create top cover of the furniture with single click. To create top cover of the furniture you have to select 3 faces in the order described by the icon. To select more than one face, hold left CTRL key during face selection. The red edges at blue panels represents the selected faces. The transparent red panel represents the new created object. The icon refers to the base XY model view (0 key position). Click fitModel to set model into referred view.</source>
-        <translation>&lt;b&gt;გთხოვთ აირჩიოთ სამი სახე ხატის მიხედვით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ ავეჯის ზედა საფარი ერთი დაწკაპუნებით. ავეჯის ზედა საფარის შესაქმნელად თქვენ უნდა აირჩიოთ 3 სახე ხატით აღწერილი თანმიმდევრობით. ერთზე მეტი სახის ასარჩევად, სახის შერჩევისას დააჭირეთ მარცხენა ღილაკს CTRL. ლურჯი პანელების წითელი კიდეები წარმოადგენს შერჩეულ სახეებს. გამჭვირვალე წითელი პანელი წარმოადგენს ახალ შექმნილ ობიექტს. ხატულა ეხება საბაზისო XY მოდელის ხედს (0 საკვანძო პოზიცია). დააწკაპუნეთ fitModel მოდელის მითითებულ ხედში დასაყენებლად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelCoverXY</name>
     <message>
-        <location filename="../../loadTools.py" line="1580" />
-        <source>panelCoverXY, to create top cover panel</source>
-        <translation>panelCoverXY, ზედა საფარის პანელის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1580"/>
+        <source>panelCoverXY, to create top side of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1581" />
+        <location filename="../../loadTools.py" line="1581"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefault</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="62" />
+        <location filename="../../Tools/MagicPanelsController.py" line="62"/>
         <source>&lt;b&gt;To create default panel, first create active document. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates default panel that can be easily resized. You can clearly see where should be the thickness to keep exact panel XYZ axis orientation. All furniture elements should be created according to the XYZ axis plane, if possible. Avoid building whole furniture with rotated elements. If you want to rotate panel with dowels, better create panel with dowels without rotation, pack panel with dowels into LinkGroup, and use magicAngle to rotate whole LinkGroup. You can rotate whole furniture like this with single click.</source>
-        <translation>&lt;b&gt;ნაგულისხმევი პანელის შესაქმნელად, ჯერ შექმენით აქტიური დოკუმენტი. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო ქმნის ნაგულისხმევ პანელს, რომლის ზომა ადვილად შეიძლება შეიცვალოს. თქვენ ნათლად ხედავთ სად უნდა იყოს სისქე XYZ ღერძის პანელის ზუსტი ორიენტაციის შესანარჩუნებლად. ავეჯის ყველა ელემენტი უნდა შეიქმნას XYZ ღერძის სიბრტყის მიხედვით, თუ ეს შესაძლებელია. მოერიდეთ მთლიანი ავეჯის აშენებას მობრუნებული ელემენტებით. თუ გსურთ პანელის როტაცია დუელებით, უკეთესია, შექმენით პანელი დუბლებით ბრუნვის გარეშე, ჩაალაგეთ პანელი დუელებით LinkGroup-ში და გამოიყენეთ magicAngle მთელი LinkGroup-ის დასატრიალებლად. თქვენ შეგიძლიათ მოატრიალოთ მთელი ავეჯი ასეთი ერთი დაწკაპუნებით.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefaultXY</name>
     <message>
-        <location filename="../../loadTools.py" line="59" />
+        <location filename="../../loadTools.py" line="59"/>
         <source>panelDefaultXY, to create simple default panel XY</source>
-        <translation>panelDefaultXY, მარტივი ნაგულისხმევი პანელის XY შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="60" />
+        <location filename="../../loadTools.py" line="60"/>
         <source>This tool allows you to create simple panel based on magicSettings settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი magicSettings პარამეტრების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefaultXZ</name>
     <message>
-        <location filename="../../loadTools.py" line="137" />
+        <location filename="../../loadTools.py" line="137"/>
         <source>panelDefaultXZ, to create simple default panel XZ</source>
-        <translation>panelDefaultXZ, მარტივი ნაგულისხმევი პანელის XZ შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="138" />
+        <location filename="../../loadTools.py" line="138"/>
         <source>This tool allows you to create simple panel based on magicSettings settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი magicSettings პარამეტრების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefaultYX</name>
     <message>
-        <location filename="../../loadTools.py" line="98" />
+        <location filename="../../loadTools.py" line="98"/>
         <source>panelDefaultYX, to create simple default panel YX</source>
-        <translation>panelDefaultYX, მარტივი ნაგულისხმევი პანელის YX შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="99" />
+        <location filename="../../loadTools.py" line="99"/>
         <source>This tool allows you to create simple panel based on magicSettings settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი magicSettings პარამეტრების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefaultYZ</name>
     <message>
-        <location filename="../../loadTools.py" line="215" />
+        <location filename="../../loadTools.py" line="215"/>
         <source>panelDefaultYZ, to create simple default panel YZ</source>
-        <translation>panelDefaultYZ, მარტივი ნაგულისხმევი პანელის YZ-ის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="216" />
+        <location filename="../../loadTools.py" line="216"/>
         <source>This tool allows you to create simple panel based on magicSettings settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი magicSettings პარამეტრების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefaultZX</name>
     <message>
-        <location filename="../../loadTools.py" line="176" />
+        <location filename="../../loadTools.py" line="176"/>
         <source>panelDefaultZX, to create simple default panel ZX</source>
-        <translation>panelDefaultZX, მარტივი ნაგულისხმევი პანელის ZX შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="177" />
+        <location filename="../../loadTools.py" line="177"/>
         <source>This tool allows you to create simple panel based on magicSettings settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი magicSettings პარამეტრების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelDefaultZY</name>
     <message>
-        <location filename="../../loadTools.py" line="254" />
+        <location filename="../../loadTools.py" line="254"/>
         <source>panelDefaultZY, to create simple default panel ZY</source>
-        <translation>panelDefaultZY, მარტივი ნაგულისხმევი პანელის შესაქმნელად ZY</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="255" />
+        <location filename="../../loadTools.py" line="255"/>
         <source>This tool allows you to create simple panel based on magicSettings settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ მარტივი პანელი magicSettings პარამეტრების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFace</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="190" />
+        <location filename="../../Tools/MagicPanelsController.py" line="190"/>
         <source>&lt;b&gt;Please select face to create panel at this face. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel at selected face. The blue panel represents the selected face direction and the red one represents the new created panel direction. The icon refers to the base XY model view (0 key position), click fitModel tool icon to set model into referred view. The new created panel will get the same dimensions as panel of the selected face. This tool supports veneer thickness from magicSettings and will add addiional offset but not resize the panel. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სახე ამ სახეზე პანელის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი ქმნის ახალ პანელს არჩეულ სახეზე. ლურჯი პანელი წარმოადგენს შერჩეულ სახის მიმართულებას, ხოლო წითელი წარმოადგენს ახალ შექმნილ პანელის მიმართულებას. ხატულა ეხება XY მოდელის საბაზისო ხედს (0 საკვანძო პოზიცია), დააწკაპუნეთ fitModel ხელსაწყოს ხატულაზე მოდელის მითითებულ ხედში დასაყენებლად. ახალი შექმნილი პანელი მიიღებს იმავე ზომებს, რაც არჩეული სახის პანელს. ეს ინსტრუმენტი მხარს უჭერს veneer სისქეს magicSettings-დან და დაამატებს დამატებით ოფსეტს, მაგრამ არ შეცვლის პანელის ზომას. თუ თქვენ გაქვთ პრობლემა არაპროგნოზირებად შედეგთან დაკავშირებით, გამოიყენეთ magicManager ინსტრუმენტი შექმნამდე პანელის გადახედვისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFaceXY</name>
     <message>
-        <location filename="../../loadTools.py" line="878" />
+        <location filename="../../loadTools.py" line="878"/>
         <source>panelFaceXY, to create panel XY on selected face</source>
-        <translation>panelFaceXY, რათა შეიქმნას პანელის XY არჩეულ სახეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="879" />
+        <location filename="../../loadTools.py" line="879"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFaceXZ</name>
     <message>
-        <location filename="../../loadTools.py" line="956" />
+        <location filename="../../loadTools.py" line="956"/>
         <source>panelFaceXZ, to create panel XZ on selected face</source>
-        <translation>panelFaceXZ, პანელის XZ-ის შესაქმნელად არჩეულ სახეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="957" />
+        <location filename="../../loadTools.py" line="957"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFaceYX</name>
     <message>
-        <location filename="../../loadTools.py" line="917" />
+        <location filename="../../loadTools.py" line="917"/>
         <source>panelFaceYX, to create panel YX on selected face</source>
-        <translation>panelFaceYX, პანელის YX-ის შესაქმნელად არჩეულ სახეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="918" />
+        <location filename="../../loadTools.py" line="918"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFaceYZ</name>
     <message>
-        <location filename="../../loadTools.py" line="1034" />
+        <location filename="../../loadTools.py" line="1034"/>
         <source>panelFaceYZ, to create panel YZ on selected face</source>
-        <translation>panelFaceYZ, პანელის YZ-ის შესაქმნელად არჩეულ სახეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1035" />
+        <location filename="../../loadTools.py" line="1035"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFaceZX</name>
     <message>
-        <location filename="../../loadTools.py" line="995" />
+        <location filename="../../loadTools.py" line="995"/>
         <source>panelFaceZX, to create panel ZX on selected face</source>
-        <translation>panelFaceZX, პანელის ZX-ის შესაქმნელად არჩეულ სახეზე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="996" />
+        <location filename="../../loadTools.py" line="996"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelFaceZY</name>
     <message>
-        <location filename="../../loadTools.py" line="1073" />
+        <location filename="../../loadTools.py" line="1073"/>
         <source>panelFaceZY, to create panel ZY on selected face</source>
-        <translation>panelFaceZY, არჩეულ სახეზე პანელის ZY შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1074" />
+        <location filename="../../loadTools.py" line="1074"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMove</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="528" />
+        <location filename="../../Tools/MagicPanelsController.py" line="528"/>
         <source>&lt;b&gt;Please select objects to move. &lt;/b&gt;&lt;br&gt;&lt;br&gt;With the arrows you can quickly move panel with thickness step to solve common furniture problem with thickness offset. If you select PartDesign object, it will be moved with thickness step via Body container. If you select containers &lt;code&gt;App::Part&lt;/code&gt;, &lt;code&gt;PartDesign::Body&lt;/code&gt;, &lt;code&gt;App::LinkGroup&lt;/code&gt; and object &lt;code&gt;App::Link&lt;/code&gt;, the move step will be 100, to allow move whole furniture modules or drawers inside container more quickly. Also if the thickness will not be recognized the step will be 100. You can also use the arrows for quick copy. Select object at objects Tree, click &lt;code&gt;CTRL-C&lt;/code&gt; and &lt;code&gt;CTRL-V&lt;/code&gt; to copy in-place the selected object and use arrows to move the object. &lt;br&gt;&lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; You can move many objects at once, but make sure the objects have the same thickness to avoid moving objects with different step. If you want precisely move many objects with given step, please use magicMove tool, instead. The arrows recognize the view model rotation. However, all possible rotations are not recognized, sometimes the movement may not be correctly aligned with the arrow icon. So, it is strongly recommended to click fitModel tool before using arrows.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტები გადასატანად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;ისრებით შეგიძლიათ სწრაფად გადაიტანოთ პანელი სისქის საფეხურით, რათა გადაჭრათ ჩვეულებრივი ავეჯის პრობლემა სისქის ოფსეტურით. თუ აირჩევთ PartDesign ობიექტს, ის გადაადგილდება სისქის საფეხურით Body კონტეინერის მეშვეობით. თუ აირჩევთ კონტეინერებს &lt;code&gt;App::Part&lt;/code&gt;, &lt;code&gt;PartDesign::Body&lt;/code&gt;, &lt;code&gt;App::LinkGroup&lt;/code&gt; და ობიექტს &lt;code&gt;App::Link&lt;/code&gt;, გადაადგილების ნაბიჯი იქნება 100, რათა უფრო სწრაფად გადაიტანოთ მთლიანი ავეჯის მოდულები ან უჯრები კონტეინერში. ასევე თუ სისქე არ იქნება აღიარებული ნაბიჯი იქნება 100. ასევე შეგიძლიათ გამოიყენოთ ისრები სწრაფი ასლისთვის. აირჩიეთ ობიექტი ობიექტების ხეზე, დააწკაპუნეთ &lt;code&gt;CTRL-C&lt;/code&gt; და &lt;code&gt;CTRL-V&lt;/code&gt; არჩეული ობიექტის ადგილზე დასაკოპირებლად და გამოიყენეთ ისრები ობიექტის გადასატანად. &lt;br&gt;&lt;br&gt;&lt;b&gt;გაფრთხილება:&lt;/b&gt; შეგიძლიათ ერთდროულად გადაიტანოთ მრავალი ობიექტი, მაგრამ დარწმუნდით, რომ ობიექტებს აქვთ იგივე სისქე, რათა თავიდან აიცილოთ ობიექტების გადაადგილება სხვადასხვა ნაბიჯით. თუ გსურთ ზუსტად გადაიტანოთ ბევრი ობიექტი მოცემული ნაბიჯით, გამოიყენეთ magicMove ინსტრუმენტი, ამის ნაცვლად. ისრები ცნობენ ხედვის მოდელის ბრუნვას. თუმცა, ყველა შესაძლო ბრუნვა არ არის აღიარებული, ზოგჯერ მოძრაობა შეიძლება არ იყოს სწორად გასწორებული ისრის ხატულასთან. ასე რომ, მკაცრად რეკომენდირებულია დააწკაპუნოთ fitModel ინსტრუმენტზე ისრების გამოყენებამდე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMove2Anchor</name>
     <message>
-        <location filename="../../loadTools.py" line="1736" />
-        <source>panelMove2Anchor, move to anchor</source>
-        <translation>panelMove2Anchor, გადადით წამყვანზე</translation>
+        <location filename="../../loadTools.py" line="1736"/>
+        <source>panelMove2Anchor, move objects to selected anchor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1737" />
+        <location filename="../../loadTools.py" line="1737"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="73" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="74"/>
         <source>First select anchor at base object, next select anchor at each object to move.</source>
-        <translation>ჯერ აირჩიეთ წამყვანი საბაზისო ობიექტზე, შემდეგ აირჩიეთ წამყვანი თითოეულ ობიექტზე გადასაადგილებლად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="75" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="76"/>
         <source>Possible anchors to select</source>
-        <translation>შესაძლო წამყვანები ასარჩევად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="77" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="78"/>
         <source>vertex</source>
-        <translation>წვერო</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="78" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="79"/>
         <source>position of selected vertex</source>
-        <translation>შერჩეული წვერის პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="79" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="80"/>
         <source>edge</source>
-        <translation>ზღვარი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="80" />
-        <source>edge CenterOfMass</source>
-        <translation>ზღვარზე CenterOfMass</translation>
+        <location filename="../../Tools/panelMove2Anchor.py" line="81"/>
+        <source>CenterOfMass of the selected edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="81" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="82"/>
         <source>face</source>
-        <translation>სახე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="82" />
-        <source>face CenterOfMass</source>
-        <translation>სახე CenterOfMass</translation>
+        <location filename="../../Tools/panelMove2Anchor.py" line="83"/>
+        <source>CenterOfMass of the selected face</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="83" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="84"/>
         <source>object</source>
-        <translation>ობიექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="84" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="85"/>
         <source>position of default object Placement</source>
-        <translation>ნაგულისხმევი ობიექტის განთავსების პოზიცია</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="86" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="87"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Anchor.py" line="87" />
+        <location filename="../../Tools/panelMove2Anchor.py" line="88"/>
         <source>This tool allows you to align panels more precisely, to connect selected anchors. Hold left CTRL key to select anchors.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ უფრო ზუსტად დააკავშიროთ პანელები, დააკავშიროთ არჩეული წამყვანები. დააჭირეთ მარცხენა CTRL ღილაკს წამყვანების ასარჩევად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMove2Center</name>
     <message>
-        <location filename="../../loadTools.py" line="1931" />
-        <source>panelMove2Center, move to center</source>
-        <translation>panelMove2Center, გადადით ცენტრში</translation>
+        <location filename="../../loadTools.py" line="1931"/>
+        <source>panelMove2Center, move objects to center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1932" />
+        <location filename="../../loadTools.py" line="1932"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="159" />
+        <location filename="../../Tools/panelMove2Center.py" line="160"/>
         <source>This tool allows you to center objects. Possible selection methods</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ მოაწყოთ ობიექტები. შერჩევის შესაძლო მეთოდები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="161" />
+        <location filename="../../Tools/panelMove2Center.py" line="162"/>
         <source>&lt;b&gt;Edge&lt;/b&gt; + &lt;b&gt;Edge&lt;/b&gt; + &lt;b&gt;Objects&lt;/b&gt;</source>
-        <translation>&lt;b&gt;კიდე&lt;/b&gt; + &lt;b&gt;კიდე&lt;/b&gt; + &lt;b&gt;ობიექტები&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="162" />
+        <location filename="../../Tools/panelMove2Center.py" line="163"/>
         <source>&lt;b&gt;Face&lt;/b&gt; + &lt;b&gt;Face&lt;/b&gt; + &lt;b&gt;Objects&lt;/b&gt;</source>
-        <translation>&lt;b&gt;სახე&lt;/b&gt; + &lt;b&gt;სახე&lt;/b&gt; + &lt;b&gt;ობიექტები&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="163" />
+        <location filename="../../Tools/panelMove2Center.py" line="164"/>
         <source>&lt;b&gt;Vertex&lt;/b&gt; + &lt;b&gt;Vertex&lt;/b&gt; + &lt;b&gt;Objects&lt;/b&gt;</source>
-        <translation>&lt;b&gt;ვერტექსი&lt;/b&gt; + &lt;b&gt;ვერტექსი&lt;/b&gt; + &lt;b&gt;ობიექტები&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="164" />
+        <location filename="../../Tools/panelMove2Center.py" line="165"/>
         <source>&lt;b&gt;Hole edge&lt;/b&gt; + &lt;b&gt;Hole edge&lt;/b&gt; + &lt;b&gt;Objects&lt;/b&gt;</source>
-        <translation>&lt;b&gt;ხვრელის კიდე&lt;/b&gt; + &lt;b&gt;ხვრელის კიდე&lt;/b&gt; + &lt;b&gt;ობიექტები&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="166" />
+        <location filename="../../Tools/panelMove2Center.py" line="167"/>
         <source>Tip</source>
-        <translation>რჩევა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="168" />
+        <location filename="../../Tools/panelMove2Center.py" line="169"/>
         <source>&lt;b&gt;Edge, Face, Vertex or Hole edge&lt;/b&gt; - can be at the same object or at two different objects but both should lie on one of the coordinate axes XYZ. Because if there would be for example offset at X and Y, this tool would not be able to recognize to which direction center objects.</source>
-        <translation>&lt;b&gt;კიდე, სახე, წვერო ან ხვრელის კიდე&lt;/b&gt; - შეიძლება იყოს ერთსა და იმავე ობიექტთან ან ორ განსხვავებულ ობიექტთან, მაგრამ ორივე უნდა იყოს ერთ-ერთ კოორდინატთა ღერძზე XYZ. იმის გამო, რომ თუ იქნება, მაგალითად, ოფსეტი X და Y-ზე, ეს ხელსაწყო ვერ ამოიცნობს რა მიმართულებით ცენტრის ობიექტებს.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Center.py" line="169" />
+        <location filename="../../Tools/panelMove2Center.py" line="170"/>
         <source>&lt;b&gt;Objects&lt;/b&gt; - The object can be Cylinder, Cone (dril bit), Cube (panel), Pad or LinkGroup with as many objects you want. If you want to move Pad, select Body. If you want to move many Pads, select Body or pack all Part into LinkGroup and select LinkGroup to move. Make sure you do not have Sketch position set. This tool use .Shape.CenterOfMass but if it is not available for object like it is for LinkGroup the center will be calculated from vertices. You can move to the center many objects at once. Hold left CTRL key during selection. </source>
-        <translation>&lt;b&gt;ობიექტები&lt;/b&gt; - ობიექტი შეიძლება იყოს ცილინდრი, კონუსი (საბურღი), კუბი (პანელი), პანელი ან LinkGroup იმდენი ობიექტით, რაც გსურთ. თუ გსურთ ბალიშის გადატანა, აირჩიეთ Body. თუ გსურთ ბევრი ბალიშის გადატანა, აირჩიეთ Body ან ჩაალაგეთ ყველა ნაწილი LinkGroup-ში და აირჩიეთ LinkGroup გადასატანად. დარწმუნდით, რომ არ გაქვთ მითითებული Sketch-ის პოზიცია. ეს ინსტრუმენტი იყენებს .Shape.CenterOfMass-ს, მაგრამ თუ ის მიუწვდომელია ობიექტისთვის, როგორც ეს არის LinkGroup-ისთვის, ცენტრი გამოითვლება წვეროებიდან. შეგიძლიათ ცენტრში გადაიტანოთ ერთდროულად მრავალი ობიექტი. შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMove2Face</name>
     <message>
-        <location filename="../../loadTools.py" line="1853" />
-        <source>panelMove2Face, move panel to face</source>
-        <translation>panelMove2Face, გადაიტანეთ პანელი პირისპირ</translation>
+        <location filename="../../loadTools.py" line="1853"/>
+        <source>panelMove2Face, move objects to surface</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1854" />
+        <location filename="../../loadTools.py" line="1854"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/panelMove2Face.py" line="88" />
+        <location filename="../../Tools/panelMove2Face.py" line="89"/>
         <source>&lt;b&gt;Please first select face, next select objects to move.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to move panels to the selected face position. You can select more objects holding left CTRL key. This tool allows you to avoid thickness step problem, if you want to move panel to the other edge but the way is not a multiple of the panel thickness. Also you can move shelves to the back or to the sides of the furniture. For rotated containers use panelMove2Anchor.</source>
-        <translation>&lt;b&gt;გთხოვთ, ჯერ აირჩიეთ სახე, შემდეგ აირჩიეთ გადასატანი ობიექტები.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ პანელები სახის არჩეულ პოზიციაზე. თქვენ შეგიძლიათ აირჩიოთ მეტი ობიექტი მარცხენა CTRL კლავიშით. ეს ინსტრუმენტი საშუალებას გაძლევთ თავიდან აიცილოთ სისქის ნაბიჯის პრობლემა, თუ გსურთ პანელის მეორე კიდეზე გადატანა, მაგრამ გზა არ არის პანელის სისქის ჯერადი. ასევე შეგიძლიათ თაროების გადატანა ავეჯის უკანა მხარეს ან გვერდებზე. როტაციული კონტეინერებისთვის გამოიყენეთ panelMove2Anchor.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMoveXm</name>
     <message>
-        <location filename="../../loadTools.py" line="371" />
+        <location filename="../../loadTools.py" line="371"/>
         <source>panelMoveXm, move forward</source>
-        <translation>panelMoveXm, წინსვლა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="372" />
+        <location filename="../../loadTools.py" line="372"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMoveXp</name>
     <message>
-        <location filename="../../loadTools.py" line="332" />
+        <location filename="../../loadTools.py" line="332"/>
         <source>panelMoveXp, move back</source>
-        <translation>panelMoveXp, გადადით უკან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="333" />
+        <location filename="../../loadTools.py" line="333"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMoveYm</name>
     <message>
-        <location filename="../../loadTools.py" line="449" />
+        <location filename="../../loadTools.py" line="449"/>
         <source>panelMoveYm, move left</source>
-        <translation>panelMoveYm, გადაიტანეთ მარცხნივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="450" />
+        <location filename="../../loadTools.py" line="450"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMoveYp</name>
     <message>
-        <location filename="../../loadTools.py" line="410" />
+        <location filename="../../loadTools.py" line="410"/>
         <source>panelMoveYp, move right</source>
-        <translation>panelMoveYp, გადაადგილება მარჯვნივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="411" />
+        <location filename="../../loadTools.py" line="411"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMoveZm</name>
     <message>
-        <location filename="../../loadTools.py" line="527" />
+        <location filename="../../loadTools.py" line="527"/>
         <source>panelMoveZm, move down</source>
-        <translation>panelMoveZm, გადადით ქვემოთ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="528" />
+        <location filename="../../loadTools.py" line="528"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelMoveZp</name>
     <message>
-        <location filename="../../loadTools.py" line="488" />
+        <location filename="../../loadTools.py" line="488"/>
         <source>panelMoveZp, move up</source>
-        <translation>panelMoveZp, გადადით ზემოთ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="489" />
+        <location filename="../../loadTools.py" line="489"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="736" />
+        <location filename="../../Tools/MagicPanelsController.py" line="736"/>
         <source>&lt;b&gt;Please select valid panels to resize. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to resize quickly panels or even other objects. The resize step is the panel thickness. Panel is resized into direction described by the icon for XY panel. However, in some cases the panel may be resized into opposite direction, if the panel is not supported or the sides are equal. You can also resize Cylinders (drill bits), the long side will be Height, the short will be diameter, the thickness will be Radius. For Cone objects (drill bits - countersinks, counterbore) the long side will be Height, the thickness will be Radius1 (bottom radius) and the short will be Radius2 (top radius).</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სწორი პანელები ზომის შესაცვლელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ სწრაფად შეცვალოთ პანელების ან სხვა ობიექტების ზომები. ზომის შეცვლის ნაბიჯი არის პანელის სისქე. პანელის ზომა იცვლება XY პანელის ხატულაზე აღწერილი მიმართულებით. თუმცა, ზოგიერთ შემთხვევაში პანელის ზომა შეიძლება შეიცვალოს საპირისპირო მიმართულებით, თუ პანელი არ არის მხარდაჭერილი ან გვერდები თანაბარია. თქვენ ასევე შეგიძლიათ შეცვალოთ ცილინდრები (საბურღი ბიტები), გრძელი მხარე იქნება სიმაღლე, მოკლე დიამეტრი, სისქე იქნება რადიუსი. კონუსური ობიექტებისთვის (საბურღი ბიტები - კონტრსინკები, კონტრაბური) გრძელი მხარე იქნება Height, სისქე იქნება Radius1 (ქვედა რადიუსი) და მოკლე იქნება Radius2 (ზედა რადიუსი).</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize1</name>
     <message>
-        <location filename="../../loadTools.py" line="644" />
-        <source>panel, bigger, long+</source>
-        <translation>პანელი, უფრო დიდი, გრძელი+</translation>
+        <location filename="../../loadTools.py" line="644"/>
+        <source>make panel bigger from long edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="645" />
+        <location filename="../../loadTools.py" line="645"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize2</name>
     <message>
-        <location filename="../../loadTools.py" line="683" />
-        <source>panel, smaller, long-</source>
-        <translation>პანელი, უფრო პატარა, გრძელი-</translation>
+        <location filename="../../loadTools.py" line="683"/>
+        <source>make panel smaller from long edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="684" />
+        <location filename="../../loadTools.py" line="684"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize3</name>
     <message>
-        <location filename="../../loadTools.py" line="722" />
-        <source>panel, bigger, short+</source>
-        <translation>პანელი, უფრო დიდი, მოკლე+</translation>
+        <location filename="../../loadTools.py" line="722"/>
+        <source>make panel bigger from short edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="723" />
+        <location filename="../../loadTools.py" line="723"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize4</name>
     <message>
-        <location filename="../../loadTools.py" line="761" />
-        <source>panel, smaller, short-</source>
-        <translation>პანელი, პატარა, მოკლე-</translation>
+        <location filename="../../loadTools.py" line="761"/>
+        <source>make panel smaller from short edge</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="762" />
+        <location filename="../../loadTools.py" line="762"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize5</name>
     <message>
-        <location filename="../../loadTools.py" line="800" />
-        <source>panel, bigger, thickness+</source>
-        <translation>პანელი, უფრო დიდი, სისქე+</translation>
+        <location filename="../../loadTools.py" line="800"/>
+        <source>make panel thicker</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="801" />
+        <location filename="../../loadTools.py" line="801"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelResize6</name>
     <message>
-        <location filename="../../loadTools.py" line="839" />
-        <source>panel, smaller, thickness-</source>
-        <translation>პანელი, უფრო პატარა, სისქე-</translation>
+        <location filename="../../loadTools.py" line="839"/>
+        <source>make panel thinner</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="840" />
+        <location filename="../../loadTools.py" line="840"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelSide</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="332" />
+        <location filename="../../Tools/MagicPanelsController.py" line="332"/>
         <source>&lt;b&gt;Please select valid face, to create panel. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool creates new panel at selected face. The blue panel represents the selected object and the red one represents the new created object. The arrow describe if the panel will be created up or down. The icon refers to base XY model view (0 key position). Click fitModel to set model into referred view. If you have problem with unpredicted result, use magicManager tool to preview panel before creation.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ სწორი სახე პანელის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი ქმნის ახალ პანელს არჩეულ სახეზე. ლურჯი პანელი წარმოადგენს არჩეულ ობიექტს, ხოლო წითელი წარმოადგენს ახალ შექმნილ ობიექტს. ისარი აღწერს, შეიქმნება თუ არა პანელი ზემოთ ან ქვემოთ. ხატულა ეხება საბაზისო XY მოდელის ხედს (0 საკვანძო პოზიცია). დააწკაპუნეთ fitModel მოდელის მითითებულ ხედში დასაყენებლად. თუ თქვენ გაქვთ პრობლემა არაპროგნოზირებად შედეგთან დაკავშირებით, გამოიყენეთ magicManager ინსტრუმენტი შექმნამდე პანელის გადახედვისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelSideLeft</name>
     <message>
-        <location filename="../../loadTools.py" line="1385" />
-        <source>panelSideLeft, to create side left panel</source>
-        <translation>panelSideLeft, გვერდითი მარცხენა პანელის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1385"/>
+        <source>panelSideLeft, to create left side of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1386" />
+        <location filename="../../loadTools.py" line="1386"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelSideLeftUP</name>
     <message>
-        <location filename="../../loadTools.py" line="1424" />
-        <source>panelSideLeftUP, to create side left up panel</source>
-        <translation>panelSideLeftUP, მარცხენა გვერდითი პანელის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1424"/>
+        <source>panelSideLeftUP, to create left side of the furniture above</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1425" />
+        <location filename="../../loadTools.py" line="1425"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelSideRight</name>
     <message>
-        <location filename="../../loadTools.py" line="1463" />
-        <source>panelSideRight, to create side right panel</source>
-        <translation>panelSideRight, გვერდითი მარჯვენა პანელის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1463"/>
+        <source>panelSideRight, to create right side of the furniture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1464" />
+        <location filename="../../loadTools.py" line="1464"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>panelSideRightUP</name>
     <message>
-        <location filename="../../loadTools.py" line="1502" />
-        <source>panelSideRightUP, to create side right up panel</source>
-        <translation>panelSideRightUP, გვერდითი მარჯვნივ ზემოთ პანელის შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1502"/>
+        <source>panelSideRightUP, to create right side of the furniture above</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1503" />
+        <location filename="../../loadTools.py" line="1503"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>roundCurve</name>
     <message>
-        <location filename="../../loadTools.py" line="5168" />
-        <source>roundCurve, render curve precisely</source>
-        <translation>roundCurve, მრუდის ზუსტად გადაცემა</translation>
+        <location filename="../../loadTools.py" line="5168"/>
+        <source>roundCurve, to render curve precisely</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5169" />
+        <location filename="../../loadTools.py" line="5169"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/roundCurve.py" line="34" />
+        <location filename="../../Tools/roundCurve.py" line="35"/>
         <source>&lt;b&gt;Select curved objects to improve rendering. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to improve curve visibility. It makes the curve to look more rounded. Normally, circle Sketch is rendering from straight line segments. If you want to align panel to the curve manually this might be problem to hit exactly the point you want at curve. This tool may help for more precised alignment. If you select the curve and click this tool again the curve will back to default settings. To select more object hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;აირჩიეთ მრუდი ობიექტები რენდერის გასაუმჯობესებლად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გააუმჯობესოთ მრუდის ხილვადობა. ეს მრუდი უფრო მომრგვალებულს ხდის. ჩვეულებრივ, წრის ესკიზი გამოსახულია სწორი ხაზის სეგმენტებიდან. თუ გსურთ პანელის მრუდის ხელით გასწორება, ეს შეიძლება იყოს პრობლემა, რომ მოხვდეთ ზუსტად იმ წერტილში, რომელიც გსურთ მოსახვევში. ეს ინსტრუმენტი შეიძლება დაგეხმაროთ უფრო ზუსტი გასწორებისთვის. თუ აირჩიეთ მრუდი და კვლავ დააწკაპუნეთ ამ ხელსაწყოზე, მრუდი დაუბრუნდება ნაგულისხმევ პარამეტრებს. მეტი ობიექტის ასარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerBitSelect</name>
     <message>
-        <location filename="../../Tools/MagicPanelsController.py" line="861" />
+        <location filename="../../Tools/MagicPanelsController.py" line="861"/>
         <source>&lt;b&gt;Please select edges or faces to use router. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to create decoration router bits effect. You can select many edges or faces. The selected edges or faces do not have to be at the same object. You can select edges or faces at any object. But each edge or face need to be according to the XYZ coordinate axis to get correct plane of the edge or face. For face the routing path is the CenterOfMass of the face and also along the longest edge. Hold left CTRL key during edges or faces selection. The router bits get size from object thickness. If the router bit is for example Cove2, it means the size of the Cove will be 1/2 of the object thickness.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ კიდეები ან სახეები როუტერის გამოსაყენებლად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ დეკორაციის როუტერის ბიტების ეფექტი. თქვენ შეგიძლიათ აირჩიოთ მრავალი კიდე ან სახე. არჩეული კიდეები ან სახეები არ უნდა იყოს იმავე ობიექტზე. თქვენ შეგიძლიათ აირჩიოთ კიდეები ან სახეები ნებისმიერ ობიექტზე. მაგრამ თითოეული კიდე ან სახე უნდა იყოს XYZ კოორდინატთა ღერძის მიხედვით, რომ მივიღოთ კიდეების ან სახის სწორი სიბრტყე. სახისთვის მარშრუტიზაციის გზა არის სახის ცენტრის მასის ცენტრი და ასევე ყველაზე გრძელი კიდის გასწვრივ. გეჭიროთ მარცხენა CTRL ღილაკი კიდეების ან სახეების არჩევისას. როუტერის ბიტი ზომას იღებს ობიექტის სისქიდან. თუ როუტერის ბიტი არის მაგალითად Cove2, ეს ნიშნავს, რომ Cove-ის ზომა იქნება ობიექტის სისქის 1/2.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerChamfer</name>
     <message>
-        <location filename="../../loadTools.py" line="4856" />
-        <source>routerChamfer, edge to chamfer, thickness</source>
-        <translation>როუტერი ჩამფერი, კიდემდე ჩამკერი, სისქე</translation>
+        <location filename="../../loadTools.py" line="4856"/>
+        <source>routerChamfer, to create chamfer from selected edge, panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4857" />
+        <location filename="../../loadTools.py" line="4857"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerChamfer2</name>
     <message>
-        <location filename="../../loadTools.py" line="4895" />
-        <source>routerChamfer2, edge to chamfer, 1/2 thickness</source>
-        <translation>როუტერიChamfer2, კიდედან ჩამჭრელამდე, სისქე 1/2</translation>
+        <location filename="../../loadTools.py" line="4895"/>
+        <source>routerChamfer2, to create chamfer from selected edge, 1/2 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4896" />
+        <location filename="../../loadTools.py" line="4896"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerChamfer4</name>
     <message>
-        <location filename="../../loadTools.py" line="4934" />
-        <source>routerChamfer4, edge to chamfer, 1/4 thickness</source>
-        <translation>როუტერიChamfer4, კიდედან ჩამჭრელამდე, სისქე 1/4</translation>
+        <location filename="../../loadTools.py" line="4934"/>
+        <source>routerChamfer4, to create chamfer from selected edge, 1/4 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4935" />
+        <location filename="../../loadTools.py" line="4935"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerCove</name>
     <message>
-        <location filename="../../loadTools.py" line="4505" />
-        <source>routerCove, edge to cove, thickness</source>
-        <translation>როუტერი Cove, პირას ნაპირამდე, სისქე</translation>
+        <location filename="../../loadTools.py" line="4505"/>
+        <source>routerCove, to create cove from selected edge, panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4506" />
+        <location filename="../../loadTools.py" line="4506"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerCove2</name>
     <message>
-        <location filename="../../loadTools.py" line="4544" />
-        <source>routerCove2, edge to cove, 1/2 thickness</source>
-        <translation>routerCove2, კიდემდე, სისქე 1/2</translation>
+        <location filename="../../loadTools.py" line="4544"/>
+        <source>routerCove2, to create cove from selected edge, 1/2 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4545" />
+        <location filename="../../loadTools.py" line="4545"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerCove4</name>
     <message>
-        <location filename="../../loadTools.py" line="4583" />
-        <source>routerCove4, edge to cove, 1/4 thickness</source>
-        <translation>routerCove4, კიდემდე, სისქე 1/4</translation>
+        <location filename="../../loadTools.py" line="4583"/>
+        <source>routerCove4, to create cove from selected edge, 1/4 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4584" />
+        <location filename="../../loadTools.py" line="4584"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerRoundOver</name>
     <message>
-        <location filename="../../loadTools.py" line="4622" />
-        <source>routerRoundOver, edge to round over, thickness</source>
-        <translation>routerRoundOver, კიდეები მრგვალ ზემოთ, სისქე</translation>
+        <location filename="../../loadTools.py" line="4622"/>
+        <source>routerRoundOver, to create round over from selected edge, panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4623" />
+        <location filename="../../loadTools.py" line="4623"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerRoundOver2</name>
     <message>
-        <location filename="../../loadTools.py" line="4661" />
-        <source>routerRoundOver2, edge to round over, 1/2 thickness</source>
-        <translation>როუტერიRoundOver2, კიდეები დამრგვალებამდე, სისქე 1/2</translation>
+        <location filename="../../loadTools.py" line="4661"/>
+        <source>routerRoundOver2, to create round over from selected edge, 1/2 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4662" />
+        <location filename="../../loadTools.py" line="4662"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerRoundOver4</name>
     <message>
-        <location filename="../../loadTools.py" line="4700" />
-        <source>routerRoundOver4, edge to round over, 1/4 thickness</source>
-        <translation>როუტერიRoundOver4, კიდეები დამრგვალებამდე, სისქე 1/4</translation>
+        <location filename="../../loadTools.py" line="4700"/>
+        <source>routerRoundOver4, to create round over from selected edge, 1/4 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4701" />
+        <location filename="../../loadTools.py" line="4701"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerStraight2</name>
     <message>
-        <location filename="../../loadTools.py" line="4739" />
-        <source>routerStraight2, edge to straight, 1/2 thickness</source>
-        <translation>როუტერიStraight2, კიდეები სწორი, 1/2 სისქე</translation>
+        <location filename="../../loadTools.py" line="4739"/>
+        <source>routerStraight2, to create straight cut from selected edge, 1/2 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4740" />
+        <location filename="../../loadTools.py" line="4740"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerStraight3</name>
     <message>
-        <location filename="../../loadTools.py" line="4778" />
-        <source>routerStraight3, edge to straight, 1/3 thickness</source>
-        <translation>როუტერიStraight3, კიდე სწორი, 1/3 სისქე</translation>
+        <location filename="../../loadTools.py" line="4778"/>
+        <source>routerStraight3, to create straight cut from selected edge, 1/3 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4779" />
+        <location filename="../../loadTools.py" line="4779"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>routerStraight4</name>
     <message>
-        <location filename="../../loadTools.py" line="4817" />
-        <source>routerStraight4, edge to straight, 1/4 thickness</source>
-        <translation>როუტერიStraight4, კიდეები სწორი, 1/4 სისქე</translation>
+        <location filename="../../loadTools.py" line="4817"/>
+        <source>routerStraight4, to create straight cut from selected edge, 1/4 panel thickness</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="4818" />
+        <location filename="../../loadTools.py" line="4818"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>scanObjects</name>
     <message>
-        <location filename="../../loadTools.py" line="5285" />
-        <source>scanObjects, for development</source>
-        <translation>scanObjects, განვითარებისთვის</translation>
+        <location filename="../../loadTools.py" line="5285"/>
+        <source>scanObjects, for development purposes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5286" />
+        <location filename="../../loadTools.py" line="5286"/>
         <source>Inspection tool for FreeCAD macro development &amp; project debug (live API).</source>
-        <translation>ინსპექტირების ინსტრუმენტი FreeCAD მაკრო განვითარებისა და პროექტის გამართვისთვის (ცოცხალი API).</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selectVertex</name>
     <message>
-        <location filename="../../loadTools.py" line="1814" />
+        <location filename="../../loadTools.py" line="1814"/>
         <source>selectVertex, help to select vertices</source>
-        <translation>selectVertex, დახმარება წვეროების შერჩევაში</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1815" />
+        <location filename="../../loadTools.py" line="1815"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/selectVertex.py" line="73" />
+        <location filename="../../Tools/selectVertex.py" line="74"/>
         <source>&lt;b&gt;Please select Face or Edge to select nearest Vertex. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool helps vertex selection. If you click this tool icon the tool activates observer and listen for your selection. If you select Face or Edge the nearest Vertex will be selected instead. If you select Vertex the Vertex will stay selected. The observer is closed after selection so this help works only once to not disturb face or edge selection later. If you want select more vertices with help of this tool, you have to hold left CTRL key during Edge or Face selection, you can also hold it during icon click. </source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ Face ან Edge უახლოეს ვერტექსის ასარჩევად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი ეხმარება წვეროების შერჩევას. თუ დააწკაპუნებთ ამ ხელსაწყოს ხატულაზე, ინსტრუმენტი ააქტიურებს დამკვირვებელს და უსმენს თქვენს არჩევანს. თუ აირჩევთ Face ან Edge-ის ნაცვლად უახლოესი წვერო შეირჩევა. თუ თქვენ აირჩევთ Vertex, Vertex დარჩება არჩეული. დამკვირვებელი დახურულია შერჩევის შემდეგ, ამიტომ ეს დახმარება მხოლოდ ერთხელ მუშაობს, რათა მოგვიანებით არ შეაწუხოს სახის ან კიდეების შერჩევა. თუ გსურთ აირჩიოთ მეტი წვერო ამ ხელსაწყოს დახმარებით, უნდა გეჭიროთ მარცხენა CTRL კლავიში Edge ან Face არჩევისას, ასევე შეგიძლიათ დაიჭიროთ იგი ხატზე დაწკაპუნების დროს.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selected2Assembly</name>
     <message>
-        <location filename="../../loadTools.py" line="2321" />
+        <location filename="../../loadTools.py" line="2321"/>
         <source>selected2Assembly, to export to Assembly</source>
-        <translation>select2Assembly, ასამბლეაში ექსპორტისთვის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2322" />
+        <location filename="../../loadTools.py" line="2322"/>
         <source>This tool allows you to convert selected objects to Assembly.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიყვანოთ შერჩეული ობიექტები ასამბლეად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/selected2Assembly.py" line="61" />
-        <source>&lt;b&gt;To convert a model to an Assembly object, you must first select FreeCAD Part :: Box objects to convert.&lt;/b&gt;&lt;br&gt;&lt;br&gt;This tool allows you to convert a simple model based on simple panels, i.e. FreeCAD Part :: Box objects, to an Assembly model. Manually, such conversion could be done by converting Part :: Box objects to PartDesign :: Pad objects using the panel2pad tool and then extracting PartDesign :: Body objects using selected2Outside to keep global position and moving them to the Assembly :: AssemblyObject object. In this tool, these two tools are combined for ease and speed of conversion. However, if you have a problem with converting the model, you can still do such conversion manually.</source>
-        <translation>&lt;b&gt;მოდელის ასამბლეის ობიექტად გადასაყვანად, ჯერ უნდა აირჩიოთ FreeCAD Part :: Box ობიექტების კონვერტაცია.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიყვანოთ მარტივი მოდელი მარტივი პანელების საფუძველზე, ანუ FreeCAD Part :: Box ობიექტები, ასამბლეის მოდელად. ხელით, ასეთი კონვერტაცია შეიძლება განხორციელდეს Part :: Box ობიექტების PartDesign :: Pad ობიექტების კონვერტაციით panel2pad ინსტრუმენტის გამოყენებით და შემდეგ PartDesign :: სხეულის ობიექტების გამოყენებით select2Outside-ის გამოყენებით გლობალური პოზიციის შესანარჩუნებლად და გადაადგილებით ასამბლეაში :: AssemblyObject ობიექტზე. ამ ხელსაწყოში ეს ორი ინსტრუმენტი გაერთიანებულია კონვერტაციის სიმარტივისა და სიჩქარისთვის. თუმცა, თუ მოდელის კონვერტაციის პრობლემა გაქვთ, ასეთი კონვერტაციის გაკეთება მაინც შეგიძლიათ ხელით.</translation>
+        <location filename="../../Tools/selected2Assembly.py" line="62"/>
+        <source>&lt;b&gt;To convert a model to an Assembly object, you must first select FreeCAD Part::Box objects to convert.&lt;/b&gt;&lt;br&gt;&lt;br&gt;This tool allows you to convert a simple model based on simple panels, i.e. FreeCAD Part::Box objects, to an Assembly model. Manually, such conversion could be done by converting Part::Box objects to PartDesign::Pad objects using the panel2pad tool and then extracting PartDesign::Body objects using selected2Outside to keep global position and moving them to the Assembly::AssemblyObject object. In this tool, these two tools are combined for ease and speed of conversion. However, if you have a problem with converting the model, you can still do such conversion manually.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selected2Group</name>
     <message>
-        <location filename="../../loadTools.py" line="2282" />
+        <location filename="../../loadTools.py" line="2282"/>
         <source>selected2Group, to create folder</source>
-        <translation>Select2Group, საქაღალდის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2283" />
+        <location filename="../../loadTools.py" line="2283"/>
         <source>This tool allows you to move selected objects to simple folder.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ შერჩეული ობიექტები მარტივ საქაღალდეში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/selected2Group.py" line="25" />
+        <location filename="../../Tools/selected2Group.py" line="26"/>
         <source>&lt;b&gt;Please select objects to create Group. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD Group command. The group name is from first selected object. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტები ჯგუფის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ამ ხელსაწყოს მოუწოდებს FreeCAD Group ბრძანებას. ჯგუფის სახელი არის პირველი შერჩეული ობიექტიდან. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selected2Link</name>
     <message>
-        <location filename="../../loadTools.py" line="2243" />
+        <location filename="../../loadTools.py" line="2243"/>
         <source>selected2Link, to create link to container</source>
-        <translation>select2Link, კონტეინერის ბმულის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2244" />
+        <location filename="../../loadTools.py" line="2244"/>
         <source>This tool allows you to create link to selected objects.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ ბმული შერჩეულ ობიექტებთან.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/selected2Link.py" line="34" />
+        <location filename="../../Tools/selected2Link.py" line="35"/>
         <source>&lt;b&gt;Please select objects to create Link. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD simple Link command and set color for new Link objects from first selected object. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტები ბმულის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ამ ხელსაწყოს გამოძახება FreeCAD მარტივი Link ბრძანება და დააყენეთ ფერი ახალი Link ობიექტებისთვის პირველი შერჩეული ობიექტიდან. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selected2LinkGroup</name>
     <message>
-        <location filename="../../loadTools.py" line="2204" />
+        <location filename="../../loadTools.py" line="2204"/>
         <source>selected2LinkGroup, to create container</source>
-        <translation>select2LinkGroup, კონტეინერის შესაქმნელად</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2205" />
+        <location filename="../../loadTools.py" line="2205"/>
         <source>This tool allows you to move selected objects to LinkGroup container.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ შერჩეული ობიექტები LinkGroup კონტეინერში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/selected2LinkGroup.py" line="24" />
+        <location filename="../../Tools/selected2LinkGroup.py" line="25"/>
         <source>&lt;b&gt;Please select objects to create LinkGroup. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool call FreeCAD LinkGroup command and set color for new LinkGroup objects from first selected object. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტები LinkGroup-ის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი იძახებს FreeCAD LinkGroup ბრძანებას და დააყენეთ ფერი ახალი LinkGroup ობიექტებისთვის პირველი შერჩეული ობიექტიდან. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selected2Outside</name>
     <message>
-        <location filename="../../loadTools.py" line="2360" />
-        <source>selected2Outside, to move out from container</source>
-        <translation>select2 გარეთ, კონტეინერიდან გადასატანად</translation>
+        <location filename="../../loadTools.py" line="2360"/>
+        <source>selected2Outside, to move objects out from selected container</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2361" />
+        <location filename="../../loadTools.py" line="2361"/>
         <source>This tool allows you to move selected objects outside the container and keep global position.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ შერჩეული ობიექტები კონტეინერის გარეთ და შეინარჩუნოთ გლობალური პოზიცია.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/selected2Outside.py" line="40" />
+        <location filename="../../Tools/selected2Outside.py" line="41"/>
         <source>&lt;b&gt;Please select objects to move them outside all containers to the root folder. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to get out the selected objects from containers. Normally, if you get out object from the container manually, the object will change place and rotation. This tool allows you to move the objects and keep the same position and rotation. This feature might be very useful if automatic movement to container is not what you want. For example you want single element to no longer be mirrored or further processed with other objects inside the container. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტები, რომ გადაიტანოთ ისინი ყველა კონტეინერიდან ძირეულ საქაღალდეში. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ ამოიღოთ არჩეული ობიექტები კონტეინერებიდან. ჩვეულებრივ, თუ ობიექტს კონტეინერიდან ხელით ამოიღებთ, ობიექტი შეიცვლება ადგილს და ბრუნვას. ეს ინსტრუმენტი საშუალებას გაძლევთ გადაიტანოთ ობიექტები და შეინარჩუნოთ იგივე პოზიცია და ბრუნვა. ეს ფუნქცია შეიძლება იყოს ძალიან სასარგებლო, თუ კონტეინერში ავტომატური გადაადგილება არ არის ის, რაც გსურთ. მაგალითად, გსურთ, რომ ერთი ელემენტი აღარ იყოს ასახული ან შემდგომი დამუშავება კონტეინერის შიგნით სხვა ობიექტებთან. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>setTextures</name>
     <message>
-        <location filename="../../Tools/setTextures.py" line="84" />
-        <source>setTextures</source>
-        <translation>setTextures</translation>
+        <location filename="../../loadTools.py" line="2516"/>
+        <source>setTextures, to set textures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2517" />
+        <location filename="../../loadTools.py" line="2517"/>
         <source>This tool allows to store textures information and load textures. Also solves problem with huge project file size because this tool allows to store only link to texture not texture.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შეინახოთ ტექსტურების ინფორმაცია და ჩატვირთოთ ტექსტურები. ასევე აგვარებს პრობლემას დიდი პროექტის ფაილის ზომასთან დაკავშირებით, რადგან ეს ინსტრუმენტი საშუალებას გაძლევთ შეინახოთ მხოლოდ ტექსტურასთან და არა ტექსტურასთან დაკავშირებული ბმული.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="98" />
+        <location filename="../../Tools/setTextures.py" line="99"/>
         <source>selected objects</source>
-        <translation>შერჩეული ობიექტები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="98" />
+        <location filename="../../Tools/setTextures.py" line="99"/>
         <source>all objects</source>
-        <translation>ყველა ობიექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="179" />
+        <location filename="../../Tools/setTextures.py" line="180"/>
         <source>biggest surface</source>
-        <translation>ყველაზე დიდი ზედაპირი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="179" />
+        <location filename="../../Tools/setTextures.py" line="180"/>
         <source>fit to Cube</source>
-        <translation>შეესაბამება კუბს</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="179" />
+        <location filename="../../Tools/setTextures.py" line="180"/>
         <source>fit to Cylinder</source>
-        <translation>შეესაბამება ცილინდრს</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="179" />
+        <location filename="../../Tools/setTextures.py" line="180"/>
         <source>fit to Sphere</source>
-        <translation>მოერგება სფეროს</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="179" />
+        <location filename="../../Tools/setTextures.py" line="180"/>
         <source>auto fit</source>
-        <translation>ავტომატური მორგება</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="179" />
+        <location filename="../../Tools/setTextures.py" line="180"/>
         <source>glass mirror effect</source>
-        <translation>შუშის სარკის ეფექტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="146" />
+        <location filename="../../Tools/setTextures.py" line="147"/>
         <source>repeat X axis</source>
-        <translation>გაიმეორეთ X ღერძი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="146" />
+        <location filename="../../Tools/setTextures.py" line="147"/>
         <source>repeat Y axis</source>
-        <translation>გაიმეორეთ Y ღერძი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="146" />
+        <location filename="../../Tools/setTextures.py" line="147"/>
         <source>repeat Z axis</source>
-        <translation>გაიმეორეთ Z ღერძი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="146" />
+        <location filename="../../Tools/setTextures.py" line="147"/>
         <source>rotation X axis</source>
-        <translation>როტაცია X ღერძი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="146" />
+        <location filename="../../Tools/setTextures.py" line="147"/>
         <source>rotation Y axis</source>
-        <translation>როტაცია Y ღერძი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="146" />
+        <location filename="../../Tools/setTextures.py" line="147"/>
         <source>rotation Z axis</source>
-        <translation>როტაცია Z ღერძი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="59" />
+        <location filename="../../Tools/setTextures.py" line="60"/>
         <source>please select valid objects and refresh</source>
-        <translation>გთხოვთ, აირჩიოთ სწორი ობიექტები და განაახლოთ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="109" />
+        <location filename="../../Tools/setTextures.py" line="85"/>
+        <source>setTextures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Tools/setTextures.py" line="110"/>
         <source>refresh selection</source>
-        <translation>განაახლეთ არჩევანი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="117" />
+        <location filename="../../Tools/setTextures.py" line="118"/>
         <source>- set white color</source>
-        <translation>- დააყენეთ თეთრი ფერი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="121" />
-        <source>load saved</source>
-        <translation>დატვირთვა შენახულია</translation>
+        <location filename="../../Tools/setTextures.py" line="122"/>
+        <source>load from saved</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="124" />
+        <location filename="../../Tools/setTextures.py" line="125"/>
         <source>load from URL</source>
-        <translation>ჩატვირთვა URL-დან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="127" />
+        <location filename="../../Tools/setTextures.py" line="128"/>
         <source>load from local</source>
-        <translation>დატვირთვა ადგილობრივიდან</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="132" />
+        <location filename="../../Tools/setTextures.py" line="133"/>
         <source>set URL or full path to local file</source>
-        <translation>დააყენეთ URL ან სრული გზა ლოკალური ფაილისკენ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="144" />
+        <location filename="../../Tools/setTextures.py" line="145"/>
         <source>Live preview target:</source>
-        <translation>პირდაპირი გადახედვის მიზანი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="160" />
+        <location filename="../../Tools/setTextures.py" line="161"/>
         <source>Step:</source>
-        <translation>ნაბიჯი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="194" />
+        <location filename="../../Tools/setTextures.py" line="195"/>
         <source>Repeat X:</source>
-        <translation>გაიმეორეთ X:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="199" />
+        <location filename="../../Tools/setTextures.py" line="200"/>
         <source>Repeat Y:</source>
-        <translation>გაიმეორეთ Y:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="204" />
+        <location filename="../../Tools/setTextures.py" line="205"/>
         <source>Repeat Z:</source>
-        <translation>გაიმეორეთ Z:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="209" />
+        <location filename="../../Tools/setTextures.py" line="210"/>
         <source>Rotation X axis:</source>
-        <translation>როტაცია X ღერძი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="214" />
+        <location filename="../../Tools/setTextures.py" line="215"/>
         <source>Rotation Y axis:</source>
-        <translation>ბრუნვის Y ღერძი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="219" />
+        <location filename="../../Tools/setTextures.py" line="220"/>
         <source>Rotation Z axis:</source>
-        <translation>როტაცია Z ღერძი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="224" />
+        <location filename="../../Tools/setTextures.py" line="225"/>
         <source>Rotation angle (degrees):</source>
-        <translation>ბრუნვის კუთხე (გრადუსები):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="229" />
+        <location filename="../../Tools/setTextures.py" line="230"/>
         <source>preview custom attributes</source>
-        <translation>მორგებული ატრიბუტების გადახედვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="237" />
+        <location filename="../../Tools/setTextures.py" line="238"/>
         <source>save texture</source>
-        <translation>ტექსტურის შენახვა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="759" />
+        <location filename="../../Tools/setTextures.py" line="760"/>
         <source>Multi, </source>
-        <translation>მრავალჯერადი,</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="534" />
+        <location filename="../../Tools/setTextures.py" line="535"/>
         <source>Object Label</source>
-        <translation>ობიექტის ეტიკეტი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="536" />
+        <location filename="../../Tools/setTextures.py" line="537"/>
         <source>Broken URL</source>
-        <translation>გატეხილი URL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="541" />
+        <location filename="../../Tools/setTextures.py" line="542"/>
         <source>See console for broken URLs.</source>
-        <translation>იხილეთ კონსოლი გატეხილი URL-ებისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="766" />
+        <location filename="../../Tools/setTextures.py" line="767"/>
         <source>ALL OBJECTS, </source>
-        <translation>ყველა ობიექტი,</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="823" />
+        <location filename="../../Tools/setTextures.py" line="824"/>
         <source>setTextures: Error during refresh selection. Probably invalid object.</source>
-        <translation>setTextures: შეცდომა განახლების შერჩევისას. სავარაუდოდ არასწორი ობიექტია.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="862" />
+        <location filename="../../Tools/setTextures.py" line="863"/>
         <source>No textures URLs found.</source>
-        <translation>ტექსტურების URL-ები ვერ მოიძებნა.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="867" />
+        <location filename="../../Tools/setTextures.py" line="868"/>
         <source>All textures has been loaded.</source>
-        <translation>ყველა ტექსტურა ჩაიტვირთა.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="1104" />
+        <location filename="../../Tools/setTextures.py" line="1105"/>
         <source>setTextures: Skipped object: </source>
-        <translation>setTextures: გამოტოვებული ობიექტი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="1111" />
+        <location filename="../../Tools/setTextures.py" line="1112"/>
         <source>Texture properties has been stored.</source>
-        <translation>ტექსტურის თვისებები შენახულია.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/setTextures.py" line="1113" />
+        <location filename="../../Tools/setTextures.py" line="1114"/>
         <source>Error during setting properties.</source>
-        <translation>შეცდომა თვისებების დაყენებისას.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>sheet2export</name>
     <message>
-        <location filename="../../loadTools.py" line="2633" />
-        <source>sheet2export, to export cut-list</source>
-        <translation>sheet2export, cut-list-ის ექსპორტისთვის</translation>
+        <location filename="../../loadTools.py" line="2633"/>
+        <source>sheet2export, to export a cut-list</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2634" />
-        <source>Exports spreadsheet to chosen file format.</source>
-        <translation>ელცხრილის ექსპორტს ახდენს ფაილის არჩეულ ფორმატში.</translation>
+        <location filename="../../loadTools.py" line="2634"/>
+        <source>This tool allows you to export cut lists to many popular file formats.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="458" />
+        <location filename="../../Tools/sheet2export.py" line="459"/>
         <source>sheet2export</source>
-        <translation>sheet2export</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="167" />
+        <location filename="../../Tools/sheet2export.py" line="168"/>
         <source>Export type:</source>
-        <translation>ექსპორტის ტიპი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="389" />
+        <location filename="../../Tools/sheet2export.py" line="390"/>
         <source>all spreadsheets</source>
-        <translation>ყველა ცხრილი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="182" />
+        <location filename="../../Tools/sheet2export.py" line="183"/>
         <source>Export file path:</source>
-        <translation>ფაილის ექსპორტის გზა:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="195" />
+        <location filename="../../Tools/sheet2export.py" line="196"/>
         <source>Export file type:</source>
-        <translation>ფაილის ექსპორტის ტიპი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="204" />
+        <location filename="../../Tools/sheet2export.py" line="205"/>
         <source>HyperText Markup Language (.html file)</source>
-        <translation>ჰიპერტექსტის მარკირების ენა (.html ფაილი)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="210" />
+        <location filename="../../Tools/sheet2export.py" line="211"/>
         <source>Empty cell content:</source>
-        <translation>ცარიელი უჯრედის შინაარსი:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="219" />
+        <location filename="../../Tools/sheet2export.py" line="220"/>
         <source>Set CSV separator:</source>
-        <translation>CSV გამყოფის დაყენება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="229" />
+        <location filename="../../Tools/sheet2export.py" line="230"/>
         <source>Step 1. Border decoration:</source>
-        <translation>ნაბიჯი 1. საზღვრის გაფორმება:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="240" />
+        <location filename="../../Tools/sheet2export.py" line="241"/>
         <source>Step 2. Custom CSS rules for each cell (edit or add):</source>
-        <translation>ნაბიჯი 2. მორგებული CSS წესები თითოეული უჯრედისთვის (რედაქტირება ან დამატება):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="252" />
+        <location filename="../../Tools/sheet2export.py" line="253"/>
         <source>create</source>
-        <translation>შექმნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="345" />
+        <location filename="../../Tools/sheet2export.py" line="346"/>
         <source>Comma-separated values ( .csv file )</source>
-        <translation>მძიმით გამოყოფილი მნიშვნელობები ( .csv ფაილი )</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="355" />
+        <location filename="../../Tools/sheet2export.py" line="356"/>
         <source>HyperText Markup Language ( .html file )</source>
-        <translation>ჰიპერტექსტის მარკირების ენა ( .html ფაილი )</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="365" />
+        <location filename="../../Tools/sheet2export.py" line="366"/>
         <source>JavaScript Object Notation ( .json file )</source>
-        <translation>JavaScript ობიექტის აღნიშვნა ( .json ფაილი )</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="375" />
+        <location filename="../../Tools/sheet2export.py" line="376"/>
         <source>MarkDown ( .md file )</source>
-        <translation>MarkDown ( .md ფაილი )</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="392" />
+        <location filename="../../Tools/sheet2export.py" line="393"/>
         <source>selected spreadsheet only</source>
-        <translation>მხოლოდ შერჩეული ცხრილი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1086" />
+        <location filename="../../Tools/sheet2export.py" line="1087"/>
         <source>The spreadsheet</source>
-        <translation>ცხრილი</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1087" />
+        <location filename="../../Tools/sheet2export.py" line="1088"/>
         <source>has</source>
-        <translation>აქვს</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1088" />
-        <source>columns</source>
-        <translation>სვეტები</translation>
+        <location filename="../../Tools/sheet2export.py" line="1089"/>
+        <source>number of columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1089" />
-        <source>rows</source>
-        <translation>რიგები</translation>
+        <location filename="../../Tools/sheet2export.py" line="1090"/>
+        <source>number of rows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1091" />
+        <location filename="../../Tools/sheet2export.py" line="1092"/>
         <source>This may take several minutes to export file.</source>
-        <translation>ფაილის ექსპორტს შეიძლება რამდენიმე წუთი დასჭირდეს.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1093" />
+        <location filename="../../Tools/sheet2export.py" line="1094"/>
         <source>Would you like to wait (ok) or skip (cancel) the spreadsheet?</source>
-        <translation>გსურთ დაელოდოთ (კარგი) ან გამოტოვოთ (გაუქმება) ელცხრილი?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1319" />
+        <location filename="../../Tools/sheet2export.py" line="1320"/>
         <source>Exported files</source>
-        <translation>ექსპორტირებული ფაილები</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sheet2export.py" line="1288" />
+        <location filename="../../Tools/sheet2export.py" line="1289"/>
         <source>Please select spreadsheet to export.</source>
-        <translation>გთხოვთ, აირჩიოთ ელცხრილი ექსპორტისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>shelvesEqual</name>
     <message>
-        <location filename="../../loadTools.py" line="1970" />
+        <location filename="../../loadTools.py" line="1970"/>
         <source>shelvesEqual, make equal space between shelves</source>
-        <translation>shelvesEqual, გააკეთეთ თანაბარი სივრცე თაროებს შორის</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1971" />
+        <location filename="../../loadTools.py" line="1971"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/shelvesEqual.py" line="53" />
+        <location filename="../../Tools/shelvesEqual.py" line="54"/>
         <source>To set equal space between shelves please select: &lt;br&gt;&lt;br&gt;1. selection: &lt;b&gt;X axis edge&lt;/b&gt;&lt;br&gt;2. selection: &lt;b&gt;X axis edge&lt;/b&gt;&lt;br&gt;3. selection: &lt;b&gt;shelves to set equal space&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to set equal space for selected shelves. It works only at Z axis. To select more objects hold left CTRL key during selection.</source>
-        <translation>თაროებს შორის თანაბარი სივრცის დასაყენებლად აირჩიეთ: &lt;br&gt;&lt;br&gt;1. შერჩევა: &lt;b&gt;X ღერძის კიდე&lt;/b&gt;&lt;br&gt;2. შერჩევა: &lt;b&gt;X ღერძის კიდე&lt;/b&gt;&lt;br&gt;3. შერჩევა: &lt;b&gt;თაროები თანაბარი სივრცის დასაყენებლად&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ დააყენოთ თანაბარი სივრცე შერჩეული თაროებისთვის. მუშაობს მხოლოდ Z ღერძზე. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showAlias</name>
     <message>
-        <location filename="../../loadTools.py" line="3647" />
+        <location filename="../../loadTools.py" line="3647"/>
         <source>showAlias, to show objects with alias</source>
-        <translation>showAlias, ობიექტების ჩვენება მეტსახელით</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3648" />
+        <location filename="../../loadTools.py" line="3648"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showAlias.py" line="56" />
+        <location filename="../../Tools/showAlias.py" line="57"/>
         <source>&lt;b&gt;The preview mode has been deactivated. You can turn it on again at any time. &lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;გადახედვის რეჟიმი გამორთულია. ნებისმიერ დროს შეგიძლიათ ხელახლა ჩართოთ. &lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showAlias.py" line="67" />
+        <location filename="../../Tools/showAlias.py" line="68"/>
         <source>&lt;b&gt;The preview mode has been activated. Select spreadsheet cell with alias to see objects. &lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;გადახედვის რეჟიმი გააქტიურებულია. ობიექტების სანახავად აირჩიეთ ელცხრილის უჯრედი მეტსახელით. &lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showAlias.py" line="79" />
+        <location filename="../../Tools/showAlias.py" line="80"/>
         <source>&lt;b&gt;To see all objects with alias: &lt;ol&gt;&lt;li&gt;First select spreadsheet at objects Tree.&lt;/li&gt;&lt;li&gt;Click this tool icon to activate the preview mode.&lt;/li&gt;&lt;li&gt;Click any spreadsheet cell with alias.&lt;/li&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool needs to be activated to work. To activate this tool you have to select spreadsheet at objects Tree and click this tool icon. If this tool will be activated you can select any cell with alias to see all objects selected. The selected objects at 3D model will be those that uses the selected alias. Also the objects will be selected at objects Tree. To finish the preview mode, click the tool icon without any selection.</source>
-        <translation>&lt;b&gt;ყველა ობიექტის სანახავად, რომელსაც აქვს მეტსახელი: &lt;ol&gt;&lt;li&gt;პირველ რიგში აირჩიეთ ელცხრილი ობიექტების ხეზე.&lt;/li&gt;&lt;li&gt;დააწკაპუნეთ ამ ხელსაწყოს ხატულაზე წინასწარი გადახედვის რეჟიმის გასააქტიურებლად.&lt;/li&gt;&lt;li&gt;დააწკაპუნეთ ელცხრილის ნებისმიერ უჯრედზე მეტსახელით.&lt;/li&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი უნდა გააქტიურდეს. ამ ხელსაწყოს გასააქტიურებლად თქვენ უნდა აირჩიოთ ცხრილი ობიექტების ხეზე და დააწკაპუნოთ ამ ხელსაწყოს ხატულაზე. თუ ეს ხელსაწყო გააქტიურდება, შეგიძლიათ აირჩიოთ ნებისმიერი უჯრედი მეტსახელით, რომ ნახოთ ყველა არჩეული ობიექტი. არჩეული ობიექტები 3D მოდელში იქნება ის ობიექტები, რომლებიც გამოიყენებენ არჩეულ მეტსახელებს. ასევე ობიექტები შეირჩევა ობიექტების ხეზე. გადახედვის რეჟიმის დასასრულებლად დააწკაპუნეთ ხელსაწყოს ხატულაზე ყოველგვარი შერჩევის გარეშე.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showConstraints</name>
     <message>
-        <location filename="../../loadTools.py" line="5246" />
-        <source>showConstraints, select edges equal to constraints</source>
-        <translation>showConstraints, აირჩიეთ შეზღუდვების ტოლი კიდეები</translation>
+        <location filename="../../loadTools.py" line="5246"/>
+        <source>showConstraints, to select edges equal to constraints</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5247" />
+        <location filename="../../loadTools.py" line="5247"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showConstraints.py" line="41" />
+        <location filename="../../Tools/showConstraints.py" line="42"/>
         <source>&lt;b&gt;Please select objects to see edges with the same size as defined constraints. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool search all constraints for selected objects. If the constraints is non-zero this tool search for all edges with the same size. It allows for quick preview if all the edges are defined by the Sketch. However, in some cases, if the constraints is offset and it is equal edge size this will give false result. To select more objects hold left CTRL key during selection. </source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ ობიექტები, რომ ნახოთ კიდეები იმავე ზომის, როგორც განსაზღვრული შეზღუდვები. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი ეძებს ყველა შეზღუდვას შერჩეული ობიექტებისთვის. თუ შეზღუდვები არ არის ნულოვანი, ეს ინსტრუმენტი ეძებს ყველა კიდეს ერთი და იგივე ზომის. ის იძლევა სწრაფი გადახედვის საშუალებას, თუ ყველა კიდე განსაზღვრულია Sketch-ით. თუმცა, ზოგიერთ შემთხვევაში, თუ შეზღუდვები ოფსეტურია და ტოლი ზომაა, ეს მისცემს ცრუ შედეგს. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showInfoAll</name>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8328" />
+        <location filename="../../Tools/MagicPanels.py" line="8330"/>
         <source>Golden rules:</source>
-        <translation>ოქროს წესები:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8332" />
+        <location filename="../../Tools/MagicPanels.py" line="8334"/>
         <source>Not rotate objects directly, rotate them via LinkGroup container.</source>
-        <translation>არ მოატრიალოთ ობიექტები პირდაპირ, შეატრიალეთ ისინი LinkGroup კონტეინერის საშუალებით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8335" />
+        <location filename="../../Tools/MagicPanels.py" line="8337"/>
         <source>Not copy Pad directly. Copy, Clone or Link the Part container.</source>
-        <translation>არ დააკოპიროთ Pad პირდაპირ. დააკოპირეთ, კლონირება ან დააკავშირეთ ნაწილის კონტეინერი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8338" />
+        <location filename="../../Tools/MagicPanels.py" line="8340"/>
         <source>Not mix Cut with PartDesign too much. Keep clear and simple design line based on simple panels.</source>
-        <translation>ზედმეტად არ აურიოთ Cut PartDesign-თან. შეინარჩუნეთ მკაფიო და მარტივი დიზაინის ხაზი მარტივი პანელების საფუძველზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8341" />
+        <location filename="../../Tools/MagicPanels.py" line="8343"/>
         <source>If you want generate cut-list, BOM, dimensions, rather avoid packing objects extremely, for example Array on Array or MultiTransform on MultiTransform.</source>
-        <translation>თუ გსურთ შექმნათ cut-list, BOM, ზომები, მოერიდეთ ობიექტების უკიდურესად შეფუთვას, მაგალითად Array on Array ან MultiTransform MultiTransform-ზე.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8344" />
+        <location filename="../../Tools/MagicPanels.py" line="8346"/>
         <source>Not move objects via AttachmentOffset, move them via Body or LinkGroup container.</source>
-        <translation>არ გადაიტანოთ ობიექტები AttachmentOffset-ით, გადაიტანეთ ისინი Body ან LinkGroup კონტეინერის მეშვეობით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8347" />
+        <location filename="../../Tools/MagicPanels.py" line="8349"/>
         <source>Design furniture from simple panels (Part::Box objects). If you want more detailed model convert desired simple panel into Pad and edit the Sketch. Also for irregular or not rectangle shapes.</source>
-        <translation>ავეჯის დიზაინი მარტივი პანელებისგან (ნაწილი::ყუთის ობიექტები). თუ გსურთ უფრო დეტალური მოდელი, გადააკეთეთ სასურველი მარტივი პანელი Pad-ად და დაარედაქტირეთ ესკიზი. ასევე არარეგულარული ან არამართკუთხედის ფორმებისთვის.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8350" />
+        <location filename="../../Tools/MagicPanels.py" line="8352"/>
         <source>Always make backup of your project. Read documentation, watch videos, learn more or open issue.</source>
-        <translation>ყოველთვის გააკეთეთ თქვენი პროექტის სარეზერვო ასლი. წაიკითხეთ დოკუმენტაცია, უყურეთ ვიდეოებს, შეიტყვეთ მეტი ან გახსენით საკითხი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8353" />
+        <location filename="../../Tools/MagicPanels.py" line="8355"/>
         <source>Break all rules, if you know what you are doing.</source>
-        <translation>დაარღვიე ყველა წესი, თუ იცი რას აკეთებ.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8360" />
+        <location filename="../../Tools/MagicPanels.py" line="8362"/>
         <source>For more details see:</source>
-        <translation>დამატებითი დეტალებისთვის იხილეთ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="8362" />
+        <location filename="../../Tools/MagicPanels.py" line="8364"/>
         <source>Woodworking workbench documentation</source>
-        <translation>ხის სამუშაო მაგიდის დოკუმენტაცია</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showMeasure</name>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4794" />
+        <location filename="../../Tools/MagicPanels.py" line="4806"/>
         <source>Measure</source>
-        <translation>გაზომე</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4959" />
+        <location filename="../../Tools/MagicPanels.py" line="4971"/>
         <source>Allows to skip measurement at BOM, cut-list report.</source>
-        <translation>საშუალებას გაძლევთ გამოტოვოთ გაზომვები BOM-ზე, მოჭრილი სიის ანგარიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4965" />
+        <location filename="../../Tools/MagicPanels.py" line="4977"/>
         <source>Measurement object type.</source>
-        <translation>საზომი ობიექტის ტიპი.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4971" />
+        <location filename="../../Tools/MagicPanels.py" line="4983"/>
         <source>Reference for selection 1.</source>
-        <translation>მითითება შერჩევისთვის 1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4977" />
+        <location filename="../../Tools/MagicPanels.py" line="4989"/>
         <source>Reference for selection 2.</source>
-        <translation>მითითება შერჩევისთვის 2.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showMeasurements</name>
     <message>
-        <location filename="../../loadTools.py" line="2672" />
-        <source>showMeasurements, shows edges dimensions for all objects</source>
-        <translation>showMeasurements, აჩვენებს კიდეების ზომებს ყველა ობიექტისთვის</translation>
+        <location filename="../../loadTools.py" line="2672"/>
+        <source>showMeasurements, to show the dimensions of all edges</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2673" />
+        <location filename="../../loadTools.py" line="2673"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/MagicPanels.py" line="4983" />
+        <location filename="../../Tools/MagicPanels.py" line="4995"/>
         <source>Allows to remove this measurement via script.</source>
-        <translation>საშუალებას აძლევს ამ გაზომვის წაშლას სკრიპტის საშუალებით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showMeasurements.py" line="73" />
-        <source>&lt;b&gt;Please create at least one object to show measurements.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to quickly create or remove measurements for all simple objects. The objects that will be dimensioned are Part::Box and PartDesign::Pad. For each such object, the list of edges will be searched and all linear edges of various dimensions will be described with a measurement. The text size depends on the distance, so small dimensions like 18 mm thick may not be visible from a distance. This tool is a typical "quick shot" that allows you to quickly enable or disable measurements for objects. Because there are so many dimensions, it should be used primarily with magicView and primarily for X, Y, Z, or explode views. For each such measurement object there is special attribute named "Remove" set by default to True. So if you click the icon again such measurement will be removed. If you want to keep such measurement, just set this "Remove" attribute to False. Also the measurements created via this tool are parametric. So you can change views in magicView and the measurements will follow the changes.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმნათ მინიმუმ ერთი ობიექტი გაზომვების საჩვენებლად.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ სწრაფად შექმნათ ან წაშალოთ გაზომვები ყველა მარტივი ობიექტისთვის. ობიექტები, რომლებიც განზომილდება არის Part:: Box და PartDesign:: Pad. თითოეული ასეთი ობიექტისთვის მოძებნილი იქნება კიდეების სია და სხვადასხვა განზომილების ყველა წრფივი კიდე აღწერილი იქნება გაზომვით. ტექსტის ზომა დამოკიდებულია მანძილზე, ამიტომ მცირე ზომები, როგორიცაა 18 მმ სისქე, შეიძლება არ იყოს ხილული შორიდან. ეს ინსტრუმენტი არის ტიპიური "სწრაფი გასროლა", რომელიც საშუალებას გაძლევთ სწრაფად ჩართოთ ან გამორთოთ ობიექტების გაზომვები. იმის გამო, რომ ამდენი განზომილებაა, ის ძირითადად უნდა იქნას გამოყენებული magicView-ით და ძირითადად X, Y, Z ან აფეთქებული ხედებისთვის. თითოეული ასეთი საზომი ობიექტისთვის არის სპეციალური ატრიბუტი სახელწოდებით "Remove" დაყენებული ნაგულისხმევად True. ასე რომ, თუ კვლავ დააწკაპუნებთ ხატულაზე, ასეთი გაზომვა წაიშლება. თუ გსურთ ასეთი გაზომვის შენარჩუნება, უბრალოდ დააყენეთ ეს ატრიბუტი "წაშლა" False-ზე. ასევე ამ ხელსაწყოს მეშვეობით შექმნილი გაზომვები პარამეტრულია. ასე რომ, თქვენ შეგიძლიათ შეცვალოთ ხედები magicView-ში და გაზომვები მოჰყვება ცვლილებებს.</translation>
+        <location filename="../../Tools/showMeasurements.py" line="74"/>
+        <source>&lt;b&gt;Please create at least one object to show measurements.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to quickly create or remove measurements for all simple objects. The objects that will be dimensioned are Part::Box and PartDesign::Pad. For each such object, the list of edges will be searched and all linear edges of various dimensions will be described with a measurement. The text size depends on the distance, so small dimensions like 18 mm thick may not be visible from a distance. This tool is a typical &quot;quick shot&quot; that allows you to quickly enable or disable measurements for objects. Because there are so many dimensions, it should be used primarily with magicView and primarily for X, Y, Z, or explode views. For each such measurement object there is special attribute named &quot;Remove&quot; set by default to True. So if you click the icon again such measurement will be removed. If you want to keep such measurement, just set this &quot;Remove&quot; attribute to False. Also the measurements created via this tool are parametric. So you can change views in magicView and the measurements will follow the changes.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showOccupiedSpace</name>
     <message>
-        <location filename="../../loadTools.py" line="5207" />
-        <source>showOccupiedSpace, show occupied space</source>
-        <translation>showOccupiedSpace, აჩვენე დაკავებული სივრცე</translation>
+        <location filename="../../loadTools.py" line="5207"/>
+        <source>showOccupiedSpace, to show occupied space</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5208" />
+        <location filename="../../loadTools.py" line="5208"/>
         <source>This tool allows you to calculate the overall occupied space in 3D by the selected parts or whole model, if nothing is selected.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ გამოთვალოთ მთლიანი დაკავებული სივრცე 3D-ში შერჩეული ნაწილების ან მთლიანი მოდელის მიხედვით, თუ არაფერი არ არის არჩეული.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="82" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="83"/>
         <source>Occupied space along X axis</source>
-        <translation>ოკუპირებული სივრცე X ღერძის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="85" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="86"/>
         <source>Occupied space along Y axis</source>
-        <translation>დაკავებული სივრცე Y ღერძის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="88" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="89"/>
         <source>Occupied space along Z axis</source>
-        <translation>დაკავებული სივრცე Z ღერძის გასწვრივ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="93" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="94"/>
         <source>Note</source>
-        <translation>შენიშვნა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="95" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="96"/>
         <source>They are not dimensions taken from selected objects, they are occupied space in 3D by the selected objects. The values are calculated from raw vertex. You have to be careful because the dimensions are rounded and given in raw form.</source>
-        <translation>ისინი არ არის შერჩეული ობიექტებიდან აღებული ზომები, ისინი 3D სივრცეში არიან დაკავებული არჩეული ობიექტების მიერ. მნიშვნელობები გამოითვლება ნედლი წვეროდან. ფრთხილად უნდა იყოთ, რადგან ზომები მომრგვალებულია და მოცემულია ნედლი სახით.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="97" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="98"/>
         <source>You can see the difference for all rotated elements. For rotated Cube elements the occupied space in 3D will not be the same as dimensions.</source>
-        <translation>თქვენ ხედავთ განსხვავებას ყველა მობრუნებული ელემენტისთვის. მბრუნავი Cube ელემენტებისთვის, დაკავებული სივრცე 3D-ში არ იქნება იგივე, რაც ზომები.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="98" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="99"/>
         <source>However, this approach might be very useful at furniture designing process. For example you can see how much space in your room will take opened front of the furniture. Normally, all the Pad or Cube elements, should be created according to the XYZ plane, so there will be no difference between the real dimensions and occupied space in 3D.</source>
-        <translation>თუმცა, ეს მიდგომა შეიძლება ძალიან სასარგებლო იყოს ავეჯის დიზაინის პროცესში. მაგალითად, თქვენ ხედავთ, რამდენ ადგილს დაიკავებს თქვენს ოთახში ავეჯის გახსნილი წინ. ჩვეულებრივ, ყველა Pad ან Cube ელემენტი უნდა შეიქმნას XYZ სიბრტყის მიხედვით, ასე რომ არ იქნება განსხვავება რეალურ ზომებსა და დაკავებულ სივრცეს შორის 3D-ში.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="101" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="102"/>
         <source>showOccupiedSpace</source>
-        <translation>showOccupiedSpace</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showOccupiedSpace.py" line="141" />
+        <location filename="../../Tools/showOccupiedSpace.py" line="142"/>
         <source>&lt;b&gt;Please create document and objects to see occupied space by all elements or select objects to see occupied space only by selected objects. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to calculate the overall occupied space in 3D by the selected parts or whole model, if nothing is selected. This approach might be very useful at furniture designing process. For example you can see how much space in your room will take opened front of the furniture or how much space take selected parts of the furniture. Normally, all the `Pad` or `Cube` elements, should be created according to the `XYZ` plane, so there will be no difference between the real dimensions and occupied space in 3D. To select more objects hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმენით დოკუმენტი და ობიექტები ყველა ელემენტის მიერ დაკავებული სივრცის სანახავად, ან აირჩიეთ ობიექტები, რომ ნახოთ დაკავებული სივრცე მხოლოდ შერჩეული ობიექტების მიერ. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ გამოთვალოთ მთლიანი დაკავებული სივრცე 3D-ში არჩეული ნაწილების ან მთლიანი მოდელის მიხედვით, თუ არაფერი არ არის არჩეული. ეს მიდგომა შეიძლება ძალიან სასარგებლო იყოს ავეჯის დიზაინის პროცესში. მაგალითად, თქვენ ხედავთ, რამდენ ადგილს დაიკავებს თქვენს ოთახში ავეჯის ღია წინა ნაწილი ან რამდენი ადგილი დაიკავებს ავეჯის შერჩეულ ნაწილებს. ჩვეულებრივ, ყველა `pad` ან `cube` ელემენტი უნდა შეიქმნას `XYZ` სიბრტყის მიხედვით, ასე რომ არ იქნება განსხვავება რეალურ ზომებსა და დაკავებულ სივრცეს შორის 3D-ში. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showPlacement</name>
     <message>
-        <location filename="../../loadTools.py" line="5324" />
-        <source>showPlacement, for development</source>
-        <translation>showPlacement, განვითარებისთვის</translation>
+        <location filename="../../loadTools.py" line="5324"/>
+        <source>showPlacement, for development purposes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="5325" />
-        <source>Allows to see objects anchor placement for selected objects or for all objects, if nothing was selected. Also allows for quick global placement function debugging and further improvements.</source>
-        <translation>საშუალებას აძლევს დაინახოს ობიექტების ანკერის განლაგება შერჩეული ობიექტებისთვის ან ყველა ობიექტისთვის, თუ არაფერი არ არის არჩეული. ასევე იძლევა სწრაფი გლობალური განთავსების ფუნქციის გამართვისა და შემდგომი გაუმჯობესების საშუალებას.</translation>
+        <location filename="../../loadTools.py" line="5325"/>
+        <source>This tool allows you to see objects anchor placement for selected objects or for all objects, if nothing was selected. Also allows for quick global placement function debugging and further improvements.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showPlacement.py" line="64" />
+        <location filename="../../Tools/showPlacement.py" line="65"/>
         <source>&lt;b&gt;Please create document and objects to see objects anchor placement. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to see objects anchor placement for selected objects or for all objects, if nothing was selected. To select more objects hold left CTRL key during selection. This tool creates a ball in the default anchor for an object, which corresponds to the X, Y, Z coordinates for the Placement attribute. This allows you to quickly see where the object is anchored and to which vertex it is positioned by default. Additionally, it allows you to quickly check for possible problems with the function of calculating the global position of the object and to further improve it for more complex objects. Unfortunately, FreeCAD has not solved the basic problem with object position for so many years, which means that more complex objects do not know their position and cannot be managed.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმენით დოკუმენტი და ობიექტები, რომ ნახოთ ობიექტების წამყვანების განლაგება. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ ნახოთ ობიექტების ანკერების განლაგება არჩეული ობიექტებისთვის ან ყველა ობიექტისთვის, თუ არაფერი არ იყო არჩეული. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ეს ხელსაწყო ქმნის ბურთულას ობიექტის ნაგულისხმევ სამაგრში, რომელიც შეესაბამება X, Y, Z კოორდინატებს Placement ატრიბუტისთვის. ეს საშუალებას გაძლევთ სწრაფად დაინახოთ სად არის მიმაგრებული ობიექტი და რომელ წვეროზეა ის განლაგებული ნაგულისხმევად. გარდა ამისა, ის საშუალებას გაძლევთ სწრაფად შეამოწმოთ შესაძლო პრობლემები ობიექტის გლობალური პოზიციის გამოთვლის ფუნქციასთან და შემდგომ გააუმჯობესოთ იგი უფრო რთული ობიექტებისთვის. სამწუხაროდ, FreeCAD-მა ამდენი წლის განმავლობაში ვერ გადაჭრა ობიექტის პოზიციის ძირითადი პრობლემა, რაც ნიშნავს, რომ უფრო რთულმა ობიექტებმა არ იციან თავიანთი პოზიცია და მათი მართვა შეუძლებელია.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>showVertex</name>
     <message>
-        <location filename="../../loadTools.py" line="1775" />
+        <location filename="../../loadTools.py" line="1775"/>
         <source>showVertex, makes vertices more visible</source>
-        <translation>showVertex, ხდის წვეროებს უფრო ხილულს</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1776" />
+        <location filename="../../loadTools.py" line="1776"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/showVertex.py" line="65" />
+        <location filename="../../Tools/showVertex.py" line="66"/>
         <source>&lt;b&gt;Please create object to resize vertices for easier selection. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to resize all vertices for selected objects or for all objects if there is no selected objects. Resized vertices are easier to select. This tool also change vertices color to red for better visibility. If the object have already resized or red vertices it will be changed back to normal. So, you can keep the model good looking with small vertices and if you have problem with vertices selection, you can quickly resize vertices for selection purposes only and back to normal later.</source>
-        <translation>&lt;b&gt;გთხოვთ, შექმენით ობიექტი წვეროების ზომის შესაცვლელად, უფრო ადვილი შერჩევისთვის. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო გაძლევთ საშუალებას შეცვალოთ ყველა წვეროების ზომა შერჩეული ობიექტებისთვის ან ყველა ობიექტისთვის, თუ არ არის არჩეული ობიექტები. ზომის შეცვლადი წვეროების შერჩევა უფრო ადვილია. ეს ინსტრუმენტი ასევე ცვლის წვეროების ფერს წითლად უკეთესი ხილვადობისთვის. თუ ობიექტს უკვე აქვს ზომა ან წითელი წვეროები, ის ნორმალურად შეიცვლება. ასე რომ, თქვენ შეგიძლიათ შეინარჩუნოთ მოდელი ლამაზად მცირე წვეროებით და თუ წვეროების შერჩევის პრობლემა გაქვთ, შეგიძლიათ სწრაფად შეცვალოთ წვეროების ზომა მხოლოდ შერჩევის მიზნებისთვის და მოგვიანებით დაუბრუნდეთ ნორმალურ მდგომარეობას.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>sketch2clone</name>
     <message>
-        <location filename="../../loadTools.py" line="3608" />
+        <location filename="../../loadTools.py" line="3608"/>
         <source>sketch2clone, to convert sketches to clones</source>
-        <translation>sketch2clone, ესკიზების კლონებად გადაქცევა</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="3609" />
+        <location filename="../../loadTools.py" line="3609"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sketch2clone.py" line="58" />
-        <source>&lt;b&gt;Please select valid sketches to make parametric model. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace selected Sketches with Clones and thanks to it, convert static model to parametric. First selected Sketch will be changed into "Parametric Pattern" for all other selected Sketches. After this operation, if you change the "Parametric Pattern" all other Sketches will be automatically updated with new pattern. For example if you have Pad, it will change the shape. Make sure the center of coordinate axes XYZ for each selected Sketch is in the middle of the pattern, this will allow for correct positioning of the Sketches. To select more objects hold left CTRL key during selection. For more complicated objects use panel2link or panel2clone at the whole Part. </source>
-        <translation>&lt;b&gt;გთხოვთ აირჩიოთ სწორი ჩანახატები პარამეტრული მოდელის შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შეცვალოთ არჩეული სკეტჩები კლონებით და მისი წყალობით გადაიყვანოთ სტატიკური მოდელი პარამეტრულად. პირველი შერჩეული ესკიზი შეიცვლება "პარამეტრულ ნიმუშად" ყველა სხვა არჩეული ესკიზისთვის. ამ ოპერაციის შემდეგ, თუ შეცვლით "პარამეტრულ შაბლონს", ყველა სხვა ესკიზი ავტომატურად განახლდება ახალი ნიმუშით. მაგალითად, თუ თქვენ გაქვთ Pad, ის შეცვლის ფორმას. დარწმუნდით, რომ XYZ საკოორდინატო ღერძების ცენტრი თითოეული არჩეული ესკიზისთვის არის ნიმუშის შუაში, ეს საშუალებას მისცემს ჩანახატების სწორად განლაგებას. მეტი ობიექტის შესარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. უფრო რთული ობიექტებისთვის გამოიყენეთ panel2link ან panel2clone მთლიან ნაწილში.</translation>
+        <location filename="../../Tools/sketch2clone.py" line="59"/>
+        <source>&lt;b&gt;Please select valid sketches to make parametric model. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows to replace selected Sketches with Clones and thanks to it, convert static model to parametric. First selected Sketch will be changed into &quot;Parametric Pattern&quot; for all other selected Sketches. After this operation, if you change the &quot;Parametric Pattern&quot; all other Sketches will be automatically updated with new pattern. For example if you have Pad, it will change the shape. Make sure the center of coordinate axes XYZ for each selected Sketch is in the middle of the pattern, this will allow for correct positioning of the Sketches. To select more objects hold left CTRL key during selection. For more complicated objects use panel2link or panel2clone at the whole Part. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>sketch2dowel</name>
     <message>
-        <location filename="../../loadTools.py" line="2867" />
-        <source>sketch2dowel, dowel from sketch hole and face</source>
-        <translation>sketch2dowel, dowel საწყისი ესკიზის ხვრელი და სახე</translation>
+        <location filename="../../loadTools.py" line="2867"/>
+        <source>sketch2dowel, to create dowel from sketch hole and surface</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="2868" />
+        <location filename="../../loadTools.py" line="2868"/>
         <source>Click to see info.</source>
-        <translation>დააწკაპუნეთ ინფორმაციის სანახავად.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sketch2dowel.py" line="84" />
+        <location filename="../../Tools/sketch2dowel.py" line="85"/>
         <source>&lt;b&gt;Please first select face, next Sketches of the holes to create dowels. &lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;Note:&lt;/b&gt; This tool allows to create dowel from Sketch of the hole. The first selected face refers to the side the dowel will be raised, exact orientation for the dowel. Dowel position will be get from the Sketch. The dowel Radius and Height will be get from hole object. If the hole is throughAll the dowel height will be very big, so make sure you use dimensions for hole. To select more Sketches hold left CTRL key during selection.</source>
-        <translation>&lt;b&gt;გთხოვთ, ჯერ აირჩიეთ სახე, შემდეგ ხვრელების ესკიზები დუბლების შესაქმნელად. &lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ხელსაწყო იძლევა ხვრელის Sketch-დან დუელის შექმნის საშუალებას. პირველი შერჩეული სახე ეხება დუბლის აწეულ მხარეს, დუბლის ზუსტ ორიენტაციას. დოველის პოზიცია მიღებული იქნება ესკიზიდან. დოველის რადიუსი და სიმაღლე მიიღება ხვრელის ობიექტიდან. თუ ხვრელი გადის ყველა დუბლის სიმაღლე ძალიან დიდი იქნება, ამიტომ დარწმუნდით, რომ იყენებთ ხვრელების ზომებს. მეტი სკეტჩების ასარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>sketch2pad</name>
     <message>
-        <location filename="../../loadTools.py" line="1658" />
-        <source>sketch2pad, to create pads from selected sketches</source>
-        <translation>sketch2pad, შერჩეული ესკიზებიდან ბალიშების შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1658"/>
+        <source>sketch2pad, to create objects from selected sketches</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1659" />
-        <source>This tool allows you to create pads from selected sketches quickly with single click with predefined settings.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ სწრაფად შექმნათ ბალიშები არჩეული ესკიზებიდან ერთი დაწკაპუნებით წინასწარ განსაზღვრული პარამეტრებით.</translation>
+        <location filename="../../loadTools.py" line="1659"/>
+        <source>This tool allows you to quickly create objects from selected sketches with one click, applying predefined settings.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sketch2pad.py" line="16" />
+        <location filename="../../Tools/sketch2pad.py" line="17"/>
         <source>sketch2pad </source>
-        <translation>sketch2pad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/sketch2pad.py" line="30" />
+        <location filename="../../Tools/sketch2pad.py" line="31"/>
         <source>&lt;b&gt;Please select at least one Sketch to create a Pad.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to create Pad object from selected Sketch. A Pad with the default size of MagicPanels.gWoodThickness and color from magicSettings tool will be created for each selected Sketch. To change the default wood size or color use magicSettings tool or change the Pad attributes directly. To select more Sketches hold left CTRL key during selection. This tool has been created to quickly create Pad object from Sketch created via addExternal tool to create irregular panels very quickly.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ მინიმუმ ერთი ესკიზი პადის შესაქმნელად.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ Pad ობიექტი არჩეული ესკიზისგან. თითოეული არჩეული ჩანახატისთვის შეიქმნება ბალიშის ნაგულისხმევი ზომა MagicPanels.gWoodThickness და ფერი magicSettings ინსტრუმენტიდან. ხის ნაგულისხმევი ზომის ან ფერის შესაცვლელად გამოიყენეთ magicSettings ინსტრუმენტი ან შეცვალეთ Pad ატრიბუტები პირდაპირ. მეტი სკეტჩების ასარჩევად, შერჩევისას გეჭიროთ მარცხენა CTRL კლავიში. ეს ინსტრუმენტი შეიქმნა იმისათვის, რომ სწრაფად შექმნას Pad ობიექტი Sketch-დან, რომელიც შექმნილია addExternal ინსტრუმენტის მეშვეობით, რათა შეიქმნას არარეგულარული პანელები ძალიან სწრაფად.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wires2pad</name>
     <message>
-        <location filename="../../loadTools.py" line="1697" />
-        <source>wires2pad, to create panels from wires in Sketch</source>
-        <translation>wires2pad, Sketch-ში მავთულისგან პანელების შესაქმნელად</translation>
+        <location filename="../../loadTools.py" line="1697"/>
+        <source>wires2pad, to create panels from closed edges in sketch</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../loadTools.py" line="1698" />
-        <source>This tool allows you to create Pad from each wire in selected Sketches.</source>
-        <translation>ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ Pad თითოეული მავთულიდან არჩეულ ესკიზებში.</translation>
+        <location filename="../../loadTools.py" line="1698"/>
+        <source>This tool allows you to create objects from each closed edge based on selected sketches.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/wires2pad.py" line="18" />
+        <location filename="../../Tools/wires2pad.py" line="19"/>
         <source>Part, wire2pad </source>
-        <translation>ნაწილი, wire2pad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/wires2pad.py" line="20" />
+        <location filename="../../Tools/wires2pad.py" line="21"/>
         <source>Body, wire2pad </source>
-        <translation>კორპუსი, wire2pad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/wires2pad.py" line="24" />
+        <location filename="../../Tools/wires2pad.py" line="25"/>
         <source>Pattern, wire2pad </source>
-        <translation>ნიმუში, wire2pad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/wires2pad.py" line="32" />
+        <location filename="../../Tools/wires2pad.py" line="33"/>
         <source>wire2pad </source>
-        <translation>wire2pad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Tools/wires2pad.py" line="46" />
-        <source>&lt;b&gt;Please select at least one Sketch to create a Pad from wires.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to create panels from wires in Sketch. A Pad with the default size of MagicPanels.gWoodThickness will be created for each wire. To change the default wood size use magicSettings tool or change the Pad.Length option. Also you can use the  the Panel from vertices option in the magicManager tool, selecting the appropriate edges. To create separate Pads from one Sketch, wires must not touch each other. If the Sketch is placed in containers, for example Part or LinkGroup with set offsets, you need to adjust the panel position, for example using the panelMove2Anchor tool, selecting two edges. You can also consider creating panels from the Sketch in the root directory, see the addExternal tool.</source>
-        <translation>&lt;b&gt;გთხოვთ, აირჩიოთ მინიმუმ ერთი ესკიზი, რათა შექმნათ Pad სადენებიდან.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;შენიშვნა:&lt;/b&gt; ეს ინსტრუმენტი საშუალებას გაძლევთ შექმნათ პანელები სადენებიდან Sketch-ში. თითოეული მავთულისთვის შეიქმნება MagicPanels.gWoodThickness ნაგულისხმევი ზომა. ხის ნაგულისხმევი ზომის შესაცვლელად გამოიყენეთ magicSettings ინსტრუმენტი ან შეცვალეთ Pad.Length ვარიანტი. ასევე შეგიძლიათ გამოიყენოთ Panel from vertices ოფცია magicManager ინსტრუმენტში, შეარჩიოთ შესაბამისი კიდეები. ერთი ესკიზისგან ცალკეული ბალიშების შესაქმნელად, მავთულები არ უნდა ეხებოდეს ერთმანეთს. თუ Sketch მოთავსებულია კონტეინერებში, მაგალითად Part ან LinkGroup კომპლექტი ოფსეტებით, თქვენ უნდა დაარეგულიროთ პანელის პოზიცია, მაგალითად panelMove2Anchor ინსტრუმენტის გამოყენებით, აირჩიოთ ორი კიდე. თქვენ ასევე შეგიძლიათ განიხილოთ პანელების შექმნა Sketch-დან root დირექტორიაში, იხილეთ addExternal ინსტრუმენტი.</translation>
+        <location filename="../../Tools/wires2pad.py" line="47"/>
+        <source>&lt;b&gt;Please select at least one Sketch to create a Pad from closed edges.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This tool allows you to create panels from closed edges in Sketch. A Pad with the default size of MagicPanels.gWoodThickness will be created for each closed edge. To change the default wood size use magicSettings tool or change the Pad.Length option. Also you can use the  the Panel from vertices option in the magicManager tool, selecting the appropriate edges. To create separate Pads from one Sketch, closed edges must not touch each other. If the Sketch is placed in containers, for example Part or LinkGroup with offsets, you need to adjust the panel position, for example using the panelMove2Anchor tool, selecting two edges. You can also consider creating panels from the Sketch in the root directory, see the addExternal tool.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
